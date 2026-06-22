@@ -14,15 +14,15 @@
   ],
 
   "villes": [
-    { "nom": "Paris", "codeInsee": "75056", "rayonKm": 30 },
-    { "nom": "Lyon", "codeInsee": "69123", "rayonKm": 30 },
-    { "nom": "Nantes", "codeInsee": "44109", "rayonKm": 30 },
-    { "nom": "Bordeaux", "codeInsee": "33063", "rayonKm": 25 },
-    { "nom": "Toulouse", "codeInsee": "31555", "rayonKm": 25 },
-    { "nom": "Lille", "codeInsee": "59350", "rayonKm": 25 },
-    { "nom": "Rennes", "codeInsee": "35238", "rayonKm": 25 },
-    { "nom": "Strasbourg", "codeInsee": "67482", "rayonKm": 25 },
-    { "nom": "Marseille", "codeInsee": "13055", "rayonKm": 25 }
+    { "nom": "Paris", "departement": "75" },
+    { "nom": "Lyon", "departement": "69" },
+    { "nom": "Nantes", "departement": "44" },
+    { "nom": "Bordeaux", "departement": "33" },
+    { "nom": "Toulouse", "departement": "31" },
+    { "nom": "Lille", "departement": "59" },
+    { "nom": "Rennes", "departement": "35" },
+    { "nom": "Strasbourg", "departement": "67" },
+    { "nom": "Marseille", "departement": "13" }
   ],
 
   "inclure_full_remote": true,

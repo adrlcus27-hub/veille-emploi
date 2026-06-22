@@ -110,25 +110,28 @@ def save_seen_offers(ids: set) -> None:
 # Appel API France Travail
 # ---------------------------------------------------------------------------
 
-def search_offers(token: str, mots_cles: str, code_insee: str | None, rayon: int | None,
+def search_offers(token: str, mots_cles: str, departement: str | None,
                    experience_codes: list[str], types_contrat: list[str]) -> list[dict]:
     """Interroge l'API offres d'emploi pour une recherche donnée."""
     headers = {"Authorization": f"Bearer {token}"}
 
-    # minCreationDate: on ne veut que les offres publiées dans les dernières 48h
-    # (marge de sécurité au cas où le job ne tourne pas exactement à heure fixe)
+    # minCreationDate/maxCreationDate: l'API exige les deux ensemble si on filtre par date.
+    # On veut les offres publiées dans les dernières 48h (marge de sécurité).
+    max_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     min_date = (datetime.now(timezone.utc) - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     params = {
         "motsCles": mots_cles,
         "minCreationDate": min_date,
+        "maxCreationDate": max_date,
         "sort": "1",  # tri par date, plus récent d'abord
         "range": f"0-{MAX_OFFERS_PER_REQUEST - 1}",
     }
-    if code_insee:
-        params["commune"] = code_insee
-    if rayon:
-        params["distance"] = rayon
+    # On utilise le département plutôt que commune+distance: format sans ambiguïté
+    # (2 chiffres), alors que certains codes commune à arrondissements (Marseille,
+    # Lyon, Paris) sont parfois rejetés par cette API selon le format exact attendu.
+    if departement:
+        params["departement"] = departement
     if experience_codes:
         params["experience"] = ",".join(experience_codes)
     if types_contrat:
@@ -195,13 +198,12 @@ def collect_new_offers(config: dict, token: str, seen_ids: set) -> list[dict]:
         mots_cles = recherche["motsCles"]
         label = recherche["nom"]
 
-        # Recherche géolocalisée par ville
+        # Recherche géolocalisée par ville (en fait, par département)
         for ville in villes:
-            log.info("Recherche '%s' à %s...", label, ville["nom"])
+            log.info("Recherche '%s' à %s (dept %s)...", label, ville["nom"], ville["departement"])
             offres = search_offers(
                 token, mots_cles,
-                code_insee=ville["codeInsee"],
-                rayon=ville.get("rayonKm", 20),
+                departement=ville["departement"],
                 experience_codes=experience_codes,
                 types_contrat=types_contrat,
             )
@@ -216,8 +218,7 @@ def collect_new_offers(config: dict, token: str, seen_ids: set) -> list[dict]:
             log.info("Recherche '%s' (national, pour le remote)...", label)
             offres = search_offers(
                 token, mots_cles,
-                code_insee=None,
-                rayon=None,
+                departement=None,
                 experience_codes=experience_codes,
                 types_contrat=types_contrat,
             )
