@@ -1,0 +1,48 @@
+{
+  "_commentaire": "Modifie ce fichier librement pour ajuster ta recherche. Pas besoin de toucher au code.",
+
+  "recherches": [
+    {
+      "nom": "SDR / BDR",
+      "motsCles": "SDR business developer prospection commerciale"
+    },
+    {
+      "nom": "Account Executive",
+      "motsCles": "account executive closing vente B2B"
+    },
+    {
+      "nom": "Account Manager",
+      "motsCles": "account manager gestion clients fidélisation"
+    },
+    {
+      "nom": "Sales SaaS",
+      "motsCles": "commercial SaaS B2B vente logiciel"
+    }
+  ],
+
+  "villes": [
+    { "nom": "Paris", "codeInsee": "75056", "rayonKm": 15 },
+    { "nom": "Lyon", "codeInsee": "69123", "rayonKm": 20 },
+    { "nom": "Nantes", "codeInsee": "44109", "rayonKm": 20 }
+  ],
+
+  "inclure_full_remote": true,
+  "mots_cles_remote": ["télétravail", "remote", "full remote", "100% télétravail"],
+
+  "filtres": {
+    "typeContrat": ["CDI", "CDD"],
+    "experienceMax": "3 ans",
+    "experience_codes_api": ["1", "2"],
+    "_note_experience": "Codes API France Travail: 0=débutant accepté, 1=1-3 ans, 2=plus de 3 ans. On garde 0,1 pour matcher le profil junior-confirmé."
+  },
+
+  "mots_cles_bonus": [
+    "international", "anglais", "japonais", "espagnol",
+    "HubSpot", "Salesforce", "CRM", "cold calling",
+    "SQL", "Excel", "startup", "e-commerce", "Shopify"
+  ],
+
+  "mots_cles_exclus": [
+    "stage", "alternance", "bénévole", "VTC", "livreur"
+  ]
+}

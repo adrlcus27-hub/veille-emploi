@@ -1,0 +1,60 @@
+name: Veille emploi quotidienne
+
+on:
+  schedule:
+    # Tous les jours à 7h00 heure de Paris.
+    # GitHub Actions utilise l'heure UTC : 7h Paris = 5h UTC (heure d'été, CEST)
+    # ou 6h UTC en heure d'hiver (CET). On vise 6h UTC, un compromis correct
+    # à l'année (livraison entre 7h et 8h du matin selon la saison).
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # permet de lancer manuellement depuis l'onglet "Actions" sur GitHub
+
+permissions:
+  contents: write   # nécessaire pour que le workflow committe les nouvelles données
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Récupération des offres et génération du dashboard
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+        run: python scripts/fetch_jobs.py
+
+      - name: Sauvegarde des données (commit automatique)
+        run: |
+          git config user.name "job-alert-bot"
+          git config user.email "actions@github.com"
+          git add data/ docs/
+          git diff --quiet --cached || git commit -m "Mise à jour automatique des offres - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Configuration de GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload de l'artefact Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Déploiement sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
