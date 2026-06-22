@@ -2,28 +2,27 @@
   "_commentaire": "Modifie ce fichier librement pour ajuster ta recherche. Pas besoin de toucher au code.",
 
   "recherches": [
-    {
-      "nom": "SDR / BDR",
-      "motsCles": "SDR business developer prospection commerciale"
-    },
-    {
-      "nom": "Account Executive",
-      "motsCles": "account executive closing vente B2B"
-    },
-    {
-      "nom": "Account Manager",
-      "motsCles": "account manager gestion clients fidélisation"
-    },
-    {
-      "nom": "Sales SaaS",
-      "motsCles": "commercial SaaS B2B vente logiciel"
-    }
+    { "nom": "SDR / BDR", "motsCles": "SDR" },
+    { "nom": "Business Developer", "motsCles": "business developer" },
+    { "nom": "Prospection commerciale", "motsCles": "prospection commerciale" },
+    { "nom": "Account Executive", "motsCles": "account executive" },
+    { "nom": "Account Manager", "motsCles": "account manager" },
+    { "nom": "Chargé de clientèle", "motsCles": "chargé de clientèle" },
+    { "nom": "Commercial B2B", "motsCles": "commercial B2B" },
+    { "nom": "Commercial SaaS", "motsCles": "commercial SaaS" },
+    { "nom": "Customer Success", "motsCles": "customer success" }
   ],
 
   "villes": [
-    { "nom": "Paris", "codeInsee": "75056", "rayonKm": 15 },
-    { "nom": "Lyon", "codeInsee": "69123", "rayonKm": 20 },
-    { "nom": "Nantes", "codeInsee": "44109", "rayonKm": 20 }
+    { "nom": "Paris", "codeInsee": "75056", "rayonKm": 30 },
+    { "nom": "Lyon", "codeInsee": "69123", "rayonKm": 30 },
+    { "nom": "Nantes", "codeInsee": "44109", "rayonKm": 30 },
+    { "nom": "Bordeaux", "codeInsee": "33063", "rayonKm": 25 },
+    { "nom": "Toulouse", "codeInsee": "31555", "rayonKm": 25 },
+    { "nom": "Lille", "codeInsee": "59350", "rayonKm": 25 },
+    { "nom": "Rennes", "codeInsee": "35238", "rayonKm": 25 },
+    { "nom": "Strasbourg", "codeInsee": "67482", "rayonKm": 25 },
+    { "nom": "Marseille", "codeInsee": "13055", "rayonKm": 25 }
   ],
 
   "inclure_full_remote": true,
@@ -32,8 +31,8 @@
   "filtres": {
     "typeContrat": ["CDI", "CDD"],
     "experienceMax": "3 ans",
-    "experience_codes_api": ["1", "2"],
-    "_note_experience": "Codes API France Travail: 0=débutant accepté, 1=1-3 ans, 2=plus de 3 ans. On garde 0,1 pour matcher le profil junior-confirmé."
+    "experience_codes_api": ["0", "1"],
+    "_note_experience": "Codes API France Travail: 0=débutant accepté, 1=1-3 ans, 2=plus de 3 ans. On garde 0 et 1 pour matcher le profil junior-confirmé sans exclure les postes ouverts aux débutants."
   },
 
   "mots_cles_bonus": [
