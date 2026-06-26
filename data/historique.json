@@ -1,5 +1,719 @@
 [
   {
+    "date": "2026-06-26",
+    "count": 12,
+    "offres": [
+      {
+        "id": "210JWHF",
+        "intitule": "CDI - Operations Manager (H/F)",
+        "description": "Nous recherchons un(e) Operations Manager pour notre entreprise, qui a mis au point une solution de paiement innovante permettant aux marchands européens d'encaisser les paiements AliPay et WeChat Pay. Nous avons implémenté notre solution de paiement chez les marchands en France et en Europe.\n\nSous la responsabilité du Directeur des Opérations, vous devrez prendre en charge les sujets suivants :\n\nONBOARDING MARCHANDS\n\nRécolter l'ensemble des documents KYC afin d'amorcer l'ouverture de compte de paiement de nos marchands \n\nAnalyser les documents KYC et s'assurer qu'ils soient conformes aux normes établies par la direction de l'entreprise et les partenaires bancaires \n\nÉchanger quotidiennement par téléphone et par email avec nos marchands et prestataires bancaires afin de mener à bien l'ouverture des comptes marchands \n\nMettre à jour les différents tableaux de bord et outils de suivi développés par la direction de l'entreprise \n\nRécupérer toutes les problématiques-terrains observées et émettre des recommandations à la direction de l'entreprise.\n\nSERVICE APRÈS-VENTE\n\nRépondre aux questions des marchands par téléphone et par email \n\nAccompagner nos marchands dans la résolution des éventuels problèmes qu'ils rencontreront \n\nFormer, à distance ou en magasin, les marchands sur nos solutions \n\nSUPPORT\n\nCollaborer et apporter son aide aux autres départements de l'entreprise dans leurs tâches quotidiennes \n\nPiloter les prestataires offshores en charge des saisies dans les outils internes de l'entreprise.\n\nPROFIL RECHERCHÉ\n\nStructuré(e) et organisé(e), capacité de travailler dans un environnement dynamique \n\nMéticuleux(se) et avoir un œil pour les détails \n\nForte capacité à communiquer de manière claire et précise sur des sujets techniques et complexes \n\nMaîtrise complète de la suite Microsoft Office (Spécialement Word et Excel) \n\nOuvert(e), proactif(ve) et capable de travailler dans une équipe internationale \n\nNature analytique et capacité à résoudre des problèmes efficacement \n\nÊtre familier au monde des KYC pourrait être considéré comme un fort avantage \n\nUne première expérience en gestion administrative comprenant la manipulation de documents légaux d'entreprise (Kbis, Statuts, etc.) pourrait être considéré comme un fort avantage \n\nFrançais, Chinois et Anglais parlé et écrit couramment.\n\nVous êtes de formation bac+4/5 : management, commercial, communication...\n\nAVANTAGES\n\nUne start-up ambitieuse en pleine croissance, fondée par des entrepreneurs expérimentés. \n\nCadre de travail startup. Télétravail partiel et ponctuel possible.\n\nRémunération selon expérience + 50% du titre de transport + Tickets Restos.\n\nBureau proche de station de métro La défense",
+        "dateCreation": "2026-06-26T11:02:36.039Z",
+        "dateActualisation": "2026-06-26T12:52:27.869Z",
+        "lieuTravail": {
+          "libelle": "92 - Puteaux",
+          "latitude": 48.884019,
+          "longitude": 2.237979,
+          "codePostal": "92800",
+          "commune": "92062"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Agent(e) administratif(ive) des opérations bancaires",
+        "entreprise": {
+          "nom": "SILKPAY",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "langues": [
+          {
+            "libelle": "Anglais",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Chinois (Mandarin)",
+            "exigence": "E"
+          }
+        ],
+        "competences": [
+          {
+            "code": "121281",
+            "libelle": "Analyser la situation financière d'un client : vérification de ses revenus, de ses dettes, des dispositifs légaux et de sa capacité de remboursement",
+            "exigence": "E"
+          },
+          {
+            "code": "122889",
+            "libelle": "Collecter l'ensemble des justificatifs clients",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Annuel de 32000.0 Euros à 34000.0 Euros sur 12 mois",
+          "complement1": "Indemnité transports",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail Montreuil sous Bois",
+          "coordonnees1": "7 RUE DES LONGS QUARTIERS",
+          "coordonnees2": "93100 Montreuil",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JWHF"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JWHF"
+        },
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "62.01Z",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Programmation informatique",
+        "trancheEffectifEtab": "3 à 5 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210JWHF"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 4,
+        "_is_remote": true
+      },
+      {
+        "id": "210JGGZ",
+        "intitule": "Chargé / Chargée de clientèle (H/F)",
+        "description": "Mission principale\n\nAssurer la première ligne de contact avec les clients et partenaires, garantir un traitement rapide, précis et bienveillant des demandes entrantes, et orienter efficacement les dossiers vers les pôles concernés.\n\nResponsabilités clés:\n\n- Réception et traitement des appels, mails et tickets entrants\n- Identification et qualification des demandes (devis, SAV, transport, etc.)\n- Répartition des tickets vers les pôles correspondants\n- Suivi des demandes simples (informations produits, délais, disponibilités)\n- Communication claire et proactive avec les clients\n- Participation au suivi global de la satisfaction client\n- Reporting hebdomadaire sur le volume et la typologie des contacts entrants\n\nCompétences requises:\n\n- Excellente expression orale et écrite\n- Sens du service client et de la diplomatie\n- Organisation et rigueur dans la gestion des priorités\n- Bonne connaissance des produits et services de l'entreprise\n- Maîtrise des outils CRM / logiciels internes\nIndicateurs de performance\n- Délai moyen de réponse aux clients\n- Taux de satisfaction sur le premier contact\n- Volume de tickets orientés correctement\n- Taux de résolution au premier niveau",
+        "dateCreation": "2026-06-25T16:36:47.216Z",
+        "dateActualisation": "2026-06-25T16:36:47.216Z",
+        "lieuTravail": {
+          "libelle": "59 - GRANDE SYNTHE",
+          "latitude": 51.013701,
+          "longitude": 2.302597,
+          "codePostal": "59760",
+          "commune": "59271"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
+        "entreprise": {
+          "nom": "GEFRADIS",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - En centre d'appel",
+        "experienceCommentaire": "En centre d'appel",
+        "permis": [
+          {
+            "libelle": "B - Véhicule léger",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Horaire de 12.31 Euros",
+          "commentaire": "Variable de rémunération"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail le samedi",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail GRANDE-SYNTHE",
+          "coordonnees1": "24 RUE GEORGES CLEMENCEAU             ",
+          "coordonnees2": "59760 Grande-Synthe",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JGGZ"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JGGZ"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "43.32A",
+        "secteurActivite": "43",
+        "secteurActiviteLibelle": "Travaux de menuiserie bois et PVC",
+        "trancheEffectifEtab": "10 à 19 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210JGGZ"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail le samedi"
+          ],
+          "conditionsExercice": [
+            "Station assise prolongée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4256636",
+        "intitule": "Conseillère-Conseiller Commercial et Client Sénior F/H",
+        "description": "\n            Qui sommes-nous ?  Au croisement d’enjeux essentiels et captivants, rejoignez un groupe à la dimension internationale, champion de la croissance bas carbone et activement engagé dans la lutte contre le réchauffement climatique ! Rejoindre EDF, c’est également travailler dans un Groupe porteur de valeurs fortes, qui innove avec de solides actifs industriels et vous confie des missions qui ont du sens. Vous avez le goût du service client, un esprit d’équipe et avez envie de relever des défis commerciaux ? Venez nous rejoindre !   Quelles sont vos missions ? :ACCUEILLIR les clients particuliers, SATISFAIRE leurs demandes courantes et réclamations, les FIDÉLISER, PROPOSER et VENDRE des offres énergétiques et des services, en vous adaptant à la diversité de leurs besoins et de leurs demandes. Notre leitmotiv : La Satisfaction de nos clients   Ce que EDF vous offre :  La rémunération et avantages : de 27000 € à 33000 € Brut par an (en fonction de votre diplôme et de votre niveau d'expérience), 13ème mois inclus En plus de votre rémunération fixe, vous bénéficierez d'une rem variable qui tiendra compte de votre performance individuelle et collective Temps de travail : possibilité de travail sur 4 jours, pas de travail le week-end, éligibilité au télétravail.  Vous évoluerez dans un univers multicanal et résolument collaboratif et vous serez intégrés dans une équipe de 15 personnes en open space. Dès votre arrivée, vous bénéficierez d’un cursus de formation personnalisé    Les avantages du groupe : Intéressement, couverture sociale, CE et tarifs préférentiels sur votre consommation d’électricité et de gaz sous conditions Et si c'était vous :Vous possédez un diplôme de type Bac+2Vous avez une réelle appétence pour la vente et vous savez vendre,Vous avez un bon sens de la relation humaine et aimez le travail en équipe,Vous faites preuve de rigueur et avez un bon esprit d’analyse,Vous avez une bonne capacité rédactionnelle,Vous maîtriser les outils informatiques.Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d’ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.\n            ",
+        "dateCreation": "2026-06-26T05:30:59.000Z",
+        "dateActualisation": "2026-06-26T05:30:59.000Z",
+        "lieuTravail": {
+          "libelle": "50 - Baudre",
+          "latitude": 49.089426,
+          "longitude": -1.07303,
+          "codePostal": "50000",
+          "commune": "50034"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Conseiller commercial / Conseillère commerciale sédentaire",
+        "entreprise": {
+          "description": "\n                    Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique. Le respect de la personne et celui de l'environnement, l'intégrité, la solidarité sont au cœur de nos actions. Face à l’urgence climatique, notre rôle est d’inventer un modèle énergétique qui respecte notre planète.\n\nNous voulons construire un monde où il sera possible de produire une électricité neutre en CO2, grâce au nucléaire et aux énergies renouvelables, conciliant ..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "1",
+        "qualificationLibelle": "Manœuvre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256636",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/689-edf/321341-conseillere-conseiller-commercial-et-client-senior-f-h-3?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4256302",
+        "intitule": "Alternant commercial à distance H/F",
+        "description": "\n            Description de l'entrepriseLe Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d’entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès.La Stime, DSI du Groupement Mousquetaires, est partenaire des points de vente des différentes enseignes et de ses activités transverses. Elle est le moteur de la transformation informatique du Groupement Mousquetaires.Rejoindre la Stime, c’est contribuer à des projets à fort enjeu et être challengé dans ses missions au sein d’un environnement dynamique.Description du posteContexte : Vous intégrerez le Service Relation Client au sein de la Direction du Support aux points de ventes et utilisateurs, en qualité d'alternant commercial à distance.Vous assisterez les Responsables des Équipes Commerciales sur différents sujets.Le contexte vous plaît ? Découvrez votre quotidien au sein de votre future équipe.Missions:Gestion des boîtes mails internesMise à jour des dossiers dans le CRMRédiger et centraliser des courriersGestion des débitsGestion des appels entrants/sortantsContribuer à la mise en place de process commerciauxQualificationsLes qualités indispensables à votre réussite :À l’écouteCurieux(se)Bonne capacité rédactionnelleRigoureux(se)Bonne élocutionInformations supplémentairesCôté RHIntégrer la Stime, c’est aussi profiter de nombreux avantages et d’une vraie qualité de vie au travail !2 jours de télétravail par semaineRestaurant d’entrepriseSalle de sportNotre process de recrutement est simple et efficace : il se résume à un entretien RH, suivi d'un entretien opérationnel avec la responsable.Le poste est à pourvoir pour la rentrée Septembre 2026 sur notre site de Châtillon (92).  Seules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n            ",
+        "dateCreation": "2026-06-26T05:30:58.000Z",
+        "dateActualisation": "2026-06-26T05:30:58.000Z",
+        "lieuTravail": {
+          "libelle": "92 - Nanterre",
+          "latitude": 48.879998,
+          "longitude": 2.207752,
+          "codePostal": "92000",
+          "commune": "92050"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Technicien / Technicienne de la vente à distance",
+        "entreprise": {
+          "description": "\n                    Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d’entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès.\n\nLa Stime,..."
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 12 Mois",
+        "natureContrat": "Contrat apprentissage",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": true,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256302",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/561-stime-direction-des-systemes-dinformation-groupement-les-mousquetaires/324312-alternant-commercial-a-distance-h-f?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4256432",
+        "intitule": "Administrateur Technique H/F",
+        "description": "\n            Description de l'entrepriseLe Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d’entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle « Producteurs et commerçants ».\n\nDans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès. IMMO Mousquetaires est la foncière du Groupement des Mousquetaires, en charge du Développement.  Elle accompagne la croissance des enseignes du Groupement depuis 8 bureaux en Région. Grâce à cet enracinement local, IMMO Mousquetaires développe, avec les collectivités, des projets ambitieux et pertinents, associant commerces, services et parfois logements, au service de la qualité de vie dans les territoires.IMMO Mousquetaires gère également le patrimoine du Groupement (composé des points de vente, usines et bases logistiques) soit 5.3 milliards d'actifs en portefeuille et plus de 3400 baux.Elle intervient dans tous les métiers de l'immobilier commercial : expansion, aménagement, promotion, commercialisation et gestion.Description du posteContexte du poste Au sein de la Direction des Technologies & des Services et du domaine Digital Workplace, vous intégrerez le pôle Administration des outils Collaboratifs au seine d’une équipe de 10 personnes et travaillerez en lien avec les équipes transverses (études, conseil interne…) et parfois les métiers.En tant qu’expert Office 365, vous serez rattaché au manager du pôle. Le contexte vous plait ? Découvrez votre quotidien au sein de votre futur équipe. Vos missions Administrer les tenants Microsoft 365 et Entra IDMaintenir en condition opérationnel les solutions O365 et Entra IDGérer les incidents N3 et demandes de servicesGérer le suivi des licences en lien avec le Responsable Applicatif O365Assister et conseiller les équipes supports N1/N2 et quelques utilisateurs dans la mise en œuvre des solution techniquesRédiger des scripts PowerShellGarantir la sécurité de la plateforme en relation avec la DSSIProposer des éléments de sécurisation de l’environnementParticiper à la veille technologique sur Microsoft 365Mettre en place et maintenir la documentation et procéduresPartager l’expertise avec les membres de l’équipe QualificationsVos atouts pour réussir Vous justifiez d’une expérience d’au moins 3 ans en tant qu’Administrateur de tenant O365. Vous avez les compétences et l’expérience nécessaire acquises dans l’administration et le paramétrage.Vous possédez aussi un excellent relationnel pour vous intégrer pleinement dans les équipes de travail. Techniquement, vous maîtrisezExchangeTeamsSharepointEntra IDPowerShellAPI GraphMFA (serait un plus)Power Plateforme (serait un plus) Et avez-vous l’esprit Mousquetaires ? Vous êtes force de proposition, avez un bon relationnel, une bonne communication écrite et orale complétée d’une approche rigoureuse, méthodique et constructive ? Ces qualités vous permettront de vous intégrer rapidement au sein de nos équipes… alors rejoignez-nous !Informations supplémentairesEn intégrant la Stime, vous pourrez bénéficier des avantages suivants :13ème moisAccords d'entreprise sur le télétravail, le temps de travail (12 RTT), l'intéressementRestaurant d'entreprise Notre process de recrutement est simple et efficace : il se résume à un entretien RH, suivi d'un entretien opérationnel avec le responsable du département. Nos forces : un management et une équipe aguerrie qui favorise la montée en compétence, le travail collaboratif, la prise d’initiative et l’autonomie.Localisation : Bondoufle (91) « Chez les Mousquetaires, seules les compétences font la différence. Le Groupement s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l’égalité des opportunités pour chacun(e). » \n            ",
+        "dateCreation": "2026-06-26T05:30:58.000Z",
+        "dateActualisation": "2026-06-26T05:30:58.000Z",
+        "lieuTravail": {
+          "libelle": "91 - Évry-Courcouronnes",
+          "latitude": 48.63645,
+          "longitude": 2.446305,
+          "codePostal": "91000",
+          "commune": "91228"
+        },
+        "romeCode": "H1106",
+        "romeLibelle": "Responsable support technique clients",
+        "appellationlibelle": "Manager support technique",
+        "entreprise": {
+          "description": "\n                    Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d’entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès.\n\nLa Stime,..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256432",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/561-stime-direction-des-systemes-dinformation-groupement-les-mousquetaires/328194-administrateur-technique-h-f-5?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4256127",
+        "intitule": "Business Developper - Secteur de l'énergie - H/F F/H",
+        "description": "\n            Nous recherchons un·e Business Developper - Secteur de l'énergie pour rejoindre notre département commerce marketing qui joue un rôle clé en maximisant la valeur de nos actifs, en augmentant les volumes ainsi que la valeur des énergies renouvelables tout en renforçant notre position sur le marché. Vous intégrerez l'équipe Flexibilités, spécialisée dans l’effacement de consommation, où vous contribuerez à la gestion des ajustements de consommation en fonction des besoins et de la production.Le poste est à pourvoir sur notre site de Paris la défense . Nous offrons la possibilité de télétravailler 2 à 3 jours par semaine.🖥️ Concrètement, votre quotidien consistera à :Vous prospectez et signez de nouveaux contrats d'agrégation auprès de producteurs renouvelables (solaire, éolien, hydro) et d'opérateurs de batteriesVous répondez aux appels d'offres, négociez les termes contractuels et assurez la signature, en coordination avec nos équipes juridique et pricingVous gérez la relation client dans la durée : suivi des performances, accompagnement, lien avec les équipes Opérations et de Relation Clients pour garantir une continuité de service.Participer au développement de produits pour proposer de nouvelles offres à nos clients et nouveaux prospect (nouveaux business modèle, ingénierie contractuelle)Vous contribuez au développement de nouvelles offres d'agrégation (nouveaux mécanismes de marché, schémas de valorisation batterie) et participez à la structuration de l'activité.Participer à la construction de la stratégie commerciale d’Agregio (segmentation, stratégie de pricing, choix des channels)✨ Votre environnement de travail :Sous la responsabilité de notre Head of Business Development, vous intégrerez une équipe de 11 personnes.📌 Vous évoluerez pleinement à ce poste si :Vous maîtrisez la négociation et la gestion de contrats complexes.Vous avez une expérience significative dans la réponse aux appels d'offres ainsi que dans le suivi contractuel associé.Vous disposez d'une bonne connaissance des marchés de l'énergie et de leurs enjeux.Vous êtes capable de piloter plusieurs dossiers en parallèle tout en respectant les délais et les priorités.Vous faites preuve d'une excellente aisance relationnelle et savez interagir avec des interlocuteurs variés (exploitants, juristes, acheteurs, équipes opérationnelles, etc.).Vous êtes autonome, rigoureux(se) et organisé(e) dans la gestion de vos activités.Vous êtes curieux(se) et disposez d'une véritable appétence pour les sujets techniques.Vous êtes reconnu(e) pour votre esprit d'équipe et votre capacité à collaborer dans un environnement transversal.🥇 Les petits plus :Une première expérience réussit au sein d'une société du même secteur d'activité.\n            ",
+        "dateCreation": "2026-06-26T05:30:56.000Z",
+        "dateActualisation": "2026-06-26T05:30:56.000Z",
+        "lieuTravail": {
+          "libelle": "92 - Nanterre",
+          "latitude": 48.879998,
+          "longitude": 2.207752,
+          "codePostal": "92000",
+          "commune": "92050"
+        },
+        "romeCode": "K1802",
+        "romeLibelle": "Chargé / Chargée de développement économique et local",
+        "appellationlibelle": "Développeur / Développeuse économique",
+        "entreprise": {
+          "description": "\n                    Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique. Le respect de la personne et celui de l'environnement, l'intégrité, la solidarité sont au cœur de nos actions. Face à l’urgence climatique, notre rôle est d’inventer un modèle énergétique qui respecte notre planète.\n\nNous voulons construire un monde où il sera possible de produire une électricité neutre en CO2, grâce au nucléaire et aux énergies renouvelables, conciliant ..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "1",
+        "qualificationLibelle": "Manœuvre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256127",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/689-edf/330770-business-developper-secteur-de-l-energie-h-f-f-h?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4256074",
+        "intitule": "Responsable Nouveaux Parcours et Experience Client H/F",
+        "description": "\n            Description de l'entrepriseLe Groupement Mousquetaires, ce sont 8 enseignes de la grande distribution, 150000 collaborateurs et plus de 3000 chefs d'entreprise indépendants !Intermarché & Netto fait du mieux manger accessible à tous une réalité. Notre indépendance et la diversité de nos activités nous permettent de répondre aux attentes des Français et nous propulsent au rang de 3e distributeur. Chaque métier compte pour écrire l'avenir de la distribution alimentaire. Prêt.e à faire la différence ? Rejoignez-nous !Description du posteNous recherchons pour notre direction Marketing Client & Communication, un(e) Responsable Nouveaux Parcours et Expérience Client pour intégrer le service Marketing Clients. Prêt(e) à relever le défi ?Rattaché(e) à Jonathan, Responsable du service, vous avez pour mission principale de piloter, concevoir, mettre en œuvre et optimiser les parcours clients, en omnicanal (bornes, app, web) et de coordonner les différents intervenants afin de s’assurer de la bonne exécution des projets (équipes digitales, techniques, AMOA)Plus précisément, vous serez chargé(e) de :Définir les parcours client clésAnalyser, fluidifier et optimiser chaque étape des parcours identifiés comme clés En prenant en compte l’omnicanalité du Client et la possibilité de parcours hybrides (mix entre point de vente physique et digital)Pour cela s’appuyer en transverse sur :L’UX designLes analyses statistiquesLes études consommateurs et questionnaires de satisfaction Identifier les opportunités de nouveaux dispositifs / fonctionnalités à implémenter Piloter la stratégie de contactabilité de notre base de données : augmentation de la captation, mise en qualité et consentement associésQualificationsEt si vos compétences venaient nourrir notre mission ?De formation BAC + 5 en école de commerce ou d’ingénieur avec une spécialisation marketing digital, vous justifiez d’une expérience réussie de 5 ans minimum en tant que responsable des parcours clientsVotre capacité à fédérer les équipes autour de la vision client est essentielle. Vous inspirez confiance et motivez vos collaborateurs pour atteindre les objectifs de satisfaction fixés par l’entreprise.Vous êtes expert(e) en gestion de projet, vous savez respecter les délais imposés, vous savez faire preuve de diplomatie et avez le sens du contact.Vous maîtrisez les outils d’analyse client et les plateformes CRM pour optimiser les parcours. Cette expertise technique vous permet d’identifier les leviers d’amélioration et de mesurer l’impact de vos actions.Informations supplémentairesUn processus de recrutement en 3 étapes :Une prise de contact téléphonique avec la recruteuse dédiée à ce poste !Un RDV visio avec la recruteuse afin de faire connaissance, de faire le point sur vos attentes et de répondre à l’ensemble de vos questions !Et enfin, un RDV avec votre potentiel futur N+1 !Package :Statut CadreSalaire fixe + 13ème moisPrime sur objectifsPrime intéressement & participation2 jours/semaine de télétravail.Le siège des Mousquetaires, c'est :Plusieurs lieux de restaurationUne salle de sport gratuite et un parcours santéUne conciergerie avec des services de pressing, coiffure, esthétique, ostéopathie, diététique...Avantage carte fidélitéUn espace café avec Barista80 hectares de forêts et de nombreux sentiers de promenadeAccessibilité au site : En voiture ou navettes gratuites depuis Paris et lignes de BUS depuis la gare de Brétigny-sur-Orge (91) et Evry (91).Envie de rejoindre les enseignes Intermarché & Netto ? Engagez-vous concrètement dans l’action avec nous pour relever nos défis d'aujourd’hui et de demain ! Parlons-en très vite !\n            ",
+        "dateCreation": "2026-06-26T05:30:56.000Z",
+        "dateActualisation": "2026-06-26T05:30:56.000Z",
+        "lieuTravail": {
+          "libelle": "91 - Évry-Courcouronnes",
+          "latitude": 48.63645,
+          "longitude": 2.446305,
+          "codePostal": "91000",
+          "commune": "91228"
+        },
+        "romeCode": "M1508",
+        "romeLibelle": "Conseiller / Conseillère en gestion de carrière",
+        "appellationlibelle": "Gestionnaire des carrières",
+        "entreprise": {
+          "description": "\n                    Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d'entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l'immobilier, en passant par l'industrie agroalimentaire ou l'informatique, nos équipes font nos succès.\n\nChez Inte..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256074",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/566-intermarche-netto-groupement-les-mousquetaires/332080-responsable-nouveaux-parcours-et-experience-client-h-f?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4255945",
+        "intitule": "Responsable service clients dommages aux biens H/F",
+        "description": "\n            Description de l'entrepriseLe Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3 000 chefs d’entreprise indépendants ! Ce sont aussi 150 000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès. Parce que le Groupement Mousquetaires ne fait rien comme les autres, nous avons fait le choix d’intégrer notre propre courtier en assurance, SECOIA. Toujours avec la même ambition : être au plus près des besoins des points de vente et se positionner comme un véritable partenaire de confiance.\nSolutions d’assurances, prévention et gestion des risques ; le champ d’action des collaborateurs est aussi large que les besoins de nos chefs d’entreprise et de leurs clients.Description du posteNous recrutons un(e) Responsable service clients (expert du courtage en assurance dommages au biens) en CDI, qui sera responsable du pilotage des pôles production et indemnisation, et jouera un rôle de référent technique auprès des équipes.  En détail, de quoi s'agit-il ? Pilotage et contrôle des actes de gestion :Superviser et apporter le soutien technique aux équipes des services Gestion des Contrats (en lien avec le référent technique) et Gestion des SinistresDéfinir les priorités de l’équipe dans le but de garantir les délais et la qualité de serviceAssurer un support technique aux équipes sur les dossiers complexes (sinistres majeurs notamment)Co-gérer les sinistres majeurs avec les assureurs et les partenaires (experts, recours…)Prendre en charge la relation client sur les sujets sensibles/complexesOptimiser les procédures existantes et les modes de fonctionnement de l’équipeVeiller à la conformité des documents de souscription et contractuels afin de proposer si nécessaires des améliorations et/ou évolutionsÊtre garant du respect des procéduresManagement des équipes :Suivre et encadrer les équipesPiloter la performance de l’activité du service ClientsRéaliser les entretiens annuels et professionnelsDéfinir les besoins de formation des équipesQualificationsDe formation Bac +5 en assurances, avec une spécialisation en sinistres, vous justifiez d’une expérience confirmée dans la gestion de sinistres IARD, notamment sur des dossiers Moyens et Grands Risques.Vous avez une première expérience réussie en management d’équipe, avec une capacité à accompagner, motiver et faire monter en compétences vos collaborateurs.\nVotre posture de référent(e) technique, votre sens de l’organisation et votre esprit d’équipe seront des atouts majeurs pour réussir dans ce rôle.Vous êtes à l’aise avec les outils informatiques, et maîtrisez particulièrement Excel, que vous utilisez pour le pilotage de l’activité, la production de tableaux de bord, et l’analyse des indicateurs de performance.Rigueur, esprit d’analyse, qualités relationnelles et sens du service client complètent votre profil.\nVous recherchez un poste à responsabilités, au sein d’une organisation dynamique, où votre expertise aura un impact direct sur la performance du service.Informations supplémentairesLe poste est basé dans un cadre verdoyant au Parc de Tréville à Bondoufle (91), accessible en voiture ou en transports en commun (RER C/ RER D). Des navettes en provenance de Paris sont également à disposition.Avantages : Prime sur objectifs, prime d’intéressement, RTT, télétravail possible, restaurants d’entreprise, salle de sport gratuite et conciergerie avec une multitude de services sur votre lieu de travail. DRHSARECRUTE\n            ",
+        "dateCreation": "2026-06-26T05:30:56.000Z",
+        "dateActualisation": "2026-06-26T05:30:56.000Z",
+        "lieuTravail": {
+          "libelle": "91 - Évry-Courcouronnes",
+          "latitude": 48.63645,
+          "longitude": 2.446305,
+          "codePostal": "91000",
+          "commune": "91228"
+        },
+        "romeCode": "C1127",
+        "romeLibelle": "Expert / Experte à distance sinistres et dommages en assurances",
+        "appellationlibelle": "Expert / Experte en assurances dommages",
+        "entreprise": {
+          "description": "\n                    Le Groupement Les Mousquetaires, ce sont 7 enseignes de la grande distribution portées haut et fort par plus de 3000 chefs d’entreprise indépendants ! Ce sont aussi 150000 collaborateurs mobilisés autour de notre modèle unique de producteurs et commerçants. Et nous en sommes fiers ! Dans toutes les fonctions au service des points de vente, de la logistique à l’immobilier, en passant par l’industrie agroalimentaire ou l’informatique, nos équipes font nos succès. ITM Entrep..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4255945",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/568-groupement-les-mousquetaires/331730-responsable-service-clients-dommages-aux-biens-h-f?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4256583",
+        "intitule": "Conseillère-Conseiller Commercial et Client Sénior F/H",
+        "description": "\n            Vous souhaitez mettre votre énergie au service d’un groupe qui bâtit un avenir durable ? Rejoignez le groupe EDF pour exprimer votre énergie au service des enjeux climatiques.Au sein du Centre de Relation Clients de Chatou, vous rejoignez des équipes (environ 15 conseillers par équipe) engagées et solidaires, mobilisées chaque jour pour accompagner les clients particuliers à distance. Ensemble, elles cultivent une relation de confiance avec les clients et contribuent activement à la performance commerciale du Groupe dans un environnement collaboratif, dynamique et bienveillant. En tant que Conseillère/Conseiller commercial, vous créez une relation personnalisée à distance avec les clients particuliers. Vous accompagnez chaque client avec écoute et réactivité afin de répondre à ses besoins et lui proposer les solutions les plus adaptées. Au quotidien, vous accueillez les clients par téléphone et via les outils digitaux, gérez leurs demandes et réclamations, développez la fidélisation, valorisez les offres énergétiques et les services EDF et contribuez aux objectifs commerciaux de l’équipe grâce à votre sens du conseil et de la vente.Le poste est situé à Chatou (78). Une formation sera mise en place dès votre arrivée.Vous travaillez uniquement du lundi au vendredi, sans activité le week-end. Le télétravail est possible selon votre niveau d’autonomie et les besoins de l’activité.Rémunération brute annuelle de base hors primes : de 26000 € à 36000 €, selon diplôme et expérience professionnelle. Package global comprenant : prime individuelle de performance, intéressement et épargne salariale.Avantages selon conditions d’éligibilité : tarif préférentiel sur l’électricité et le gaz, aides aux familles et à la parentalité, dispositifs de mobilité durable, activités sociales et culturelles …  Vous êtes titulaire d’un diplôme bac +2 ou bac +3 dans le domaine commercial, de la relation client ou de la vente. Vous justifiez d’une expérience minimum de 2 ans dans un environnement commercial ou de relation client à distance.Vous aimez relever des défis commerciaux, convaincre avec justesse et développer une relation de confiance durable avec vos clients. Votre sens de l’écoute, votre aisance relationnelle et votre goût du résultat vous permettent d’identifier les besoins des clients et de leur proposer des solutions adaptées.Vous faites preuve de capacité d'adaptation, collaboration, communication, sens du client, sens du résultat.La diversité alimente notre performance. Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d’ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.Une fois votre candidature présélectionnée, nous vous proposerons un premier entretien téléphonique. Si cette étape est concluante vous rencontrerez ensuite le manager et le responsable RH.En rejoignant EDF, vous contribuez à la transition énergétique aux côtés de celles et ceux qui partagent la même ambition. Votre énergie est notre force !\n            ",
+        "dateCreation": "2026-06-26T05:30:59.000Z",
+        "dateActualisation": "2026-06-26T05:30:59.000Z",
+        "lieuTravail": {
+          "libelle": "78 - Versailles",
+          "latitude": 48.801228,
+          "longitude": 2.130076,
+          "codePostal": "78000",
+          "commune": "78646"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Conseiller commercial / Conseillère commerciale sédentaire",
+        "entreprise": {
+          "description": "\n                    Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique. Le respect de la personne et celui de l'environnement, l'intégrité, la solidarité sont au cœur de nos actions. Face à l’urgence climatique, notre rôle est d’inventer un modèle énergétique qui respecte notre planète.\n\nNous voulons construire un monde où il sera possible de produire une électricité neutre en CO2, grâce au nucléaire et aux énergies renouvelables, conciliant ..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "1",
+        "qualificationLibelle": "Manœuvre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256583",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/689-edf/321017-conseillere-conseiller-commercial-et-client-senior-f-h-2?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4256070",
+        "intitule": "Conseillère Commerciale / Conseiller Commercial F/H",
+        "description": "\n             Exprimez votre potentiel au service d’un groupe industriel acteur de la transition énergétique. En rejoignant EDF, vivez un parcours passionnant qui associe expertise, engagement et solidarité. Au sein de notre Centre de Relation Clients Auvergne, rejoignez une équipe engagée dont la mission est d’offrir une expérience client d’exception. En tant que Conseiller/Conseillère commercial(e), vos principales missions sont l’accueil téléphonique des clients particuliers, la satisfaction de leurs demandes, la vente de contrats d’électricité, de gaz et de services énergétiques. Chaque contact doit être une opportunité commerciale. Titulaire d’un Bac/Bac+2, vous avez un goût prononcé pour la vente et une réelle capacité à convaincre. Vous alliez sens du relationnel, esprit d’équipe, rigueur et capacité d’analyse, ainsi qu’une bonne aisance rédactionnelle. La diversité alimente notre performance. Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d’ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous. Rémunération brute annuelle de base sur 13 mois de 24000 € à 36000 € selon diplôme et expérience professionnelle. Package global comprenant notamment : prime individuelle de performance, intéressement et épargne salariale. Avantages selon conditions d’éligibilité : tarif préférentiel sur l’électricité et le gaz, aides aux familles et à la parentalité, dispositifs de mobilité durable, activités sociales et culturelles... Le poste est éligible au télétravail lorsque vous serez autonome dans votre métier. Rejoignez-nous !  \n            ",
+        "dateCreation": "2026-06-26T05:30:56.000Z",
+        "dateActualisation": "2026-06-26T05:30:56.000Z",
+        "lieuTravail": {
+          "libelle": "63 - Clermont-Ferrand",
+          "latitude": 45.791423,
+          "longitude": 3.113126,
+          "codePostal": "63000",
+          "commune": "63113"
+        },
+        "romeCode": "D1416",
+        "romeLibelle": "Commercial / Commerciale auprès d'une clientèle d'entreprises",
+        "appellationlibelle": "Conseiller(ère) commercial(e) auprès clientèle d'entreprises",
+        "entreprise": {
+          "description": "\n                    Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique. Le respect de la personne et celui de l'environnement, l'intégrité, la solidarité sont au cœur de nos actions. Face à l’urgence climatique, notre rôle est d’inventer un modèle énergétique qui respecte notre planète.\n\nNous voulons construire un monde où il sera possible de produire une électricité neutre en CO2, grâce au nucléaire et aux énergies renouvelables, conciliant ..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "1",
+        "qualificationLibelle": "Manœuvre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256070",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/689-edf/331420-conseillere-commerciale-conseiller-commercial-f-h-8?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4256059",
+        "intitule": "Conseillère Commerciale / Conseiller Commercial F/H",
+        "description": "\n            Exprimez votre potentiel au service d’un groupe industriel acteur de la transition énergétique. En rejoignant EDF, vivez un parcours passionnant qui associe expertise, engagement et solidarité. Au sein de notre Centre de Relation Clients de Saint Etienne - Monistrol, rejoignez une équipe engagée dont la mission est d’offrir une expérience client d’exception. En tant que Conseiller/Conseillère commercial(e), vos principales missions sont l’accueil téléphonique des clients particuliers, la satisfaction de leurs demandes, la vente de contrats d’électricité, de gaz et de services énergétiques. Chaque contact doit être une opportunité commerciale. Titulaire d’un Bac/Bac+2, vous avez un goût prononcé pour la vente et une réelle capacité à convaincre. Vous alliez sens du relationnel, esprit d’équipe, rigueur et capacité d’analyse, ainsi qu’une bonne aisance rédactionnelle. La diversité alimente notre performance. Dans le groupe EDF accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d’ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous. Rémunération brute annuelle de base sur 13 mois de 24000 € à 36000 € selon diplôme et expérience professionnelle. Package global comprenant notamment : prime individuelle de performance, intéressement et épargne salariale. Avantages selon conditions d’éligibilité : tarif préférentiel sur l’électricité et le gaz, aides aux familles et à la parentalité, dispositifs de mobilité durable, activités sociales et culturelles... Le poste est éligible au télétravail lorsque vous serez autonome dans votre métier. Rejoignez-nous !\n            ",
+        "dateCreation": "2026-06-26T05:30:56.000Z",
+        "dateActualisation": "2026-06-26T05:30:56.000Z",
+        "lieuTravail": {
+          "libelle": "43 - Espaly-Saint-Marcel",
+          "latitude": 45.046092,
+          "longitude": 3.867892,
+          "codePostal": "43000",
+          "commune": "43089"
+        },
+        "romeCode": "D1416",
+        "romeLibelle": "Commercial / Commerciale auprès d'une clientèle d'entreprises",
+        "appellationlibelle": "Conseiller(ère) commercial(e) auprès clientèle d'entreprises",
+        "entreprise": {
+          "description": "\n                    Le groupe EDF est l'un des premiers électriciens mondiaux, à la pointe de l'innovation technologique. Le respect de la personne et celui de l'environnement, l'intégrité, la solidarité sont au cœur de nos actions. Face à l’urgence climatique, notre rôle est d’inventer un modèle énergétique qui respecte notre planète.\n\nNous voulons construire un monde où il sera possible de produire une électricité neutre en CO2, grâce au nucléaire et aux énergies renouvelables, conciliant ..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "1",
+        "qualificationLibelle": "Manœuvre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4256059",
+          "partenaires": [
+            {
+              "nom": "TALENTS_HANDICAP",
+              "url": "https://www.talents-handicap.com/689-edf/332094-conseillere-commerciale-conseiller-commercial-f-h-9?src=FranceTravail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4250245",
+        "intitule": "GESTIONNAIRE DE CLIENTELE  - KYC (F/H) h/f",
+        "description": "Description de l'entrepriseSOCFIM, filiale du second groupe bancaire français, BPCE, est l’un des tous premiers acteurs du financement des professionnels de la production immobilière : promoteurs, marchands de biens, aménageurs, corporate finance, fonds d’investissements « value added » et fonds de transformation. Ces derniers bénéficient de l’expertise unique d’une équipe de 160 spécialistes capables d’apporter une solution personnalisée à chacun des projets de ses clients. Une approche partenariale lui a permis de se hisser à la tête de son marché aussi bien en nombre de clients, que d’opérations (650* programmes en cours de financement) et 11,8 Md€ d’engagements gérés sous gestion. Le portefeuille financé couvre, partout en France, plus de 42 277 logements* et 916 000 M2 de surfaces tertiaires* représentant près de 18,5 Md€ de chiffre d’affaires* d’opérations financées à la vente. L’implication des équipes de SOCFIM est reconnue par ses clients qui expriment un taux de satisfaction de 95% dans le dernier baromètre. * A décembre 2025 Vous voulez participer au développement d’une entreprise impliquée dans la réussite des projets de ses clients. Vous avez envie d’intégrer une entreprise dont l’ADN est caractérisé par l’audace, l’agilité, la coopération et la confiance. Vous souhaitez évoluer avec une équipe d’experts convaincus que collectif rime avec succès. Vous savez que l’on ne peut être leader depuis plus de 30 ans sans se réinventer. Vous êtes aussi passionné(e) par le financement que par le développement de projets immobiliers. Alors n’hésitez plus, rejoignez-nous ! Poste et missionsLe rôle de notre département consiste à : • Assister les Responsables de Clientèle dans le montage administratif des dossiers de financement\n• Contribuer à l’élaboration du dossier client et opération (SI, KYC, règlementaire, comptes annuels…) et à son actualisation\n• Participer à la transmission des dossiers de financement aux instances décisionnaires et à toute autre direction\n• Contribuer à l’atteinte des objectifs de la Direction\n\nPlus spécifiquement, en tant que Gestionnaire, vos missions sont les suivantes : • Contribuer au suivi des dossiers de financement : préparation des instances et suivi des décisions dans les bases informatiques (reporting)\n• Réaliser des opérations administratives liées aux dossiers et aux clients : vérification, complétude et mise à jour des dossiers KYC, constitution des dossiers de demandes de financement, alimentation des données dans les outils informatiques et relances clients\n• Assurer l’interface des demandes d’ouvertures de comptes bancaires entre les clients et les services bancaires\n• Exercer le pré-contrôle interne de la qualité des données et de la complétude des dossiers\n• Préparation des instances. Profil et compétences requisesDiplômé(e) d'un Bac + 2, de type BTS Banque, vous bénéficiez d'une expérience de 2 ans minimum dans dans un poste similaire.\nVous possédez une bonne maîtrise des finalités du KYC, vous êtes à l'aise avec les outils informatiques.\nRigueur, curiosité, esprit d'équipe et appétence pour la relation client vous caractérisent également.",
+        "dateCreation": "2026-06-25T22:28:40.000Z",
+        "dateActualisation": "2026-06-25T22:28:40.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Gestionnaire de clientèle bancaire",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4250245",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BPCESEF02721#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-25",
     "count": 11,
     "offres": [
