@@ -1,5 +1,723 @@
 [
   {
+    "date": "2026-06-27",
+    "count": 13,
+    "offres": [
+      {
+        "id": "4289471",
+        "intitule": "Gestionnaire relation client (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVous vous demandez comment évoluer dans un groupe à dimension internationale et technique ?\nVous cherchez un poste opérationnel au carrefour du commercial, du support client et de l'export ?\nVous souhaitez valoriser votre sens du service tout en développant des compétences techniques produit ?\n\nAlors rejoignez nos équipes commerciales en tant que gestionnaire relation client (f/h).\n\n\nVOTRE CHALLENGE\nVous êtes l'interlocuteur clé de nos clients (OEM et distributeurs), prestataires et services internes. Vous pilotez le suivi des commandes (France et International), de la saisie à la livraison, en veillant au respect de notre politique commerciale.\nVotre rôle est essentiel : vous garantissez une expérience client fluide et qualitative.\n\nVos principales responsabilités :\n- Saisir et valider les commandes, suivre les prévisions, gérer la documentation export, contrôler les règlements et assurer les clôtures.\n- Coordonner les livraisons en lien avec les clients, les prestataires et les transporteurs, en anticipant les contraintes ou aléas.\n- Gérer les litiges (prix ou transport) et proposer des solutions adaptées pour préserver la satisfaction client.\n- Traiter et qualifier les demandes clients : prise d'appels et mails, compréhension du besoin, proposition de solutions techniques ou commerciales.\n- Contribuer au développement commercial : détection d'opportunités, mise à jour du CRM, suivi de dossiers spécifiques.\n- Assurer la conformité administrative en fonction des exigences locales et internationales, notamment sur les marchés export.\n\n\nCE QUE NOUS VOUS OFFRONS\n- Poste en CDI basé à Vinay (38) à 30 minutes à l'ouest de Grenoble.\n- Intéressement, tickets restaurant, charte télétravail...\n- L'intégration au sein d'une équipe engagée et collaborative.\n- Des interactions riches avec les services production, ventes, logistique...\n- Un environnement où initiative, qualité de service et esprit client sont valorisés.\n- Une exposition à un portefeuille international et des perspectives d'évolution vers des fonctions commerciales sédentaires ou terrain.\n\nPROFIL RECHERCHÉ : \n\nVOUS ETES LE CANDIDAT IDEAL SI\nIssu d'une formation en relation clientèle ou commerce international, vous avez une appétence pour l'industrie et les produits techniques. Vous disposez d'une première expérience de la relation client dans laquelle vous avez utilisé un CRM (Salesforce serait un plus). Votre anglais est opérationnel pour la collaboration avec nos clients à l'international.\n\nVous combinez rigueur opérationnelle et sens du service : vous analysez rapidement les besoins, proposez des solutions pratiques et travaillez en collaboration avec la supply chain et les commerciaux. Votre curiosité technique vous aide à comprendre les produits et à accompagner les clients dans leurs choix tout en respectant les exigences logistiques et douanières.\n\n\nParce que le confort de nos clients commence par le bien-être de nos collaborateurs, nous cherchons des talents engagés pour bâtir un avenir durable. Prenez part à notre aventure !\nCette année encore, GROUPE ATLANTIC est certifié \"Top Employer\", une reconnaissance qui valorise la qualité de nos pratiques et processus RH au service de nos équipes. Dans le cadre de sa politique diversité, GROUPE ATLANTIC étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.",
+        "dateCreation": "2026-06-27T04:31:36.000Z",
+        "dateActualisation": "2026-06-27T04:31:36.000Z",
+        "lieuTravail": {
+          "libelle": "38 - Vinay",
+          "latitude": 45.210462,
+          "longitude": 5.403856,
+          "codePostal": "38470",
+          "commune": "38559"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable service relation clientèle",
+        "entreprise": {
+          "nom": "GROUPE ATLANTIC SYNERGY - Société en Nom Collectif",
+          "description": "REJOIGNEZ GROUPE ATLANTIC !\nGROUPE ATLANTIC répond à des besoins essentiels de bien-être et de santé (chauffage, eau chaude sanitaire, climatisation, qualité d'air intérieur) grâce à des solutions de confort thermique de plus en plus éco-efficientes (moins de consommation et plus d'énergies renouvelables) pour l'habitat et le tertiaire."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 32000.0 Euros à 36000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4289471",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/riaeglobpk8/gestionnaire-relation-client",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 4,
+        "_is_remote": true
+      },
+      {
+        "id": "4289922",
+        "intitule": "Ingénieur Commercial H/F",
+        "description": "RESPONSABILITÉS : \n\nLe poste proposé : En tant qu'Ingénieur Commercial au sein de Sincrone IT, vous rejoignez une équipe dynamique et engagée, sous la responsabilité directe du Responsable d'Agence.\nVotre mission principale sera de développer et fidéliser le portefeuille clients de votre secteur en proposant des solutions innovantes en téléphonie mobile et fixe, ainsi que des solutions sur-mesure dans l'intégration de solutions IT en étant accompagné par nos IAV et Responsable d'activités.\nVous assurez la négociation, le suivi et le déploiement des contrats dans le respect de la politique commerciale.\nResponsabilités Principales :\n • Prospection commerciale active, incluant le phoning et la veille du marché pour identifier de nouvelles opportunités d'affaires.\n • Développement commercial et gestion des ventes auprès des entreprises, associations et collectivités, en assurant la promotion des offres et services du Groupe SINCRONE.\n • Réalisation de rendez-vous clients et proposition de solutions adaptées aux besoins spécifiques des clients.\n • Mise en place d'un plan d'action commercial en collaboration avec le manager d'agence pour atteindre les objectifs en conquête et fidélisation de clients.\n • Négociation, suivi et déploiement des contrats conformément à la politique commerciale établie.\n • Utilisation et qualification des outils de CRM pour assurer un suivi efficace des activités commerciales et générer des rapports d'activité détaillés.\n\nPROFIL RECHERCHÉ : \n\nProfil et expériences  De formation commerciale, vous justifiez d'une première expérience (2 ans) dans la vente directe auprès d'entreprises, idéalement dans la vente de solutions télécoms ou informatiques.\nExcellentes compétences en communication et en négociation, avec une capacité démontrée à établir et entretenir des relations client solides.\nVous maitrisez les techniques de vente BtoB.\nVous êtes à l'aise avec les nouvelles technologies et capable de comprendre les enjeux d'optimisation et de rationalisation des télécoms chez vos clients.\nDoté(e) d'un esprit de conquête commerciale, votre goût du défi et votre capacité à convaincre seront vos atouts dans ce projet professionnel. Organisé(e) et doté(e) de qualités relationnelles, vous savez travailler en équipe.\nSi vous êtes passionné par le domaine commercial, avez le sens du challenge et souhaitez évoluer au sein d'une entreprise en pleine expansion, nous serions ravis de recevoir votre candidature.\nRejoignez nous dès maintenant pour faire partie de notre équipe !\nPackage :\nLe package proposé est composé d'un salaire fixe (selon profil) + variable attractif non plafonné + voiture de fonction 5 places + PC + Smartphone + prime d'intéressement + Tickets restaurants + CE\nParcours de recrutement :\nConvaincu et motivé à rejoindre un groupe en croissance ?\nAfin de mieux se connaitre, nous fonctionnons en plusieurs étapes :\n • Echange téléphonique pour mieux cerner vos attentes et orienter votre candidature\n • Entretien avec un manager opérationnel : il vous présentera plus en détail les missions, ce qu'il attend de vous, le mode de fonctionnement de l'équipe, les projets.\n • Entretien avec le DRH : l'objectif est de vous présenter notre groupe, les perspectives de carrière, les contours du poste envisagé, et surtout comprendre qui vous êtes, vos aspirations, vos motivations, votre projet professionnel\nNous nous ferons un plaisir d'échanger avec vous sur le projet et notre ambition si votre profil correspond à nos attentes.",
+        "dateCreation": "2026-06-27T04:31:37.000Z",
+        "dateActualisation": "2026-06-27T04:31:37.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Saint-Herblain",
+          "latitude": 47.244068,
+          "longitude": -1.605885,
+          "codePostal": "44800",
+          "commune": "44162"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Sincrone IT",
+          "description": "Groupe SINCRONE Le Groupe Sincrone apporte à travers ses différents métiers des solutions aux problématiques de nos clients.\nNous basons nos valeurs sur l'honnêteté, la transparence, la proximité et nous plaçons l'humain au cœur de notre stratégie.\nFort d'une stratégie RH et RSE engagée, la diversité, le management collaboratif et le respect de l'environnement sont des points clés à notre développement.\nLes entités Ilco et Digital-liance, ont fusionné en 2025 pour devenir SINCRONE IT."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 40000.0 Euros à 60000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4289922",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/kp3wqffqjy8/ingenieur-commercial-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Nantes",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4304662",
+        "intitule": "Ingénieur(e) d'affaires/ Business Developer X/ F/H en CDI",
+        "description": "Dans le cadre de la croissance de ses activités dans la région Nantaise, AMBI recherche un(e) Ingénieur(e) d'\nAffaires / Business Developer pour renforcer ses équipes.\n\n\nLes Business Developers, véritables intrapreneurs, sont les piliers du développement du Groupe. \n \nVos responsabilités au quotidien ? \n \n\nDéveloppement commercial \n \n- Vous identifiez et prospectez de nouveaux clients.\n- Vous comprenez leurs enjeux et proposez les profils d'\ningénieurs adaptés. \n- Vous construisez une relation de confiance et assurez le suivi et la fidélisation. \n \n\nRecrutement &\nManagement \n \n- Vous jouez un rôle clé dans l'identification et le recrutement des meilleurs talents, en collaboration avec l'équipe Talent Acquisition. \n- Vous constituez et animez votre équipe de consultants en les accompagnant dans leur évolution de carrière. \n- Vous assurez un suivi personnalisé en prenant en compte leurs aspirations (projets, secteurs d'activité.) et en favorisant leur montée en compétences (entretiens annuels, formations.). \n \n\nGestion de votre Business Unit \n \n- En véritable intrapreneur, vous développez et optimisez votre activité, tout en vous appuyant sur la solidité d'un groupe reconnu. \n- Vous êtes garant de la rentabilité de votre Business Unit en mettant en place une stratégie adaptée et en pilotant vos indicateurs de performance. \n \n \nPourquoi rejoindre ABMI ?\n \n- Dès votre arrivée, vous serez coaché(e) par un(e) manager ayant démontré lors d'un assessment sa capacité à vous accompagner dans votre montée en compétences ;\n\n- Des perspectives d'\névolution claires et méritocratiques.\n\nVous saurez exactement sur quels critères vous serez évalué(e) pour progresser ;\n\n- Grâce à Campus Booster, des formations régulières et adaptées à votre poste et vos responsabilités ;\n\n- Un package évolutif, reflétant votre implication, qui comprend une rémunération fixe, un variable déplafonné versé chaque mois et d'autres avantages (salaire fixe = 28000€ brut par an, package total la première année = environ 45000€ brut par an) ;\n\n- Un environnement dynamique et stimulant au sein d'un Groupe en pleine expansion ;\n\n- A moyen terme, vous pourrez aussi explorer d'autres secteurs d'activité, villes, métiers, marques du groupe HOUSE OF ABY...​ \n\n\n\n\n\n\nIssu(e) d'une formation supérieure (BAC+5) en école d'ingénieurs, de commerce ou équivalent, vous avez un fort intérêt pour l'innovation technologique, les métiers techniques et l'ingénierie. \n \nDoté(e) d'un esprit dynamique et proactif, vous aimez vous dépasser et évoluer dans des environnements challengeants.\n\nAnimé(e) par la performance et l'amélioration continue, vous savez faire preuve de résilience et de persévérance. \n \nVous possédez un excellent sens du relationnel, êtes à l'écoute et avez une réelle capacité à créer du lien et à fédérer autour de vous. \n\n\nVous avez idéalement une première expérience business (prospection, KPIs commerciaux.).\n \n\nSi vous vous reconnaissez dans ce profil et que vous êtes prêt(e) à relever de nouveaux défis, postulez dès maintenant ! \n \nLe process de recrutement \n \nAprès un entretien et des cas pratiques avec un des membres de l'équipe Corporate Talent Acquisition HOUSE OF ABY, vous rencontrerez votre futur(e) manager puis le Directeur Région. \n \nVous souhaitez vous projeter encore plus dans le quotidien du rôle ? Nous vous proposons d'effectuer un Action Day, une demi-journée d'immersion dans le quotidien d'un(e) BM. \n \nDans le cadre de l'\négalité des chances, toutes nos offres d'\nemploi sont ouvertes aux personnes en situation de handicap.",
+        "dateCreation": "2026-06-27T07:04:53.000Z",
+        "dateActualisation": "2026-06-27T07:04:53.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "latitude": 47.206267,
+          "longitude": -1.538056,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "M1403",
+        "romeLibelle": "Chargé / Chargée d'études socio-économiques",
+        "appellationlibelle": "Chef / Cheffe de projet études socio-économiques",
+        "entreprise": {
+          "nom": "ABMI"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "82.91Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4304662",
+          "partenaires": [
+            {
+              "nom": "CLIC_POWER",
+              "url": "https://www.clicandpower.fr/offre-emploi/ido/1363179.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/clic_power80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Nantes",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4303989",
+        "intitule": "Chef D'Équipe Payroll - Luxembourg-Gare, Télétravail et Horaires Flexibles (H/F)",
+        "description": "Chef D’Équipe Payroll – Luxembourg-Gare, Télétravail et Horaires Flexibles  Entreprise luxembourgeoise de référence située à Luxembourg Ville, solidement implantée depuis de nombreur/euses années, cette structure connaît aujourd’hui une phase de transformation et de croissance.Afin d’accompagner cette évolution, elle renforce son département Secrétariat Social et crée un rôle clé de Chef d’Équipe Payroll, pensé comme un véritable levier de structuration et de développement.À la tête d’une équipe à taille humaine, vous bénéficierez d’une large autonomie pour organiser l’activité, optimiser les process et apporter votre vision. Une formation progressive et un accompagnement sont prévus afin de vous permettre de prendre pleinement vos fonctions et d’évoluer durablement au sein de l’entreprise. Vos responsabilités | Chef D’Équipe Payroll – Société Commerciale - Luxembourg Vous prenez la responsabilité d’une équipe à taille humaine que vous pilotez avec proximité, autonomie et une vision globale de l’activité.Véritable référent(e) paie, vous êtes la personne ressource sur laquelle l’équipe et la direction peuvent s’appuyer. Vous apportez votre expertise technique, conseillez et faites progresser les gestionnaires grâce à une approche structurée et pédagogique.En tant que manager opérationnel, vous intervenez lorsque nécessaire sur des dossiers complexes, sensibles ou à forts enjeux, en garantissant qualité, conformité et fiabilité des traitements de paie.Vous jouez un rôle central dans l’intégration des nouveaux collaborateurs en mettant en place un onboarding clair, rassurant et motivant, favorisant une prise de poste rapide et durable. Profil et parcours | Chef D’Équipe Payroll – Société Commerciale - Luxembourg Vous justifiez d’au moins 6 années d’expérience dans la gestion de salaires, acquises en fiduciaire ou au sein d’une société commerciale.Le français est votre langue de travail quotidien/ienne ; vous disposez d’un bon niveau en allemand. La maîtrise du luxembourgeois et/ou de l’anglais constitue un atout différenciant.La connaissance des outils Apsal, Gesper ou Keypaye est fortement appréciée et facilitera votre intégration. Offre & avantages | Chef D’Équipe Payroll – Société Commerciale - Luxembourg Un environnement de travail stable, sain et pérenne, porté par une entreprise solidement implantée au Luxembourg, avec une gouvernance claire et des décisions cohérentes.Une équipe engagée, professionnelle et bien structurée, où règnent respect, entraide et esprit collectif.Une rémunération attractive pouvant atteindre . € brut/an, ajustée en fonction de votre expérience et de votre valeur ajoutée.Une organisation du temps de travail flexible et adaptée à vos contraintes personnelles, avec un réel respect de l’équilibre vie professionnelle / vie privée.Un poste à fort impact, offrant visibilité, reconnaissance et réelles perspectives d’évolution, au sein d’une entreprise qui investit durablement dans ses talents. Abiomis est une agence de recrutement et de conseil spécialisée dans les domaines financier et juridique au Luxembourg et en Belgique, offrant des postes s jusqu’à Partner dans tout le pays.Chez Abiomis, nous apprécions ce qui compte le plus pour vous. Nous savons que l'écoute est essentielle et, ce faisant, cela nous permet de déterminer ensemble les opportunités qui pourraient vous convenir le mieux ainsi qu'à vos critères. Que vous soyez candidat ou entreprise, nous sommes là à chaque étape et il nous fera plaisir de vous accompagner dans votre évolution.",
+        "dateCreation": "2026-06-27T07:00:38.000Z",
+        "dateActualisation": "2026-06-27T07:00:38.000Z",
+        "lieuTravail": {
+          "libelle": "Luxembourg"
+        },
+        "romeCode": "G1206",
+        "romeLibelle": "Croupier / Croupière",
+        "appellationlibelle": "Assistant / Assistante clientèle Machines à Sous - MAS",
+        "entreprise": {
+          "description": "Abiomis est une agence de recrutement et de conseil spécialisée dans les domaines financier et juridique au Luxembourg, offrant des fonctions juniors jusqu'à des postes de partners dans tout le pays.Nos partenaires sont des prestataires de services financiers et des cabinets d'avocats de premier plan au Luxembourg, composés de petites entreprises à taille humaine ainsi que d'acteurs de premier plan du marché.Notre équipe est composée de consultants hautement qualifiés et expérimentés, partage..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4303989",
+          "partenaires": [
+            {
+              "nom": "MOOVIJOB",
+              "url": "https://www.moovijob.com/offres-emploi/abiomis/chef-dequipe-payroll-luxembourg-gare-teletravail-et-horaires-flexibles-74d23",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4290019",
+        "intitule": "Responsable de comptes H/F",
+        "description": "RESPONSABILITÉS : \n\nDans le cadre d'un remplacement suite à une réorganisation interne, ARMONIA recherche un profil de Responsable de Comptes expérimenté.\nVous intervenez pour le compte de notre expertise dédiée aux services aux occupants d'immeuble tertiaire (gestion multiservice/ services aux occupants hors maintenance), et êtes rattaché(e) hiérarchiquement à la Responsable d'activités. En lien avec notre équie exploitation, vos missions seront les suivantes :\n\nManagement des collaborateurs sur site :\n • Valider le recrutement des personnes affectées sur les sites clients (profils : factotum, administratif, environnement de travail, petit entretien technique,...)\n • Animer et superviser les équipes au quotidien\n • Motiver et accompagner les équipes dans leur développement \n • Réaliser les entretiens annuels et professionnels\n • Gérer la partie disciplinaire\n\n\nGestion d'un portefeuille client :\n • Respecter les accords contractuels signés dans la mise en place et le suivi de la prestation \n • Assurer les RDV sur sites auprès des clients lors du démarrage puis selon la fréquence définie \n • Mettre en place des plans d'actions en vue d'assurer la satisfaction client\n • Fidéliser et développer son portefeuille client (environ 45 sites)\n\n\nGestion administrative / pilotage financier d'une BU :\n • Réaliser des devis, bons de commande \n • Effectuer la facturation dans le respect des marges\n • Analyser les marges de votre portefeuille et piloter le chiffre d'affaire\n • Réaliser le contrôle des paies de vos collaborateurs \n • Gérer les plans de prévention \n • Assurer l'analyse des risques sur sites\n\nPROFIL RECHERCHÉ : \n\nCe poste est idéal pour vous si vous avez déjà une expérience confirmée en gestion de la relation client dans le secteur de la prestation de service, et dans le management d'une équipe.\nVous êtes reconnu(e) pour votre sens du service, de la négociation mais également pour vos capacités managériales et votre autonomie.\nVous souhaitez vous épanouir dans un poste où vous pourrez être force de proposition tout en intégrant une équipe très conviviale et dynamique !\n\nLocalisation et déplacements\nParis (15)\nDes déplacements sont à prévoir à Paris et en IDF\nContrat\nCDI statut cadre\nRémunération\nEntre 35 000€ et 42 000€ bruts annuels + 4 100€ de variable sur objectifs (+ 12 RTT + Titres Restaurant + CSE + 1j de TT/semaine)\nDémarrage du contrat\nDébut septembre\n\n\nNotre processus de recrutement\n • Préqualification téléphonique. \n • Entretien RH. \n • Entretien avec votre futur N+1. \n\nAu-delà du parcours, nous recherchons avant tout une personnalité. Rejoindre Armonia, c'est intégrer un groupe international et familial en pleine croissance, animé par des valeurs d'exigence et d'innovation, où la performance se construit dans la collaboration.\nNos collaborateurs évoluent dans un cadre de travail moderne, avec un accompagnement dès l'intégration, des opportunités d'évolution et la possibilité de s'impliquer dans des projets porteurs de sens.\nChez ARMONIA, nous sommes convaincus que la diversité, la mixité et l'inclusion sont des leviers essentiels de performance et d'innovation. Nous veillons à offrir un environnement de travail respectueux des différences, permettant à chacun d'exprimer pleinement son potentiel et de contribuer à notre réussite collective.",
+        "dateCreation": "2026-06-27T04:31:37.000Z",
+        "dateActualisation": "2026-06-27T04:31:37.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
+        "entreprise": {
+          "nom": "ARMONIA",
+          "description": "ARMONIA est le leader de l'harmonie dans les environnements de travail.\n\n\n\nAvec une offre couvrant plus de 40 métiers de services, ARMONIA a réalisé en 2024 un chiffre d'affaires de plus de 400 millions d'Euros et rassemble près de 11 000 collaborateurs.\n\n\n\nARMONIA est une division du groupe familial français SOFINORD qui depuis plus de 50 ans vise l'excellence du service.\n\n\n\nRejoindre ARMONIA, c'est intégrer une entreprise résolument tournée vers la satisfaction de ses clients."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 35000.0 Euros à 42000.0 Euros"
+        },
+        "dureeTravailLibelle": "39H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4290019",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/8m4nr9hgyy8/responsable-de-comptes-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "39H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4284150",
+        "intitule": "Business & Delivery Manager F/H h/f",
+        "description": "Business & Delivery Manager F/H\n\nDescription de poste\n\nVous rejoignez CGI, leader mondial du conseil et des services numériques à Pau et accompagnez nos clients.\n\nA Pau, nos équipes accompagnent nos clients dans la mise en œuvre de projets stratégiques et interviennent aussi bien en amont des projets dans le cadre de missions de conseil, sur la partie développement, que sur les phases d’intégration et de maintenance de solutions.\n\nSous la responsabilité du Vice-Président, vous rejoignez la cellule managériale de l’entité. Vous êtes en charge de la relation client, du développement d’un portefeuille d’affaires du domaine et de la gestion d'un P&L.\n\nVotre mission consistera à dynamiser votre périmètre, avec votre équipe, tout en créant de nouvelles opportunités.\n\nFonctions et responsabilités\n\nVos missions sont les suivantes:\n\n=> Relation client et développement des affaires :\n\n- Développement commercial (prospection)\n\n- Promouvoir la visibilité du savoir-faire de CGI auprès des clients locaux et sur le marché.\n\n=> Gestion des opérations :\n\n- Pilotage et atteinte des objectifs en matière de rentabilité\n\n- Participation aux instances de gouvernance des projets\n\n- Pilotage des missions et des consultants sur votre périmètre\n\n=> Management :\n\n- Responsabilité d’une équipe de 15 collaborateurs et collaboratrices\n\n- Accompagnement et développement de carrière\n\n- Recrutement et animation RH\n\nEn nous rejoignant, vous bénéficiez notamment des avantages suivants :\n\n- Offre complète de formations : techniques, métiers, développement personnel\n\n- Qualité de vie au travail : jusqu’à 3 jours de télétravail par semaine, 27 jours de congés payés, RTT, congés ancienneté et enfant malade, programme santé & bien-être\n\n- Avantages sociaux : régime d’achats d’actions, participation, PEE, Compte Epargne Temps\n\nEt bien d'autres encore !\n\nQualités requises pour réussir dans ce rôle\n\nVous connaissez le monde du service IT avec au moins 2 ans d'expérience sur un poste similaire. Vous disposez de compétences solides en prospection et stratégie commerciale ainsi qu'en gestion des opérations.\n\nAu-delà de votre expérience, nous recherchons une personne motivée et inspirante, capable de partager la vision CGI avec nos clients, nos équipes et nos partenaires.\n\nLa maîtrise de l'anglais est indispensable.\n\nCGI est un employeur inclusif et attentif aux candidatures des personnes en situation de handicap, à l’évolution de carrières des hommes et des femmes et au bien-être de nos salariés LGBT+. Dans un souci d’accessibilité et de clarté, le point médian n’est pas utilisé dans cette annonce. Tous les termes employés se réfèrent aussi bien au genre féminin que masculin.\n\nEnsemble, en tant que propriétaires, mettons notre savoir-faire à l’œuvre.\n\nLa vie chez CGI est ancrée dans l’actionnariat, le travail d’équipe, le respect et un sentiment d’appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que…\n\nNous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C’est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l’orientation et à la stratégie de notre entreprise.\n\nVotre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d’une expertise sectorielle et technologique de pointe.\n\nVous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.\n\nCe même engagement envers l’équité s’étend à notre utilisation des technologies. Afin de soutenir notre équipe de recrutement, des outils d’IA peuvent être utilisés pour aider à l’évaluation des candidatures, sans jamais remplacer le jugement humain. Toutes les décisions d’embauche demeurent entièrement entre les mains de nos professionnels du recrutement.\n\nJoignez-vous à nous, l’une des plus importantes entreprises de conseil en technologie de l’information (TI) et en management au monde.",
+        "dateCreation": "2026-06-26T22:27:50.000Z",
+        "dateActualisation": "2026-06-26T22:27:50.000Z",
+        "lieuTravail": {
+          "libelle": "64 - Pau",
+          "latitude": 43.294675,
+          "longitude": -0.370792,
+          "codePostal": "64000",
+          "commune": "64445"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable développement / Business Developer",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4284150",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/J0626-2293#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4290021",
+        "intitule": "CONSEILLER D'ENTREPRISE ARTISANS COMMERCANTS SERVICES H/F",
+        "description": "RESPONSABILITÉS : \n\nSi vous êtes conseiller(ère) auprès des artisans, des commerçants ou des entreprises prestataires de services et que vous recherchez un environnement bienveillant et près de chez vous, attention, cette annonce est peut-être pour vous !\nVotre futur challenge :\nIntégré(e) à une équipe conseil, vous prendrez en charge un portefeuille de clients pour lequel vous serez l'interlocuteur privilégiez et vous assurez :\n\n • Le conseil stratégique dans les orientations et le développement des entreprises du secteur artisans/commerçants (maitrise des montages financiers avec holding - création de société avec apport ou vente)\n • Le conseil de gestion (analyse des chiffres pour les transformer en action concrète pour le client)\n • Le conseil financier et juridique,\n • La réalisation d'études économiques,\nLa liste n'est pas exhaustive, vos idées, projets et aspirations seront toujours les bienvenus !\n\nPROFIL RECHERCHÉ : \n\nSi vous êtes toujours là, j'en déduis que les missions vous ont convaincu ?\nAlors maintenant, parlons de vous ! Voici ce que nous attendons de vous :\n • Vous êtes de formation supérieure Master économie gestion d'entreprise ou équivalent,\n • Vous recherchez un métier de contact auprès d'une clientèle artisans/commerçants,\n • Vous êtes force de proposition et vous aimez être proactif\nSi cette description ressemble à la vôtre, nous sommes faits pour collaborer !\n& voici les avantages que nous mettons à votre disposition :\n • Le salaire brut annuel est de 31 à 37 K€ selon expérience avec possibilité d'évolution\n •  Primes (13ème mois, objectifs, accord d'intéressement et de participation)\n • Accord 35heures, 39h effectives avec 22 RTT par an\n • Accord télétravail\n • Mutuelle prise en charge à 100% pour le salarié\n • Autonomie dans votre gestion du temps grâce à des horaires flexibles\n •  Tickets restaurants\n •  CSE qui offre de nombreux avantages (chèques cadeaux, négociations annuelles...) !\nEt ce n'est pas tout :\n • Un parcours d'intégration et tutorat pour vous accompagner pleinement dans votre prise de poste !\n • Rejoindre un cabinet avec de fortes valeurs humaines.\nSelon votre mobilité géographique, le poste sera basé à Caen, Thury-Harcourt, Vire ou Mortain avec des déplacements hebdomadaires à prévoir sur ce secteur.\nProcessus de recrutement :\nNous étudions et répondons à toutes les candidatures. Après un premier contact téléphonique avec Estelle du service RH, nous aurons le plaisir de vous convier à un premier entretien d'échange. Nous apprendrons à vous connaître grâce à un test de personnalité et à un test métier. A l'issue de cet entretien et de ces tests, un second entretien sera positionné avec votre(vos) futur(s) Responsable(s) hiérarchique(s).\nPrêt(e) à rejoindre une équipe dynamique et bienveillante près de chez vous ?\nNous vous attendons ! Venez rejoindre notre équipe de collaborateurs passionnés et donnez un nouveau souffle à votre carrière.",
+        "dateCreation": "2026-06-27T04:31:38.000Z",
+        "dateActualisation": "2026-06-27T04:31:38.000Z",
+        "lieuTravail": {
+          "libelle": "14 - Saint-Contest",
+          "latitude": 49.213627,
+          "longitude": -0.399966,
+          "codePostal": "14280",
+          "commune": "14566"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "entreprise": {
+          "nom": "CERFRANCE NORMANDIE OUEST",
+          "description": "Première entreprise associative d' expertise comptable et de conseil sur les territoires de la Manche et du Calvados, Cerfrance Normandie Ouest est le partenaire stratégique des entreprises agricoles, des artisans, des commerçants et des professions libérales depuis plus de 70 ans.\nNos 465 collaborateurs, répartis dans 15 agences de proximité, interviennent pour répondre à leurs exigences réglementaires et apportent un conseil d'expert dans la gestion de leur entreprise."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 31000.0 Euros à 37000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4290021",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/1w8kpb9jup8/conseiller-d-entreprise-artisans-commercants-services-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4289409",
+        "intitule": "Conseiller Assurance Epargne et Prévoyance ( H/F)",
+        "description": "RESPONSABILITÉS : \n\nLe poste de Conseiller(e) en Assurance est un rôle clé, avec des responsabilités diversifiées et enrichissantes.\nLes missions principales de ce poste sont les suivantes :\n\n\nAu sein de l'agence :\n • Gestion d'un portefeuille client particulier : suivi des contrats, avenants, développement commercial, gestion administrative et des encaissements....\nAu sein du cabinet sur l'ensemble des 4 agences :\n • Vous aurez en charge la gestion d'un portefeuille VIP et l'animation du marché « Épargne et Prévoyance » pour le marché du particulier. En collaboration étroite avec les dirigeants, vous devrez animer l'équipe de conseillers particuliers, les accompagner et les former sur les offres et le démarche commerciale\n • Vous pourrez être amener à évoluer au sein des 4 agences concernant la gestion des clients VIP\nLes enjeux de cette mission sont nombreux : assurer la satisfaction client, développer le portefeuille, et participer activement aux campagnes commerciales.\n\nPROFIL RECHERCHÉ : \n\nVous êtes un(e) Conseiller(e) en Assurances expérimenté(e), ayant impérativement un minimum de 3 ans d'expérience dans un poste en Prévoyance et en Épargne chez un agent général. Vous maitrisez déjà les principes généraux des offres et avez développé une connaissance des outils et logiciels permettant un traitement rapide et précis des demandes des clients.\n\n\nVous avez également développé des compétences en IARD ( Incendies, Accidents, Risques Divers). Vous maitrisez déjà les principes généraux des offres et des outils associés.\n\n\nVous êtes pédagogue pour accompagner les autres collaborateurs sur les prestations de prévoyance et les solutions d'épargne.\n\n\nVous savez organiser et prioriser les tâches de manière autonome tout en étant capable de collaborer efficacement avec les membres de l'équipe.\n\n\nLes éléments de rémunération\n\n\nLe poste, en CDI et à temps plein (35 heures par semaine), du Mardi au Samedi matin offre une opportunité de carrière stimulante.\n\n\nPoste situé à Châteaugiron.\n\n\nUne rémunération fixe sera positionnée en fonction de votre expérience et des compétences développées dans une fourchette de 30 000€ à 35 000€ Bruts annuels.\n\n\nUne rémunération variable attractive et significative pouvant atteindre plusieurs mois de salaire est également prévue en lien avec le développement du portefeuille\n\n\nDe plus, vous bénéficiez des avantages suivants :\n\n\n • Une mutuelle santé et prévoyance aux prestations élevées.\n • Des congés payés de 6 semaines.\n • Des tickets restaurant",
+        "dateCreation": "2026-06-27T04:31:34.000Z",
+        "dateActualisation": "2026-06-27T04:31:34.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Châteaugiron",
+          "latitude": 48.055586,
+          "longitude": -1.449259,
+          "codePostal": "35410",
+          "commune": "35069"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère en assurances",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Rejoignez un cabinet d'assurance dynamique, où convivialité et professionnalisme se rencontrent au sein d'une équipe soudée de 3 collaborateurs.\nCette entreprise place la satisfaction client au cœur de ses valeurs.\nVous évoluerez dans un cadre bienveillant qui privilégie l'épanouissement de chacun.\nChaque journée est une occasion de faire la différence dans un environnement stimulant, propice à l'investissement personnel et à la réussite collective"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 35000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4289409",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/4j2l0b1m1j8/conseiller-assurance-epargne-et-prevoyance-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4289326",
+        "intitule": "Conseiller Assurance Professionnel et Entreprise ( H/F)",
+        "description": "RESPONSABILITÉS : \n\nDescription de la mission et des enjeux\n\n\nLe poste de Conseiller en Assurance Professionnel et Entreprise est un rôle clé, avec des responsabilités diversifiées et enrichissantes.\n\n\nLes missions principales de ce poste sont les suivantes sur les prestations I ARD :\n\n • Gérer un portefeuille clients Professionnels d'environ 150 relations. Vous devrez effectuer le suivi de ce portefeuille, bilan assurance, gestion des avenants, développement,..\n • Assurer le développement commercial par la proactivité sur le portefeuille (multi-équipement), la cooptation, la démarche réseau et/ou tout autres approches souhaitées pour permettre d'augmenter la base client de votre portefeuille\n • Travailler en collaboration avec le dirigeant pour les études auprès de différents dossiers prospects, approche réseau\n\n\nLes enjeux de ces missions sont nombreux : assurer la satisfaction client, développer le portefeuille, et participer activement aux campagnes commerciales.\n\n\nLes activités comprennent l'accueil, l'information et le conseil des sociétaires en identifiants les besoins clients et en proposant les solutions adaptées. Vous serez également conduit à assurer le traitement des courrier et mails, ainsi que la gestion administrative courante.\n\n\nVos perspectives d'évolution :\nVous pouvez évoluer au sein de structure sur différents marchés et segments de client. Vos missions peuvent également évoluer en fonction de vos appétences et vos propositions selon les perspective de développement envisagées.\n\nPROFIL RECHERCHÉ : \n\nDescription du profil attendu\n\n\n\nVous êtes un(e) Conseiller(e) en Assurances Professionnelles expérimenté(e), ayant impérativement un minimum de 3 ans d'expérience réussie chez un courtier ou un agent d'assurance dans le segment Professionnel et Entreprise.\n\nVous maitrisez en priorité le domaine IARD (Incendies, Accidents, Risques Divers).\n\n\n\nVous êtes en capacité d'assurer un service client exceptionnel et être le premier point de contact pour nos clients en gérant avec aisance les interactions téléphoniques, écrites et en face-à-face. Une communication claire, courtoise et efficace est essentielle.\n\n\n\nVous savez organiser et prioriser les tâches de manière autonome tout en étant capable de collaborer efficacement avec les membres de l'équipe.\n\n\n\nCaractéristiques contractuelles et rémunération :\n\n\n\nLe poste est positionné en CDI et à temps plein à hauteur de 35 heures hebdomadaires sur Cesson Sévigné.\n\n\n\nUne rémunération fixe sera positionnée en fonction de votre expérience et des compétences développées dans une fourchette de 30 000 à 42 0000 Bruts annuels.\n\n\n\nUne commission attractive et importante liée au développement du portefeuille est également prévue pouvant constituer un rémunération complémentaire.\n\n\n\nLes horaires de travail sont positionnés du Lundi au Vendredi\n\n\n\nDe plus, vous bénéficiez des avantages suivants :\n\nUne mutuelle santé et prévoyance aux prestations élevées\n\nDes congés payés de 6 semaines.\n\nDes tickets restaurant sont également prévus.",
+        "dateCreation": "2026-06-27T04:31:34.000Z",
+        "dateActualisation": "2026-06-27T04:31:34.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Cesson-Sévigné",
+          "latitude": 48.120148,
+          "longitude": -1.603791,
+          "codePostal": "35510",
+          "commune": "35051"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère en assurances",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Rejoignez un cabinet d'assurance dynamique spécialisé Pro et Entreprise, où convivialité et professionnalisme se rencontrent au sein d'une équipe soudée de 5 collaborateurs.\nCette entreprise place la satisfaction client au cœur de ses valeurs.\nVous évoluerez dans un cadre bienveillant qui privilégie l'épanouissement de chacun.\nChaque journée est une occasion de faire la différence dans un environnement stimulant, propice à l'investissement personnel et à la réussite collective"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 42000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4289326",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/3rk4cy6qhq8/conseiller-assurance-professionnel-et-entreprise-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4289439",
+        "intitule": "COMMERCIAL·E MÉDIA B2B (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVotre mission\nEn véritable ambassadeur·rice de nos solutions publicitaires, vous développez l'activité commerciale web & print à l'échelle nationale.\nVos responsabilités\nDéveloppement commercial\n•    Prospecter et conquérir de nouveaux clients (enseignes, franchiseurs)\n•    Présenter nos offres et solutions publicitaires sur-mesure\n•    Construire des relations durables avec les décideurs (Dirigeants, Directeurs développement, Directeurs communication)\nGestion & suivi\n•    Piloter votre portefeuille clients et prospects\n•    Assurer un suivi rigoureux : devis, relances, reporting, règlements\n•    Fidéliser et renouveler vos contrats\nApproche multi-canal\n•    Maîtriser tous les leviers : téléphone, e-mail, réseaux sociaux, salons professionnels, rendez-vous terrain\nCe que nous vous offrons\n•    CDI — stabilité et sécurité\n•    Rémunération attractive : fixe entre 2 500 € et 3 500 € + variable non plafonné (prime trimestrielle de 2 000 € sur le palier 1, puis 3 % au-delà)\n•    Mutuelle d'entreprise\n•    Environnement stimulant au sein d'une équipe passionnée\n•    Secteur dynamique : l'univers de la franchise en pleine expansion\n\nPROFIL RECHERCHÉ : \n\nVotre profil\nExpérience & compétences\n•    Expérience confirmée en vente B2B (3-5 ans). Une expérience dans les médias, la communication ou la franchise est un atout majeur.\n•    Chasseur·se dans l'âme : la prospection et le closing sont vos terrains de jeu\n•    Aisance relationnelle : aussi performant·e au téléphone qu'en face-à-face\n•    Maîtrise des outils digitaux et des techniques de vente modernes\nQualités personnelles\n•    Enthousiasme et force de conviction\n•    Ténacité et goût du challenge\n•    Esprit d'équipe authentique\n•    Rigueur dans le suivi et l'organisation\n•    Énergie positive et engagement sans faille\nVous êtes prêt·e à vous investir à 200 % dans une aventure professionnelle stimulante ? Votre place est parmi nous !",
+        "dateCreation": "2026-06-27T04:31:34.000Z",
+        "dateActualisation": "2026-06-27T04:31:34.000Z",
+        "lieuTravail": {
+          "libelle": "67 - Strasbourg",
+          "latitude": 48.592028,
+          "longitude": 7.696481,
+          "codePostal": "67000",
+          "commune": "67482"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Conseiller commercial / Conseillère commerciale sédentaire",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Notre client est un acteur majeur de la communication dans l'univers de la franchise. Basé à Strasbourg, il rayonne via plusieurs sites web de référence et un magazine print reconnu. Trait d'union stratégique entre les enseignes et les futurs entrepreneurs, il propose une offre publicitaire web & print à 360° et recrute pour accélérer son développement commercial à l'échelle nationale."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 42000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4289439",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/0qfga77bg88/commercial-e-media-b2b-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Commercial B2B",
+        "_ville_recherchee": "Strasbourg",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4284164",
+        "intitule": "Conseiller-ère de Clientèle Professionnels - F/H h/f",
+        "description": "Description de l'entrepriseBienvenue à la Banque Populaire du Nord, Ça c’est nous ! Ici, on est proches de nos clients ? et fiers d’agir chaque jour pour faire vivre les projets de notre territoire ?. La Banque Populaire du Nord fait partie du 2nd plus grand groupe bancaire français (BPCE) avec 126 agences de proximité, 6 Centres d'Affaires Entreprises et 3 agences Patrimoniales dans le Nord, le Pas de Calais, La Somme, l'Aisne et les Ardennes. A la Banque populaire du Nord, notre raison d'être résonne en chaque action que nous entreprenons : Créateurs de liens, nous accompagnons durablement et avec dynamisme ceux qui vivent et entreprennent sur notre territoire et son littoral. On aime quand ça bouge, quand les idées fusent ?, et surtout… quand on les réalise ensemble. Ingéniosité, esprit d’équipe, leadership et innovation : c’est ce qui nous anime vraiment au quotidienPoste et missionsAu sein de l'agence de Marcq en Baroeul, Michel et son équipe recherchent leur-e futur-e collègue. Ton futur job ? ✨ En tant que Conseiller·ère de Clientèle Professionnels, tu joueras un rôle clé dans la vie de nos clients Professionnels (artisans, commerçants et professions libérales. Ton quotidien consiste à: - Créer une vraie relation de confiance avec eux ?, en étant présent(e) à chaque étape de leurs projets. - Proposer des solutions bancaires et d’assurance qui collent à leurs besoins (et rêves !) ?✨ - Développer ton portefeuille avec autonomie et ingéniosité en menant des actions de prospection ? - Travailler main dans la main avec ton équipe pour atteindre vos objectifs communs (et fêter vos réussites ensemble) ? - Instruire les dossiers de crédit et en assurer leur renouvellement. - Gérer au quotidien les risques de ton portefeuille, veiller à la rentabilité des opérations mises en place à la clientèle.Profil et compétences requisesCe qu’on attend de toi✅ - Tu as au moins un Bac +3/5 (banque, commerce ou équivalent) ? - Tu as déjà une expérience de minimum 3 ans dans le secteur bancaire ou assurance. - Tu es à l’aise dans la relation, tu aimes écouter, conseiller, proposer ❤️ - Tu sais joindre l'action aux idées pour transformer les projets en réussite ✋ - Tu crois en la force du collectif et tu sais que les meilleures idées naissent à plusieurs ?? Prêt·e à embarquer ?? 1. Après avoir déposé ta candidature, celle-ci est reçue et examinée par Marie (chargé-e de recrutement) en lien avec les managers opérationnels. 2. Ça match ? Dans ce cas, on te contacte par appel téléphonique pour faire connaissance. 3. Ça match toujours ? Tu seras invité-e à réaliser un test de personnalité Assesfirst avant de rencontrer Selma (RRH) pour échanger sur ton parcours, tes projets et qu’elle te présente notre banque et opportunités. 4. A l’issue de cet entretien, tu seras invité-e à rencontrer ton futur-e manager au sein de ta future agence. 5.Enfin, nous intégrons la prise de références afin d'assurer une évaluation complète des candidats et de garantir un meilleur alignement avec les valeurs et les exigences de notre entreprise. Pour plus d’infos, n’hésite pas à jeter un coup d’œil sur notre : page carrièreInformations complémentaires sur le postePourquoi tu vas te plaire chez nous ?? - Parce qu’on te fait confiance et on t’encourage à prendre des initiatives ? - Parce qu’on t’aide à te développer, à faire évoluer ta carrière, à oser ? - Parce que tu rejoins une banque coopérative, qui appartient à ses clients sociétaires et agit pour son territoire ?️ - Et parce qu’on sait aussi prendre soin de toi : Fixe annuel + un variable commercial fixé sur des objectifs individuels et collectifs Primes d’intéressement et de participation Primes diverses (crèche, garderie, scolarité etc…) Plan d’épargne entreprise et plan épargne retraite Prise en charge par la BPN de ton abonnement de transport en commun à 75%, Plusieurs dispositifs d’accompagnements à la parentalité et aux aidants familiaux Un régime de prévoyance et santé Carte ticket restaurant ou restaurant d'entreprise selon ta localisation Une tarification avantageuse sur la gamme de produits et services bancaires Des accompagnements financiers à ta mobilité géographique Les avantages du CSE",
+        "dateCreation": "2026-06-26T22:27:50.000Z",
+        "dateActualisation": "2026-06-26T22:27:50.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Marcq-en-Barœul",
+          "latitude": 50.673262,
+          "longitude": 3.093636,
+          "codePostal": "59700",
+          "commune": "59378"
+        },
+        "romeCode": "D1403",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
+        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4284164",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BPN03359#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Commercial B2B",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4284166",
+        "intitule": "Chargé de Prestations Clients (H/F) - Activité Middle Office Promotion Immobilière h/f",
+        "description": "Description de l'entrepriseLa Direction Expertises Prestations & accompagnement Client recrute un Chargé de Prestations Clients (H/F) au sein du Département Crédits Pro / Marchés BDR / PIM - Activité Middle Office Promotion Immobilière. Au sein de ce Département, vous partagez votre expertise, assurez la gestion des dossiers et êtes en relation avec la Direction PIM et les clients. Finalité de l’emploi La Direction de Département Crédits appuie nos commerciaux et nos clients dans la mise en œuvre et la gestion des financements Moyen Long Terme, Court Terme, Déblocages des fonds et proposés à l’ensemble de notre clientèle sur le Marché de la Promotion Immobilière. Au sein du Middle Office PIM, le Chargé de prestations clients assure la gestion opérationnelle et sécurisée des crédits de Promotion Immobilière, depuis la contractualisation jusqu’à la clôture, en garantissant : La conformité juridique et réglementaire, La maîtrise du risque crédit et opérationnel, La fiabilité des déblocages de fonds, La fluidité de la relation Front / Notaires / Directions expertes. Poste et missionsMissions Principales Organiser et assurer le traitement des opérations bancaires dans le domaine d’activités confié. Contractualisation et mise en force Rédiger, contrôler et mettre en place les contrats de crédits PIM (CT, MLT, GFA, crédits investisseurs, prêts à impact le cas échéant) en relation avec le Front et nos Client. Assurer la coordination avec les Notaires Banque et les directions juridiques. Vérifier la complétude et la conformité des dossiers avant mise en force (garanties, conditions suspensives, pièces juridiques). Suivi des marchés de travaux Analyser et contrôler les marchés de travaux (cohérence avec la balance financière et le plan de financement). Suivre les postes budgétaires dans les outils dédiés (ex. VBANK/DEFIMMO). Identifier les dépassements, arbitrages ou anomalies et proposer les traitements adaptés (avenants, révisions, alertes). Gestion des facturations et déblocages Contrôler la conformité des factures (nature des travaux, cohérence budgétaire, avancement réel). Valider et exécuter les déblocages de fonds, dans le respect des procédures PIM et des délégations. Gérer les situations sensibles : dépassements de seuils, demandes exceptionnelles, délais contractuels. Vie du crédit et évènements Traiter les avenants, prorogations, réaménagements et autres évènements sur la vie du crédit. Assurer le suivi administratif et financier jusqu’à la clôture des opérations. Contribuer à la traçabilité et à la qualité des dossiers (audit, contrôles permanents). Interface et contribution transverse Être un interlocuteur de référence pour le Front (chargés d’affaires PIM), les notaires et les services internes. Participer à l’amélioration continue des processus (retours d’expérience, fiabilisation des pratiques, réduction des irritants). Contribuer à la maîtrise des délais et des risques identifiés sur l’activité PIM. Profil et compétences requisesCompétences attendues Compétences techniques Solide connaissance des crédits immobiliers complexes et idéalement de la Promotion Immobilière. Maîtrise des processus de contractualisation, de déblocage et de suivi budgétaire. Capacité à analyser des marchés de travaux, balances financières et facturations. Sensibilité aux enjeux juridiques, réglementaires et de risques. Compétences comportementales Rigueur, fiabilité et sens du détail. Capacité à prioriser et gérer des volumes élevés dans un environnement exigeant. Aisance relationnelle et capacité à travailler en interface (Front, Notaires, Directions expertes). Esprit d’analyse, posture professionnelle et sens du service. Maitrise indispensable des outils bureautiques. Profil recherché Formation bancaire, financière ou juridique (Bac +2 à Bac +5). Expérience confirmée en middle/back office crédits, idéalement sur des financements immobiliers complexes ou PIM. Expérience en environnement bancaire structuré appréciée (processus, contrôles, audit). Qualités requises Doté(e) d’un bon relationnel, vous êtes apprécié(e) pour vos qualités de rigueur, votre sens de la relation client, votre sens du résultat, et votre engagement.\n\nVous avez des capacités d’animation et faites preuve d’agilité au quotidien. Informations complémentaires sur le posteLe poste est basé à Marseille (13006). Télétravail possible jusqu’à 2 jours par semaine, selon les accords en vigueur Contact RH : Aurélie JORAND",
+        "dateCreation": "2026-06-26T22:27:50.000Z",
+        "dateActualisation": "2026-06-26T22:27:50.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Bouches-du-Rhône"
+        },
+        "romeCode": "C1305",
+        "romeLibelle": "Opérateur / Opératrice sur marchés financiers",
+        "appellationlibelle": "Agent(e) administratif(ve) middle-office marché",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4284166",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-CEPAC03535#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4235874",
+        "intitule": "Conseiller Clientèle Kinougarde H/F",
+        "description": "POSTE : Conseiller Clientèle Kinougarde H/F\nDESCRIPTION : \nLe poste proposé permet de se projeter dans la durée en alliant vie personnelle et professionnelle :\n \n- Basé à Rennes en plein centre-ville accessible en transport en commun\n- Contrat à Durée Indéterminée\n- Amplitude de travail : du lundi au vendredi de 9h00-18h00. Pas de travail le samedi.\n- Temps de travail au choix du salarié : 35h, 37h30 ou 40h hebdo\n- Tickets restaurant, prestations du CSE\n- Fixe + Primes individuelles motivantes\n \nVos missions\n \nAprès une solide formation initiale, votre responsable vous accueille au sein de l'agence et vous accompagne au quotidien.\n \nEn fonction de votre progression et de vos attentes, vos missions seront de plus en plus variées :\n \n- Gérer les candidatures de nounous et mener des entretiens téléphoniques\n \n- Gérer et accompagner les nounous\n \n- Gérer un portefeuille clients\n \nRémunération entre 2133€ et 2333€ brut mensuel\nPROFIL : \nTitulaire d'un Bac +2, avec ou sans expérience, vous souhaitez vous épanouir dans un poste gratifiant.\n \nVous voulez vous investir dans une structure à taille humaine, soucieuse de développer les compétences de ses collaborateurs et qui privilégie la promotion interne.\n \nVous aimez le challenge et vous possédez une aisance au téléphone.\n \nVous recherchez un poste commercial sédentaire avec des horaires fixes.\n \nVos qualités d'écoute, votre sourire et votre dynamisme vous permettent de créer des échanges interactifs et chaleureux avec vos interlocuteurs.\n \nVous êtes très à l'aise avec les outils informatiques.",
+        "dateCreation": "2026-06-25T11:39:30.000Z",
+        "dateActualisation": "2026-06-27T03:48:53.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Rennes",
+          "latitude": 48.126268,
+          "longitude": -1.658285,
+          "codePostal": "35000",
+          "commune": "35238"
+        },
+        "romeCode": "D1403",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
+        "appellationlibelle": "Conseiller(ère) commercial(e) auprès des particuliers",
+        "entreprise": {
+          "nom": "Kinougarde",
+          "description": "Les valeurs humaines sont importantes pour vous ? Vous souhaitez rejoindre un secteur où vous vous sentez utile au quotidien ? Vous aimez la relation client ? Ce poste est fait pour vous ! Rejoignez-nous !\n \nQue vous cherchiez un poste de conseiller clientèle, de conseiller commercial, vous avez frappé à la bonne porte. Le poste que nous vous proposons est tout ça à la fois.\n \nA propos de l'entreprise\n \nKinougarde, leader de la garde d'enfants à dom...",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Mensuel de 2133.0 Euros à 2333.0 Euros"
+        },
+        "alternance": false,
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "codeNAF": "88.91A",
+        "secteurActivite": "88",
+        "secteurActiviteLibelle": "Accueil de jeunes enfants",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4235874",
+          "partenaires": [
+            {
+              "nom": "METEOJOB",
+              "url": "https://www.meteojob.com/jobs/54954886?utm_source=pole-emploi&utm_medium=aggregator-free",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-26",
     "count": 12,
     "offres": [
