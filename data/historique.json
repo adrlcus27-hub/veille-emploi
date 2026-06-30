@@ -1,5 +1,667 @@
 [
   {
+    "date": "2026-06-30",
+    "count": 10,
+    "offres": [
+      {
+        "id": "4385141",
+        "intitule": "Ingénieur Commercial Grands Compte privés H/F",
+        "description": "RESPONSABILITÉS : \n\nVotre mission\nRattaché au Directeur Commercial Grands Comptes, le Commercial Grands Comptes est chargé du développement et du suivi d'un portefeuille de clients du secteur privé. Son rôle est d'assurer la prospection, la fidélisation et le développement du chiffre d'affaires en proposant des solutions adaptées aux besoins des grandes entreprises en matière de Digital Workplace, infogérance.\nDéveloppement du portefeuille clients :\n • Identifier et prospecter de nouveaux clients parmi les entreprises du SBF120.\n • Qualifier les besoins et proposer des offres adaptées en collaboration avec l'avant-vente et la direction technique.\n • Développer une approche de vente consultative, en mettant en avant les solutions les plus pertinentes pour chaque client.\n • Assurer une veille concurrentielle pour identifier les opportunités et anticiper les évolutions du marché.\n • Participer à l'élaboration des plans de comptes stratégiques pour maximiser la valeur des clients sur le long terme.\nGestion et fidélisation des grands comptes :\n • Développer et entretenir des relations avec les décideurs clés (DSI, CTO, Directeurs des Achats, DRH, DG) des entreprises du SBF120.\n • Assurer un suivi régulier des clients en garantissant un haut niveau de satisfaction et en anticipant leurs besoins.\n • Conduire les négociations commerciales complexes en garantissant le respect des marges et des objectifs financiers.\n • Collaborer avec les équipes avant-vente, delivery et support pour garantir la bonne exécution des contrats signés.\nRéponse aux appels d'offres et élaboration des offres :\n • Participer à l'élaboration des réponses aux appels d'offres privés en lien avec la cellule AO.\n • Travailler avec les équipes techniques et avant-vente pour construire des offres sur-mesure adaptées aux besoins clients.\n • Présenter et défendre les propositions commerciales devant les clients et lors de comités de pilotage.\nSuivi et reporting commercial :\n • Assurer un reporting régulier auprès du Directeur Commercial Grands Comptes sur les avancées et résultats.\n • Mettre à jour et suivre les opportunités via le CRM de l'entreprise (Salesforce, HubSpot ou autre).\n • Analyser les performances commerciales et proposer des actions correctives si nécessaire.\n\nPROFIL RECHERCHÉ : \n\nVotre profil\n • Expérience de 5 à 7 ans en vente de solutions IT auprès de grands comptes privés.\n • Expérience réussie en développement commercial et gestion d'un portefeuille grands comptes privés.\n • Capacité démontrée à générer du business sur des cycles de vente longs (6-12 mois).\n • Expérience en réponse à des appels d'offres complexes et en closing de contrats stratégiques.\nCompétences techniques :\n • Connaissance des solutions IT : Digital Workplace (infra, cloud, cyber en option).\n • Expérience en vente de services IT (intégration, infogérance, conseil).\n\nSupérieur hiérarchique : Directeur Commercial Grands Comptes.\nCollaboration interne avec : Avant-vente, équipes techniques, marketing, cellule AO, direction juridique.\nCollaboration externe avec : Clients grands comptes, partenaires technologiques (Microsoft, Dell, HP, LENOVO).\nAutres informations\n • Véhicule de fonction dédié, Carte Carburant et péages\n • Salaire selon poste et expérience : 60.000€ à 80.000€ de package brut par an\n • Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n • Durée du travail : 36H30 avec 9,5 jours de RTT\n • Mutuelle (prise en charge à 80% de l'employeur sur la formule individuelle + enfants)\n • Prime de Participation\n • Accès au Plan Epargne Entreprise\n • Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-06-30T04:31:32.000Z",
+        "dateActualisation": "2026-06-30T04:31:32.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "E1113",
+        "romeLibelle": "Responsable e-commerce",
+        "appellationlibelle": "Web commercial / Web commerciale",
+        "entreprise": {
+          "nom": "Heliaq",
+          "description": "Heliaq est une entreprise dédiée au Digital Workplace, intégrateur de solutions d'infrastructures et de services associés, partenaire privilégié des acteurs leaders sur le marché de l'IT (Dell Technologies, IBM, VMware, Microsoft, Veeam, Fortinet,...) et qui a pour ambition l'accompagnement des entreprises et collectivités dans leur transformation numérique afin de répondre aux besoins complexes de ses clients. Un société dynamique en pleine expansion et reconnue pour son expertise!"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4385141",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/j7p4x1q7ed8/ingenieur-commercial-grands-compte-prives-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Paris",
+        "_score": 3,
+        "_is_remote": false
+      },
+      {
+        "id": "4388422",
+        "intitule": "Chargé (e) de clientèle ( H/F)",
+        "description": "Nouvelle saison, nouveau job ? Vous souhaitez intégrer une entreprise nantaise de renom avec une ambiance conviviale ?\nJ'ai le poste qu'il vous faut !\n\nJe suis Manon, consultante en recrutement pour FED SUPPLY, je suis là pour créer des rencontres qui ont du sens. En effet, je recrute pour une société spécialisée dans le secteur des biens d'équipement haut de gamme située à Nantes (44) un(e) chargé ( e) clientèle ( H/F).\nRattaché ( e) à Amandine, la responsable du pôle expert, vos missions sont :\n\n* Se montrer à l'écoute et s'assurer de la bonne compréhension de la demande/du besoin du client en utilisant la reformulation\n* Apporter une réponse adaptée avec la bonne formulation dans le respect des procédures établies par , en utilisant le canal le plus approprié (téléphone, courriel, courrier)\n* Communiquer toutes les informations de nature à rassurer le client sur la prise en charge de sa demande ou réclamation\n* Participer à la mise en place des actions complémentaires à réaliser en dehors du service client si nécessaire (actions en lien avec les autres services du siège)\n* Accompagner le client dans le suivi de son dossier\n* Qualifier et consigner le résultat de son intervention dans les logiciels adaptés\n* Reporter au Responsable Service Client tout évènement suspect ou nouveau motif de contact pour lesquels il n'existe pas de réponse prévue dans un objectif d'amélioration continue\n\n\nPour pouvoir intégrer cette société, vous :\n\n- Justifiez d'une première expérience ou de bonnes bases sur des missions de chargé de clientèle / service client / SAV\n- Avez un excellent relationnel et une bonne élocution.\n- Maitrisez l'exercice de l'entretien téléphonique.\n-Avez de réelles qualités rédactionnelles (orthographe et grammaire).\n- Possédez une forte capacité d'écoute et sens développé de l'empathie\n- Etes doté d'un excellent relationnel et aptitude à gérer les situations conflictuelles avec diplomatie\n\nEn contrepartie, l'entreprise offre :\n- Un poste à pourvoir en CDI à temps plein\n- Un statut employé\n- Des tickets restaurant d'une valeur de 10 euros\n- CSE, CET\n-Indemnité de transport\n- Jusqu'à 2 jours de télétravail par semaine possible\n- Un parking pour stationner\n- Une petite équipe conviviale et travaillant dans l'entraide stable avec un faible taux de turn over\n- Une formation en continue avec un coaching de proximité\n\nLe processus de recrutement commencera par un premier entretien avec moi.\nVous rencontrerez ensuite la responsable ressources humaines ainsi que la responsable du pôle expert. Pour le dernier entretien, vous rencontrerez la responsable qualité et relations clients.\n\nContrat : CDI\nSalaire : 25000 à 26300 EUR par an",
+        "dateCreation": "2026-06-30T07:04:30.000Z",
+        "dateActualisation": "2026-06-30T07:04:30.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "latitude": 47.206511,
+          "longitude": -1.58837,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
+        "entreprise": {
+          "nom": "FED SUPPLY",
+          "description": "Fed Supply est un cabinet de recrutement Supply Chain ultra-spécialisé et créé en 2010 par Fed Group. Nos consultants recrutent les meilleurs candidats sur le terrain partout en France en intérim, CDD et CDI, pour des missions qui couvrent le périmètre de la supply au sens large : ADV, Relation Clients, Assistanat commercial, Achats, Supply Chain, Import-Export, Logistique et Transport.\nVous savez que les pilotes de flux ne travaillent pas dans des avions ? Nous aussi ! Vous pensez qu’une bon..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "78.20Z",
+        "secteurActivite": "78",
+        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4388422",
+          "partenaires": [
+            {
+              "nom": "JOBTRANSPORT",
+              "url": "https://www.jobtransport.com/offre-emploi/ido/3199257.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4376610",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nEn tant que Commercial.e Services Managés IT, vous serez un acteur clé de notre développement en Auvergne-Rhône-Alpes. Votre mission principale : conquérir de nouveaux clients et positionner nos solutions comme incontournables pour les TPE et PME de la région.\n\nVos missions au quotidien :\n * Prospecter activement par téléphone et sur le terrain pour identifier des opportunités commerciales.\n\n * Vendre nos contrats de services managés (support IT, gestion dinfrastructures, réseaux, téléphonie) en répondant aux enjeux techniques et budgétaires de vos clients.\n * Collaborer avec nos équipes techniques et sédentaires pour construire des offres adaptées et compétitives.\n * Suivre vos performances et vos ventes via HubSpot, pour piloter votre activité avec précision.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nNous recherchons un(e) commercial(e) passionné(e) par la vente B2B et le secteur IT, prêt(e) à relever des défis avec ténacité et enthousiasme.\n\nVos atouts pour réussir :\n * Une expérience commerciale de 2 à 3 ans minimum en B2B (IT, télécoms ou services managés), ou un profil junior motivé (SDR/BDR) avec une appétence marquée pour la prospection.\n * Un tempérament de chasseur : vous aimez prospecter, convaincre et conclure des deals.\n * Une résilience à toute épreuve : vous savez gérer les refus et rebondir pour atteindre vos objectifs.\n * Une sensibilité technique : vous comprenez les enjeux IT et savez les expliquer simplement à vos clients.\n * Un esprit déquipe : vous savez collaborer avec les équipes internes pour construire des offres gagnantes.\n\nCe qui fera la différence :\n * Votre capacité à créer du lien avec vos clients et vos collègues.\n * Votre proactivité et votre envie de performer dans un environnement dynamique.\n * Votre adaptabilité face aux évolutions du marché et aux besoins clients.\n        \n        \nLES AVANTAGES :\n        \nChez nous, vous ne serez pas un simple commercial. Vous ferez partie dune aventure collective où votre travail aura un impact concret sur la croissance de lentreprise.\n\nCe que nous vous proposons :\n * Une rémunération motivante et des avantages concrets : véhicule de service, tickets restaurant, télétravail (6 jours/mois), intéressement et Plan dÉpargne Entreprise.Un cadre de travail épanouissant : une culture dentreprise axée sur lhumain, des locaux modernes et une équipe qui sait allier performance et bonne humeur.\n * Un engagement sociétal : une cagnotte trimestrielle financée par lentreprise pour soutenir des projets associatifs, et un club employés pour profiter de réductions sur les loisirs.\n\nRejoignez-nous pour développer vos talents, booster votre carrière et contribuer à une aventure entrepreneuriale unique !\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-06-30T00:00:35.000Z",
+        "dateActualisation": "2026-06-30T00:00:35.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 1er Arrondissement",
+          "latitude": 45.769506,
+          "longitude": 4.830081,
+          "codePostal": "69001",
+          "commune": "69381"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        ",
+          "description": "\nDepuis plus de 25 ans, nous accompagnons les entreprises dans leur transformation numérique en leur proposant des solutions IT sur mesure. Intégrés à un groupe solide et innovant, nous sommes spécialisés dans les services managés : support externalisé, gestion dinfrastructures, réseaux et téléphonie. Notre mission ? Simplifier le quotidien des TPE et PME en leur offrant des outils performants et une expertise technique accessible.\n\nNous sommes une filiale d'un groupe avec plus de 4 500 colla..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 51000.0 Euros"
+        },
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4376610",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/49747/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4376625",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nEn tant que Commercial.e Services Managés IT, vous serez un acteur clé de notre développement en Auvergne-Rhône-Alpes. Votre mission principale : conquérir de nouveaux clients et positionner nos solutions comme incontournables pour les TPE et PME de la région.\n\nVos missions au quotidien :\n * Prospecter activement par téléphone et sur le terrain pour identifier des opportunités commerciales.\n\n * Vendre nos contrats de services managés (support IT, gestion dinfrastructures, réseaux, téléphonie) en répondant aux enjeux techniques et budgétaires de vos clients.\n * Collaborer avec nos équipes techniques et sédentaires pour construire des offres adaptées et compétitives.\n * Suivre vos performances et vos ventes via HubSpot, pour piloter votre activité avec précision.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nNous recherchons un(e) commercial(e) passionné(e) par la vente B2B et le secteur IT, prêt(e) à relever des défis avec ténacité et enthousiasme.\n\nVos atouts pour réussir :\n * Une expérience commerciale de 2 à 3 ans minimum en B2B (IT, télécoms ou services managés), ou un profil junior motivé (SDR/BDR) avec une appétence marquée pour la prospection.\n * Un tempérament de chasseur : vous aimez prospecter, convaincre et conclure des deals.\n * Une résilience à toute épreuve : vous savez gérer les refus et rebondir pour atteindre vos objectifs.\n * Une sensibilité technique : vous comprenez les enjeux IT et savez les expliquer simplement à vos clients.\n * Un esprit déquipe : vous savez collaborer avec les équipes internes pour construire des offres gagnantes.\n\nCe qui fera la différence :\n * Votre capacité à créer du lien avec vos clients et vos collègues.\n * Votre proactivité et votre envie de performer dans un environnement dynamique.\n * Votre adaptabilité face aux évolutions du marché et aux besoins clients.\n        \n        \nLES AVANTAGES :\n        \nChez nous, vous ne serez pas un simple commercial. Vous ferez partie dune aventure collective où votre travail aura un impact concret sur la croissance de lentreprise.\n\nCe que nous vous proposons :\n * Une rémunération motivante et des avantages concrets : véhicule de service, tickets restaurant, télétravail (6 jours/mois), intéressement et Plan dÉpargne Entreprise.Un cadre de travail épanouissant : une culture dentreprise axée sur lhumain, des locaux modernes et une équipe qui sait allier performance et bonne humeur.\n * Un engagement sociétal : une cagnotte trimestrielle financée par lentreprise pour soutenir des projets associatifs, et un club employés pour profiter de réductions sur les loisirs.\n\nRejoignez-nous pour développer vos talents, booster votre carrière et contribuer à une aventure entrepreneuriale unique !\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-06-30T00:00:35.000Z",
+        "dateActualisation": "2026-06-30T00:00:35.000Z",
+        "lieuTravail": {
+          "libelle": "38 - Grenoble",
+          "latitude": 45.18637,
+          "longitude": 5.711296,
+          "codePostal": "38000",
+          "commune": "38185"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        ",
+          "description": "\nDepuis plus de 25 ans, nous accompagnons les entreprises dans leur transformation numérique en leur proposant des solutions IT sur mesure. Intégrés à un groupe solide et innovant, nous sommes spécialisés dans les services managés : support externalisé, gestion dinfrastructures, réseaux et téléphonie. Notre mission ? Simplifier le quotidien des TPE et PME en leur offrant des outils performants et une expertise technique accessible.\n\nNous sommes une filiale d'un groupe avec plus de 4 500 colla..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 51000.0 Euros"
+        },
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4376625",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/49748/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "210MYTH",
+        "intitule": "Coordinateur Service Retail Litiges et Pénalités (H/F)",
+        "description": "En tant que customer service Retail France chez La Vie, vous êtes en charge de suivre et traiter les litiges logistiques et factures au jour le jour en maintenant une base de données propre et en suivant des process clairement définis. Vous contestez les pénalités de nos clients en vous appuyant sur des KPIs contractuels et maintenez un suivi régulier pour proposer une amélioration de la gestion opérationnelle. Enfin, vous serez un.e membre important du Customers Service et serez amené.e à résoudre des missions ponctuelles pour la bonne gestion du service.\n\nEn tant que membre du Customer Service France de La Vie, vous aurez l'opportunité unique de rejoindre notre incroyable équipe de service client et de contribuer à développer et à faire croître une marque unique.\n\nGESTION DES LITIGES\n\nGérer et résoudre efficacement les litiges (claims) des clients du Retail France.\n\nMaintenir une base de données précise des litiges et des résolutions.\n\nCollaborer avec les équipes du service client de nos fournisseurs pour apporter des solutions rapides et satisfaisantes aux clients.\n\nAnalyser les réclamations pour identifier les tendances et proposer des améliorations pour prévenir les problèmes futurs.\n\nAider à la préparation des rapports de suivi des réclamations et de performance dans la gestion des réclamations.\n\nGESTION DES PÉNALITÉS\n\nGérer et contester efficacement les pénalités des clients du Retail France.\n\nMaintenir une base de données précise des pénalités, leur finalité et statuts en cours\n\nProposer des améliorations pour réduction du montant des pénalités\n\nCASH COLLECTION\n\nRechercher et résoudre les litiges de facturation pour garantir les paiements.\n\nSurveiller et gérer les paiements des clients à l'aide de nos outils internes.\n\nCréer des rapports de collecte de fonds et présenter les progrès à l'équipe.\n\nCUSTOMER SERVICE TEAM MEMBER\n\nGérer les commandes et la relation avec les clients au jour le jour sur votre portefeuille Retail France (saisie, modification commandes, modification cadencier, livraison reliquat)\n\nParticiper à part entière à l'équipe Customer Service en aidant lors des congés et des missions ponctuelles.",
+        "dateCreation": "2026-06-30T12:06:26.558Z",
+        "dateActualisation": "2026-06-30T13:01:18.849Z",
+        "lieuTravail": {
+          "libelle": "75 - PARIS",
+          "latitude": 48.841401,
+          "longitude": 2.300274,
+          "codePostal": "75015",
+          "commune": "75115"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Adjoint / Adjointe service clients",
+        "entreprise": {
+          "nom": "LA VIE FOODS",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "101315",
+            "libelle": "Analyse de données expérimentales",
+            "exigence": "S"
+          },
+          {
+            "code": "100541",
+            "libelle": "Techniques de communication orales, écrites et numériques",
+            "exigence": "S"
+          },
+          {
+            "code": "122327",
+            "libelle": "Recueillir l'avis et les remarques d'un client",
+            "exigence": "S"
+          },
+          {
+            "code": "124094",
+            "libelle": "Traiter les demandes de support technique",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 34000.0 Euros à 36000.0 Euros sur 12 mois"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "10.89Z",
+        "secteurActivite": "10",
+        "secteurActiviteLibelle": "Fabrication d'autres produits alimentaires n.c.a.",
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210MYTH"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4385807",
+        "intitule": "Chargé clientèle B2B (H/F)",
+        "description": "RESPONSABILITÉS : \n\nDescriptif du poste En tant que Chargé.e de mission, tu accompagnes un portefeuille de dirigeants de TPE au quotidien.\nTu es bien plus qu'un interlocuteur comptable : tu deviens un véritable partenaire de confiance pour tes clients.\nTon rôle : les aider à piloter leur activité, comprendre leurs enjeux et sécuriser leurs décisions.\n\n\n💼 Tes missions  Le conseil et le pilotage\n • Être le copilote : tu accompagnes tes clients au quotidien, tu réponds à leurs questions et tu te positionnes en facilitateur orienté solutions,\n • Faire parler les chiffres : tu présentes les bilans et expliques les résultats financiers avec pédagogie pour aider les dirigeants à comprendre leur business,\n • Éclairer les décisions : tu identifies les opportunités et les points de vigilance pour aider tes interlocuteurs à piloter sereinement.\n La gestion et la conformité\n • Piloter ton portefeuille : tu gères tes clients de manière autonome et assures le suivi de leur comptabilité.\n • Optimiser les process : tu supervises les obligations fiscales en t'appuyant sur nos outils digitaux de pointe pour gagner en efficacité.\n Le développement business et la fidélisation\n • Détecter les opportunités commerciales : à l'écoute des enjeux de tes clients, tu identifies leurs besoins complémentaires et leur proposes nos solutions adaptées (conseil, paie, juridique, outils).\n • Fidéliser et valoriser : tu construis une relation de confiance durable pour sécuriser tes clients et maximiser la valeur de ton portefeuille.\n • Partager tes réussites : tu diffuses tes bonnes pratiques et tes succès commerciaux pour contribuer à la dynamique de l'équipe.\n\nPROFIL RECHERCHÉ : \n\n • Tu es diplômé d'une formation Bac+2 à Bac+5 en gestion, commerce ou compta/finance,\n • Tu disposes d'une première expérience en relation client ou gestion de comptes clients B2B,\n • Tu as idéalement une première approche des sujets liés à la comptabilité ou l'administration des entreprises,\n • Tu as une réelle appétence pour le contact client et tu aimes apporter des solutions,\n • Tu es quelqu'un d'empathique, as un bon sens de l'écoute et tu es pédagogue,\n • Organisé.e, rigoureux.se, tu est capable de gérer plusieurs sujets en parallèle,\n • Tu sais travailler de manière autonome tout en appréciant le travail en équipe,\n • Tu es à l'aise avec les outils digitaux et les environnements de travail modernes,\n • Une connaissance d'outils comptables ou de reporting est un plus.",
+        "dateCreation": "2026-06-30T04:31:49.000Z",
+        "dateActualisation": "2026-06-30T04:31:49.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "latitude": 47.206511,
+          "longitude": -1.58837,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Rejoignez une entreprise nantaise en pleine croissance, spécialisée dans la comptabilité, qui place l'innovation et l'accompagnement au cœur de ses valeurs. Cette société dynamique valorise l'esprit d'équipe à travers des parcours d'intégration complets, des teambuilding réguliers et offre des avantages attractifs tels qu'une carte Swile."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 27000.0 Euros à 32000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4385807",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/zp7rev7aw98/charge-clientele-b2b-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4385225",
+        "intitule": "Ingénieur commercial Business IT H/F",
+        "description": "RESPONSABILITÉS : \n\nQue ferez-vous à nos côtés ?\nRattaché au Directeur Régional Nord-Ouest, vous aurez comme principaux objectifs :\n • La fidélisation de notre clientèle\n • Développer un territoire et développer le portefeuille clients avec la prospection de nouveaux comptes\n • Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n • Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n • Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nQui êtes-vous ?\nVous possédez une expérience dans la vente BtoB de solutions numériques (digital workplace, infrastructure, software) et services IT.\nVous maîtrisez les fondamentaux : prospection, négociation, fidélisation. Votre sens du service, votre réactivité et vos qualités relationnelles sont vos meilleurs atouts !\nVous disposez d'une bonne connaissance du tissu économique de la région.\nPackage et informations complémentaires :\n • Véhicule, carte essence / péage\n • Salaire selon profil et expérience : 45.000 à 60.000€ de package brut annuel\n • Accord de télétravail\n • Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n • Mutuelle prise en charge à 80% par l'employeur pour le salarié et ses enfants\n • Prime de participation\n • Accès au Plan épargne groupe\n • Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-06-30T04:31:32.000Z",
+        "dateActualisation": "2026-06-30T04:31:32.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Rennes",
+          "latitude": 48.126268,
+          "longitude": -1.658285,
+          "codePostal": "35000",
+          "commune": "35238"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq",
+          "description": "L'entreprise est articulée autour de trois piliers :\n• Digital Workplace\n• Infrastructures IT\n• Cloud, Services Managés, Cybersécurité\n\n\nNotre métier est de proposer des solutions d'ingénierie innovantes autour du poste de travail, de la collaboration, de l'infrastructure et du Cloud auprès d'une clientèle composée de PME, d'ETI, de centrales d'achats et de grands comptes régionaux et nationaux."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 60000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4385225",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hyrj2jbq858/ingenieur-commercial-business-it-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4385357",
+        "intitule": "Ingénieur Commercial Sénior –  Solutions Infra HPE F/H",
+        "description": "RESPONSABILITÉS : \n\nPourquoi ce poste est unique chez Heliaq ?\nHeliaq, leader européen des infrastructures Dell, accélère son développement sur le périmètre HPE et vous confie une mission stratégique : devenir le visage de l'entreprise sur ce marché.\nIl s'agit du premier recrutement 100% dédié HPE dans le groupe. Vous bénéficierez de :\n • Un portefeuille clients ETI/Grands Comptes déjà identifié (avec des opportunités à récupérer).\n • L'appui d'une structure commerciale rodée (avant-vente, marketing, back-office) et d'un constructeur partenaire (HPE) engagé dans notre croissance.\n • La responsabilité de définir les cibles et les leviers pour positionner Heliaq dans le Top 3 des partenaires HPE en France.\n\nVotre impact en 12 mois\n • Signature de plus de 10 nouveaux logos HPE\n • Génération d'un revenu supérieur ou égal à 2 millions d'euros\n • Positionnement de Heliaq dans le Top 3 des partenaires HPE France\n\nVos missions au quotidien - Ingénieur Commercial Sénior – Solutions Infra HPE F/H\n • Construire et piloter un pipeline HPE à partir de zéro : prospection de nouveaux comptes et développement du portefeuille existant.\n • Signer des contrats complexes (cycles de 6 à 18 mois, valeur moyenne supérieure ou égale à 150 000 euros) auprès des DSI, Directeurs Infrastructure et acheteurs IT.\n • Commercialiser l'ensemble des solutions infra HPE : serveurs (ProLiant), stockage (Alletra, Nimble, MSA), HCI, Greenlake (as-a-Service)...\n • Analyser les enjeux IT et de sécurité des clients pour proposer des solutions sur-mesure en collaboration avec les Consultants Avant-Vente.\n • Animer la relation avec le constructeur HPE : roadmaps produits, avant-vente, formations et certifications conjointes.\n • Piloter des cycles de vente multi-interlocuteurs (directions métiers, achats, technique) selon une approche consultative.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\nCritères indispensables\n • 5 à 10 ans d'expérience dans la vente de solutions d'infrastructure HPE (ProLiant, Alletra, Greenlake, Nimble). Cette expertise technique est impérative.\n • Historique de succès prouvé sur des cycles de vente longs (6 à 18 mois) auprès de comptes ETI et Grands Comptes (paniers moyens supérieurs ou égaux à 150 000 euros).\n • Réseau actif de DSI, Directeurs Infrastructure et acheteurs IT dans au moins un secteur vertical (banque, santé, industrie, etc.).\n • Maîtrise des programmes partenaires HPE et des leviers de négociation avec le constructeur.\nCritères différenciants (atouts majeurs)\n • Double culture HPE et écosystèmes concurrents (Dell, Lenovo, Cisco) afin de construire des discours de substitution pertinents.\n • Expérience des modèles de vente as-a-Service (Greenlake) et de la transition Capex vers Opex.\n • Expérience préalable au sein d'un environnement VAR ou Intégrateur (et non uniquement en distribution directe).\n • Esprit entrepreneurial orienté vers la création de business et la valeur ajoutée.\nCe que nous vous offrons\n • Rémunération attractive composée d'un fixe et d'un variable indexé sur la marge.\n • Véhicule de fonction\n • Accord télétravail\n • Tickets restaurant de 8 euros par jour (pris en charge à 60%).\n • Mutuelle premium (prise en charge à 80% pour vous et votre famille).\n • Prime de participation et Plan d'épargne groupe.\n • Support dédié des équipes internes : avant-vente technique, back-office commercial et service juridique.\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-06-30T04:31:32.000Z",
+        "dateActualisation": "2026-06-30T04:31:32.000Z",
+        "lieuTravail": {
+          "libelle": "92 - Châtenay-Malabry",
+          "latitude": 48.764839,
+          "longitude": 2.261906,
+          "codePostal": "92290",
+          "commune": "92019"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions",
+          "description": "Heliaq Solutions est une entreprise experte en cloud, cybersécurité et production de Services Managés (support) pour les entreprises et les collectivités, assurant performance, protection et continuité opérationnelle afin de répondre aux besoins complexes de ses clients. Une société dynamique en pleine expansion et reconnue pour son expertise."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4385357",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/6z7crr8dkh8/ingenieur-commercial-senior-solutions-infra-hpe-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4385352",
+        "intitule": "Ingénieur Commercial Sénior – Marchés Publics F/H",
+        "description": "RESPONSABILITÉS : \n\nPourquoi ce poste est unique chez Heliaq ?\nHeliaq est titulaire de référencements stratégiques d'envergure auprès de marchés publics de premiers rangs, ouvrant l'accès à des centaines de donneurs d'ordre.\nNotre ambition est de transformer ces opportunités clés en main en un pilier durable de notre croissance à travers :\n • L'activation immédiate des marchés déjà actifs.\n • La conquête rapide d'un portefeuille avant l'arrivée de la concurrence.\n • Un impact direct sur la diversification du chiffre d'affaires du groupe.\n\n\nVotre impact en 12 mois\n • Activation de 100% des lots des marchés publics dont nous sommes titulaires\n • Acquisition significative de nouveaux comptes publics\n • Sécurisation de la totalité des extensions de marchés (0 manquée)\n\n\nVos missions au quotidien\n • Cartographier et activer l'intégralité des comptes bénéficiaires des accords cibles.\n • Développer le chiffre d'affaires et la marge au sein des comptes existants et conquérir de nouveaux logos sous ces accords-cadres.\n • Détecter les extensions de marchés et piloter les réponses aux nouvelles consultations via le BOAMP et les profils acheteurs.\n • Construire des relations de confiance durables avec les acheteurs, les DSI et les élus référents du secteur public.\n • Coordonner les réponses aux appels d'offres en synergie avec les équipes avant-vente et le service juridique.\n • Assurer un reporting précis concernant le pipeline, les échéances contractuelles et les volumes d'affaires.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\nCritères indispensables\n • 5 à 10 ans d'expérience dans la vente de solutions IT (infrastructures, cloud, services) auprès d'acteurs publics (collectivités, hôpitaux, universités, établissements d'État).\n • Parfaite maîtrise du Code de la Commande Publique : procédures formalisées, MAPA, accords-cadres à bons de commande et techniques de négociation autorisées.\n • Expérience directe dans la gestion de marchés multi-lots et multi-acheteurs à fort volume.\n • Réseau actif d'acheteurs, de DSI et de responsables informatiques dans le secteur public (hospitalier, collectivités ou État).\nCritères différenciants (atouts majeurs)\n • Connaissance spécifique des marchés tels que le Resah, l'UGAP, Gigalis, la CANUT, CAIH ou Territoire Numérique.\n • Capacité à analyser et à challenger un Dossier de Consultation des Entreprises (DCE) complexe en amont de la réponse.\n • Pratique courante des outils de dématérialisation des marchés publics (AWS Marchés, Atexo, e-Attestations, etc.).\n • Alliance d'un fort esprit de conquête commerciale et d'une grande rigueur contractuelle\nCe que nous vous offrons\n • Rémunération attractive composée d'un fixe et d'un variable indexé sur la marge.\n • Véhicule de fonction\n • Accord télétravail\n • Tickets restaurant de 8 euros par jour (pris en charge à 60%).\n • Mutuelle premium (prise en charge à 80% pour vous et votre famille).\n • Prime de participation et Plan d'épargne groupe.\n • Support dédié des équipes internes : avant-vente technique, back-office commercial et service juridique.\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-06-30T04:31:32.000Z",
+        "dateActualisation": "2026-06-30T04:31:32.000Z",
+        "lieuTravail": {
+          "libelle": "92 - Châtenay-Malabry",
+          "latitude": 48.764839,
+          "longitude": 2.261906,
+          "codePostal": "92290",
+          "commune": "92019"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions",
+          "description": "Heliaq Solutions est une entreprise experte en cloud, cybersécurité et production de Services Managés (support) pour les entreprises et les collectivités, assurant performance, protection et continuité opérationnelle afin de répondre aux besoins complexes de ses clients. Une société dynamique en pleine expansion et reconnue pour son expertise."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4385352",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/a5y5aye4y68/ingenieur-commercial-senior-marches-publics-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "210MFXD",
+        "intitule": "Téléconseiller BTOB (H/F)",
+        "description": "FORMADIA, organisme de formation et acteur reconnu dans le domaine de la formation professionnelle des PSDM et PSAD recrute un téléconseiller H/F pour accompagner son développement.\n\n\nTes missions :\n\nEn tant que téléconseiller(ère), tu es au cœur de l'action commerciale :\n\nContacter des prospects et clients (appels sortants principalement)\nComprendre leurs besoins et leur proposer les bonnes solutions\nPrésenter nos offres avec impact et conviction\nAtteindre (et dépasser !) tes objectifs commerciaux\nFidéliser les clients et créer une vraie relation de confiance \n\nLe profil qu'on recherche:\nA l'aise au téléphone\nTu as le goût du challenge et de la vente\nTu es persévérant(e), dynamique et positif(ve)\nUne première expérience en relation client ou télévente est un plus\n\nRémunération : 24K€ + variable motivante\nØ Formation dès ton arrivée\nØ Un environnement dynamique et bienveillant\nØ Une vraie montée en compétences commerciales",
+        "dateCreation": "2026-06-29T17:57:01.663Z",
+        "dateActualisation": "2026-06-30T08:30:39.035Z",
+        "lieuTravail": {
+          "libelle": "31 - TOULOUSE",
+          "latitude": 43.589393,
+          "longitude": 1.378656,
+          "codePostal": "31000",
+          "commune": "31555"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "E"
+          },
+          {
+            "code": "403822",
+            "libelle": "Adapter sa communication selon les interlocuteurs et les médias utilisés",
+            "exigence": "S"
+          },
+          {
+            "code": "121427",
+            "libelle": "Développer un portefeuille clients et prospects",
+            "exigence": "S"
+          },
+          {
+            "code": "403441",
+            "libelle": "Effectuer un reporting régulier à la hiérarchie",
+            "exigence": "S"
+          },
+          {
+            "code": "300376",
+            "libelle": "Mettre en oeuvre des actions commerciales et promotionnelles",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1950.0 Euros à 2050.0 Euros sur 12.0 mois",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "4",
+              "libelle": "Ordinateur portable"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais Zone départementale",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "85.59A",
+        "secteurActivite": "85",
+        "secteurActiviteLibelle": "Formation continue d'adultes",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          },
+          {
+            "libelle": "Faire preuve d'autonomie",
+            "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+          },
+          {
+            "libelle": "Etre force de proposition",
+            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+          }
+        ],
+        "trancheEffectifEtab": "3 à 5 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210MFXD"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-06-29",
     "count": 9,
     "offres": [
