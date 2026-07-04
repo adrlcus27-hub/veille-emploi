@@ -1,5 +1,177 @@
 [
   {
+    "date": "2026-07-04",
+    "count": 3,
+    "offres": [
+      {
+        "id": "4494980",
+        "intitule": "Business Developer Senior - Head Of Sales Aéronautique H/F",
+        "description": "POSTE : Business Developer Senior - Head Of Sales Aéronautique H/F\nDESCRIPTION : * Identifier et prospecter de nouveaux clients au sein de l'écosystème aéronautique : aviation légère, aviation régionale, motoristes, avionneurs, équipementiers et opérateurs.\n * Développer et entretenir des relations commerciales durables avec les décideurs du secteur.\n * Structurer, négocier et formaliser des accords commerciaux, technologiques et industriels.\n * Piloter les partenariats existants : coordination opérationnelle, reporting, partage de données et suivi de la satisfaction partenaires.\n * Identifier des opportunités de financements collaboratifs et de programmes institutionnels.\n * Représenter l'entreprise lors des salons professionnels, conférences et événements internationaux (Paris Air Show, Aero Friedrichshafen, etc.).\n * Réaliser une veille marché et concurrentielle afin d'identifier les tendances et opportunités de développement.\n * Participer à la préparation des offres commerciales, présentations clients et supports stratégiques.\n * Contribuer activement à la définition de la stratégie commerciale de l'entreprise.\nPROFIL : FORMATION\n \n * Diplôme d'École de Commerce ou d'Ingénieur.\n * Spécialisation ou forte affinité avec l'industrie aéronautique.\n \nEXPÉRIENCE\n \nMUST HAVE\n \n * Minimum 5 ans d'expérience en Business Development, Sales ou Partnership Management.\n * Expérience significative dans l'aéronautique, l'aérospatial ou un secteur industriel complexe.\n * Expérience démontrée dans la négociation de contrats et le développement de partenariats stratégiques.\n * Expérience de prospection et de développement commercial B2B.\n * Capacité à comprendre et vulgariser des sujets techniques complexes.\n * Excellentes capacités relationnelles et forte aisance réseau.\n * Français et anglais courants, à l'oral comme à l'écrit.\n   \n \nNICE TO HAVE\n \n * Connaissance des normes et contraintes réglementaires aéronautiques.\n * Sensibilité aux enjeux de décarbonation et de transition énergétique du secteur aérien.\n * Expérience dans une startup, PME innovante ou environnement deeptech.\n * Connaissance des dispositifs de financement publics et collaboratifs.\n * Licence de pilote privé (avions CS-23 ou CS-25).\n \nQUALITÉS PERSONNELLES\n \n * Esprit entrepreneurial.\n * Forte autonomie.\n * Excellentes capacités d'organisation.\n * Rigueur et esprit analytique.\n * Goût du challenge et de la conquête commerciale.\n * Esprit d'équipe et capacité à collaborer avec des profils techniques.\n \nINFOS PRATIQUES\n \n *  Localisation : Toulouse\n *  Contrat : CDI\n *  Démarrage : Dès que possible\n \nSALAIRE ET AUTRES AVANTAGES\n \n *  Salaire fixe : selon expérience\n *  Variable attractif basé sur la performance commerciale\n *  Participation à une aventure entrepreneuriale à fort impact\n *  Perspectives d'évolution rapides dans une startup en forte croissance\n \nREJOIGNEZ UNE AVENTURE TECHNOLOGIQUE AMBITIEUSE ET CONTRIBUEZ À CONSTRUIRE L'AVENIR D'UNE AVIATION PLUS DURABLE.",
+        "dateCreation": "2026-07-02T11:24:26.000Z",
+        "dateActualisation": "2026-07-04T05:40:03.000Z",
+        "lieuTravail": {
+          "libelle": "31 - Toulouse",
+          "latitude": 43.589393,
+          "longitude": 1.378656,
+          "codePostal": "31000",
+          "commune": "31555"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable du développement commercial",
+        "entreprise": {
+          "nom": "Bureau des Talents",
+          "description": "Le Bureau des Talents est spécialisé dans la chasse, l'accompagnement et le coaching des talents pour les startups, les scale-ups et les entreprises à impact.\n \nDESCRIPTION DE L'ENTREPRISE\n \nNotre client est une startup Deeptech innovante du secteur aéronautique qui développe une technologie de propulsion révolutionnaire visant à rendre l'aviation plus durable et plus performante.\nGrâce à une approche unique, l'entreprise ambitionne de réduire significativ...",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 80000.0 Euros à 120000.0 Euros"
+        },
+        "alternance": false,
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4494980",
+          "partenaires": [
+            {
+              "nom": "METEOJOB",
+              "url": "https://www.meteojob.com/jobs/54698873?utm_source=pole-emploi&utm_medium=aggregator-free",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Toulouse",
+        "_score": 3,
+        "_is_remote": false
+      },
+      {
+        "id": "4495805",
+        "intitule": "Gestionnaire Clients - Front Office Ventes H/F",
+        "description": "POSTE : Gestionnaire Clients - Front Office Ventes H/F\nDESCRIPTION : Point de contact opérationnel pour tous les clients non contractualisés, l'Agent Front Office Ventes (h/f) est en charge de traiter les demandes de pièces et cotations en provenance des clients non contractualisés. Il établit des offres commerciales afin de répondre aux attentes de ses clients dans le respect des objectifs de performance qui lui sont fixés.\n \nTÂCHES & RESPONSABILITES :\n \n- Dans son domaine d'intervention :\n \n- Répondre aux sollicitations des clients non contractualisés (prestation en régie ou Ad-hoc)\n \n- Réception et enregistrement des commandes, appels clients, E-mails et identification des besoins\n \n- Création et enregistrement de cotations d'échanges standard, locations, ventes.\n \n- Assurer l'ensemble du suivi de la prestation commandée jusqu'à la livraison\n \n- Assurer un reporting vers la Direction Relation Clients pour les situations litigieuses\n \n- Négocier chaque prestation de la prise de commande à l'établissement de la facture\n \n- Analyser la disponibilité des pièces requises et proposition de pièces interchangeables si nécessaire\n \n- S'assurer de la satisfaction du client sur les critères prix/délais\n \n- Participer à la vente de surplus de stock\n \n- Procéder à l'acquisition de pièces détachées en vue d'une revente avec marge.\n \n- Identification de sources d'approvisionnement de pièces chez OEM, Airlines, brokers\n \n- Maintien des bonnes relations avec les fournisseurs et les acteurs du marché\n \n- Respecter les politiques de prix internes et externes à l'entreprise\n \n- Respecter les procédures en place\nAvantages CSE, 13ème mois, Indemnité de transport, Prime de participation, Prime d'ancienneté (non cadre), Restaurant d'entreprise, CET\nPROFIL : - Formation et compétences :\n \nFormation à dominante commerciale ou logistique (Type BTS Commerce International, Licence Professionnelle CPCLG etc.)\n \nIdéalement, expérience dans le métier de la maintenance aéronautique\n \nTrès bon niveau d'anglais\n \nMaîtrise des outils bureautiques et système d'information\n \n- Vos atouts :\n \nAisance relationnelle et sens de la négociation\n \nCapacité d'analyse, et de synthèse\n \nCapacité à travailler en équipe\n \nEsprit orienté service client\n \nCapacité à gérer des situations d'urgence\n \nAvantages salariaux : Avantages CSE, 13ème mois, Indemnité de transport, Prime de participation, Prime d'ancienneté (non cadre), Restaurant d'entreprise, CET",
+        "dateCreation": "2026-07-02T12:35:07.000Z",
+        "dateActualisation": "2026-07-04T02:44:36.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Dinard",
+          "latitude": 48.594945,
+          "longitude": -2.086445,
+          "codePostal": "35800",
+          "commune": "35093"
+        },
+        "romeCode": "C1116",
+        "romeLibelle": "Chargé / Chargée de clientèle centre d'appels en assurances",
+        "appellationlibelle": "Chargé / Chargée de clientèle en assurances",
+        "entreprise": {
+          "nom": "Sabena technics",
+          "description": "Sabena technics est un leader européen indépendant de premier plan dans le secteur de la maintenance aéronautique. Avec plus de 3800 employés répartis sur 20 sites dans le monde, son expertise couvre le support des flottes régionales, moyens et longs courriers, ainsi que le secteur militaire. Le Groupe propose une large gamme de solutions - Maintenance cellule et équipements d'aéronef, CAMO, Modification, Peinture, Gestion de la chaîne logistique et Formation technique - et met à d...",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4495805",
+          "partenaires": [
+            {
+              "nom": "METEOJOB",
+              "url": "https://www.meteojob.com/jobs/55133464?utm_source=pole-emploi&utm_medium=aggregator-free",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4495521",
+        "intitule": "Business Developper Export - Zone Germanique H/F",
+        "description": "POSTE : Business Developper Export - Zone Germanique H/F\nDESCRIPTION : \nL'entreprise qui recrute :\n \nNotre client est un éditeur de logiciel français, dont la mission est d'imaginer des solutions innovantes permettant de gérer les flux et les parcours clients. Les secteurs d'activités adressés sont très variés puisque tout établissement recevant du public est concerné.\n \nCette PME véhicule des valeurs d'innovation et de sécurité évidemment, mais aussi de dynamisme et d'ambition, avec une attention particulière apportée sur la satisfaction des clients et des utilisateurs finaux.\n \nLe poste :\n \nDéjà présent dans plus de 50 pays, notre client souhaite poursuivre son développement sur la scène internationale et ouvre ce poste de Chef de Zone Export. Les marchés adressés sont la Suisse Alémanique, l'Autriche et la Pologne.\n \nLa mission principale est de développer les ventes via un réseau de partenaires distributeurs.\n \nBasé(e) à proximité de Montpellier, ce poste nécessite évidemment des déplacements réguliers sur le secteur concerné. Il faut prévoir 4 tournées par trimestre (donc un peu plus d'une semaine par mois à l'étranger).\n \nCe que vous ferez :\n \n- Identifier et prospecter les sociétés pouvant installer et distribuer nos solutions ;\n- Animer un réseau de partenaires distributeurs ;\n- Apporter votre expertise technique en étant force de proposition auprès de vos clients ;\n- Être le lien entre les équipes techniques et les clients ;\n- Faire les démonstrations et la formation produit auprès des clients finaux ;\n- Etablir le chiffrage des solutions conseillées (projets réalisés sur mesure) ;\n- Réaliser les offres commerciales ;\n- Créer du lien et fidéliser vos interlocuteurs ;\n- Rédiger les rapports d'activités et suivre les indicateurs clés\n- Remonter les informations marchés et clients à votre direction.\n \nPROFIL : \nLe profil recherché :\n \nCe poste est fait pour vous si\n \nVous avez une première expérience d'au moins 3 ans sur une fonction commerciale export, idéalement au sein d'un univers technique/digital.\n \n- Au vu du secteur adressé, la maitrise des langues ALLEMAND et ANGLAIS sont indispensables\n- Il s'agit d'une ouverture de zone, la prospection sera naturellement une part importante des missions confiées :  il est nécessaire d'aimer cette facette du métier pour être épanoui sur ce poste\n- Vous êtes naturellement intéressé(e) par les nouvelles technologies, la digitalisation et l'innovation\n- Vous avez déjà travaillé sur des cycles de vente longs (mode projet)\n- Vous avez un réel goût pour le travail en équipe et la culture du résultat\n \nRémunération & avantages sociaux :\n \n- Package (fixe + variable) :  40/55K€\n- Rémunération fixe sur 12 mois : 39/40K€\n- Variable individuel déplafonné\n- Intéressement, participation\n- Tickets restaurants\n- Politique de télétravail (8 jours mensuels, mis en place après la validation de la période d'essai)\n- RTT (23 jours)\n- Mutuelle et prévoyance\n- Statut Cadre\n \nLe process de recrutement :\n \n- Un entretien en visio avec votre Consultante Réseaux Talents\n- Un entretien (présentiel ou visio) avec la Responsable des Ventes Export (N+1) et le Directeur Export (N+2)\n- Un entretien en présentiel avec le Directeur Export et l'un des dirigeants\n \nJOG/PRIO",
+        "dateCreation": "2026-07-02T12:34:04.000Z",
+        "dateActualisation": "2026-07-04T03:35:09.000Z",
+        "lieuTravail": {
+          "libelle": "34 - Montpellier",
+          "latitude": 43.626378,
+          "longitude": 3.882533,
+          "codePostal": "34000",
+          "commune": "34172"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable du développement commercial",
+        "entreprise": {
+          "nom": "RÉSEAU TALENTS",
+          "description": "Bienvenue chez Réseau Talents !   \n  \nNous sommes un cabinet de recrutement nouvelle génération, nos recruteurs sont tous passionnés par les Relations Humaines et interviennent pour vous sur l'ensemble du territoire.  \n  \nProches de nos valeurs sont l'Excellence, l'Authenticité, le Plaisir et la Transparence.",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 39000.0 Euros à 55000.0 Euros"
+        },
+        "alternance": false,
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4495521",
+          "partenaires": [
+            {
+              "nom": "METEOJOB",
+              "url": "https://www.meteojob.com/jobs/55132994?utm_source=pole-emploi&utm_medium=aggregator-free",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Remote",
+        "_score": 2,
+        "_is_remote": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-03",
     "count": 16,
     "offres": [
@@ -8573,10 +8745,5 @@
         "_is_remote": true
       }
     ]
-  },
-  {
-    "date": "2026-06-22",
-    "count": 0,
-    "offres": []
   }
 ]
