@@ -1,5 +1,137 @@
 [
   {
+    "date": "2026-07-05",
+    "count": 1,
+    "offres": [
+      {
+        "id": "210TBJP",
+        "intitule": "Chargé(e) de Clientèle Sédentaire (H/F)",
+        "description": "Description de l'entreprise\n\nL'environnement du mieux vieillir à domicile est aujourd'hui porteur et en forte croissance. Filiale du groupe Phoenix/OCP, la société ABM PHARMA est un prestataire médicotechnique à domicile implanté dans toute la France\n\nVous souhaitez orienter votre carrière dans le soin et l'accompagnement au sein d'une entreprise en fort développement ? Venez nous rejoindre !\n\n\nDescription du poste\n\nRattaché(e) hiérarchiquement et fonctionnellement à la Direction régionale, vos principales missions seront les suivantes :\n\nAccueil Téléphonique\n\nOrientation des appels entrants\nPrise de commande des pharmacies en location et vente\nEnregistrement des demandes de prise en charge des pharmaciens\nEnregistrement des demandes de prise en charge des patients\nTraitement des demandes courantes (demande de renseignements, confirmation de commande, référencement et réclamation)\nGestion complète du dossier patient et pharmacie :\n\nÉtablissement de fiche de prise en charge\nConstitution du dossier patient\nPrise de rendez-vous et planification des livraisons\nÉtablissement des bons de préparation à destination du magasin\nÉtablissement du plan de tournées\nGestion des réclamations :\n\nDemande SAV / patient/pharmacie - maintenance\nGestion des réclamations sur commandes erronées, matériel défectueux, livraisons non respectées, annulation de commande .\nCette liste n'est pas limitative et les missions confiées dépendront de vous.\n\n\nQualifications\n\nBAC PRO et/ou BTS commerce/force de vente, et/ou formation de Secrétariat médical.\n\nUne première expérience dans le secteur médical et idéalement dans le MAD. (maintien à domicile) est un plus.\n\nVous avez des compétences administratives, en téléphonie et logiciel de bureautique, de bonnes capacités d'écoute et d'analyse des problématiques client. #LI-DNI\n\n\nInformations supplémentaires\n\nTickets restaurant, politique d'ancienneté (3%-6%) et réductions tarifaires site SWILE",
+        "dateCreation": "2026-07-04T18:34:38.019Z",
+        "dateActualisation": "2026-07-04T18:34:38.319Z",
+        "lieuTravail": {
+          "libelle": "69 - VENISSIEUX",
+          "latitude": 45.695917,
+          "longitude": 4.874121,
+          "codePostal": "69200",
+          "commune": "69259"
+        },
+        "romeCode": "D1409",
+        "romeLibelle": "Assistant / Assistante administration des ventes",
+        "appellationlibelle": "Assistant / Assistante administration des ventes",
+        "entreprise": {
+          "nom": "ABMPHARMA",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "300305",
+            "libelle": "Effectuer le suivi des commandes, la facturation",
+            "exigence": "S"
+          },
+          {
+            "code": "117243",
+            "libelle": "Etablir un devis",
+            "exigence": "S"
+          },
+          {
+            "code": "124537",
+            "libelle": "Vérifier les conditions de réalisation d'une commande",
+            "exigence": "S"
+          },
+          {
+            "code": "119859",
+            "libelle": "Assurer le suivi des commandes et des livraisons",
+            "exigence": "S"
+          },
+          {
+            "code": "300379",
+            "libelle": "Développer et fidéliser la relation client",
+            "exigence": "S"
+          },
+          {
+            "code": "300431",
+            "libelle": "Mettre à jour un dossier, une base de données",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1900.0 Euros à 2000.0 Euros sur 12.0 mois",
+          "complement1": "Titres restaurant / Prime de panier",
+          "complement2": "CSE",
+          "listeComplements": [
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "ABMPHARMA - M. LUDOVIC FOULCHER",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210TBJP",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210TBJP"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais Zone départementale",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "77.29Z",
+        "secteurActivite": "77",
+        "secteurActiviteLibelle": "Location et location-bail d'autres biens personnels et domestiques",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve d'autonomie",
+            "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+          },
+          {
+            "libelle": "Avoir l'esprit d'équipe",
+            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          }
+        ],
+        "trancheEffectifEtab": "10 à 19 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210TBJP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée",
+            " Travail en horaires fixes"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-04",
     "count": 3,
     "offres": [
@@ -8299,450 +8431,6 @@
         "_ville_recherchee": "Lyon",
         "_score": 0,
         "_is_remote": false
-      }
-    ]
-  },
-  {
-    "date": "2026-06-22",
-    "count": 7,
-    "offres": [
-      {
-        "id": "4088276",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "LES MISSIONS : Rattaché au Directeur Régional, vous êtes le garant de la politique commerciale sur votre secteur et pilotez le développement du chiffre daffaires. Sur un poste 50% chasse / 50% fidélisation, vos principales missions seront les suivantes : * Développer et fidéliser un portefeuille de distributeurs généralistes et spécialisés (type Sonepar, Rexel, Yess Électrique) et dinstallateurs électriciens. * Prospecter activement de nouveaux clients et partenaires pour renforcer la présence de la marque sur le territoire. * Déployer les contrats cadres régionaux et assurer le respect des politiques tarifaires. * Construire et suivre vos plans dactions commerciales avec des objectifs précis de volume, marge et part de marché. * Utiliser efficacement le CRM pour le reporting, le suivi du pipeline de projets, la veille concurrentielle et la coordination avec les autres services. * Représenter lentreprise lors dévénements professionnels et participer à la promotion des solutions auprès des prescripteurs et décideurs locaux. LE PROFIL RECHERCHÉ : Votre profil idéal ? * Vous avez au moins 3 ans dexpérience commerciale terrain BtoB, acquise dans le second œuvre, la sécurité électronique, la domotique ou le matériel électrique. * Vous êtes un chasseur dynamique et persévérant, animé par le goût du terrain, des résultats et du challenge. * Autonome, rigoureux et organisé, vous savez planifier vos actions, structurer votre prospection et relancer vos affaires avec méthode. * Fiable et orienté client, vous aimez accompagner vos interlocuteurs sur toute la durée du cycle de vente, du premier contact à la fidélisation. * Curieux et créatif, vous cherchez toujours des solutions et savez rebondir face aux imprévus. Enfin, vous prenez plaisir à vendre, à convaincre et à construire des relations solides : cest ce qui fait de vous un véritable business partner sur votre secteur. LES AVANTAGES : Package de rémunération Fixe à négocier selon profil et expérience + variable mensuel Avantages : véhicule de fonction, carte essence, PC/téléphone, RTT, CSE, télétravail 1 jour/semaine. Statut : Cadre Pourquoi rejoindre notre entreprise ? * Un marché en forte croissance, porté par la digitalisation et la sécurisation des bâtiments. * Une entreprise innovante à taille humaine, intégrée à un groupe international solide et reconnu. * Une autonomie importante et un réel impact sur le développement régional. * Une culture déquipe positive, axée sur la collaboration, la confiance et la réussite collective. * Des outils performants et des produits de haute qualité pour soutenir votre réussite commerciale. POURQUOI POSTULER AVEC UPTOO ? 1. +700 postes de commerciaux en quelques clics, 2. Réponse sous 48h, 3. RDV sous 7 jours, Le reste, c'est vous !",
-        "dateCreation": "2026-06-22T00:00:39.000Z",
-        "dateActualisation": "2026-06-22T00:00:39.000Z",
-        "lieuTravail": {
-          "libelle": "76 - Havre",
-          "latitude": 49.50975,
-          "longitude": 0.152732,
-          "codePostal": "76600",
-          "commune": "76351"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "description": "Rejoignez un acteur international des technologies connectées pour le bâtiment ! Nous recherchons un Ingénieur Commercial Normandie H/F pour un groupe international spécialisé dans les solutions de sécurité électronique et de gestion intelligente des bâtiments. Lentreprise conçoit, fabrique et commercialise des systèmes de contrôle daccès, dinterphonie, de vidéoprotection et dalarme anti-intrusion, destinés à la fois aux bâtiments résidentiels, tertiaires et aux infrastructures collectives..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 56000.0 Euros à 66000.0 Euros"
-        },
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4088276",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/49390/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "4075092",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "LES MISSIONS : Rattaché au Directeur Régional, vous êtes le garant de la politique commerciale sur votre secteur et pilotez le développement du chiffre daffaires. Sur un poste 50% chasse / 50% fidélisation, vos principales missions seront les suivantes : * Développer et fidéliser un portefeuille de distributeurs généralistes et spécialisés (type Sonepar, Rexel, Yess Électrique) et dinstallateurs électriciens. * Prospecter activement de nouveaux clients et partenaires pour renforcer la présence de la marque sur le territoire. * Déployer les contrats cadres régionaux et assurer le respect des politiques tarifaires. * Construire et suivre vos plans dactions commerciales avec des objectifs précis de volume, marge et part de marché. * Utiliser efficacement le CRM pour le reporting, le suivi du pipeline de projets, la veille concurrentielle et la coordination avec les autres services. * Représenter lentreprise lors dévénements professionnels et participer à la promotion des solutions auprès des prescripteurs et décideurs locaux. LE PROFIL RECHERCHÉ : Votre profil idéal ? * Vous avez au moins 3 ans dexpérience commerciale terrain BtoB, acquise dans le second œuvre, la sécurité électronique, la domotique ou le matériel électrique. * Vous êtes un chasseur dynamique et persévérant, animé par le goût du terrain, des résultats et du challenge. * Autonome, rigoureux et organisé, vous savez planifier vos actions, structurer votre prospection et relancer vos affaires avec méthode. * Fiable et orienté client, vous aimez accompagner vos interlocuteurs sur toute la durée du cycle de vente, du premier contact à la fidélisation. * Curieux et créatif, vous cherchez toujours des solutions et savez rebondir face aux imprévus. Enfin, vous prenez plaisir à vendre, à convaincre et à construire des relations solides : cest ce qui fait de vous un véritable business partner sur votre secteur. LES AVANTAGES : Package de rémunération Fixe à négocier selon profil et expérience + variable mensuel Avantages : véhicule de fonction, carte essence, PC/téléphone, RTT, CSE, télétravail 1 jour/semaine. Statut : Cadre Pourquoi rejoindre notre entreprise ? * Un marché en forte croissance, porté par la digitalisation et la sécurisation des bâtiments. * Une entreprise innovante à taille humaine, intégrée à un groupe international solide et reconnu. * Une autonomie importante et un réel impact sur le développement régional. * Une culture déquipe positive, axée sur la collaboration, la confiance et la réussite collective. * Des outils performants et des produits de haute qualité pour soutenir votre réussite commerciale. POURQUOI POSTULER AVEC UPTOO ? 1. +700 postes de commerciaux en quelques clics, 2. Réponse sous 48h, 3. RDV sous 7 jours, Le reste, c'est vous !",
-        "dateCreation": "2026-06-21T06:01:34.000Z",
-        "dateActualisation": "2026-06-22T00:00:47.000Z",
-        "lieuTravail": {
-          "libelle": "76 - Rouen",
-          "latitude": 49.44463,
-          "longitude": 1.078462,
-          "codePostal": "76000",
-          "commune": "76540"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "description": "Rejoignez un acteur international des technologies connectées pour le bâtiment ! Nous recherchons un Ingénieur Commercial Normandie H/F pour un groupe international spécialisé dans les solutions de sécurité électronique et de gestion intelligente des bâtiments. Lentreprise conçoit, fabrique et commercialise des systèmes de contrôle daccès, dinterphonie, de vidéoprotection et dalarme anti-intrusion, destinés à la fois aux bâtiments résidentiels, tertiaires et aux infrastructures collectives..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 56000.0 Euros à 66000.0 Euros"
-        },
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4075092",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/49388/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "4075089",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "LES MISSIONS : Rattaché au Directeur Régional, vous êtes le garant de la politique commerciale sur votre secteur et pilotez le développement du chiffre daffaires. Sur un poste 50% chasse / 50% fidélisation, vos principales missions seront les suivantes : * Développer et fidéliser un portefeuille de distributeurs généralistes et spécialisés (type Sonepar, Rexel, Yess Électrique) et dinstallateurs électriciens. * Prospecter activement de nouveaux clients et partenaires pour renforcer la présence de la marque sur le territoire. * Déployer les contrats cadres régionaux et assurer le respect des politiques tarifaires. * Construire et suivre vos plans dactions commerciales avec des objectifs précis de volume, marge et part de marché. * Utiliser efficacement le CRM pour le reporting, le suivi du pipeline de projets, la veille concurrentielle et la coordination avec les autres services. * Représenter lentreprise lors dévénements professionnels et participer à la promotion des solutions auprès des prescripteurs et décideurs locaux. LE PROFIL RECHERCHÉ : Votre profil idéal ? * Vous avez au moins 3 ans dexpérience commerciale terrain BtoB, acquise dans le second œuvre, la sécurité électronique, la domotique ou le matériel électrique. * Vous êtes un chasseur dynamique et persévérant, animé par le goût du terrain, des résultats et du challenge. * Autonome, rigoureux et organisé, vous savez planifier vos actions, structurer votre prospection et relancer vos affaires avec méthode. * Fiable et orienté client, vous aimez accompagner vos interlocuteurs sur toute la durée du cycle de vente, du premier contact à la fidélisation. * Curieux et créatif, vous cherchez toujours des solutions et savez rebondir face aux imprévus. Enfin, vous prenez plaisir à vendre, à convaincre et à construire des relations solides : cest ce qui fait de vous un véritable business partner sur votre secteur. LES AVANTAGES : Package de rémunération Fixe à négocier selon profil et expérience + variable mensuel Avantages : véhicule de fonction, carte essence, PC/téléphone, RTT, CSE, télétravail 1 jour/semaine. Statut : Cadre Pourquoi rejoindre notre entreprise ? * Un marché en forte croissance, porté par la digitalisation et la sécurisation des bâtiments. * Une entreprise innovante à taille humaine, intégrée à un groupe international solide et reconnu. * Une autonomie importante et un réel impact sur le développement régional. * Une culture déquipe positive, axée sur la collaboration, la confiance et la réussite collective. * Des outils performants et des produits de haute qualité pour soutenir votre réussite commerciale. POURQUOI POSTULER AVEC UPTOO ? 1. +700 postes de commerciaux en quelques clics, 2. Réponse sous 48h, 3. RDV sous 7 jours, Le reste, c'est vous !",
-        "dateCreation": "2026-06-21T06:01:34.000Z",
-        "dateActualisation": "2026-06-22T00:00:47.000Z",
-        "lieuTravail": {
-          "libelle": "14 - Caen",
-          "latitude": 49.193554,
-          "longitude": -0.39044,
-          "codePostal": "14000",
-          "commune": "14118"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "description": "Rejoignez un acteur international des technologies connectées pour le bâtiment ! Nous recherchons un Ingénieur Commercial Normandie H/F pour un groupe international spécialisé dans les solutions de sécurité électronique et de gestion intelligente des bâtiments. Lentreprise conçoit, fabrique et commercialise des systèmes de contrôle daccès, dinterphonie, de vidéoprotection et dalarme anti-intrusion, destinés à la fois aux bâtiments résidentiels, tertiaires et aux infrastructures collectives..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 56000.0 Euros à 66000.0 Euros"
-        },
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4075089",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/49389/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "210CVXM",
-        "intitule": "Téléconseiller en recouvrement amiable (H/F)",
-        "description": "ALP EMPLOI LYON recrute, pour son client spécialisé en recouvrement amiable et rachat de créances, un Téléconseiller en Recouvrement Amiable H/F en CDD.\n\nMissions :\nPrise en charge des appels entrants et sortants.\nMise en place des solutions de règlement amiable avec les clients.\nRépondre aux demandes des clients concernant le recouvrement.\nL'objectif est de recouvrir les impayés et de développer une relation de confiance avec les clients.\n\nProfil recherché : \nVous avez une première expérience sur un poste dans le domaine de la relation client à distance (en centre d'appels).\nVous avez un bon relationnel et êtes à l'aise au téléphone.\nUne période de formation complète est proposée avec la possibilité d'acquérir des qualifications et de développer vos connaissances dans le domaine du recouvrement.\n\nHoraires : du lundi au vendredi - Amplitude horaire de 9h à 19h (journées en 9h - 17h et  en 11h - 19h)\nEligible au télétravail (2 jours par semaine)\n\nAvantages: primes mensuelles (primes entre 250 à 400 euros brut) + remboursement de 50% de l'abonnement de transports + tickets restaurant (7 euros par jour pris en charge à 60% par l'employeur)",
-        "dateCreation": "2026-06-22T15:31:41.117Z",
-        "dateActualisation": "2026-06-22T15:55:08.397Z",
-        "lieuTravail": {
-          "libelle": "69 - CALUIRE ET CUIRE",
-          "latitude": 45.796881,
-          "longitude": 4.842342,
-          "codePostal": "69300",
-          "commune": "69034"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "ALP EMPLOI",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 6 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1900.0 Euros sur 12.0 mois",
-          "complement1": "Primes",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Etre à l'écoute, faire preuve d'empathie",
-            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
-          },
-          {
-            "libelle": "Faire preuve de rigueur et de précision",
-            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-          },
-          {
-            "libelle": "Faire preuve de contrôle de soi",
-            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
-          }
-        ],
-        "trancheEffectifEtab": "50 à 99 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210CVXM"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée",
-            " Travail le samedi"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "210CFTL",
-        "intitule": "Conseiller Clientèle (H/F)",
-        "description": "Nous recherchons pour notre magasin Louis Pion à Saint-Priest un vendeur H/F.\n\nVous serez en charge de\nAccueil des clients\nVente de montres et bijoux\nConseil client\nGestion des commandes\nEntretien des produits\n\nPoste à pourvoir rapidement\nZone desservie\nTemps partiel",
-        "dateCreation": "2026-06-22T10:54:13.037Z",
-        "dateActualisation": "2026-06-22T10:54:13.037Z",
-        "lieuTravail": {
-          "libelle": "69 - ST PRIEST",
-          "latitude": 45.694466,
-          "longitude": 4.935537,
-          "codePostal": "69800",
-          "commune": "69290"
-        },
-        "romeCode": "D1246",
-        "romeLibelle": "Vendeur / Vendeuse en accessoires de la personne",
-        "appellationlibelle": "Vendeur / Vendeuse en horlogerie",
-        "entreprise": {
-          "nom": "WATCH ME",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "102405",
-            "libelle": "Techniques de mise en rayon",
-            "exigence": "S"
-          },
-          {
-            "code": "300374",
-            "libelle": "Présenter et valoriser un produit ou un service",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "commentaire": "Selon grille interne"
-        },
-        "dureeTravailLibelle": "Temps partiel - 25H/semaine\nTravail en journée...",
-        "dureeTravailLibelleConverti": "Temps partiel",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail SAINT PRIEST",
-          "coordonnees1": "LES ILOTS VERTS - BATIMENT C 100 AVENUE ARISTIDE BRIAND",
-          "coordonnees2": "69800 Saint-Priest",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210CFTL"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210CFTL"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "47.77Z",
-        "secteurActivite": "47",
-        "secteurActiviteLibelle": "Commerce de détail d'articles d'horlogerie et de bijouterie en magasin spécialisé",
-        "trancheEffectifEtab": "3 à 5 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210CFTL"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "Temps partiel - 25H/semaine\nTravail en journée",
-            " Travail le samedi"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4066282",
-        "intitule": "Conseiller clientèle en ligne (F/H) h/f",
-        "description": "Description de l'entrepriseLa Caisse d’Epargne Rhône Alpes, qui sommes-nous ? Nous sommes 3000 collaborateurs au service de nos clients particuliers, professionnels, entreprises, associations et collectivités publiques #BanqueUniverselle Nous appartenons à nos clients-sociétaires, nous ne sommes pas soumis aux aléas d’un cours de bourse et nous inscrivons notre action dans la durée. Engagée dans une démarche de responsabilité sociétale (RSE), notre entreprise réalise des actions de solidarité (mécénat sportif, culturel, soutien à la jeunesse, aux associations…) et poursuit une politique volontariste en faveur de la transition énergétique. #BanqueCoopérative Nous sommes un acteur économique de territoire en étant présents sur 5 départements (Rhône, Isère, Ain, Savoie et Haute-Savoie), avec 280 agences et agences en ligne, 7 centres d’affaires. #BanqueDeProximité Être utile ? La richesse de notre métier, c’est avant tout son utilité économique et sociale, c’est accompagner les moments de vie de nos clients en leur proposant les conseils et produits adaptés à leurs besoins. #BanqueUtile Et nos collaborateurs ? Nous nous attachons à ce qu’ils vivent une expérience collaborateur de qualité au quotidien. Qu’ils puissent s’accomplir dans leur métier, se former et évoluer grâce aux diverses perspectives offertes en interne. Pour en savoir plus sur nous… https://www.caissedepargnerhonealpes.fr/recrutement/ https://www.youtube.com/watch?v=fA2RddB2K30Poste et missionsL'Agence en Ligne de Isère Sud, recherche un Conseiller clientèle en ligne (F/H). Vous apportez à vos clients un conseil adapté à leurs besoins, via les canaux distants et déterminez leur potentiel. Vous saisissez ainsi les opportunités pour exploiter et satisfaire leurs besoins dans le respect de la déontologie, des objectifs commerciaux et du développement du portefeuille géré en pool. Vos missions : - Vous développez et fidélisez, via des canaux distants, un portefeuille de clients particuliers, géré en pool, - Vous répondez aux sollicitations des clients à distance, - Vous participez à la gestion des réclamations et incidents, - Vous appliquez la politique commerciale et détectez le potentiel client, - Vous commercialisez l'offre Produits et Services, - Vous finalisez les actes de vente, assurez le montage, la maîtrise des risques et pérennisez la relation commerciale. Profil et compétences requisesDe formation Bac+2/3 minimum dans une filière bancaire et/ou commerciale (ou niveau équivalent acquis par une expérience reconnue) : - Vous justifiez d'une expérience réussie en Banque, Assurance. - Vous maîtrisez les méthodes de vente et avez de bonnes connaissances juridiques et fiscales. - Votre sens de la relation commerciale, votre tempérament de développeur et votre capacité à maximiser la satisfaction client vous permettront d'évoluer rapidement vers des métiers d'expertise ou de management. - Votre appétence pour le digital sera un réel atout.Informations complémentaires sur le postePostes à pouvoir en CDI Salaire fixe proposé entre 32.200 et 35.000 € annuel brut (en fonction de l’expérience bancaire), plus éléments variables et avantages dont : Rémunération variable Intéressement Prime de vie chère (pour les offres concernées) Avantages tarifaires sur offres bancaires & assurances Semaine de 4,5 jours de travail Possibilité de télétravail La Caisse d’Epargne Rhône Alpes s’engage en faveur de l’accueil et de l’intégration des personnes en situation de handicap.",
-        "dateCreation": "2026-06-20T22:29:08.000Z",
-        "dateActualisation": "2026-06-20T22:29:08.000Z",
-        "lieuTravail": {
-          "libelle": "38 - Grenoble",
-          "latitude": 45.18637,
-          "longitude": 5.711296,
-          "codePostal": "38000",
-          "commune": "38185"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4066282",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CERA05438#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "4066271",
-        "intitule": "Conseiller Clientèle (F/H) h/f",
-        "description": "Description de l'entrepriseBanque régionale et coopérative, la Caisse d’Epargne Rhône Alpes est un acteur économique incontournable de la région. Elle accompagne l’ensemble de ses clients et contribue au développement durable de son territoire. Son engagement social et solidaire se traduit concrètement à travers des actions fortes en faveur de l’égalité des chances, de l’inclusion et de la diversité. Dans une démarche d’amélioration continue de l’expérience collaborateur, la Caisse d’Epargne Rhône Alpes obtient, dès sa première participation, la certification Great Place To Work®, référence mondiale en matière de qualité de vie au travail. Cette distinction vient reconnaître l’engagement collectif des équipes ainsi que les actions menées pour favoriser un environnement de travail positif, au service de la performance.Poste et missionsLes missions proposées Un achat immobilier ? Un mariage ? Un imprévu ? Une succession ? Autant de projets qui font la richesse et la diversité du métier de conseiller. Au sein de l’agence de Culoz et en collaboration avec l’ensemble de l’équipe, vos principales missions seront de : - Développer un portefeuille de clients dédiés en assurant leur satisfaction, - Comprendre les besoins du client et lui apporter des conseils adaptés, - Commercialiser nos produits et services, - Garantir la qualité des dossiers et assurer la maîtrise des risques, - Contribuer aux objectifs commerciaux tout en veillant à la satisfaction client. Nous recherchons celle ou celui qui deviendra l’interlocuteur privilégié de nos clients en les accompagnant dans leurs projets financiers tout au long de leur vieProfil et compétences requisesCe que nous recherchons ? Un savoir-être avant un savoir-faire ! Ce qui nous intéresse ? Votre appétence pour la relation client, votre tempérament commercial (goût du challenge), votre faculté à travailler en équipe, votre curiosité... De formation BAC+2/3 minimum (diplôme obtenu ou niveau), vous disposez d'une expérience commerciale idéalement acquise dans le développement de portefeuille client. Pas d'expérience bancaire ? Nous saurons vous accompagner à travers un parcours d'intégration et de formation, adapté à chacun, qui peut s'étendre sur 3 mois !. Alors n'hésitez plus, rejoignez-nous et construisez votre avenir avec nous !Informations complémentaires sur le postePoste à pourvoir en CDI Salaire fixe proposé entre 32.500 et 35.500 € annuel brut (en fonction de l’expérience bancaire), plus éléments variables et avantages dont : - Rémunération variable - Intéressement - Avantages tarifaires sur offres bancaires & assurances - Semaine de 4,5 jours de travail - Possibilité de télétravail La Caisse d’Epargne Rhône Alpes s’engage en faveur de l’accueil et de l’intégration des personnes en situation de handicap.",
-        "dateCreation": "2026-06-20T22:29:07.000Z",
-        "dateActualisation": "2026-06-20T22:29:07.000Z",
-        "lieuTravail": {
-          "libelle": "01 - Culoz-Béon",
-          "latitude": 45.854647,
-          "longitude": 5.750525,
-          "codePostal": "01350",
-          "commune": "01138"
-        },
-        "romeCode": "C1201",
-        "romeLibelle": "Chargé / Chargée d'accueil et de services clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée d'accueil et de services clientèle bancaire",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4066271",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CERA05548#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
       }
     ]
   }
