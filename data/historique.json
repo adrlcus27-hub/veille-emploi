@@ -1,5 +1,1344 @@
 [
   {
+    "date": "2026-07-07",
+    "count": 20,
+    "offres": [
+      {
+        "id": "210VZMP",
+        "intitule": "Conseiller(ère) client évolutif manager CDI (H/F)-AEROEMPLOI",
+        "description": "Notre offre concerne l'agence de LYON SAINT EXUPERY \n\nSi le service client et la vente vous passionnent, si vous faites preuve de leadership et d'une excellente communication, si vous avez un bon niveau d'anglais et l'envie affirmée d'évoluer sur des fonctions managériales, notre programme pourrait bien être fait pour vous.\n\nVous intégrez notre agence locale en tant que \" Conseillère / Conseiller client (F/H) \" en CDI et suivez en parallèle notre cursus de formation interne pour développer pleinement vos compétences sur le poste ainsi que votre autonomie.\n\nLe package moyen d'entrée à ce poste évolutif est de 26 à 32K€ brut annuel selon agences pour passer à 43-48K€ plus véhicule selon mobilité.\n\nVos missions en agence :\n\n*Vente/ Business développement : vente de nos prestations, en agence en personnalisant notre offre aux besoins de nos clients. \nVous travaillez avec des objectifs commerciaux individuels et collectifs, qui vous permettent de développer vos connaissances et de faire vos preuves en B to B, B to C et gestion de centre de profit.\n\n*Service client : Accueillir et accompagner nos clients (en agence et au téléphone), établir leur contrat de location, expliquer les conditions de location, accompagnement des clients au parking pour contrôler les véhicules avec eux (au départ comme au retour), fournir un service d'excellence à chacun de nos clients.\n\n*Gestion back office en agence : gestion administrative, logistique,  optimisation de la flotte, préparation des véhicules et mobilité des clients.\n\n*Formation : en parallèle de vos missions en agence, vous intégrez notre programme de formation Management Trainee qui vous permettra si souhaité d'évoluer au sein de notre groupe. Grace à cette formation interne, nos conseillers client peuvent accéder à des postes d'Assistant-e Manager (F/H) puis Chef(fe) d'Agence (F/H) en 18 à 24 mois seulement selon mobilité. \n\nCe poste vous correspond si :\nVous aimez le service client, recherchez des missions commerciales, possédez un leadership proactif.\n\nVous devez avoir un bon niveau d'anglais, être mobile pour accélérer votre évolution de carrière et faire preuve de flexibilité horaire (agences situées en gare et aéroport).\n\nVous devez être titulaire d'un permis de conduire B européen\n\nAvantages :\nEn plus des incontournables tickets restaurant, participation mutuelle et participation transport, vous bénéficiez :\n- d'intéressement et participation\n- d'un plan épargne entreprise avec abondement\n- d'un jour de congé supplémentaire pour vous investir dans une association\n- d'avantages divers offerts par notre CE",
+        "dateCreation": "2026-07-07T10:17:12.136Z",
+        "dateActualisation": "2026-07-07T14:28:36.629Z",
+        "lieuTravail": {
+          "libelle": "69 - COLOMBIER SAUGNIEU",
+          "latitude": 45.712914,
+          "longitude": 5.111427,
+          "codePostal": "69124",
+          "commune": "69299"
+        },
+        "romeCode": "D1204",
+        "romeLibelle": "Agent technico-commercial / Agente technico-commerciale en location de véhicules",
+        "appellationlibelle": "Agent(e) technico-commercial(e) en location de véhicules",
+        "entreprise": {
+          "nom": "ENTERPRISE MOBILITY",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "formations": [
+          {
+            "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
+            "exigence": "E"
+          }
+        ],
+        "langues": [
+          {
+            "libelle": "Anglais",
+            "exigence": "E"
+          }
+        ],
+        "permis": [
+          {
+            "libelle": "B - Véhicule léger",
+            "exigence": "E"
+          }
+        ],
+        "competences": [
+          {
+            "code": "300369",
+            "libelle": "Conclure une transaction",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 2142.0 Euros à 2600.0 Euros sur 12.0 mois",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "12",
+              "libelle": "Plan d'épargne retraite d'entreprise"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée...",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "2",
+        "deplacementLibelle": "Ponctuels",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "77.11A",
+        "secteurActivite": "77",
+        "secteurActiviteLibelle": "Location de courte durée de voitures et de véhicules automobiles légers",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Organiser son travail selon les priorités et les objectifs",
+            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+          },
+          {
+            "libelle": "Faire preuve de leadership",
+            "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          }
+        ],
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210VZMP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée",
+            " Travail les week-ends et jours fériés",
+            " Travail par roulement"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4634643",
+        "intitule": "Responsable service client (h/f)",
+        "description": "Job Description: \n\nAirbus Defence & Space  recherche un  Customer Service Manager (Responsable Service Client) (f/h)  pour rejoindre notre département Geospatial Customer Service , dans la branche Connected Intelligence/Geospatial basé à  Toulouse, France . \n\nVous ferez partie d'une équipe qui garantit la fourniture de services basés sur l'imagerie spatiale de haute performance et de qualité.\n\nCe service assure le respect des niveaux de service définis pour nos clients, qu'il s'agisse des niveaux de service « standards » de nos principaux produits ou de contrats individuels offrant des services personnalisés et premium, tout en garantissant constamment la satisfaction client et en anticipant les besoins.\n\nLe Service Client au sein de notre département est à la fois un rôle opérationnel (formation des clients, support pour leurs commandes et demandes quotidiennes) et un rôle axé sur le business (développement des comptes clients, du volume de commandes et du chiffre d'affaires). En intervenant dès le début du processus de l'engagement client, nous mettons un accent particulier sur l'anticipation des besoins des clients et le développement proactif de nouvelles opportunités, en collaboration et en soutien à nos collègues des ventes et du marketing.\n\nVotre environnement de travail :\n\nCapitale mondiale de l'aéronautique et capitale européenne de la recherche dans le spatial, Toulouse est une ville dynamique du sud-ouest de la France desservie par un aéroport international. Idéalement située entre la mer Méditerranée et l'océan Atlantique et à proximité des Pyrénées, elle offre de nombreuses possibilités d'activités de plein air ! \n\nParce que nous prenons soin de vous :\n\nAvantages financiers : Salaire attractif, accords d’intéressement et de participation, plan d'épargne salariale abondé par Airbus, plan d’actionnariat salarié sur la base du volontariat, avec attribution d'actions gratuites en fonction du nombre d'actions souscrites. \nÉquilibre vie privée / professionnelle : Des jours de congés supplémentaires pour occasions spéciales et des options de transfert de congés, un comité d'entreprise proposant de nombreuses activités socio-culturelles et sportives et d’autres services.  \nBien-être / santé : couverture complémentaire des frais de santé et de prévoyance (incapacité, invalidité, décès). Selon le site : centre de services de santé, services de conciergerie, salle de sport, application de covoiturage.  \nDéveloppement individuel : des opportunités d’évolution et des possibilités de formations nombreuses (catalogue de plus de 10.000 e-formations disponibles en libre accès pour développer votre employabilité, certifications, programmes de développement accéléré, parcours expert, mobilité nationale et internationale). \n\n\nChez Airbus, nous vous aidons à travailler, à vous connecter et à collaborer plus facilement et de manière plus flexible. Partout où cela est possible, nous favorisons la flexibilité dans nos modes de travail afin de stimuler l'esprit d'innovation. \n\nVos challenges :\n\nOpérations et gestion client\n\nAffecté.e à un portefeuille de clients, vous gérez et/ou supervisez le déploiement de leurs opérations issues de l'imagerie spatiale en respectant les délais, la qualité et les coûts.\nEngagement de livraison\n\nDès l'étape de pré-vente, vous agissez en tant que support technique, en évaluant les aspects techniques, opérationnels et financiers, et aidez à élaborer les solutions les mieux adaptées.\nVoix du client et satisfaction client\n\nNous faisons entendre la voix du client au quotidien. Vous anticipez et gérez les retours clients de manière efficace et constructive lors des commandes ou des besoins, et participez aux processus d'amélioration et de retour d'expérience client à l'échelle de l'entreprise. Vis-à-vis de l'extérieur, vous contribuez à communiquer de manière fiable et collaborative en impliquant toutes les parties prenantes concernées.\nSoutien à l'évolution du service\n\nVous cultivez un esprit d'équipe et de collaboration, en prenant en charge l'intégration ( on-boarding ) des collègues et en développant des synergies et des opérations d'équipe transnationales. Vous apportez votre expertise et contribuez aux nouvelles initiatives ou groupes de travail du service client.\nSoutien au développement client et commercial.\n\n\nVotre profil :\n\nExpérience confirmée en relation client, forte orientation client et motivation par la satisfaction client et l'excellence opérationnelle\nUne expérience de travail dans le service client, les ventes ou d'autres postes en contact direct avec la clientèle est un sérieux atout\n Fort intérêt pour les produits techniques \nUne expérience dans l'observation de la Terre ou l'imagerie spatiale serait un plus\nExpérience de l'utilisation d'outils SIG et d'outils de reporting\nExpérience avérée en gestion de projet\nCapacité à faire preuve d'autonomie et de curiosité\nRéactivité et flexibilité\nFortes capacités de communication et d'influenc",
+        "dateCreation": "2026-07-07T08:15:43.000Z",
+        "dateActualisation": "2026-07-07T08:15:43.000Z",
+        "lieuTravail": {
+          "libelle": "31 - Toulouse",
+          "latitude": 43.640169,
+          "longitude": 1.45153,
+          "codePostal": "31000",
+          "commune": "31555"
+        },
+        "romeCode": "H1101",
+        "romeLibelle": "Ingénieur / Ingénieure support technique",
+        "appellationlibelle": "Ingénieur / Ingénieure service client",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4634643",
+          "partenaires": [
+            {
+              "nom": "AEROCONTACT",
+              "url": "https://www.aerocontact.com/emploi-aeronautique/responsable-service-client-hf~1148254.html?fromref=poleemploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4634603",
+        "intitule": "A330 mrtt - customer service representative (h/f)",
+        "description": "Job Description: \n\nUn poste de Local Customer Service Representative  (h/f) vient de s'ouvrir au sein d’Airbus Defence & Space à (Istres). Vous rejoindrez le département du centre de service support A330 MRTT.\n\nDélivrer une expertise locale à l'Armée de l'Air française et de l’espace afin de conseiller le client dans toutes les activités relevant du bureau technique MRTT et CAMO (Continuing Airworthiness Maintenance Organisation)\nAider avec les aéronefs au sol  (AOG) et les enquêtes sur les incidents techniques.Délivrer des commentaires et des propositions pour améliorer la satisfaction des clients et les performances des services Airbus DS - Aider à mettre en oeuvre ces améliorations\n\nCe poste nécessite une habilitation de sécurité ou nécessite d'être éligible à une habilitation par les autorités reconnues.\n\nLe candidat doit posséder la nationalité française afin de pouvoir travailler sur des sujets NEO FR conformément à l’IGI 1300 du 11/08/2021 (article 7.1.1.3).\n\n Tâches et responsabilités : \n\nVous serez responsable des activités principales suivantes :\nRépondre aux requêtes de l'opérateur pendant la disponibilité en dehors des heures de travail en cas d'aéronef au sol (AOG) et de requêtes d'incident.Délivrer des conseils pour résoudre tout dépannage pertinent et soutenir leur exécution des tâches de maintenanceDélivrer une fonction de filtrage dans les deux sens pour éviter les erreurs d'interprétation lors de la communicationEtre en veille des progrès de la maintenance sur les aéronefsDélivrer une évaluation technique sur les demandes fréquentes de pièces de rechange/GSE qui peuvent avoir une incidence sur la disponibilité des aéronefsÉvaluer en permanence l'activité opérationnelle de la flotte d'aéronefs et signaler tout problème d'assistance pertinentRépondre de manière qualitative aux questions techniquesEnquêter sur tous les problèmes techniques importants du système et de la structure en service pour collecter des informations connexes et les délivrer dans le cadre d'une requête technique complète et détailléeTravailler avec tous les membres de l'équipe du centre d'assistance d'Airbus conformément au code de conduite d'AirbusAssurer la liaison avec la FAF pour collecter et délivrer des données de fiabilité au centre de compétences (CoC) d'Airbus DS pour la génération de rapports de fiabilité\n Compétences requises \n\nVous avez la formation, les expériences et compétences suivantes :\nTitulaire d'un diplôme d'ingénieur aéronautique ou EASA PART 66 AIRBUS A330 de type avec RR Trent 700 dans le domaine de l’aéronautique.La qualification de type A330MRTT serait un plus.Au moins 10 ans d'expérience dans un Part 145 ou Part M dans une compagnie aérienne et/ou une organisation MRO.Une expertise au sein du Centre de Contrôle de Maintenance (MCC) serait un plus.Familier avec l'utilisation d'Airnav.Connaissance d'AMASIS ou d'un logiciel équivalent obligatoire.Très motivé par le support client, sens du contact et du relationnel.Bonnes aptitudes interpersonnelles et de communication.Aptitude à travailler en équipe dans un environnement stimulant avec de la rigueur et de la discrétion.Bonne présentation personnelle.Ouverture, dévouement et esprit d'équipe.Forte agilité et fait preuve d’organisation.Niveau de négociation en français obligatoire.Niveau d'anglais de négociation.Niveau d’Espagnol technique serait un plus\n\n****\n\nA vacancy for an A330 MRTT Customer Service & Technical Support (m/f) has arisen within Airbus Defence & Space SAS, based in Istres (Marseille area) on the French Air Force military base.\n\nThe successful candidate you will join the TASWF3 (Airbus Support Centre MRTT) department.\n\nAirbus Defence and Space has been contracted to deliver In-Service Support services to French Air Force for their A330 MRTT fleet. This includes aircraft maintenance, material support and technical services, GSE, Camo & working party support.\n\nWithin the local support team of Airbus Defence & Space (TASWF3) made of about 30 persons from all disciplines mentioned above, you will report operationally to the MRTT Technical Services Manager in Istres.\n\nWithin this position, your main tasks and responsibilities will include: \n\n Provide local expertise to French Air Force in order to advise the customer in all activities relevant to MRTT Technical office and local CAMO (Continuing Airworthiness Maintenance Organization) support\n Assist with Aircraft On Ground (AOG) and incident inquiries\n Provide feedback and proposals to improve customer satisfaction and Airbus DS services performance - help to implement such improvements\n\n Respond to operator queries during standby outside working hours in case of aircraft on\nground (AOG) and incident inquiries.\n Provide guidance to resolve any relevant troubleshooting and support their performance\nof maintenance tasks\n Provide a filtering function both ways to avoid misinterpretations during communic",
+        "dateCreation": "2026-07-07T08:15:43.000Z",
+        "dateActualisation": "2026-07-07T08:15:43.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Istres",
+          "latitude": 43.592331,
+          "longitude": 4.940253,
+          "codePostal": "13118",
+          "commune": "13047"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Customer Relationship Manager (CRM)",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4634603",
+          "partenaires": [
+            {
+              "nom": "AEROCONTACT",
+              "url": "https://www.aerocontact.com/emploi-aeronautique/a330-mrtt-customer-service-representative-hf~1148259.html?fromref=poleemploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4610754",
+        "intitule": "Conseiller clientèle des particuliers F/H h/f",
+        "description": "Description de l'entrepriseLa Banque BCP, une banque proche de ses clients, même à distance. Etablissement bancaire du Groupe BPCE, deuxième groupe bancaire français, notre capital est détenu à 80% par la Caisse d’Epargne Île-de-France, à 19% par Millennium BCP, première banque privée du Portugal et 1% par nos salariés. Nous accompagnons sur la durée les projets de nos clients particuliers et entrepreneurs, en France comme au Portugal et mettons à leur disposition notre expertise dans le domaine de l’immobilier, la gestion et la transmission de patrimoine international. En proposant les dernières innovations digitales, nous facilitons la vie de nos clients, tout en préservant une proximité relationnelle. À la Banque BCP, chaque client a un conseiller attitré dans une des agences de son réseau national. Banque engagée, nous nous impliquons dans de nombreux projets et inscrivons nos actions dans une démarche de responsabilité sociétale et environnementale. Poste et missionsEn tant que Conseiller clientèle de Particuliers, vous êtes l’interlocuteur privilégié de vos clients particuliers que vous conseillez et accompagnez tout au long de leurs projets de financements. Garant de la satisfaction de vos clients, vous êtes responsable de la gestion, du suivi et du développement de votre portefeuille clients. Vos Missions et Activités : Accueil des clients et gestion de la relation clientèle Accueillir le client et l'orienter Informer sur l'utilisation des DAB et autres dispositifs multicanaux Remettre les moyens de paiement et réaliser les opérations courantes Gérer les plannings de RDV Initier des contacts avec les prospects/clients et effectuer un premier niveau de qualification des projets/besoins Vente de produits et services Identifier les projets, besoins et attentes du client Proposer des offres adaptées aux besoins clients avec le soutien le cas échéant de sa hiérarchie ou d'autres commerciaux Argumenter et conclure la vente en obtenant l’adhésion du client Gestion administrative et suivi de la relation clientèle Formaliser la vente en rédigeant/transmettant les éléments du contrat dans le respect des normes prudentielles Saisir les informations clients et mettre à jour l’agenda commercial S’assurer de la réalisation effective des transactions, du respect des délais et conditions convenus avec le client Participer à la gestion des réclamations et incidents Vous souhaitez acquérir de nouveaux savoir-faire et vous épanouir au sein d’une entreprise à taille humaine ? Alors ce poste est pour vous ! Profil et compétences requisesVous avez minimum 3 ans d’expérience sur des fonctions commerciales avec de la prospection clients et de la vente et au moins une expérience dans le secteur bancaire sur le marché des particuliers. Commercial dans l’âme, vous maitrisez les techniques de vente et de prospection. Vous avez un excellent relationnel et la satisfaction client est votre priorité. Vous êtes dynamique, ponctuel et reconnu pour votre professionnalisme. Adaptable et organisé, vous savez faire face à la pression et aux imprévus. Vous êtes orienté résultats et vous aimez relever des défis ! La maitrise du portugais est un plus ! Votre lieu de travail sera une agence parisienne avec un rythme de travail du mardi au samedi. Informations complémentaires sur le postePourquoi rejoindre la Banque BCP ? Une entreprise à taille humaine où la proximité et la bienveillance sont clés ! Filiale d’un grand groupe bancaire, nous vous apportons la stabilité nécessaire à votre évolution professionnelle et l’agilité pour innover et révéler vos talents ! Travail en mode projet et processus en constante amélioration Les petits + : des tickets restau à hauteur de 12€ pris en charge à 60%, une prime de participation et d’intéressement, un 13ème mois, prise en charge du titre de transport à 70%, de l’actionnariat salarié, des RTT collectifs, une prise en charge mutuelle à 60%, prévoyance à 100%, des avantages CSE, un parcours d’intégration pour les nouveaux arrivants, des formations ciblées, un interlocuteur RH dédié pour la gestion de votre carrière, et une ambiance de travail chaleureuse Processus de recrutement : 1er étape: si votre candidature est retenue, vous serez contacté par un membre de l’équipe RH pour un premier échange. 2ème étape : si celui-ci est positif, vous serez recontacté pour un entretien avec un membre de l’équipe RH. 3ème étape : Le processus de recrutement inclut une étape de vérification du CV et de prise de références, assurée par notre partenaire de confiance, EveryCheck. 4ème étape : enfin, un dernier entretien physique aura lieu avec le manager opérationnel.",
+        "dateCreation": "2026-07-06T22:26:30.000Z",
+        "dateActualisation": "2026-07-06T22:26:30.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris"
+        },
+        "romeCode": "D1403",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
+        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610754",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BCP100721#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "4610775",
+        "intitule": "Gestionnaire Clientèle Grands Comptes International (F/H) h/f",
+        "description": "Description de l'entrepriseDepuis 40 ans, BPCE Factor, société d’affacturage du Groupe BPCE, soutient le développement commercial des TPE/PME/ETI en France et à l’International. Elle propose des solutions d’affacturage sur-mesure (financement, assurance-crédit, relance, recouvrement) adaptées aux différentes étapes de la vie d’une entreprise. BPCE Factor s’adresse principalement aux clients des banques du Groupe et aux courtiers. Elle est aujourd’hui la seule société d’affacturage en France à proposer un service client audité et certifié par Bureau Veritas Certification.Poste et missionsCette opportunité vous permettra de rejoindre un maillon central des métiers de BPCE FACTOR, la Direction Clientèle. Vous serez intégré à une équipe bienveillante, soudée, dans une ambiance conviviale. Rattaché au Responsable Département Clientèle, vous jouez un rôle clé dans la gestion des contrats des clients grands comptes et internationaux. Vous gérez des opérations liées à votre portefeuille de contrats clients en vous positionnant en analyste des risques, et en mettant en œuvre toutes les actions préventives et correctives nécessaires. Vous êtes l’interlocuteur privilégié des clients et optimisez la qualité de service afin de garantir le professionnalisme de BPCE Factor, du Groupe et ainsi contribuez à pérenniser les relations client. Plus spécifiquement, vos missions sont les suivantes : Contrôler et expertiser la facturation reçue Répondre aux demandes de financement des clients en veillant à respecter leurs besoins en termes de délai. Traiter les imputations simples et complexes nécessaires à la gestion des comptes. Prendre en charge les relances téléphoniques auprès des acheteurs . Être en relation constante avec les clients en vue de pérenniser les contrats. Être force de proposition sur les aménagements de contrat à mettre en place tant dans le domaine du risque que celui du développement rentable de la relation. Veiller à la qualité de service. Traiter les alertes. Analyser les indicateurs de gestion ainsi que les documents collectés Poste situé à Charenton le Pont, à pouvoir en CDI. POURQUOI NOUS REJOINDRE ? Intégrer BPCE FACTOR, c'est faire partie d'une entreprise à taille humaine, tout en bénéficiant de la force d'un grand groupe. Voici ce que nous vous offrons : Des perspectives d'évolution, car nous croyons en votre potentiel et vous proposons des opportunités de carrière adaptées à vos aspirations et compétences. Travail hybride possible avec du télétravail, une fois que vous serez bien installé Restaurant d'entreprise subventionné /des tickets restaurants Remboursement de 63 % de vos frais de transport en commun Avantages familiaux : Bénéficiez d'un complément familial mensuel et de primes de scolarité pour soutenir vos projets familiaux et éducatifs Une rémunération fixe selon votre profil, complétée par une P/I attractive et un dispositif abondement Accédez à une multitude de prestations offertes par notre CSE, pour profiter de moments de détente et de loisirs entre amis ou en famille. Profil et compétences requisesVous n'avez pas d'experience en affacturage ? Ce n'est pas un frein, nous prendrons en charge votre formation et accompagnement dans le poste. Quelques prérequis sont néanmoins indispensables : Vous avez un niveau courant voire bilingue en anglais, une 2ème langue serait un plus Vous êtes issu d'une formation supérieure en gestion / comptabilité / banque / finance Vous avez un goût de l’analyse des risques Capacités relationnelles développées, sens de l'écoute et sens politique, afin de bien s'intégrer dans l'équipe et assurer la satisfaction des clients Maitrise des outils bureautiques Sens de l’engagement et esprit d’équipe particulièrement développé, pour vous inscrire dans notre collectif.",
+        "dateCreation": "2026-07-06T22:26:30.000Z",
+        "dateActualisation": "2026-07-06T22:26:30.000Z",
+        "lieuTravail": {
+          "libelle": "94 - Charenton-le-Pont",
+          "latitude": 48.819716,
+          "longitude": 2.41612,
+          "codePostal": "94220",
+          "commune": "94018"
+        },
+        "romeCode": "D1402",
+        "romeLibelle": "Commercial / Commerciale grands comptes et entreprises",
+        "appellationlibelle": "Commercial / Commerciale grands comptes et entreprises",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610775",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BPCESEF02738#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 2,
+        "_is_remote": true
+      },
+      {
+        "id": "210WBCL",
+        "intitule": "Télévendeur (H/F)",
+        "description": "Acteur de la distribution de produits alimentaires (frais, surgelés et épicerie), l'entreprise accompagne au quotidien les professionnels de la restauration.Vos missions\nRattaché(e) au service télévente et en collaboration avec des commerciaux terrains attitrés\n\nVous gérez les commandes clients (appels entrants et sortants) dans une logique de conseil et de développement des ventes\nVous proposez des ventes additionnelles (promotions, opérations commerciales, déstockage)\nVous suggérez des produits de substitution en cas de rupture\nVous participez activement à la fidélisation des clients en instaurant une relation de confiance\nVous travaillez en équipe dans un environnement dynamique\n\nVotre profil\nVous êtes dynamique, motivé(e) et à l'aise au téléphone\nVous possédez un excellent relationnel\nVous avez un attrait pour le commerce et/ou la gastronomie\nVous aimez relever des défis\nUne première expérience en BtoB est appréciée\nUn intérêt pour la cuisine ou les produits alimentaires est un plus\n\n",
+        "dateCreation": "2026-07-07T10:27:22.992Z",
+        "dateActualisation": "2026-07-07T13:33:15.899Z",
+        "lieuTravail": {
+          "libelle": "59 - LILLE",
+          "latitude": 50.644293,
+          "longitude": 3.060016,
+          "codePostal": "59000",
+          "commune": "59350"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Télévendeur / Télévendeuse",
+        "entreprise": {
+          "nom": "NPN DISTRIBUTION",
+          "description": "NPN Distribution, PME rgionale incontournable de son secteur, est spcialise dans la commercialisation de produits alimentaires ( Glaces, Surgels, Frais Epicerie) auprs de la restauration commerciale, collective et vnementielle.",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois",
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "commentaire": "Fixe+commissions+13eme mois",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "11",
+              "libelle": "Commissions"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "38H50/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "NPN DISTRIBUTION - Mme Vincent BOGAERT",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210WBCL",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210WBCL"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "46.38B",
+        "secteurActivite": "46",
+        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) alimentaire spécialisé divers",
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210WBCL"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "38H50/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4629449",
+        "intitule": "Responsable du service client (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVous serez le véritable ambassadeur de l'expérience client. Votre rôle ne consistera pas uniquement à répondre aux demandes, mais à accompagner chaque client avec attention et professionnalisme tout au long de son parcours.\n\n\nAu quotidien, vous serez amené(e) à :\n • Assurer un accueil téléphonique de qualité.\n • Accompagner les clients dans leurs démarches et répondre à leurs questions.\n • Garantir un suivi rigoureux des dossiers et le respect des délais.\n • Anticiper les besoins et apporter des solutions adaptées.\n • Transformer chaque difficulté en expérience positive.\n • Fidéliser les clients grâce à une qualité de service irréprochable.\n • Recueillir les retours clients afin de contribuer à l'amélioration continue des services.\n • Travailler en étroite collaboration avec l'ensemble de l'équipe.\nCe qui fera la différence Chez notre client, un(e) excellent(e) Customer Service Manager :\n • Rappelle un client sans attendre une relance.\n • Prend des nouvelles après la clôture d'un dossier.\n • Détecte une inquiétude avant qu'elle ne devienne une réclamation.\n • Cherche une solution avant d'expliquer pourquoi quelque chose n'est pas possible.\n • Considère chaque client comme une personne et non comme un numéro.\n\nPROFIL RECHERCHÉ : \n\nAu-delà d'un parcours, nous recherchons avant tout une personnalité.\nVous aimez naturellement aider les autres et créer une relation de confiance. Vous êtes reconnu(e) pour votre empathie, votre sens de l'écoute, votre réactivité et votre capacité à rassurer.\n\n\nOrganisé(e) et rigoureux(se), vous savez gérer plusieurs dossiers simultanément tout en maintenant un haut niveau de qualité de service. Vous disposez d'une excellente expression orale et écrite et appréciez le travail en équipe.\n\n\nUne expérience en relation client, service client, assurances, banque, hôtellerie ou dans un environnement de services sera appréciée.\n\n\n35h/semaine du lundi au vendredi\nRémunération : 30 000 € à 35 000 € bruts annuels selon expérience + primes\nTélétravail à temps plein possible\nFormation à l'activité et aux outils de l'entreprise\nEntreprise à taille humaine en développement",
+        "dateCreation": "2026-07-07T04:31:51.000Z",
+        "dateActualisation": "2026-07-07T04:31:51.000Z",
+        "lieuTravail": {
+          "libelle": "83 - Fréjus",
+          "latitude": 43.383947,
+          "longitude": 6.721597,
+          "codePostal": "83370",
+          "commune": "83061"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable administratif(tive) du service clients",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Notre client accompagne au quotidien des entrepreneurs, artisans, commerçants, dirigeants de sociétés et particuliers dans leurs démarches administratives.\nSon ambition est simple : offrir un accompagnement fiable, réactif et humain à chaque client. Chaque interaction est une opportunité de créer une relation de confiance durable.\n\n\nDans le cadre de son développement, notre client recherche un(e) Customer Service Manager qui partagera cette vision et fera de la satisfaction client une priorité."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 35000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4629449",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/57cz7eaabw8/responsable-du-service-client",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4628773",
+        "intitule": "Chargé de clientèle (H/F)",
+        "description": "RESPONSABILITÉS : \n\nRejoignez une entreprise française à taille humaine, pionnière du self-stockage depuis près de 20 ans, qui a su bâtir sa réputation sur la proximité, la fiabilité et l'innovation dans le service.\nSpécialisée dans la location de box de stockage en libre-service, elle accompagne au quotidien plusieurs milliers de particuliers et de professionnels à travers une vingtaine de centres répartis sur le territoire national.\nSon ambition : offrir à chacun une solution de stockage simple, flexible et sécurisée, accessible 24h/24 et 7j/7, tout en garantissant le meilleur rapport qualité-prix du marché.\nAu-delà de son expertise technique, l'entreprise cultive une culture du service authentique, portée par des équipes engagées et passionnées, où chaque collaborateur contribue à la croissance d'un réseau dynamique en pleine expansion.\nIci, l'humain est au cœur du projet : écoute, proximité et esprit d'équipe sont les clés d'un environnement où chacun peut s'épanouir, apprendre et participer activement au développement d'un acteur devenu incontournable sur le marché du self-stockage en France.\nIls recherchent un(e) chargé(e) de clientèle pour renforcer son équipe et assurer un rôle clé d'interface entre ses clients et le centre de saint Nazaire\n\n\nMissions :\nAssurer l'accueil, le suivi et la satisfaction de la clientèle.\nConseiller et orienter efficacement les prospects et clients.\nGérer les dossiers administratifs, commerciaux et comptables.\nRéaliser la prospection et la fidélisation clients.\nDévelopper le chiffre d'affaires de l'agence en proposant des ventes additionnelles.\nGarantir le bon fonctionnement et la conformité du site (procédures, sécurité, hygiène).\nReprésenter l'entreprise auprès des clients et partenaires.\n\n\nResponsabilités:\nAppliquer les standards et procédures internes.\nGérer un portefeuille clients de manière autonome.\nSuivre les indicateurs de performance (CA, taux de conversion, impayés, satisfaction client).\nParticiper au développement de la notoriété de l'entreprise.\nÊtre force de proposition pour améliorer les résultats et les services.\n\nPROFIL RECHERCHÉ : \n\nDe formation commerciale souhaitée, vous disposez d'un grand sens du service client!\n\n\nExcellentes capacités relationnelles et organisationnelles.\nCapacité à gérer plusieurs tâches et à résoudre des problématiques clients.\nAutonomie, rigueur et dynamisme.\nUne expérience en relation client ou gestion commerciale est un plus.\n\nSalaire: 2000 € brut mensuel + primes mensuelles en fonction du résultat\nRythme de travail: Horaires de journée. Un samedi sur deux travaillé\n\nRejoignez les et devenez acteur de votre succès professionnel ! Postulez dès maintenant et embarquez dans une aventure passionnante !\n\n\nLieu du poste:2 rue Fernand Nouvion, 44600 Saint Nazaire\n\nConformément à notre politique de diversité et d'inclusion, ce poste est ouvert à toutes et tous. Nous encourageons vivement les candidatures de personnes en situation de handicap, ainsi que celles de toutes origines, genres et expériences.",
+        "dateCreation": "2026-07-07T04:31:38.000Z",
+        "dateActualisation": "2026-07-07T04:31:38.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Saint-Nazaire",
+          "latitude": 47.29528,
+          "longitude": -2.191468,
+          "codePostal": "44600",
+          "commune": "44184"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
+        "entreprise": {
+          "nom": "Find it! Révélateur de talents",
+          "description": "Find It! est un cabinet de recrutement généraliste indépendant, dédié aux recrutements CDD/CDI de profils cadres et techniques. Consultante experte en recrutement depuis plus de 15 ans sur la région Centre. Ce qui distingue Find It! c'est son approche personnalisée axée sur la compréhension de vos valeurs, de votre culture d'entreprise et de vos objectifs à long terme, sa sensibilité et sa connaissance approfondie au territoire local."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 22800.0 Euros à 24600.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4628773",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/6dfpjnstns8/charge-de-clientele-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4628218",
+        "intitule": "Conseiller(e) assurances (H/F)",
+        "description": "RESPONSABILITÉS : \n\nCe projet professionnel stimulant vous tente ?\nEn tant que collaborateur vous assurez l'accueil physique et téléphonique à l'agence et gérez les besoins de nos clients (établissement de devis, gestion des contrats, gestion des sinistres, etc).\nVotre but ? Vous informez, conseillez et accompagnez votre client dans la démarche de sa demande et vous lui proposez des services ou des produits adaptés à ses besoins.\nVotre priorité ? Vous participez activement à la fidélisation de la clientèle en offrant un service exceptionnel et en bâtissant une relation de confiance.\nVotre rôle, identifier les opportunités de développement commercial et optimiser les opportunités de vente additionnelle afin de fidéliser la clientèle.\nEn tant qu'ambassadeur de notre image de marque, vous véhiculez nos valeurs : innovation, excellence, responsabilité 360°, proximité et attention. Vous pourrez être amené à contribuer à l'animation des réseaux sociaux des agences.\nVos meilleurs atouts ? Votre organisation, votre rigueur et votre polyvalence seront appréciés dans vos missions au sein de l'agence ! Vous avez une formation et une expérience réussie de minimum 3 ans en assurances.\nNous vous recrutons pour votre savoir-être, votre énergie et votre attachement à la satisfaction client !\n\nPROFIL RECHERCHÉ : \n\nCe qui fait la différence ? Vous bénéficierez d'une formation initiale solide de 4 semaines au sein de notre centre de formation au siège de la société et de tous les outils nécessaires à votre réussite :\n • Vous développerez une expertise technique sur les produits d'assurances.\n • Vous évoluerez au sein d'une équipe dynamique et dans un environnement stimulant.\n • Vous relèverez des challenges et nous soutenons vos ambitions.\n\n\n\nSi vous êtes passionné par le conseil en assurances, avez un esprit orienté service client, et recherchez une opportunité enrichissante au sein d'une entreprise renommée, rejoignez-nous pour faire partie d'une équipe qui valorise votre talent et favorise votre réussite.\nVotre énergie est la bienvenue ! Participons ensemble à l'avenir de l'assurance !\nRémunération : 26 079€ brut annuel + variable jusqu'à 8 000€ annuel + chèques cadeaux",
+        "dateCreation": "2026-07-07T04:31:36.000Z",
+        "dateActualisation": "2026-07-07T04:31:36.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Acigné",
+          "latitude": 48.133591,
+          "longitude": -1.534236,
+          "codePostal": "35690",
+          "commune": "35001"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère en assurances",
+        "entreprise": {
+          "nom": "Thelem assurances",
+          "description": "Vous souhaitez être conseiller(e) en assurances ?\nRéseau d'agences d'agents généraux spécialisées dans les solutions d'assurance à destination des particuliers professionnels, l'agent Thélem assurances Acigné _ Liffré vous propose de participer au développement de ses agences ainsi qu'à la satisfaction clients. Vous trouverez dans votre activité, du rythme et de la diversité dans vos échanges."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 26079.0 Euros à 34079.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4628218",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/7kflidhy0v8/conseiller-e-assurances-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4610763",
+        "intitule": "CHARGE DE PARAMETRAGE ET HABILITATIONS – La Garde - H/F h/f",
+        "description": "Description de l'entrepriseVous être utile. Ça vous dit quelque chose ? Bien plus que la promesse stimulante que nous faisons à nos clients, c’est surtout le sentiment que vous aurez chaque jour au sein de nos équipes. Chez nous, vous aurez le regard tourné vers le futur et accompagné·e d’une équipe engagée, vous donnerez chaque jour du sens à votre métier. En aidant votre région à grandir, vous grandirez avec elle ! Avec la montagne et la mer pour horizon, forcément, on pense plus haut et on voit plus loin. Nous sommes à l’écoute de vos aspirations et mettons en place pour vous des moyens à la hauteur de vos ambitions, une politique RH stimulante et des formations qui vous permettent de grandir. Vous allez apprendre à mieux vous connaître et, bonne nouvelle, vous allez vous découvrir des potentiels que vous ne soupçonniez même pas ! Vous partagez nos défis, notre énergie et nos valeurs ? Alors on vous voit bien chez nous.Poste et missionsLa Caisse d’Epargne Côte d’Azur (CECAZ) recrute pour sa Direction SI et Technologie, un.e Chargé.e du Paramétrage et Habilitations à La Garde, dans l'équipe Systèmes d’information et Habilitations Les principales finalités du poste consistent à gérer les droits d’accès des collaborateurs aux applications, aux systèmes d’information et aux données, tout en garantissant le respecte des règles de sécurité et de conformité. Vos missions essentielles seront les suivantes : Créer, modifier et supprimer les habilitations des utilisateurs en mesurant les impacts Gérer les mouvements des collaborateurs Traiter les demandes d’accès en s’assurant de leur conformité avec les procédures internes Réaliser des revus d’habilitations périodiques afin d’identifier les accès obsolètes ou excessifs Contribuer à la mise en œuvre des politiques de sécurité des systèmes d’information Gérer les réorganisations de l’entreprise Assurer le suivi des incidents liés aux droits d’accès et proposer des actions correctives Accompagner les métiers sur les questions relatives aux habilitations Participer activement aux projets de la CECAZ et aux projets du groupe. Contribuer aux autres activités de l’unité informatique et paramétrages (téléphonie, gestion des espaces de données partagées, accompagnement des utilisateurs…) Profil et compétences requises Issu d’une formation de niveau Bac + 4 avec une aptitude à l’informatique et aux outils bureautiques, vous disposez d’une expérience validée d’au moins 3 ans en paramétrage et habilitations ou dans l’assistance utilisateurs. Doté de très bonnes connaissances numériques, à l’aise sur les outils et architectures informatiques, vous êtes au fait des nouvelles technologies et avez une appétence particulière sur ces sujets. Une parfaite connaissance des outils et normes des habilitations du groupe est nécessaire. Doté d’un excellent relationnel, vous aimez le travail en équipe et savez partager votre expertise et la communiquer efficacement auprès de vos interlocuteurs. Reconnu pour votre sens du service développé, vous savez apporter des solutions innovantes. Informations complémentaires sur le posteNotre processus de recrutement : Entretien téléphonique 15/20 minutes avec un chargé de recrutement Entretien visio 45min/1heure avec une chargée de recrutement Entretien opérationnel 45min/1heure avec un manager Pendant ce processus, nous serons amenés à : analyser votre personnalité professionnelle et vos motivations via un questionnaire en ligne évaluer vos capacités de compréhension verbale, numérique et d'identification d'erreurs via un test en ligne vérifier les informations que vous nous fournirez (Identité, Expérience professionnelle & Diplôme) Liste non-exhaustive des avantages qui vous seront réservés : Rémunération selon votre profil et votre expérience, à partir de 35K€ sur 13 mois Des primes d’intéressement Un accompagnement de carrière et à la formation individualisé Une carte de titres restaurant (60% pris en charge) Un accord télétravail dans les fonctions supports et les fonctions commerciales Semaine de travail sur 4.5 jours Une mutuelle d’entreprise individuelle ou familiale Un remboursement à 70% de votre abonnement de transport en commun Une « agence du personnel », avec des conseillers et conseillères dédiés à la gestion de vos comptes et ceux de votre famille.",
+        "dateCreation": "2026-07-06T22:26:30.000Z",
+        "dateActualisation": "2026-07-06T22:26:30.000Z",
+        "lieuTravail": {
+          "libelle": "04 - Garde",
+          "latitude": 43.829982,
+          "longitude": 6.557464,
+          "codePostal": "04120",
+          "commune": "04092"
+        },
+        "romeCode": "C1201",
+        "romeLibelle": "Chargé / Chargée d'accueil et de services clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée d'accueil en banque",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610763",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-CECAZ02839#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "4610750",
+        "intitule": "Directeur d'Agence (H/F) - Paris - Porte de Saint-Cloud h/f",
+        "description": "Description de l'entrepriseDESCRIPTION DE LENTREPRISE Qui sommes-nous ? Banque régionale coopérative, première actionnaire du Groupe BPCE, la Caisse d’Epargne Ile-de-France exerce son activité depuis plus de 200 ans et finance tous les domaines de l’économie et l’ensemble des acteurs de l’Ile-de-France. La Caisse d’Epargne Ile-de-France regroupe un réseau de 430 agences et 30 centres d’affaires répartis sur l’ensemble du territoire francilien. Notre mission est d’accompagner au quotidien nos 3 millions de clients, nos 700 000 sociétaires sur l’ensemble de leurs projets. La Caisse d’Epargne Ile-de-France est un acteur clé du développement régional, tourné vers le développement durable, pour construire le monde de demain. Ainsi chaque euro collecté est réinvesti dans le développement de l’économie de la Région. Entreprise humaine et engagée, notre politique de Responsabilité sociale de l’entreprise porte des sujets clés comme la mixité, la diversité, le handicap, et la qualité de vie au travail. La CEIDF a notamment obtenu en 2022 le renouvellement du label AFNOR Egalité professionnelle. La Caisse d’Epargne Ile-de-France est engagée en faveur de la mixité et de l’égalité professionnelle et a obtenu en 2022 le renouvellement du label AFNOR visant à l’égalité entre les femmes et les hommes.Poste et missionsSous la responsabilité du Directeur·trice de Secteur Commercial, vous contribuez à la rentabilité et au développement commercial de votre agence dotée d’un fonds de commerce large (Particuliers, Professionnels, Haut de gamme). Vous organisez, planifiez et pilotez l’activité dans le respect des engagements de qualité de service vis-à-vis des clients internes et/ou externes. Vous garantissez le respect des règles de maîtrise des risques et de conformité. Vous êtes chargé(e) de la mise en œuvre du plan d’actions commercial afin de garantir l’atteinte des objectifs. Vous gérez et développez un portefeuille de clients sur le marché des Particuliers et des professionnels. En tant que manager, vous développez les compétences et contribuez à la motivation des collaborateurs sur l’ensemble des marchés gérés.Profil et compétences requisesDiplômé·e Bac+2 ou possédant une expérience professionnelle équivalente, vous êtes issu.e d’une formation bancaire (ITB, CESB) ou commerciale (ESC, IAE, Université).\nVous justifiez d’une première expérience réussie de management ou d’animation d’équipe. Vous maîtrisez les produits et services bancaires, ainsi que les méthodes de vente et de négociation. Vous vous assurez d’une bonne maîtrise des risques opérationnels et du respect des règles et procédures dans votre agence.\nDoté·e d’un excellent relationnel, vos actions sont constamment orientées vers la satisfaction client. La connaissance d’une clientèle diversifiée ainsi que votre souhait d’évolution vous permettront à terme de développer une connaissance transversale de la Caisse d’Epargne Ile-de-France et du Groupe BPCE : autant d’éléments générateurs d’opportunités au sein d’un groupe couvrant l’ensemble des métiers de la finance. Rejoignez-nous !\nLes candidatures qui auront retenu notre attention feront l’objet d’une vérification des diplômes du parcours professionnel et des documents administratifs.Informations complémentaires sur le posteLes candidatures qui auront retenu notre attention feront l’objet d’une vérification des diplômes du parcours professionnel et des documents administratifs. Modalités : Poste en CDI, statut Cadre Localisation: Paris 75 OUEST Rémunération attractive : Fixe + Variable + Intéressement + Un socle social attrayant et des avantages sur la tarification bancaire. Un éventail d’avantages s’offre à vous… Pour les découvrir, il vous suffit de postuler ! Jours travaillés : du mardi au samedi Bonus ? À la CEIDF, vous êtes acteur de votre carrière et de votre évolution. La recette miracle ? Trois ingrédients importants : Entretenir une relation de proximité et de confiance avec vos clients, et les fidéliser. Relever les challenges. Atteindre les objectifs fixés. Saupoudrez le tout d’un bel esprit d’équipe : VOUS avez tout pour évoluer chez NOUS !",
+        "dateCreation": "2026-07-06T22:26:29.000Z",
+        "dateActualisation": "2026-07-06T22:26:29.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Directeur / Directrice de clientèle d'agence de publicité",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610750",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-CEIDF12736#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "4639705",
+        "intitule": "Conseiller Commercial en Assurance H/F",
+        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Commercial Assurances H/F en CDI pour le compte de notre client.\n\nC’est qui - une Agence d'Assurance bien implantée sur la METROPOLE LILLOISE\n\nC’est où - secteur de RONCHIN (59)\n\nC’est quoi - un poste sédentaire de conseiller(ère) clients en assurance et banque, à la fibre commerciale, pour une clientèle de particuliers\n\nC’est combien - rémunération Fixe 30 000 € à 34 000 € bruts par an selon votre qualification et votre expérience + Variable individuel motivant\n\nQuels avantages - Mutuelle et Prévoyance + Tickets restaurant + Avantages salariés type CSE\n\nQuel environnement - structure locale tournée vers le conseil client - importance attachée à une ambiance de travail agréable et à l’humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\nTemps plein - 39 H par semaine du Lundi au Samedi midi (avec 1/2 journée de récupération dans la semaine)\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez les clients :\n- Vous accueillez les clients et prospects de l’Agence (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, SANTE, PREVOYANCE, BANQUE et PLACEMENT.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des avenants, suivi des pièces contractuelles…).\n\nProfil\n\nIdéalement issu(e) d’une formation BTS ou Licence dans les Assurances, vous avez 5 à 10 ans d’expérience minimum en Agence Générale ou Cabinet de Courtage d’Assurances.\n- Vous êtes reconnu(e) pour vos aptitudes administratives et commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n- Organise(é), vous saurez faire preuve de dynamisme et de polyvalence.\n- Vous souhaitez progresser en relevant des défis et en apprenant.",
+        "dateCreation": "2026-07-07T11:01:26.000Z",
+        "dateActualisation": "2026-07-07T11:01:26.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Ronchin",
+          "latitude": 50.605895,
+          "longitude": 3.078433,
+          "codePostal": "59790",
+          "commune": "59507"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller(e) commercial(e) relation client en assurances",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 34000.0 Euros"
+        },
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4639705",
+          "partenaires": [
+            {
+              "nom": "SWEEFT",
+              "url": "https://www.sweeeft.app/offers/relais-assur/31349/apply?platformId=france-travail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "210WCFT",
+        "intitule": "INGENIEUR COMMERCIAL/ COMMERCIALE B TO B (H/F)",
+        "description": "Prêt(e) pour un nouveau défi ? Rejoins notre équipe de commerciaux : nous recherchons avant tout une personnalité unique et une passion pour le contact client. \nPourquoi nous rejoindre ? Un job pas comme les autres où la bonne ambiance est de mise et où les commissions sont sans limite ! \n\nNous sommes à la recherche d'un Commercial terrain B TO B, votre mission sera de :\n- Prospecter de nouveaux clients par la présentation et la vente de notre gamme de produits ORANGE PRO\n- Téléprospecter\n- Qualification Prospects\n- Développer un portefeuille client\n- Elaboration d'une proposition commerciale en conformité avec la politique commerciale de la société Com2s\n- Conclusion de vente (négociation)\n- Suivi de l'avancement des projets\n- Rendre compte de son activité commerciale quotidiennement\n- Techniques de vente\n- Techniques de négociation\n- Connaissances des produits et/ou services de l'entreprise\n- Assurer un minimum de rendez-vous par semaine\n\nTous nos commerciaux ont ces points en commun :\n- De l'énergie à revendre\n- L'esprit d'équipe\n- L'envie d'être rémunéré à la hauteur de ton investissement\n\n\nLes avantages à rejoindre notre équipe:\n- CDI \n- Formations\n- Un salaire Fixe + commissions non plafonnées\n- Véhicule + Frais essence + péage\n- Pc Portable\n- Téléphone\nSecteur Département des Bouches du Rhone 13 Poste au Siège de la société AIX LES MILLES\nNous ne sommes pas à la recherche d'un MANAGER ou d'un Responsable commercial merci",
+        "dateCreation": "2026-07-07T10:45:24.274Z",
+        "dateActualisation": "2026-07-07T10:45:24.901Z",
+        "lieuTravail": {
+          "libelle": "13 - Aix-en-Provence",
+          "latitude": 43.491378,
+          "longitude": 5.354063,
+          "codePostal": "13080",
+          "commune": "13001"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "COM2S",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois",
+        "permis": [
+          {
+            "libelle": "B - Véhicule léger",
+            "exigence": "E"
+          }
+        ],
+        "competences": [
+          {
+            "code": "121691",
+            "libelle": "Analyse des besoins des clients",
+            "exigence": "E"
+          },
+          {
+            "code": "121706",
+            "libelle": "Techniques commerciales",
+            "exigence": "E"
+          },
+          {
+            "code": "499623",
+            "libelle": "Analyser les besoins des clients",
+            "exigence": "S"
+          },
+          {
+            "code": "300379",
+            "libelle": "Développer et fidéliser la relation client",
+            "exigence": "S"
+          },
+          {
+            "code": "117243",
+            "libelle": "Etablir un devis",
+            "exigence": "E"
+          },
+          {
+            "code": "102318",
+            "libelle": "Etablir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "commentaire": "FIXE SALAIRE DE BASE + COMMISSIONS",
+          "complement1": "Véhicule",
+          "complement2": "Téléphone mobile",
+          "listeComplements": [
+            {
+              "code": "2",
+              "libelle": "Véhicule"
+            },
+            {
+              "code": "3",
+              "libelle": "Téléphone mobile"
+            },
+            {
+              "code": "4",
+              "libelle": "Ordinateur portable"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "11",
+              "libelle": "Commissions"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 2,
+        "deplacementCode": "4",
+        "deplacementLibelle": "Quotidiens",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "61.90Z",
+        "secteurActivite": "61",
+        "secteurActiviteLibelle": "Autres activités de télécommunication",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve de persévérance",
+            "description": "Capacité à maintenir son effort jusqu'à l'achèvement complet d'une tâche quels que soient les imprévus, les obstacles de réalisation rencontrés."
+          },
+          {
+            "libelle": "Organiser son travail selon les priorités et les objectifs",
+            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+          },
+          {
+            "libelle": "Etre force de proposition",
+            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+          }
+        ],
+        "trancheEffectifEtab": "3 à 5 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210WCFT"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "210VVJJ",
+        "intitule": "Chargé(e) d'accueil et relation client (H/F)",
+        "description": "Notre cœur de métier c'est la relation client. Dans ce cadre, nous accompagnons de grandes enseignes nationales réputées dans la gestion de leur maintenance technique.\n\nhttps://fr.linkedin.com/company/alliance-energies\n\nAutour d'une ambition commune, la satisfaction de nos Clients, nous gérons au quotidien leurs demandes de dépannages et le suivi de contrats de maintenance.\n\nEntreprise à taille humaine de 44 personnes en pleine expansion, implantée sur la côte basque depuis 18 ans, nous recherchons un ou une CHARGE-ES DE RELATIONS CLIENTS motivé-e pour rejoindre notre équipe en CDD.\n\nPoste en CDD à temps complet de 35 heures à pourvoir au plus vite pour une durée de 2 mois renouvelable.\n\nVos missions :\n\n- Assurer l'accueil téléphonique et le traitement des appels entrants.\n- Gérer les e-mails entrants et sortants.\n- Informer et orienter les clients selon leurs besoins.\n- Accueil physique \n- Garantir la qualité et la traçabilité des échanges.\n- Collaborer avec les différents services afin d'assurer un traitement efficace des demandes.\n- Contribuer à la satisfaction et à la fidélisation des clients.\n\nPour mener à bien ces missions : \n\n- Vous êtes plutôt dynamique, rigoureux, avez le sens des priorités et l'esprit d'équipe ; vous appréciez également être autonome et avoir la responsabilité de vos dossiers.\n\n- Vous avez une expérience dans la gestion de la relation clients.\n\n- Idéalement, vous avez une appétence pour le bâtiment et/ou le monde du retail ou de la restauration.\n\nVous hésitez encore ? Sachez que nous proposons aussi :\n\n- Un collectif animé par l'esprit d'équipe et le professionnalisme\n\n- Une activité captivante portée par le challenge\n\n- Des horaires de bureau permettant de concilier vie personnelle et professionnelle (embauche : 8h30 - amplitude max une fois par semaine : 18h30)\n\n- Des perspectives d'évolution et / ou de qualification\n\n- La possibilité de faire du télétravail (selon charte de télétravail)\n\n- Un CSE et des activités de cohésion d'équipe\n\n- Des locaux et équipements modernes\n\n- Un parking gratuit à proximité\n\n- Vous bénéficierez d'un parcours d'intégration adapté et d'une formation interne aux métiers techniques, à notre outil informatique (GMAO) qui vous permettront d'acquérir aisance professionnelle et polyvalence. (Des formations techniques externes pour parfaire cette intégration sont également proposées).\n\n- Un Salaire brut annuel de départ 22 750 € \n\n- + Une prime d'intéressement avec PEE (Plan Epargne Entreprise) et PERCO (Plan Epargne Retraite Collectif) variable selon résultats de l'entreprise\n\n- + Une mutuelle d'entreprise familiale prise en charge à 92 % avec un faible reste à charge pour le collaborateur et ses enfants\n\nVous voulez en savoir plus ? visitez notre site : https:alliance-energies.fr et venez faire connaissance avec notre équipe sur Linkedin : https://fr.linkedin.com/company/alliance-energies\n\nPoste ouvert aux personnes en situation de handicap Alliance Energies est engagée socialement, s'inscrit dans une démarche progressive de qualité et condition de vie au travail, valorise la diversité et lutte contre les pratiques discriminantes.\n\nModalités de sélection : analyse des candidatures - pré-entretien téléphonique - entretien physique - décision puis réponse sous 15 jours.",
+        "dateCreation": "2026-07-07T08:49:31.967Z",
+        "dateActualisation": "2026-07-07T08:49:32.428Z",
+        "lieuTravail": {
+          "libelle": "64 - Anglet",
+          "latitude": 43.48139,
+          "longitude": -1.51521,
+          "codePostal": "64600",
+          "commune": "64024"
+        },
+        "romeCode": "M1601",
+        "romeLibelle": "Chargé / Chargée d'accueil",
+        "appellationlibelle": "Employé / Employée d'accueil",
+        "entreprise": {
+          "nom": "ALLIANCE ENERGIES",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 2 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "9 Mois",
+        "langues": [
+          {
+            "libelle": "Anglais",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Espagnol",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "300361",
+            "libelle": "Accueillir, orienter, renseigner un public",
+            "exigence": "S"
+          },
+          {
+            "code": "300363",
+            "libelle": "Identifier, traiter une demande client",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Relance ",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Gestion de devis ",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Suivi de chantier",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1895.0 Euros sur 12.0 mois",
+          "complement1": "Intéressement / participation",
+          "complement2": "Complémentaire santé",
+          "listeComplements": [
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre force de proposition",
+            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          },
+          {
+            "libelle": "Avoir le sens du service",
+            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
+          }
+        ],
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210VVJJ"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "4629423",
+        "intitule": "Business Developer Manager F/H",
+        "description": "RESPONSABILITÉS : \n\nVous recherchez un nouveau défi à fort impact dans le secteur de la santé ?\n\n\nDans le cadre du lancement d'une solution digitale innovante en mode SaaS destinée aux professionnels de santé (médecins libéraux, paramédicaux), cette opportunité de Business Developer Manager F/H offre un rôle clé et transverse, au cœur de la stratégie de croissance de l'entreprise.\n\nLes missions proposées allient réflexion stratégique et exécution opérationnelle.\n\n\nEn étroite coopération avec l'équipe de direction générale :\n • vous contribuez à la définition de la stratégie commerciale : identification des cibles, élaboration des messages clés et mise en place de la politique commerciale.\n • Parallèlement, vous prenez en main le développement commercial sur le terrain : prospection active, prise de rendez-vous,\n • présentation de la solution et accompagnement des clients professionnels de santé dans l'adoption du produit.\n\n\nAu sein d'une structure à taille humaine, dynamique et bienveillante, vous évoluerez dans un environnement où l'esprit entrepreneurial est valorisé.\n\n\nCe poste est stratégique pour la réussite du lancement et du développement de la solution, et vous positionne comme un réel moteur de croissance pour l'entreprise.\n\n\nLe potentiel d'évolution est fort, notamment vers la direction commerciale à moyen terme.\n\nRejoindre cette aventure, c'est contribuer à une transformation digitale utile et à haute valeur ajoutée, tout en accélérant votre progression professionnelle dans un environnement stimulant et à fort enjeu.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché :\n\nPour accompagner la forte croissance de notre client dans le secteur de la Healthtech, nous recherchons un Business Developer Manager F/H passionné par l'innovation et doté d'un véritable esprit entrepreneurial.\n\n\nVous justifiez d'au moins 5 ans d'expérience confirmée dans la vente opérationnelle de services SaaS destinés aux professionnels de santé qu'il s'agisse de praticiens libéraux, de structures telles que les CPTS ou de professions paramédicales.\nCETTE EXPERIENCE EST OBLIGATOIRE POUR PRESENTER SA CANDIDATURE...\n\n\nVotre compréhension fine des enjeux et spécificités de l'environnement Healthtech représente un réel atout.\n\nAu quotidien, votre goût du challenge et votre dynamisme vous poussent à relever des défis ambitieux dans une atmosphère stimulante, où la rapidité d'exécution et l'agilité d'une organisation en mode start-up sont essentielles. Stratège, vous savez proposer des plans d'actions commerciaux efficaces et êtes tout aussi à l'aise dans leur déploiement opérationnel sur le terrain. Une grande autonomie, une rigueur professionnelle irréprochable ainsi qu'un sens aiguisé du concret et du résultat sont attendus pour mener à bien cette mission.\n\nLe poste est basé à Paris avec un démarrage prévu à l'été 2026.\n\n\nRémunération à partir de 60 K€ jusqu'à 70 K€.\n\n\nSi vous aspirez à évoluer dans un environnement innovant et à fort impact, ce poste représente une opportunité de relever de nouveaux défis et d'accélérer votre parcours professionnel.",
+        "dateCreation": "2026-07-07T04:31:51.000Z",
+        "dateActualisation": "2026-07-07T04:31:51.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris 1er Arrondissement",
+          "codePostal": "75001",
+          "commune": "75101"
+        },
+        "romeCode": "M1715",
+        "romeLibelle": "Directeur commercial / Directrice commerciale",
+        "appellationlibelle": "Directeur commercial / Directrice commerciale",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Depuis 2016, mon client s'est imposé comme un acteur clé de l'innovation dans le secteur de la santé en France, grâce à sa plateforme de téléconsultation sécurisée.\n\n\nDans le cadre de son développement accéléré sur le territoire, l'entreprise recherche un Business Developer Manager F/H pour continuer à dynamiser son rayonnement et participer activement à la transformation digitale de la santé."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 70000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4629423",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/73ln949hod8/business-developer-manager-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4629342",
+        "intitule": "Conseiller Assurance Professionnel et Entreprise ( H/F)",
+        "description": "RESPONSABILITÉS : \n\nDescription de la mission et des enjeux\n\n\nLe poste de Conseiller en Assurance Professionnel et Entreprise est un rôle clé, avec des responsabilités diversifiées et enrichissantes.\n\n\nLes missions principales de ce poste sont les suivantes sur les prestations I ARD :\n\n • Gérer un portefeuille clients Professionnels d'environ 150 relations. Vous devrez effectuer le suivi de ce portefeuille, bilan assurance, gestion des avenants, développement,..\n • Assurer le développement commercial par la proactivité sur le portefeuille (multi-équipement), la cooptation, la démarche réseau et/ou tout autres approches souhaitées pour permettre d'augmenter la base client de votre portefeuille\n • Travailler en collaboration avec le dirigeant pour les études auprès de différents dossiers prospects, approche réseau\n\n\nLes enjeux de ces missions sont nombreux : assurer la satisfaction client, développer le portefeuille, et participer activement aux campagnes commerciales.\n\n\nLes activités comprennent l'accueil, l'information et le conseil des sociétaires en identifiants les besoins clients et en proposant les solutions adaptées. Vous serez également conduit à assurer le traitement des courrier et mails, ainsi que la gestion administrative courante.\n\n\nVos perspectives d'évolution :\nVous pouvez évoluer au sein de structure sur différents marchés et segments de client. Vos missions peuvent également évoluer en fonction de vos appétences et vos propositions selon les perspective de développement envisagées.\n\nPROFIL RECHERCHÉ : \n\nDescription du profil attendu\n\n\n\nVous êtes un(e) Conseiller(e) en Assurances Professionnelles expérimenté(e), ayant impérativement un minimum de 3 ans d'expérience réussie chez un courtier ou un agent d'assurance dans le segment Professionnel et Entreprise.\n\nVous maitrisez en priorité le domaine IARD (Incendies, Accidents, Risques Divers).\n\n\n\nVous êtes en capacité d'assurer un service client exceptionnel et être le premier point de contact pour nos clients en gérant avec aisance les interactions téléphoniques, écrites et en face-à-face. Une communication claire, courtoise et efficace est essentielle.\n\n\n\nVous savez organiser et prioriser les tâches de manière autonome tout en étant capable de collaborer efficacement avec les membres de l'équipe.\n\n\n\nCaractéristiques contractuelles et rémunération :\n\n\n\nLe poste est positionné en CDI et à temps plein à hauteur de 35 heures hebdomadaires sur Cesson Sévigné.\n\n\n\nUne rémunération fixe sera positionnée en fonction de votre expérience et des compétences développées dans une fourchette de 30 000 à 42 0000 Bruts annuels.\n\n\n\nUne commission attractive et importante liée au développement du portefeuille est également prévue pouvant constituer un rémunération complémentaire.\n\n\n\nLes horaires de travail sont positionnés du Lundi au Vendredi\n\n\n\nDe plus, vous bénéficiez des avantages suivants :\n\nUne mutuelle santé et prévoyance aux prestations élevées\n\nDes congés payés de 6 semaines.\n\nDes tickets restaurant sont également prévus.",
+        "dateCreation": "2026-07-07T04:31:50.000Z",
+        "dateActualisation": "2026-07-07T04:31:50.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Cesson-Sévigné",
+          "latitude": 48.120148,
+          "longitude": -1.603791,
+          "codePostal": "35510",
+          "commune": "35051"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère en assurances",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Rejoignez un cabinet d'assurance dynamique spécialisé Pro et Entreprise, où convivialité et professionnalisme se rencontrent au sein d'une équipe soudée de 5 collaborateurs.\nCette entreprise place la satisfaction client au cœur de ses valeurs.\nVous évoluerez dans un cadre bienveillant qui privilégie l'épanouissement de chacun.\nChaque journée est une occasion de faire la différence dans un environnement stimulant, propice à l'investissement personnel et à la réussite collective"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 42000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4629342",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/nrrju919ml8/conseiller-assurance-professionnel-et-entreprise-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4629285",
+        "intitule": "Conseiller Assurance Epargne et Prévoyance ( H/F)",
+        "description": "RESPONSABILITÉS : \n\nLe poste de Conseiller(e) en Assurance est un rôle clé, avec des responsabilités diversifiées et enrichissantes.\nLes missions principales de ce poste sont les suivantes :\n\n\nAu sein de l'agence :\n • Gestion d'un portefeuille client particulier : suivi des contrats, avenants, développement commercial, gestion administrative et des encaissements....\nAu sein du cabinet sur l'ensemble des 4 agences :\n • Vous aurez en charge la gestion d'un portefeuille VIP et l'animation du marché « Épargne et Prévoyance » pour le marché du particulier. En collaboration étroite avec les dirigeants, vous devrez animer l'équipe de conseillers particuliers, les accompagner et les former sur les offres et le démarche commerciale\n • Vous pourrez être amener à évoluer au sein des 4 agences concernant la gestion des clients VIP\nLes enjeux de cette mission sont nombreux : assurer la satisfaction client, développer le portefeuille, et participer activement aux campagnes commerciales.\n\nPROFIL RECHERCHÉ : \n\nVous êtes un(e) Conseiller(e) en Assurances expérimenté(e), ayant impérativement un minimum de 3 ans d'expérience dans un poste en Prévoyance et en Épargne chez un agent général. Vous maitrisez déjà les principes généraux des offres et avez développé une connaissance des outils et logiciels permettant un traitement rapide et précis des demandes des clients.\n\n\nVous avez également développé des compétences en IARD ( Incendies, Accidents, Risques Divers). Vous maitrisez déjà les principes généraux des offres et des outils associés.\n\n\nVous êtes pédagogue pour accompagner les autres collaborateurs sur les prestations de prévoyance et les solutions d'épargne.\n\n\nVous savez organiser et prioriser les tâches de manière autonome tout en étant capable de collaborer efficacement avec les membres de l'équipe.\n\n\nLes éléments de rémunération\n\n\nLe poste, en CDI et à temps plein (35 heures par semaine), du Mardi au Samedi matin offre une opportunité de carrière stimulante.\n\n\nPoste situé à Châteaugiron.\n\n\nUne rémunération fixe sera positionnée en fonction de votre expérience et des compétences développées dans une fourchette de 30 000€ à 35 000€ Bruts annuels.\n\n\nUne rémunération variable attractive et significative pouvant atteindre plusieurs mois de salaire est également prévue en lien avec le développement du portefeuille\n\n\nDe plus, vous bénéficiez des avantages suivants :\n\n\n • Une mutuelle santé et prévoyance aux prestations élevées.\n • Des congés payés de 6 semaines.\n • Des tickets restaurant",
+        "dateCreation": "2026-07-07T04:31:50.000Z",
+        "dateActualisation": "2026-07-07T04:31:50.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Châteaugiron",
+          "latitude": 48.048558,
+          "longitude": -1.503176,
+          "codePostal": "35410",
+          "commune": "35069"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère en assurances",
+        "entreprise": {
+          "nom": "Mercato de l'emploi",
+          "description": "Rejoignez un cabinet d'assurance dynamique, où convivialité et professionnalisme se rencontrent au sein d'une équipe soudée de 3 collaborateurs.\nCette entreprise place la satisfaction client au cœur de ses valeurs.\nVous évoluerez dans un cadre bienveillant qui privilégie l'épanouissement de chacun.\nChaque journée est une occasion de faire la différence dans un environnement stimulant, propice à l'investissement personnel et à la réussite collective"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 35000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4629285",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/q6n5iwc9gl8/conseiller-assurance-epargne-et-prevoyance-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4628250",
+        "intitule": "Responsable de Clients CHD Impulse BRETAGNE (f/h)",
+        "description": "RESPONSABILITÉS : \n\nMissions :\nDans un marché CHD en pleine dynamique, où le circuit Impulse (boulangeries, proximité, stations‑service, tabacs‑presse, ambulants...) continue de croître, nous renforçons notre force de vente avec un Responsable de Clients CHD Impulse dédié(e) au développement des ventes en consommation nomade.\nSous l'autorité de notre Directeur de Zone Impulse, vous assurez le développement des ventes de nos marques sur le circuit Impulse en volume et en valeur, grâce aux actions de négociation, de revente et de veille concurrentielle.\nVous intervenez auprès des grossistes entrepositaires et auprès d'établissements cibles afin de dynamiser les ventes de nos produits sur le réseau Impulse (Boulangeries / stations-services, Snacking etc...) par une présence terrain accrue.\nVous garantissez la mise en place de nos produits et le déploiement des opérations promotionnelles.\n\n  Localisation :   Secteur : Départements 14/22/29/35/50/53/56/61/72\n                            Lieu d'habitation : Rennes et sa périphérie (35)\n\n\nRémunération & environnement de travail :\n\nNous vous proposons un salaire motivant, un environnement de travail bienveillant et épanouissant et beaucoup d'autres avantages.\nSalaire fixe sur 13 mois, prime d'objectifs, prise en charge de vos frais de vie, voiture de fonction 5 places qualitative, prime vacances, mutuelle de qualité, CP et 15 RTT permettant de maintenir efficacité commerciale et équilibre entre vie professionnelle et vie personnelle.\nIntégrer Eckes-Granini France, c'est aussi la garantie pour vous de développer vos compétences et votre développement personnel en devenant un véritable expert dans votre métier.\nPour réussir cela, nous nous appuyons sur :\n-        Un Parcours d'Intégration complet et formateur\n-        Un manager de proximité qui vous coachera de manière collective et individuelle\n \nEckes-Granini France (EGF) est une entreprise innovante et dynamique qui se base sur la Qualité de ses produits, sur le Développement de ses femmes et de ses hommes et sur l'Authenticité de ses valeurs. Cultivez « l'esprit EGF  » !\n\nPROFIL RECHERCHÉ : \n\nDe formation supérieure (Bac+2 minimum) en Commerce, vous justifiez impérativement d'une expérience significative dans la vente de produits sur le réseau CHD et plus précisément en Impulse.\nVous souhaitez relever un nouveau challenge et conforter vos compétences au contact de clients exigeants et au sein d'une équipe dynamique.\nVous êtes reconnu pour votre enthousiasme, votre conviction, votre sens du résultat et de la réussite collective.",
+        "dateCreation": "2026-07-07T04:31:36.000Z",
+        "dateActualisation": "2026-07-07T04:31:36.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Rennes",
+          "latitude": 48.121078,
+          "longitude": -1.71089,
+          "codePostal": "35000",
+          "commune": "35238"
+        },
+        "romeCode": "D1407",
+        "romeLibelle": "Technico-commercial / Technico-commerciale",
+        "appellationlibelle": "Technico-commercial / Technico-commerciale",
+        "entreprise": {
+          "nom": "Eckes-Granini France SNC",
+          "description": "Eckes-Granini France, filiale française d'Eckes-Granini Group, réalise un CA de plus de 190 millions € dans le secteur des jus de fruits. Leader sur son marché avec les marques Pago, Joker, Granini et Réa, Eckes-Granini France emploie plus de 300 salariés, et recrute un Responsable de Clients CHD Réseau Impulse en CDI sur le secteur Bretagne"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 38000.0 Euros à 42000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4628250",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/3jwkodbwnk8/responsable-de-clients-chd-impulse-bretagne-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4610773",
+        "intitule": "Chargé de gouvernance (F/H) Rennes h/f",
+        "description": "Description de l'entrepriseFiliale du Groupe BPCE, 2e acteur bancaire français, CEGC est spécialisée dans les cautions et garanties financières pour toutes sortes de clientèles, particuliers, professionnelles, entreprises et principalement dans le secteur de l’immobilier.\n\nNotre mission ? Proposer à nos clients des solutions pour réaliser leurs projets, développer et sécuriser leur activité. Nous garantissons les crédits à l’habitat des familles et les crédits d’investissement des professionnels, ou des opérateurs de l’économie sociale et du logement social en partenariat avec nos réseaux bancaires. Nous proposons des garanties aux entreprises, comme les cautions de marché dans le secteur du bâtiment et enfin, nous apportons des garanties financières aux professionnels de l’immobilier tels que les constructeurs de maisons individuelles, les promoteurs immobiliers, les administrateurs de biens et les agents immobiliers.\n\nNous sommes fiers d’être, depuis plus de 50 ans, un acteur de confiance qui allie dynamisme et solidité.\n\nCEGC, c’est aussi et surtout plus de 400 collaborateurs experts et engagés, des équipes soudées, proches de leurs clients. Nous agissons au cœur de secteurs très impliqués dans les enjeux environnementaux et sociétaux : le logement, la construction ou encore la rénovation de bâtiments, nos actions et engagements ont donc un véritable impact !\n\nVous cherchez une entreprise avec une dynamique collective et une mission qui a du sens ? Alors vous êtes au bon endroit !Poste et missions• Veille réglementaire prudentielle\n• Suivi des informations renseignées dans le dispositif du Model Risk Management\n• Suivi des évolutions du dispositif du Model Risk Mangement piloté par le groupe BPCE\n• Participation aux travaux de macro-cartographie des risques, du Risk Appetite Framework, et de contrôles permanents\n• Centralisation des travaux liés aux questionnaires Groupe\n• Mise à jour des chartes et procédures risques, et suivi des chartes de la CompagnieProfil et compétences requises• Formation actuaire ou ingénieur ou 5ième année d’étude en Gestion / Management des risques\n• Expérience confirmée sur des missions de gouvernance ou d’audit\n• Connaissance de la réglementation assurance (Solvabilité 2) et bancaire\n• Aisance sur les outils de bureautique\n• Rigueur dans la démarche d’analyse, de contrôle et de synthèse\n• Capacité d’organisation, respect des délais\n• Qualité rédactionnelle\n• Coopération transversale",
+        "dateCreation": "2026-07-06T22:26:30.000Z",
+        "dateActualisation": "2026-07-06T22:26:30.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Saint-Grégoire",
+          "latitude": 48.153882,
+          "longitude": -1.682404,
+          "codePostal": "35760",
+          "commune": "35278"
+        },
+        "romeCode": "C1129",
+        "romeLibelle": "Responsable grands comptes assurances",
+        "appellationlibelle": "Chargé / Chargée de clientèle entreprises",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610773",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BPCE_ASS02092#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "4610779",
+        "intitule": "Conseiller Clientèle Multimedia (F/H) h/f",
+        "description": "Description de l'entrepriseLa Banque Populaire Val de France fait partie du Groupe BPCE, 2e groupe bancaire français. Banque Coopérative Régionale qui appartient à ses 185 000 sociétaires, la Banque Populaire Val de France s’engage pour la réussite économique et humaine de sa région en restant fidèle à ses engagements d’origine : stimuler toutes les initiatives et l’esprit d’entreprendre. ? La Banque Populaire Val de France, c’est 179 agences à travers 10 départements : Yvelines, Essonne, Hauts de Seine, le Centre Val de Loire et la Vienne. Et si vous nous rejoignez ? La Banque Populaire Val de France vous permet de vous former, d’évoluer, d’être en proximité avec la clientèle et vos collègues.Poste et missions? Vos missions clés Accueil téléphonique et développement de la relation clientèle Accueillir le client, qualifier son besoin, l’accompagner dans sa demande Promouvoir les canaux à distance et le self care Être un relais efficace et objectif du conseiller en agence Assurer la satisfaction client Pro activité commerciale Appels sortants sur les moments de vie du client Gestion des mails clients / Tchat / Web call back Gestion des leads de clients (parcours web non aboutis) Compétences Produits : Banque au quotidien , crédits, épargne, IARD/Prévoyance Vente de produits et services Réaliser des objectifs commerciaux en lien avec les ambitions de la banque en rebond appels entrants, appels sortant, mail et chat Proposer des offres adaptées aux besoins clients en les valorisant Développer la multi-vente par l'identification des projets et la découverte des besoins et attentes du client Gestion administrative et suivi de la relation clientèle Formaliser la vente en rédigeant transmettant les éléments du contrat dans le respect des procédures bancaires Mise à jour du DRC et rédaction d'un compte rendu à chaque interaction commerciale Suivre les relances des contrats envoyés avec une organisation adaptée Co-construire l'évolution du poste de travail en étant force de proposition. Potentiel d'évolution à moyen terme en agence multi-marché. Profil et compétences requises? Profil & compétences recherchés Vous êtes diplômé(e) de niveau Bac +2 minimum. Vous aimez particulièrement la relation client et présentez un profil commercial avec un gout pour le challenge et l’atteinte des objectifs qui vous seront fixés. Débutants acceptés. Informations complémentaires sur le posteCe que vous recherchez : Une entreprise avec des perspectives d’évolution de poste et de carrière au sein de notre banque ou de notre groupe. Un accompagnement dès votre entrée à la Banque Populaire Val de France avec notre parcours d’intégration, mais également tout au long de votre carrière. De la proximité avec votre équipe et également avec votre Responsable des Ressources humaines ? Alors c’est chez nous que ça se passe ! ? En nous rejoignant, vous bénéficierez : D’une rémunération attractive : un salaire annuel brut compris entre 28 et 34 k€ (payé en 13 mensualités), ajusté selon votre expérience D’une part variable motivante : en lien direct avec l’atteinte de vos objectifs D’un dispositif de partage de la performance collective : intéressement et participation pouvant représenter jusqu’à 3 mois de salaire Un équilibre vie pro / perso préservé : organisation en semaine de 4,5 jours, RTT, Télétravail Des avantages au quotidien et un socle social attractif Une protection sociale de qualité : couverture santé et prévoyance avantageuse Une mobilité facilitée et durable : prise en charge des frais de transport, indemnité de covoiturage Un soutien à la parentalité : indemnités de garde et primes de scolarité par enfant De nombreux avantages proposés par le CSE : culture, sport, loisirs, vacances… Un développement professionnel continu : parcours de formation complet et certifiant Une intégration soignée : parcours d’accueil incluant 3 jours au siège social Notre processus de recrutement ✏️ Notre équipe de recrutement se charge de vous joindre par téléphone afin d’échanger sur votre projet de carrière et les formalités. Un entretien RH pour échanger sur votre parcours et comprendre votre motivation à rejoindre la Banque Populaire Val de France. Un entretien opérationnel pour étudier votre côté terrain directement Enfin, nous intégrons la prise de références afin d'assurer une évaluation complète des candidats et de garantir un meilleur alignement avec les valeurs et les exigences de notre entreprise. Informations supplémentaires :\nLa diversité et l'inclusion sont des valeurs fondamentales pour notre banque : ce poste est ouvert à tous les talents, sans aucune distinction.",
+        "dateCreation": "2026-07-06T22:26:30.000Z",
+        "dateActualisation": "2026-07-06T22:26:30.000Z",
+        "lieuTravail": {
+          "libelle": "37 - Tours",
+          "latitude": 47.42215,
+          "longitude": 0.683116,
+          "codePostal": "37000",
+          "commune": "37261"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Conseiller / Conseillère clientèle à distance",
+        "entreprise": {
+          "description": "Groupe BPCE"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4610779",
+          "partenaires": [
+            {
+              "nom": "JOBINLIVE",
+              "url": "http://www.missionhandicap.com/emploi/BPCE-BPVF01756#utm_source=PoleEmploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-06",
     "count": 4,
     "offres": [
@@ -8150,10 +9489,5 @@
         "_is_remote": false
       }
     ]
-  },
-  {
-    "date": "2026-06-23",
-    "count": 0,
-    "offres": []
   }
 ]
