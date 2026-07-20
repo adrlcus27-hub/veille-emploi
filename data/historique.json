@@ -1,5 +1,242 @@
 [
   {
+    "date": "2026-07-20",
+    "count": 2,
+    "offres": [
+      {
+        "id": "211KGBD",
+        "intitule": "Assistant(e) polyvalent(e) Administration&Support aux consultants (H/F)",
+        "description": "PHYLUM est un cabinet de conseil en stratégie, organisation et management spécialisé dans les filières vétérinaires et animales, l'agroalimentaire et l'environnement.\nPhylum construit avec ses clients publics comme privés de nouvelles stratégies de développement, des organisations adaptées aux enjeux contemporains et les assiste pour la conception et la mise en place de systèmes d'information plus efficaces. \n\nDans le cadre de notre développement, nous recherchons un(e) Assistant(e) polyvalent(e) pour assurer à la fois des missions administratives, de coordination, de gestion documentaire et d'appui opérationnel aux missions des consultants.\n________________________________________\nVos missions\nSupport administratif et organisationnel\n- Accueil physique et téléphonique des clients et partenaires, en français et en anglais.\n- Gestion du courrier, des e-mails et des agendas.\n- Organisation des réunions, rendez-vous et déplacements professionnels.\n- Suivi administratif des dossiers et classement documentaire.\n- Mise en forme, relecture et correction de rapports, études et présentations.\n- Traduction et adaptation de documents techniques français/anglais et anglais/français.\nAppui opérationnel aux missions\n- Mise à jour et exploitation de données sous Excel.\n- Suivi de tableaux de bord, reportings et indicateurs de suivi.\n- Préparation de présentations et appui à l'élaboration des documents pour les consultants.\n- Réalisation de recherches documentaires et de veilles sectorielles.\n- Mise à jour de données statistiques, économiques et sectorielles.\n- Gestion et actualisation de la base documentaire de l'entreprise.\n________________________________________\nProfil recherché\n- Formation Bac+2 à Bac+3 (assistant de direction, gestion, administration, économie ou équivalent).\n- Expérience significative dans une fonction d'assistanat polyvalent, d'assistant de direction ou de gestion administrative.\n- Excellente maîtrise des outils bureautiques, notamment Excel avancé, Outlook, Word, Excel, PowerPoint, Teams, Sharepoint, etc..\n- Excellente maîtrise du français et de l'anglais, à l'écrit comme à l'oral (niveau bilingue)\n- Aisance avec les chiffres et les bases de données.\n- Capacités rédactionnelles, d'analyse et de synthèse.\n- Curiosité intellectuelle et aptitude à rechercher et exploiter des informations variées.\nUne connaissance des secteurs vétérinaire, santé animale, élevage ou agroalimentaire constitue un atout.\n________________________________________\nQualités recherchées\n- Polyvalence\n- Organisation et rigueur\n- Autonomie\n- Sens des priorités\n- Discrétion professionnelle\n- Esprit d'équipe\n- Gestion du stress\n________________________________________",
+        "dateCreation": "2026-07-20T12:06:30.638Z",
+        "dateActualisation": "2026-07-20T12:17:13.196Z",
+        "lieuTravail": {
+          "libelle": "31 - COLOMIERS",
+          "latitude": 43.61086,
+          "longitude": 1.334798,
+          "codePostal": "31770",
+          "commune": "31149"
+        },
+        "romeCode": "H1108",
+        "romeLibelle": "Technicien / Technicienne support client en industrie",
+        "appellationlibelle": "Conseiller / Conseillère support technique",
+        "entreprise": {
+          "nom": "PHYLUM",
+          "description": "Phylum est un cabinet de conseil en organisation et en stratégie, spécialisé sur les filières vétérinaires et animales, l?agro-alimentaire et l?environnement. Phylum construit avec ses clients publics comme privés de nouvelles stratégies de développement, des organisations adaptées aux enjeux contemporains et les assiste pour la conception et la mise en place de systèmes d?information plus efficaces. ",
+          "url": "https://www.phylum.fr/",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "formations": [
+          {
+            "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
+            "exigence": "S"
+          }
+        ],
+        "langues": [
+          {
+            "libelle": "Anglais",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 2000.0 Euros à 2300.0 Euros sur 12 mois",
+          "complement1": "Primes",
+          "complement2": "Intéressement / participation",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "PHYLUM - Mme Florence Sassi",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211KGBD",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211KGBD"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais Zone départementale",
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Organiser son travail selon les priorités et les objectifs",
+            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          },
+          {
+            "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
+            "description": "Capacité à aller chercher au-delà de ce qui est donné à voir, à s'ouvrir sur la nouveauté et à investiguer pour comprendre et agir de façon appropriée."
+          }
+        ],
+        "trancheEffectifEtab": "10 à 19 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211KGBD"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "211KCGN",
+        "intitule": "Conseiller / Conseillère clientèle à distance (H/F)",
+        "description": "La Plateforme PROCH'EMPLOI de Soissons accompagne une entreprise sur Villers-Cotterêts dans la recherche de CONSEILLER CLIENTÈLE H/F.\n\nVos missions : \nVotre mission principale sera d'assurer une relation client à distance de qualité et répondant aux attentes. \nVous serez l'interlocuteur privilégié des clients de la marque. \nVous conseillez, aidez, traitez les demandes clients en y apportant les solutions les plus adaptées. \nVous assurez la satisfaction client et vous respectez les process associés. \nEn résumé, vous êtes un conseiller client Ambassadeur de la satisfaction client ! \n \nGestion d'appels principalement entrants ; appels sortants à la marge, et en fonction de l'activité, uniquement pour recontacter un client \nPas de prospection. \nUtilisation des outils numériques : mails, chat, réseaux sociaux feront partie de vos outils de travail\n\nPROFIL REQUIS\n- Aisance relationnelle, bonne écoute et le sens du service. \n- Ténacité, gout du challenge et dynamisme seront également appréciés. \n- Un bon esprit d'équipe, un goût certain pour les défis et les challenges vous seront utiles au quotidien. \n- Vous êtes doté(e) d'un excellent sens du relationnel et aimez \"trouver la meilleure solution\" pour votre interlocuteur. \n- Vous faites preuve d'une bonne expression orale et écrite ! (Test d'orthographe à réaliser) \n- Plus que votre parcours, c'est votre motivation et votre personnalité qui feront la différence\n\nCONTRAT PROPOSÉ\nCDD (6 mois (renouvelable jusque 18 mois))\nTemps plein (37 heures par semaine) 37h semaine payés 35h : 14 jours de RTT.\nHoraires du lundi au vendredi 8 H 30 -19 H. Planning défini 3 semaines à l'avance.\n\nDémarrage souhaité le 20/08/2026\n- Formation initiale et continue au métier \n- Possibilité de télétravail hybride après 4 mois de formation (3 à 4 jours par semaine) \n- Primes d'objectifs mensuelles (jusqu'à 2160€ brut par an) \n- Participation \n- Mutuelle prise en charge à 70% par l'employeur \n- Carte titres restaurant ou Restaurant inter-entreprise \n- 25 jours congés payés + 14 jours RTT\nSalaire de base : SMIC + Primes.",
+        "dateCreation": "2026-07-20T11:12:32.284Z",
+        "dateActualisation": "2026-07-20T11:14:46.652Z",
+        "lieuTravail": {
+          "libelle": "02 - VILLERS COTTERETS",
+          "latitude": 49.255067,
+          "longitude": 3.090897,
+          "codePostal": "02600",
+          "commune": "02810"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Conseiller / Conseillère clientèle à distance",
+        "entreprise": {
+          "nom": "PROCH EMPLOI ",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - Service client (souhaité)",
+        "experienceCommentaire": "Service client (souhaité)",
+        "competences": [
+          {
+            "code": "490161",
+            "libelle": "Créer une relation de confiance",
+            "exigence": "E"
+          },
+          {
+            "code": "403441",
+            "libelle": "Effectuer un reporting régulier à la hiérarchie",
+            "exigence": "E"
+          },
+          {
+            "code": "403822",
+            "libelle": "Adapter sa communication selon les interlocuteurs et les médias utilisés",
+            "exigence": "E"
+          },
+          {
+            "code": "501073",
+            "libelle": "Proposer des solutions adaptées aux besoins spécifiques des clients",
+            "exigence": "E"
+          },
+          {
+            "code": "503643",
+            "libelle": "Suivre les dossiers clients jusqu'à résolution",
+            "exigence": "E"
+          },
+          {
+            "code": "503646",
+            "libelle": "Optimiser le temps de réponse aux clients",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Horaire de 12.31 Euros sur 12 mois",
+          "commentaire": "SMIC + primes ",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre à l'écoute, faire preuve d'empathie",
+            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          },
+          {
+            "libelle": "Faire preuve de contrôle de soi",
+            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
+          }
+        ],
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211KCGN"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "count": 17,
     "offres": [
@@ -6766,339 +7003,6 @@
         "_ville_recherchee": "Remote",
         "_score": 0,
         "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-07-06",
-    "count": 4,
-    "offres": [
-      {
-        "id": "4586908",
-        "intitule": "Ingénieur Commercial IT Senior (F/H) H/F",
-        "description": "Lieu : Cayenne, Guyane\n\nType : CDI – Cadre\nExpérience : À partir de 10 ans\nTélétravail : Hybride\nNous recrutons notre prochain Ingénieur Commercial IT Senior pour renforcer et développer notre activité en Guyane.\nTa mission ? Transformer chaque demande en véritable opportunité business. Tu intègres une équipe engagée, soutenue par des experts(es), des clients fidèles et des relais solides.\nTon terrain de jeu : développer ton portefeuille avec méthode, impact et ambition sur la zone. Tu mènes une prospection stratégique sur tes cibles, identifies les besoins et construis un argumentaire solide pour faire émerger de nouvelles opportunités.\nIci, pas de solutions standardisées : viens avec ton style, ton énergie et ta volonté de bâtir collectivement une trajectoire commune. #HappyToFollowYou\n \nTes missions chez Exodata (si tu l'acceptes) :\nDévelopper une prospection stratégique et piloter l’ensemble du cycle de vente\nDans ce rôle, tu construis et déploies une véritable stratégie de prospection sur des comptes ciblés, en cohérence avec nos offres et notre positionnement sur le marché.\nTu entres en relation avec les prospects avec une approche personnalisée, basée sur une écoute active et une compréhension fine de leurs enjeux, même lorsque les cycles de vente sont complexes.\nTu prends également en main la coordination des réponses aux appels d’offres : tu mobilises les équipes avant vente, tu t’appuies sur nos experts(es) internes et assures la cohérence de l’ensemble jusqu’à la phase de signature.\nConcevoir des propositions de valeur, négocier et conclure les ventes\nAu quotidien, tu identifies les problématiques et défis métiers rencontrés par tes interlocuteurs afin de bâtir des propositions de valeur sur mesure, adaptées aux enjeux exprimés.\nTu travailles en étroite collaboration avec les différentes équipes internes pour garantir la pertinence, la fiabilité et la faisabilité des solutions proposées.\nTu conduis les négociations avec transparence, rigueur et une posture orientée partenariat, tout en respectant les guidelines du groupe.\nLors de la contractualisation, tu veilles à défendre les intérêts d’Exodata et à sécuriser toutes les étapes clés.\nTu restes présent sur la durée, en accompagnant les moments importants de la relation client : lancement de mission, bilans réguliers, points de satisfaction… afin de rester un véritable point d’appui pour eux.\nAssurer le suivi de ton activité commerciale et contribuer à l’amélioration continue\nTu pilotes ton activité avec méthode et tu assures un suivi clair, structuré et fluide de toutes tes actions, à partir des KPIs définis avec ton directeur commercial.\nTu participes activement aux rituels de la team Sales et contribues à la dynamique collective qui fait la force du service.\nEnfin, tu partages tes retours terrain et ton expérience pour enrichir l’évolution de nos offres et renforcer les bonnes pratiques commerciales au sein de l’équipe.\n \nCe qu'on attend de toi :\nTu aimes le commerce, et tu sais piloter ton activité avec maîtrise. Tu disposes d’au moins dix ans d’expérience dans un rôle similaire, avec une connaissance solide du secteur IT et de la vente de services à forte complexité. Tu as déjà géré un portefeuille de prospects, construit une démarche de prospection structurée et accompagné des cycles de vente longs, exigeants et stratégiques.\nTu sais détecter un besoin, élaborer une réponse alignée sur les enjeux du client et mener une négociation jusqu’à la signature, avec méthode et sens du partenariat. Tu maîtrises pleinement l’exercice des appels d’offres complexes et tu sais mobiliser les experts(es) internes pour construire des réponses solides et pertinentes.\nTu pilotes ton activité avec rigueur : indicateurs, reporting, CRM, visio… tu utilises les bons outils pour garder le cap, même dans les périodes intenses. Ton approche est méthodique, organisée et orientée résultats.\nTu sais mener plusieurs approches en parallèle, tout en gardant ta ligne directrice. Tu gères ton planning avec équilibre, en alternant prospection, suivi client et gestion des partenaires sans perdre de vue tes priorités. Tu t’adaptes à chacun de tes interlocuteurs pour présenter nos différentes offres et faire avancer les sujets au bon rythme.\nTu navigues facilement entre clients finaux et partenaires — centrales d’achat, intégrateurs, éditeurs… — en coordonnant l’ensemble des parties prenantes autour d’un même compte. Tu portes une vision claire et structurée, mais tu sais aussi la réajuster en fonction du contexte : tu écoutes, tu observes, tu t’adaptes… et tu fais avancer les dossiers avec justesse et efficacité.\n\nCe qui fera de toi un(e) super coéquipier(ère) :\nAu-delà de ton expérience et de ta maîtrise du commerce B2B dans l’IT, ce sont surtout ta posture, ton envie d’avancer et ta capacité à créer du lien qui feront de toi un(e) commercial(e) qui compte chez Exodata. Voici les qualités qui te permettront de t’intégrer, de performer, et de t’épanouir avec nous :\nTu crées ...",
-        "dateCreation": "2026-07-06T09:47:48.000Z",
-        "dateActualisation": "2026-07-06T09:47:48.000Z",
-        "lieuTravail": {
-          "libelle": "France"
-        },
-        "romeCode": "C1504",
-        "romeLibelle": "Conseiller / Conseillère immobilier",
-        "appellationlibelle": "Négociateur / Négociatrice en immobilier",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 45000.0 Euros à 50000.0 Euros"
-        },
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4586908",
-          "partenaires": [
-            {
-              "nom": "CARRIEREONLINE",
-              "url": "https://www.carriereonline.com/offre-emploi/ingenieur-commercial-it-senior-f-h/guadeloupe-202/37427411/?xtor=SEC-1321",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "210VHST",
-        "intitule": "Conseiller bancaire par téléphone H/F (H/F)",
-        "description": "Assistant téléphonique bancaire (H/F)\nALP'EMPLOI Lyon\n69009 Lyon 9e Arrondissement, Auvergne-Rhône-Alpes\n\nÀ propos de nous\nRejoignez ALP'EMPLOI Lyon, un acteur dynamique du Groupe ATOLL, ancré à Lyon, ville lumière et culture, pour des opportunités d'emploi variées dans votre région !\n\nMission\nÊtes-vous prêt(e) à jouer un rôle clé comme Assistant(e) téléphonique bancaire et enrichir l'expérience client à Lyon ?\n\nRejoignez une équipe dynamique pour offrir une assistance à distance de qualité aux clients dans le secteur bancaire pour notre client.\n- Accompagner les clients sur les services souscrits et opérations par téléphone\n- Gérer efficacement les appels concernant les problématiques bancaires\n- Proposer des solutions rapides pour les oppositions de paiements\n- Participer à des formations continues pour améliorer vos compétences\n- Collaborer avec les équipes pour optimiser le service client et organiser les plannings\n\nProfil\nFormation et expérience\nVous êtes motivé(e) par la satisfaction client et avez un goût prononcé pour le travail en équipe.\n\n- Compétences solides en communication et écoute active\n- Expérience préalable en relation client dans divers secteurs\n- Capacité à traiter efficacement un grand nombre d'appels entrants\n- Aisance avec les outils numériques pour l'assistance à distance\n- Flexibilité dans les horaires et esprit d'équipe affirmé\n- Formation en services financiers ou relation client recommandée\n\nCe que nous offrons :\nContrat : CDI\n\nSalaire : 1870 €/mois + Primes mensuelles + 13e mois + tickets restaurant + participation annuelle aux bénéfices \n\nMission en Temps plein : 35h/semaine\n\nCandidatez maintenant et nous vous recontacterons le plus rapidement possible !",
-        "dateCreation": "2026-07-06T16:21:48.615Z",
-        "dateActualisation": "2026-07-06T16:21:49.066Z",
-        "lieuTravail": {
-          "libelle": "69 - LYON 09",
-          "latitude": 45.786154,
-          "longitude": 4.796312,
-          "codePostal": "69009",
-          "commune": "69389"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "entreprise": {
-          "nom": "ALP EMPLOI",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "121281",
-            "libelle": "Analyser la situation financière d'un client : vérification de ses revenus, de ses dettes, des dispositifs légaux et de sa capacité de remboursement",
-            "exigence": "S"
-          },
-          {
-            "code": "122889",
-            "libelle": "Collecter l'ensemble des justificatifs clients",
-            "exigence": "S"
-          },
-          {
-            "code": "300377",
-            "libelle": "Elaborer, adapter une proposition commerciale",
-            "exigence": "S"
-          },
-          {
-            "code": "300374",
-            "libelle": "Présenter et valoriser un produit ou un service",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1870.0 Euros sur 12.0 mois",
-          "complement1": "Primes",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            },
-            {
-              "code": "12",
-              "libelle": "Plan d'épargne retraite d'entreprise"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail le samedi...",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "trancheEffectifEtab": "50 à 99 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210VHST"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail le samedi",
-            " Travail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "210VHPB",
-        "intitule": "Téléconseiller en recouvrement amiable (H/F)",
-        "description": "ALP EMPLOI LYON recrute, pour son client spécialisé en recouvrement amiable et rachat de créances, un Téléconseiller en Recouvrement Amiable H/F en CDD.\n\nMissions :\nPrise en charge des appels entrants et sortants.\nMise en place des solutions de règlement amiable avec les clients.\nRépondre aux demandes des clients concernant le recouvrement.\nL'objectif est de recouvrir les impayés et de développer une relation de confiance avec les clients.\n\nProfil recherché : \nVous avez une première expérience sur un poste dans le domaine de la relation client à distance (en centre d'appels).\nVous avez un bon relationnel et êtes à l'aise au téléphone.\nUne période de formation complète est proposée avec la possibilité d'acquérir des qualifications et de développer vos connaissances dans le domaine du recouvrement.\n\nHoraires : du lundi au vendredi - Amplitude horaire de 9h à 19h (journées en 9h - 17h et  en 11h - 19h)\nEligible au télétravail (2 jours par semaine)\n\nAvantages: primes mensuelles (primes entre 250 à 400 euros brut) + remboursement de 50% de l'abonnement de transports + tickets restaurant (8 euros par jour pris en charge à 60% par l'employeur)",
-        "dateCreation": "2026-07-06T16:18:57.902Z",
-        "dateActualisation": "2026-07-06T16:18:58.294Z",
-        "lieuTravail": {
-          "libelle": "69 - CALUIRE ET CUIRE",
-          "latitude": 45.796881,
-          "longitude": 4.842342,
-          "codePostal": "69300",
-          "commune": "69034"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "ALP EMPLOI",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 6 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1900.0 Euros sur 12.0 mois",
-          "complement1": "Primes",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Etre à l'écoute, faire preuve d'empathie",
-            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
-          },
-          {
-            "libelle": "Faire preuve de rigueur et de précision",
-            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-          },
-          {
-            "libelle": "Faire preuve de contrôle de soi",
-            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
-          }
-        ],
-        "trancheEffectifEtab": "50 à 99 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210VHPB"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée",
-            " Travail le samedi"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "210VDPF",
-        "intitule": "Téléconseiller / Téléconseillère",
-        "description": "Dans ce contexte, la Caisse Primaire d'Assurance Maladie de la Gironde recrute des téléconseiller(e)s (H/F) en CDD pour une durée de 5,5 mois (3 mois renouvelable une fois).\n\n\nMISSIONS/ACTIVITES\n\n\nLa mission du téléconseiller(e) est entièrement orientée vers le service au public, renseigner et informer par téléphone, fournir une réponse efficace et adaptée.\n\nVotre rôle consistera à :\n\n- réceptionner et traiter les appels téléphoniques provenant des assurés sociaux du département,\n- répondre de façon claire, fiable et personnalisée aux assurés en étant à leur écoute et en créant les conditions favorables au dialogue,\n- enregistrer votre activité sur un applicatif interne dédié au suivi des contacts clients,\n- analyser la situation et orienter les dossiers vers les services de back office adéquats,\n- assurer la promotion des offres de service dans le domaine de l'inclusion numérique, la prévention et le renoncement aux soins,\n- informer, conseiller et orienter dans l'utilisation des outils proposés (type compte ameli, mon espace santé).\n\nLe candidat retenu devra se conformer aux exigences du Plan de Sécurité du Système d'information.\n\n\nPROFIL/COMPETENCES ATTENDUES\n\nØ Vous êtes ponctuel ;\nØ Votre bon relationnel ainsi que vos qualités d'écoute et de communication vous permettent de répondre de manière précise, adaptée et efficace à vos interlocuteurs ;\nØ Vous disposez d'une capacité d'apprentissage de la législation de Sécurité sociale ;\nØ Vous êtes agile et doté d'une capacité d'analyse et de synthèse afin d'apporter une réponse fiable en un minimum de temps \nØ Vous savez argumenter vos décisions afin de susciter l'adhésion à la solution proposée ;\nØ Vous attachez une importance particulière à la satisfaction des assurés et à la qualité de votre travail ;\nØ Vous faites de preuve de curiosité et savez rechercher l'information de façon autonome ;\nØ Vous savez prendre du recul et adopter un comportement relationnel approprié avec nos clients, savoir gérer les situations difficiles, les incivilités, en alertant si nécessaire le bon interlocuteur ;\nØ Vous maitrisez les outils bureautiques et êtes en capacité de travailler en simultané sur plusieurs logiciels.\n\nUne première expérience dans la relation client et l'accueil téléphonique serait appréciée.\n\nLocalisation :\nPFS médicale : embauche place de l'Europe à Bordeaux puis déménagement à Cracovie\nPFS administrative : embauche sur le site de Lormont ou Haussmann (2 postes)\nDate de prise de poste : 2 vagues de recrutement : 3 Août 2026 et 1er septembre 2026\npourpostuler, merci de nous faire parvenir cv et lettre de motivation en mettant en objet \"« Candidature Téléconseiller - Août 2026 » ou « candidature Téléconseiller - sept 2026 » en fonction de votre souhait.",
-        "dateCreation": "2026-07-06T15:31:45.566Z",
-        "dateActualisation": "2026-07-06T15:31:45.566Z",
-        "lieuTravail": {
-          "libelle": "33 - BORDEAUX",
-          "latitude": 44.839143,
-          "longitude": -0.576632,
-          "codePostal": "33000",
-          "commune": "33063"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "CAISSE PRIMAIRE ASSURANCE MALADIE",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 3 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "3 Mois - Relation client",
-        "experienceCommentaire": "Relation client",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1917.0 Euros sur 12 mois",
-          "commentaire": "14 mois",
-          "complement1": "Indemnité transports",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "14",
-              "libelle": "Indemnité transports"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail BORDEAUX NORD",
-          "coordonnees1": "12 ALLEE Haussmann",
-          "coordonnees2": "33300 Bordeaux",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210VDPF"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210VDPF"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "84.30A",
-        "secteurActivite": "84",
-        "secteurActiviteLibelle": "Activités générales de sécurité sociale",
-        "trancheEffectifEtab": "1000 à 1999 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210VDPF"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
       }
     ]
   }
