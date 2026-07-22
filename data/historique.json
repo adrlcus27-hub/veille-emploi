@@ -1,5 +1,426 @@
 [
   {
+    "date": "2026-07-22",
+    "count": 7,
+    "offres": [
+      {
+        "id": "5226707",
+        "intitule": "Ingénieur commercial Cybersécurité H/F",
+        "description": "RESPONSABILITÉS : \n\nVotre mission :\nRattaché(e) au Directeur d'Agence, vous identifiez les opportunités, développez votre réseau de décideurs IT et accompagnez les clients dans la compréhension de leurs enjeux cyber : protection, conformité, résilience, services managés, SOC, gouvernance et sécurisation des infrastructures.\nVotre objectif : créer une dynamique commerciale durable, générer de nouvelles opportunités et positionner Heliaq Solutions comme un partenaire de confiance sur les projets cybersécurité à forte valeur ajoutée.\nVos responsabilités :\n - Prospecter et développer un portefeuille de clients privés, publics et collectivités.\n - Identifier les enjeux cybersécurité des clients et qualifier les projets à potentiel.\n - Promouvoir les offres Heliaq Solutions : cybersécurité, services managés, SOC, sécurisation réseau, cloud et infrastructures.\n - Construire et piloter un pipeline commercial structuré dans le CRM.\n - Coordonner les réponses commerciales avec les équipes avant-vente, techniques, back-office et juridiques.\n - Entretenir et développer la relation avec nos partenaires éditeurs, constructeurs et grossistes.\n - Développer les ventes croisées avec les autres agences du groupe et contribuer à la dynamique de la BU Cyber.\n - Assurer un reporting clair, régulier et orienté business auprès du management.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\n - Vous êtes un commercial orienté conquête, avec une vraie appétence pour les environnements IT et cybersécurité. Vous aimez ouvrir des comptes, construire une relation de confiance avec vos interlocuteurs et transformer des enjeux techniques en opportunités commerciales concrètes.\n - Expérience confirmée minimum de 5 ans dans la vente de solutions IT, cybersécurité, réseau, services managés.\n - Bonne compréhension des enjeux de sécurité : protection des infrastructures, SOC, EDR/MDR, firewalling, identité, sauvegarde, audits, conformité et résilience.\n - Tempérament commercial de chasseur, avec le goût du développement et de la prospection.\n - Capacité à adresser des interlocuteurs variés : DSI, RSSI, directions métiers, achats, directions générales.\n - Aisance dans la vente consultative et la construction de propositions à valeur ajoutée.\n - Rigueur dans le pilotage du pipeline, l'utilisation du CRM et le suivi des opportunités.\n - Autonomie, sens de l'organisation, esprit d'équipe et culture du résultat.\n - Un bon niveau d'anglais professionnel serait apprécié.\n\nPackage et informations complémentaires :  \n - Véhicule de fonction dédié avec carte essence / péage\n - Salaire selon profil et expérience : package entre 50.000€ et 70.000€ brut par an\n - Accord de télétravail\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Mutuelle prise en charge à 80% de l'employeur sur la formule individuelle + enfants\n - Prime de participation\n - Accès au Plan épargne groupe\n - Avantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-07-22T04:31:28.000Z",
+        "dateActualisation": "2026-07-22T04:31:28.000Z",
+        "lieuTravail": {
+          "libelle": "92 - Châtenay-Malabry",
+          "latitude": 48.764839,
+          "longitude": 2.261906,
+          "codePostal": "92290",
+          "commune": "92019"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions",
+          "description": "Heliaq Solutions est une entreprise experte en cloud, cybersécurité et production de Services Managés (support) pour les entreprises et les collectivités, assurant performance, protection et continuité opérationnelle afin de répondre aux besoins complexes de ses clients. Une société dynamique en pleine expansion et reconnue pour son expertise."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 70000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5226707",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/hptpf60jxj8/ingenieur-commercial-cybersecurite-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 2,
+        "_is_remote": true
+      },
+      {
+        "id": "5226507",
+        "intitule": "Senior Account Executive - B2B (H/F)",
+        "description": "RESPONSABILITÉS : \n\nLe/la Senior Account Executive porte la croissance commerciale de l'activité Abonnements B2B de Jeune Afrique Media Group.\nIl/elle est responsable du cycle de vente complet, de la prospection au closing, sur un ou plusieurs secteurs et marchés stratégiques.\n\nRattaché(e) à la Directrice Abonnements, il/elle couvre les trois titres du groupe : Jeune Afrique, The Africa Report et Africa Business+.\nMissions principales\nAcquisition et développement grands comptes\n - Définir la bonne cible et bâtir une stratégie d'approche pertinente par secteur, pays et typologie d'organisation en Afrique francophone et anglophone.\n - Prospecter et ouvrir des cycles complexes auprès de grandes organisations avec plusieurs parties prenantes de haut niveau (DG, DAF, Direction de la Stratégie).\n - Négocier et conclure les contrats, assurer une passation fluide et rester sponsor des comptes signés sur le long terme.\n - Prendre en charge personnellement le portefeuille des grands comptes : vente, renouvellements, upsell, cross-sell.\n - Développer les synergies avec les autres lignes commerciales du groupe (Régie, Events) pour construire des offres groupées à forte valeur.\n - Capitaliser sur les événements Jeune Afrique Media Group en Afrique comme levier de développement commercial.\n - Piloter son propre pipeline via Salesforce : qualifier les opportunités, prioriser les actions et garantir la précision des prévisions de CA.\nManagement de l'équipe B2B\n - Coacher l'équipe Sales : suivi des objectifs, développement des compétences de vente, posture commerciale, pricing.\n - Animer les rituels commerciaux : revue hebdomadaire de pipeline, point mensuel de performance, revue trimestrielle des comptes stratégiques.\n - Travailler en étroite collaboration avec le Sales Ops Manager pour optimiser les process et les campagnes d'acquisition.\n - Suivre les performances de l'équipe commerciale via Salesforce et assurer le reporting à la Direction.\nStratégie B2B\n - Co-construire avec la Directrice Abonnements la stratégie commerciale B2B : segments prioritaires, marchés cibles, positionnement de l'offre, go-to-market par segment et par pays.\n - Contribuer à l'évolution des offres en remontant les retours clients stratégiques aux équipes éditoriales et produit.\n\nPROFIL RECHERCHÉ : \n\nExpérience\n - Plus de 7 ans d'expérience commerciale B2B grands comptes, dont une part significative en chasse et closing sur des cycles longs et complexes (6 à 12 mois) avec plusieurs interlocuteurs de haut niveau.\n - Expérience managériale d'une équipe commerciale est un plus.\n - Expérience dans les médias, l'information B2B, le SaaS ou les services aux entreprises\n - Connaissance des marchés africains (Afrique francophone et/ou anglophone) fortement appréciée.\nCompétences clés\n - Maturité commerciale : aisance en prospection et en négociation complexe, avec la rigueur et la méthode nécessaires pour piloter des cycles de vente longs.\n - Leadership d'équipe : capacité à coacher des profils commerciaux et à instaurer une dynamique collective.\n - Maitrise professionnelle du français et de l'anglais indispensable.",
+        "dateCreation": "2026-07-22T04:31:27.000Z",
+        "dateActualisation": "2026-07-22T04:31:27.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris 16e Arrondissement",
+          "latitude": 48.86363,
+          "longitude": 2.27642,
+          "codePostal": "75016",
+          "commune": "75116"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable Commercial / Commerciale",
+        "entreprise": {
+          "nom": "JEUNE AFRIQUE MEDIA GROUP",
+          "description": "Fondé en 1960, Jeune Afrique Media Group (JAMG) est le premier groupe média consacré à l'Afrique et un acteur majeur de l'événementiel de haut niveau sur le continent.\nFort d'une expertise éditoriale internationalement reconnue et d'une présence locale solide, JAMG fournit aux décideurs les analyses approfondies, les informations fiables et les services essentiels à la compréhension des enjeux politiques, économiques et sociaux du continent."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 70000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5226507",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/5uhb6bwwhr8/senior-account-executive-b2b",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Commercial B2B",
+        "_ville_recherchee": "Paris",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "5227736",
+        "intitule": "Téléconseiller / Téléconseillère (H/F)",
+        "description": " Nous cherchons avant tout des collaborateurs avec un bel esprit d'équipe, autonomes, curieux, dynamiques, qui aiment les challenges et souhaitent s'épanouir et évoluer au sein d'une structure ou les liens entre collègues sont très forts.\n\n Tu n'as pas d'expérience en relation client ? Pas d'inquiétude ! Une formation est assurée lors de ton intégration. Tu te familiariseras également à l'utilisation de nos outils pour mener à bien tes missions et atteindre tes objectifs.\n\n\n\nQui sommes-nous ?\n\n\n\nTeletech International SAS, spécialiste de la Relation Client multicanal, appartient à la branche centres de contacts du Groupe FINARE (courtage en assurance - 115 M€ de CA - 1200 collaborateurs France et International). Depuis 1993, nous mettons à disposition de nos clients des plateformes pour assurer la gestion de leur relation client (appels entrants et sortants, réclamations, précontentieux, qualification de contact, prise de rendez-vous.). Les équipes de Teletech Internationnal sont réparties sur 8 sites de production en France et 2 sites au Maroc.\n\n\n\nDans le cadre de la poursuite de notre développement, nous recrutons des Conseillers Clientèle H/F pour notre site de LAVAL (53).\n\n\n\nLes missions  :\n\n\n\nVous assurez la relation clients en multi-canal, notamment sur des appels entrants de nos différentes entreprises clientes. Vous représentez Teletech International et êtes garant(e) de la qualité de service. Vous travaillerez du lundi au samedi avec une amplitude horaire de 8h à 19h selon le compte client.\nPourquoi nous rejoindre ?\n\n Une équipe engagée et dynamique.\n Un environnement convivial, grâce à un véritable esprit d'équipe et un espace de travail agréable.\n  0,5 jours de RTT par mois, possibilité de télétravail.\n Avantages CSE (chèques cadeaux, évènements entreprise).\n Tickets restaurant.\n Mutuelle entreprise.\n Remboursement de 60% du titre de transport.\n Mise à disposition gratuitement d'un parking.\n Rémunération : SMIC garanti + primes\n\nProcessus de recrutement ?\n\nUn premier échange téléphonique avec notre Chargé(e) de recrutement. Si cette première étape est validée, tu participeras à une session collective de recrutement.\n\n\n\nNotre petit plus ?\n\nEn tant qu'employeur responsable et engagé, Teletech est signataire de la charte de la diversité. Ça te donne envie ? C'est sûrement qu'une place t'attend chez nous !\n\nAdresse nous ton CV par mail avec Réf : LAVAL_CC\n\n\n\nPour en savoir plus sur l'entreprise et les postes à pourvoir, rendez-vous sur notre site internet : https://www.teletech-int.com/ \n            ",
+        "dateCreation": "2026-07-22T06:04:02.000Z",
+        "dateActualisation": "2026-07-22T06:04:02.000Z",
+        "lieuTravail": {
+          "libelle": "53 - Laval",
+          "latitude": 48.056946,
+          "longitude": -0.744818,
+          "codePostal": "53000",
+          "commune": "53130"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": " TELETECH\n                "
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 46 Jour(s)",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {
+          "libelle": "Annuel de 21672.0 Euros à 21672.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "82.20Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Activités de centres d'appels",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5227736",
+          "partenaires": [
+            {
+              "nom": "LAYAN",
+              "url": "https://jobs.layan.eu/fr/offer-of-teletech-no-106599/56",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/layan80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "5226541",
+        "intitule": "Responsable Support Technique Clients HVAC (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVous aimez conjuguer management de proximité, expertise technique et pilotage transverse dans des contextes dynamiques et exigeants ?\nVous êtes reconnu pour votre leadership, votre capacité à fédérer et votre sens du service client ?\n\nAlors devenez Responsable Support Technique Clients HVAC (f/h).\n\nVOTRE CHALLENGE\n\n\nAu sein du SAV collectif et tertiaire, vous pilotez une équipe de 15 collaborateurs composée de conseillers techniques clients hotline, référents techniques et d'un animateur digital dédiés aux produits VRF et Split.\n\n\n\nVous accompagnez l'équipe au quotidien afin de garantir la satisfaction clients, développer les compétences et renforcer l'impact du service dans les projets du pôle.\n\n\n\nConcrètement, vous :\n - Veillez à la sécurité et aux bonnes pratiques au sein de l'équipe\n - Managez une équipe aux profils variés : hotline, experts techniques, itinérants et animation digitale\n - Pilotez les indicateurs de satisfaction clients et les plans d'actions associés\n - Accompagnez les collaborateurs dans les situations complexes et les dossiers clients sensibles\n - Développez les relations avec les équipes commerciales et les clients stratégiques\n - Collectez et diffusez les données terrain afin de contribuer à l'amélioration des produits et des process\n - Participez aux projets structurants du service : transition R410 → R32, nouvelles offres de service, montée en puissance de l'animation digitale, intégration des nouveaux collaborateurs\n - Contribuez au pilotage opérationnel du service et à la dynamique collective de la ligne managériale\n\n\n\nVous évoluez dans un environnement transverse, en lien étroit avec les équipes Commerce, Qualité, R&D, Formation, RH et les autres services techniques du Groupe.\n\n\n\nCE QUE NOUS VOUS OFFRONS\n\n\n - Un poste stratégique à fort impact sur la satisfaction clients et la performance de l'activité\n - Une équipe expérimentée, engagée et autonome sur laquelle vous appuyer\n - Une diversité de sujets techniques : connectivité, électronique, mécanique, aéraulique, thermodynamique...\n - Un environnement stimulant mêlant management, technique, relation clients et amélioration continue\n\n\n\nVous bénéficiez également :\n - D'une rémunération sur 13 mois\n - D'un dispositif de participation et d'intéressement\n - De RTT\n - D'une prise en charge des transports en commun à 75 %\n - D'une participation employeur aux repas\n\nPROFIL RECHERCHÉ : \n\n-         Vous êtes ingénieur\n-         Vous disposez d'une expérience managériale dans un environnement technique ou industriel BtoB\n-         Vous savez fédérer une équipe avec exigence, proximité et pragmatisme\n-         Vous êtes à l'aise dans la gestion de situations clients complexes\n-         Vous appréciez les environnements transverses et le travail en collaboration avec différents métiers\n-         Vous possédez une forte capacité d'analyse et de structuration\n-         Vous savez prendre du recul et décider dans des contextes exigeants\n-         Vous êtes reconnu pour votre leadership constructif et votre orientation résultats\n\n\nUne expérience dans les secteurs HVAC, automatismes, électronique, maintenance industrielle, motorisation ou machinisme agricole sera appréciée.\n\n\nParce que le confort de nos clients commence par le bien-être de nos collaborateurs, nous cherchons des talents engagés pour bâtir un avenir durable. Prenez part à notre aventure !",
+        "dateCreation": "2026-07-22T04:31:27.000Z",
+        "dateActualisation": "2026-07-22T04:31:27.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Meyzieu",
+          "latitude": 45.765768,
+          "longitude": 5.005648,
+          "codePostal": "69330",
+          "commune": "69282"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable administratif(tive) du service clients",
+        "entreprise": {
+          "nom": "GROUPE ATLANTIC SYNERGY - Société en Nom Collectif",
+          "description": "ACTA Industrie, site du GROUPE ATLANTIC basé à Meyzieu (20 km à l'est de Lyon), conçoit, fabrique et distribue des pompes à chaleur air/air, centrales de traitement d'air (CTA) et solutions de ventilation pour les marchés résidentiel, collectif et tertiaire.\nDans un contexte de forte dynamique autour des solutions de confort thermique bas-carbone, le site évolue au cœur d'un environnement industriel et technique exigeant, avec des enjeux forts de qualité, d'innovation et de satisfaction client."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5226541",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/ply24tb9pt8/responsable-support-technique-clients-hvac",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5226268",
+        "intitule": "INGÉNIEUR COMMERCIAL H/F",
+        "description": "RESPONSABILITÉS : \n\nRattaché(e) au Directeur Régional et intégré(e) à une équipe commerciale engagée, vous participez activement au développement de votre secteur.\nÀ ce titre, vous êtes amené(e) à :\n - Développer et animer un portefeuille de partenaires et de clients existants.\n - Identifier de nouvelles opportunités commerciales et prospecter de nouveaux partenaires.\n - Accompagner vos interlocuteurs dans l'identification de leurs besoins et proposer des solutions de financement adaptées.\n - Assurer le suivi complet des dossiers, de la qualification du besoin jusqu'à la signature des contrats.\n - Accompagner les partenaires revendeurs dans leurs démarches auprès des clients finaux.\n - Fidéliser votre portefeuille en développant une relation durable basée sur le conseil et la qualité de service.\n - Piloter votre activité à l'aide des indicateurs commerciaux et contribuer au développement de votre agence.\n\nPROFIL RECHERCHÉ : \n\nVous justifiez d'une expérience réussie dans le développement commercial BtoB, idéalement acquise dans les secteurs du financement, du leasing, des services aux entreprises ou de la vente de solutions à forte valeur ajoutée.\nVéritable développeur(se) commercial(e), vous aimez conquérir de nouveaux marchés tout en fidélisant vos clients sur le long terme.\nReconnu(e) pour votre sens de la négociation, votre autonomie et votre goût du terrain, vous savez instaurer une relation de confiance avec des interlocuteurs variés et comprendre leurs enjeux afin de leur proposer des solutions adaptées.\nOrganisé(e), rigoureux(se) et orienté(e) résultats, vous appréciez évoluer dans un environnement dynamique où l'esprit d'équipe, la proximité et la qualité de la relation client occupent une place essentielle.\nAu-delà de votre parcours, nous recherchons avant tout une personnalité engagée, positive et animée par le développement commercial.\nEt si c'était vous ?\nVous souhaitez rejoindre une entreprise solide, reconnue sur son marché, qui offre à ses collaborateurs autonomie, accompagnement et réelles perspectives de développement ?\nNous serions ravis d'échanger avec vous.\nProcessus de recrutement\nMerci d'adresser votre candidature via le lien présent dans cette annonce.\nVotre dossier sera traité en toute confidentialité.\nSi votre profil correspond aux attentes de notre client, nous vous contacterons afin d'échanger plus en détail sur cette opportunité et sur votre parcours.\nEn cas de réponse négative, nous pourrons, avec votre accord, conserver votre candidature pour de futures opportunités.",
+        "dateCreation": "2026-07-22T04:31:26.000Z",
+        "dateActualisation": "2026-07-22T04:31:26.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 1er Arrondissement",
+          "latitude": 45.769506,
+          "longitude": 4.830081,
+          "codePostal": "69001",
+          "commune": "69381"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "SKAYL",
+          "description": "Le cabinet SKAYL recrute, pour le compte de l'un de ses clients, un acteur reconnu du financement d'équipements professionnels, spécialisé dans la mise en place de solutions de location financière à destination des entreprises.\nPrésente sur l'ensemble du territoire, cette entreprise accompagne depuis de nombreuses années ses partenaires et clients dans le financement d'actifs à forte valeur ajoutée (industrie, mobilité, BTP, transition énergétique, technologies...)."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "8",
+        "qualificationLibelle": "Agent de maîtrise",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5226268",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/26nuq81h188/ingenieur-commercial-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5218265",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nDans le cadre du développement de notre activité IT, nous recherchons notre futur Business Manager basé à Lyon.\n\nVous rejoignez une structure en pleine croissance avec un objectif clair : ouvrir de nouveaux comptes et développer votre propre portefeuille clients.\n\nCe poste s'adresse à un véritable développeur, animé par la conquête commerciale et l'envie de bâtir une activité durable.\n\nVos missions seront de :\n\n * Identifier et ouvrir de nouveaux comptes grâce à une prospection active.\n * Développer des relations de confiance avec vos clients et détecter leurs besoins en assistance technique.\n * Recruter, accompagner et fidéliser vos consultants.\n * Assurer le suivi des missions et développer votre portefeuille au fil de votre croissance.\n * Contribuer activement au développement de l'activité IT de l'entreprise.\n\nÀ terme, vous pourrez évoluer vers des fonctions de management, participer à l'ouverture de nouvelles agences ou prendre la responsabilité d'une Business Unit.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nVous justifiez d'une expérience réussie en Business Management au sein d'une ESN, dans l'univers IT.\n\nVous êtes avant tout un chasseur : prospecter, ouvrir des comptes et développer une activité vous stimulent au quotidien.\n\nEntrepreneur dans l'âme, vous aimez partir d'une feuille blanche, relever des défis commerciaux et évoluer dans un environnement où la performance ouvre de réelles perspectives d'évolution.\n        \n        \nLES AVANTAGES :\n        \nRejoindre notre entreprise, cest intégrer une structure où vous pourrez construire votre activité comme une véritable mini-BU, avec une liberté daction et une autonomie rares. Voici ce que nous vous offrons :\n\n * Rejoindre la 2e Best Workplace France 2026 et l'une des ESN les plus reconnues pour son expérience collaborateur.\n * Intégrer une entreprise où la qualité de vie au travail est une réalité : Happiness Manager, nombreux événements internes, proximité des dirigeants et accompagnement personnalisé.\n * Un package rémunérateur, composé dun fixe compétitif, mais surtout dun variable particulièrement attractif, indexé sur la marge générée. Avec une vingtaine de consultants en portefeuille, votre package pourra atteindre 100 k.\n * Des perspectives dévolution claires : management déquipe, ouverture dagence ou participation à lactionnariat pour les profils les plus performants.\n * Un environnement dynamique, où votre travail aura un impact direct sur la croissance de lentreprise, avec des circuits de décision courts et une proximité avec la direction.\n\nSi vous êtes prêt à relever un défi motivant et à vous investir dans un projet ambitieux, nous serions ravis déchanger avec vous.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-07-22T00:00:47.218Z",
+        "dateActualisation": "2026-07-22T00:00:47.218Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 2e Arrondissement",
+          "codePostal": "69002",
+          "commune": "69382"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        "
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 100000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5218265",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/49959/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "211LYVX",
+        "intitule": "Responsable clientèle (H/F)",
+        "description": "Poste à pourvoir en août\n\nMission principale :\nSous la responsabilité et en lien étroit avec la direction : Superviser les équipes d'accueil et d'entretien tout en contribuant au développement de DOLIBULLE par l'amélioration de l'expérience client et la mise en place d'actions commerciales et d'animations ponctuelles.\n\nManagement d'équipe :\n- Elaboration et gestion des plannings pour les équipes d'accueil et d'entretien - savoir optimiser les temps de travail en relation avec les objectifs de la modulation\n- Coordination des équipes accueil et entretien\n- Tenir une réunion d'équipe hebdomadaire accueil + rédaction d'un compte rendu\n\nOrganisation & Qualité de service\n- Elaborer des protocoles d'hygiène et de sécurité et veiller à leur respect\n- Contrôler régulièrement la qualité des prestations des équipes\n- Gérer les stocks produits et passer commande\n- Développement commercial\n\nDévelopper des partenariats locaux (CE, commerces locaux.)\n- Programmer et organiser des offres promotionnelles dans le but de fidéliser les clients et attirer de nouveaux prospects\n- Estimer des objectifs de vente\n- Motiver l'équipe accueil pour atteindre des objectifs\n\nPropositions d'animations événementielles\n- Organiser des événements et animations ponctuels pour promouvoir et faire vivre le centre aquatique\n\nCompétences clés :\n- Leadership et capacité à fédérer\n- Capacité à faire respecter les règles et procédures, savoir dire non avec diplomatie\n- Organisation et gestion des priorités - savoir gérer les imprévus\n- Reporting à la direction\n- Capacité à développer\n- Être force de proposition\n- Maîtrise des normes d'hygiène et sécurité\n- Traiter les réclamations, les impayés\n- Suivi comptable quotidien et actions correctrices si nécessaires\n\nUne formation lors de la prise de poste est prévue, n'hésitez pas à candidater dès à présent.",
+        "dateCreation": "2026-07-21T16:09:54.446Z",
+        "dateActualisation": "2026-07-21T16:09:54.446Z",
+        "lieuTravail": {
+          "libelle": "35 - DOL DE BRETAGNE",
+          "latitude": 48.549736,
+          "longitude": -1.753549,
+          "codePostal": "35120",
+          "commune": "35095"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable de la relation clientèle",
+        "entreprise": {
+          "nom": "DOLIBULLE 3",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "101315",
+            "libelle": "Analyse de données expérimentales",
+            "exigence": "S"
+          },
+          {
+            "code": "100541",
+            "libelle": "Techniques de communication orales, écrites et numériques",
+            "exigence": "S"
+          },
+          {
+            "code": "122327",
+            "libelle": "Recueillir l'avis et les remarques d'un client",
+            "exigence": "S"
+          },
+          {
+            "code": "124094",
+            "libelle": "Traiter les demandes de support technique",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 2100.0 Euros sur 12 mois"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "93.11Z",
+        "secteurActivite": "93",
+        "secteurActiviteLibelle": "Gestion d'installations sportives",
+        "trancheEffectifEtab": "10 à 19 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211LYVX"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "count": 14,
     "offres": [
@@ -5580,1046 +6001,6 @@
             {
               "nom": "JOBINLIVE",
               "url": "http://www.missionhandicap.com/emploi/BPCE-BPBFC01300#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-07-08",
-    "count": 15,
-    "offres": [
-      {
-        "id": "210XCML",
-        "intitule": "Ingénieur Commercial - Solutions   CAO (H/F)",
-        "description": "Envie de rejoindre un secteur en pleine croissance et de participer à la transformation digitale de l'industrie 4.0 ?\n\nNous sommes une société spécialisée dans l'intégration et la commercialisation de solutions Cloud SaaS de conception et de simulation 3D, en partenariat avec et ses solutions phares et.\n\nEn quelques chiffres :\n\nPlus de 1 000 clients accompagnés\nPrésence en France et à l'international\nUn environnement startup ambitieux et en forte croissance\nUn écosystème technologique centré sur l'industrie 4.0 et les solutions SaaS\n\nNotre mission : accompagner les industriels dans leur innovation grâce à des solutions CAO/PLM modernes, flexibles et scalables.\n\nNous accompagnons startups, PME et ETI dans leur transformation digitale, en France comme à l'international.\n\n\nVotre profil :\n\nDiplômé(e) ou en fin d'études d'école d'ingénieurs ou de commerce\nUne expérience préalable dans la commercialisation des solutions et/ou est indispensable\nAutonome, curieux(se) et proactif(ve)\nMaîtrise d'une langue européenne ainsi que de l'anglais ou du français\n\nCe que vous développerez chez nous :\n\nDes techniques avancées de vente B2B\nL'utilisation du CRM (Hubspot), la prospection digitale et l'automatisation marketing\nLa conception de business models et la gestion de projets entrepreneuriaux\nLes compétences nécessaires pour développer une activité scalable dans le secteur des technologies industrielles\n\nPré-requis:\nAvoir une bonne expérience terrain de prospection\nEtre expert sur Hubspot: savoir gérer correctement son pipeline de lead/deal\nEtre à l'aise en négotiation\nBilingue à minima: Anglais, Français, voir trilingue: Allemand\nSavoir comment gérer la partie facturation\n\nCe que nous offrons :\n\nUn accompagnement personnalisé et une montée en compétences continue\nL'accès à un réseau d'experts et de partenaires internationaux\nUne forte évolution professionnelle dans un environnement entrepreneurial ambitieux\nTickets restaurant, remboursement à 50 % du pass Navigo, télétravail flexible\nPackage de rémunération attractif selon profil et expérience\n\nIntéressé(e) ?\n\nÉchangeons rapidement pour vous présenter notre vision, le business plan et explorer votre potentiel !",
-        "dateCreation": "2026-07-07T18:07:13.286Z",
-        "dateActualisation": "2026-07-07T18:07:13.671Z",
-        "lieuTravail": {
-          "libelle": "78 - MONTIGNY LE BRETONNEUX",
-          "latitude": 48.781965,
-          "longitude": 2.0452,
-          "codePostal": "78180",
-          "commune": "78423"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur(e) technico-commercial(e)",
-        "entreprise": {
-          "nom": "OHMYCAD",
-          "description": "1er partenaire Cloud & SAAS de Dassault Systmes / 3DEXPERIENCE CATIA & SOLIDWORKS Value Added Reseller\nLe partenaire officiel de SOLIDWORKS qui s'adapte aux dfis financiers et techniques des start-ups.\nMais aussi pour toute entreprise qui rve de travailler comme une start-up !",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "langues": [
-          {
-            "libelle": "Anglais",
-            "exigence": "E"
-          },
-          {
-            "libelle": "Français",
-            "exigence": "E"
-          }
-        ],
-        "competences": [
-          {
-            "code": "121381",
-            "libelle": "Adapter une stratégie de vente à une cible ou un produit",
-            "exigence": "S"
-          },
-          {
-            "code": "499623",
-            "libelle": "Analyser les besoins des clients",
-            "exigence": "S"
-          },
-          {
-            "code": "403511",
-            "libelle": "Conduire les négociations commerciales : prix, délais, promotions et conclure la vente (bons de commande, contrats de vente…)",
-            "exigence": "S"
-          },
-          {
-            "code": "403633",
-            "libelle": "Conseiller ses clients sur les meilleures applications et les contraintes techniques et administratives des produits ou services proposés",
-            "exigence": "S"
-          },
-          {
-            "code": "300379",
-            "libelle": "Développer et fidéliser la relation client",
-            "exigence": "S"
-          },
-          {
-            "code": "400730",
-            "libelle": "Elaborer des modifications permettant de répondre au cahier des charges, aux réglementations en vigueur et aux attentes des parties concernées",
-            "exigence": "S"
-          },
-          {
-            "code": "117243",
-            "libelle": "Etablir un devis",
-            "exigence": "S"
-          },
-          {
-            "code": "102318",
-            "libelle": "Etablir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)",
-            "exigence": "S"
-          },
-          {
-            "code": "403285",
-            "libelle": "Fournir un service de qualité",
-            "exigence": "S"
-          },
-          {
-            "code": "405293",
-            "libelle": "Maîtriser les services proposés par l’entreprise, ainsi que le cadre légal et réglementaire",
-            "exigence": "S"
-          },
-          {
-            "code": "403310",
-            "libelle": "Négocier les tarifs des prestations, les conditions contractuelles ainsi que les délais de livraison",
-            "exigence": "S"
-          },
-          {
-            "code": "125943",
-            "libelle": "Optimiser une activité commerciale",
-            "exigence": "S"
-          },
-          {
-            "code": "403293",
-            "libelle": "Participer à des projets transverses et mettre à disposition ses compétences techniques et de sa connaissance des clients",
-            "exigence": "S"
-          },
-          {
-            "code": "403436",
-            "libelle": "Promouvoir les produits ou services de l'entreprise lors des interactions",
-            "exigence": "S"
-          },
-          {
-            "code": "484943",
-            "libelle": "Proposer des solutions techniques adaptées",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "commentaire": "Selon profil"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "OHMYCAD - X NADIM ALKHOURY",
-          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XCML",
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XCML"
-        },
-        "agence": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "codeNAF": "62.02A",
-        "secteurActivite": "62",
-        "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Faire preuve de rigueur et de précision",
-            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-          },
-          {
-            "libelle": "Faire preuve d'autonomie",
-            "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-          },
-          {
-            "libelle": "Etre force de proposition",
-            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-          }
-        ],
-        "trancheEffectifEtab": "1 ou 2 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XCML"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 5,
-        "_is_remote": true
-      },
-      {
-        "id": "4685659",
-        "intitule": "Business Developer H/F",
-        "description": "Notre mission chez Fed Group est de créer des rencontres qui ont du sens ! Pour nous, dans chaque rencontre il y a une opportunité.\n\nAu sein de Fed Group, Fed Supply est la marque dédiée aux recrutements dans les métiers de la Supply Chain.\nNous recrutons pour nos clients en Administration des Ventes, Support commercial, Relation clients, lmport-Export, Achats, Transport, Logistique de production et Logistique d'exploitation.\n\nPour accompagner la croissance de cette marque établie depuis 2010 et développer nos activités de recrutement permanent et temporaire (CDI, CDD et Intérim), nous recherchons un ou une Consultant(e) en recrutement qui saura accompagner nos clients situés en Ile de France, issus de tous secteurs d'activité (majoritairement industriel et distribution) et de toutes tailles (PME, grands groupes, ...).\nPoste à pourvoir à Paris 8ième (75008) dans le cadre d'un CDI.\nPour que notre collaboration soit un succès, nous te formerons et/ou t'accompagnerons pour que tu sois opérationnel(le) sur le métier à 360 - commercial et recrutement -, et ensuite que tes succès te permettent de créer ton parcours d'évolution (managérial ou transversal) dans le groupe.\n\nLa finalité du poste se résume en 2 axes :\no Développement commercial : tout ce qu'on attend d'un ou d'une commercial(e) à ce sujet : développement du portefeuille prospects et clients existants, prospection, stratégie commerciale, suivi de comptes et des postes à pourvoir, rendez-vous physique chez les clients, négociation commerciale, arbitrage, gestion des litiges, ...\no Recrutement : identification des meilleurs candidats, rédaction et diffusion des annonces d'emploi, évaluation en entretiens individuels, gestion des obligations de moyens (référence, ...) et conseils auprès des candidats dans leur recherche.\nCoté clients : positionner les candidats sur les postes confiés dans le but de finaliser les recrutements, puis de suivre leur intégration chez les clients\n\n\nDiplômé(e) de l'enseignement supérieur (Bac+5), tu justifies d'une première expérience dans la vente de services BtoB.\nC'est encore mieux si cette expérience a été réalisée en cabinet de recrutement, ESN ou société d'intérim.\n\nLa connaissance des métiers Supply Chain est un plus mais pas un prérequis. Nous ne sommes pas des opérationnels de la logistique.\n\nSi tu souhaites rejoindre un cabinet ambitieux pour te construire une belle histoire professionnelle, c'est chez Fed Group que tu trouveras ta place !\n\nRémunération et avantages :\n- Pour un(e) débutant(e) : une rémunération fixe de 33K€ et des bonus trimestriels non plafonnés, basés sur ta performance individuelle. Package à +/- 38K€ en moyenne la première année selon tes résultats.\n- Suite à une première expérience/ pour un(e) confirmé(e) : rémunération fixe à négocier et des bonus trimestriels non plafonnés, basés sur ta performance individuelle.\n- Statut cadre, 4 jours de télétravail par mois, jusqu'à 12 RTT cumulables, une très bonne mutuelle et des titres restaurant\n- Un iphone, un ordinateur portable\n- Un véhicule de fonction quand tu évolues\n\nNous te proposons :\n- Un projet ambitieux avec des perspectives d'évolution avec management pour développer ta propre équipe ou sans management pour valoriser des compétences transverses\n- Une entreprise solide, 24 ans d'existence, en développement constant, certifiée par le label HappyIndexAtWork de Choose my Company\n- Une politique mobilité active en France comme à l'international\n- Des moyens pour travailler : un puissant CRM (Salesforce), des accès aux meilleures CVthèques et diffuseurs d'annonces, une équipe de 25 Business Partners mobilisés pour t'accompagner dans la réussite (RH, Juridique, Finance, IT, Marketing et Communication, Qualité & innovation ...)\n- Une forte Learning Culture : tu bénéficieras d'un cursus de formation complet avec un accès à plus d'une quinzaine de formations par an (en commercial, en recrutement, aux métiers de la Supply Chain, en non-discrimination, en soft skills comme en communication, organisation, gestion des émotions, ...)\n-Des challenges locaux et aussi nationaux te permettant de te confronter aux meilleurs et de pouvoir remporter différents prix\n- Et surtout une équipe qui sait allier travail et plaisir, et dont l'objectif est de proposer la meilleure expérience à ses candidats et clients !\n\nPlus d'infos ?\nwww.fed-group.fr\nhttps://www.tiktok.com/@fed.group\nhttps://www.instagram.com/fedgroup_/\n\nContrat : CDI\nSalaire : 33000 à 45000 EUR par an",
-        "dateCreation": "2026-07-08T07:04:44.000Z",
-        "dateActualisation": "2026-07-08T07:04:44.000Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "M1707",
-        "romeLibelle": "Responsable du développement commercial",
-        "appellationlibelle": "Responsable développement / Business Developer",
-        "entreprise": {
-          "nom": "FED SUPPLY",
-          "description": "Fed Supply est un cabinet de recrutement Supply Chain ultra-spécialisé et créé en 2010 par Fed Group. Nos consultants recrutent les meilleurs candidats sur le terrain partout en France en intérim, CDD et CDI, pour des missions qui couvrent le périmètre de la supply au sens large : ADV, Relation Clients, Assistanat commercial, Achats, Supply Chain, Import-Export, Logistique et Transport.\nVous savez que les pilotes de flux ne travaillent pas dans des avions ? Nous aussi ! Vous pensez qu’une bon..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4685659",
-          "partenaires": [
-            {
-              "nom": "JOBTRANSPORT",
-              "url": "https://www.jobtransport.com/offre-emploi/ido/3210431.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Business Developer",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "4685664",
-        "intitule": "Business Developer H/F",
-        "description": "Notre mission chez Fed Group est de créer des rencontres qui ont du sens ! Pour nous, dans chaque rencontre il y a une opportunité.\n\nAu sein de Fed Group, Fed Supply est la marque dédiée aux recrutements dans les métiers de la Supply Chain.\nNous recrutons pour nos clients en Administration des Ventes, Support commercial, Relation clients, lmport-Export, Achats, Transport, Logistique de production et Logistique d'exploitation.\n\nPour accompagner la croissance de cette marque établie depuis 2010 et développer nos activités de recrutement permanent et temporaire (CDI, CDD et Intérim), nous recherchons un ou une Consultant(e) en recrutement qui saura accompagner nos clients situés en Ile de France, issus de tous secteurs d'activité (majoritairement industriel et distribution) et de toutes tailles (PME, grands groupes, ...).\nPoste à pourvoir à Lognes dans le 77 cadre d'un CDI.\nPour que notre collaboration soit un succès, nous te formerons et/ou t'accompagnerons pour que tu sois opérationnel(le) sur le métier à 360 - commercial et recrutement -, et ensuite que tes succès te permettent de créer ton parcours d'évolution (managérial ou transversal) dans le groupe.\n\nLa finalité du poste se résume en 2 axes :\no Développement commercial : tout ce qu'on attend d'un ou d'une commercial(e) à ce sujet : développement du portefeuille prospects et clients existants, prospection, stratégie commerciale, suivi de comptes et des postes à pourvoir, rendez-vous physique chez les clients, négociation commerciale, arbitrage, gestion des litiges, ...\no Recrutement : identification des meilleurs candidats, rédaction et diffusion des annonces d'emploi, évaluation en entretiens individuels, gestion des obligations de moyens (référence, ...) et conseils auprès des candidats dans leur recherche.\nCoté clients : positionner les candidats sur les postes confiés dans le but de finaliser les recrutements, puis de suivre leur intégration chez les clients\n\n\nDiplômé(e) de l'enseignement supérieur (Bac+5), tu justifies d'une première expérience dans la vente de services BtoB.\nC'est encore mieux si cette expérience a été réalisée en cabinet de recrutement, ESN ou société d'intérim.\n\nLa connaissance des métiers Supply Chain est un plus mais pas un prérequis. Nous ne sommes pas des opérationnels de la logistique.\n\nSi tu souhaites rejoindre un cabinet ambitieux pour te construire une belle histoire professionnelle, c'est chez Fed Group que tu trouveras ta place !\n\nRémunération et avantages :\n- Pour un(e) débutant(e) : une rémunération fixe de 33K€ et des bonus trimestriels non plafonnés, basés sur ta performance individuelle. Package à +/- 38K€ en moyenne la première année selon tes résultats.\n- Suite à une première expérience/ pour un(e) confirmé(e) : rémunération fixe à négocier et des bonus trimestriels non plafonnés, basés sur ta performance individuelle.\n- Statut cadre, 4 jours de télétravail par mois, jusqu'à 12 RTT cumulables, une très bonne mutuelle et des titres restaurant\n- Un iphone, un ordinateur portable\n- Un véhicule de fonction quand tu évolues\n\nNous te proposons :\n- Un projet ambitieux avec des perspectives d'évolution avec management pour développer ta propre équipe ou sans management pour valoriser des compétences transverses\n- Une entreprise solide, 24 ans d'existence, en développement constant, certifiée par le label HappyIndexAtWork de Choose my Company\n- Une politique mobilité active en France comme à l'international\n- Des moyens pour travailler : un puissant CRM (Salesforce), des accès aux meilleures CVthèques et diffuseurs d'annonces, une équipe de 25 Business Partners mobilisés pour t'accompagner dans la réussite (RH, Juridique, Finance, IT, Marketing et Communication, Qualité & innovation ...)\n- Une forte Learning Culture : tu bénéficieras d'un cursus de formation complet avec un accès à plus d'une quinzaine de formations par an (en commercial, en recrutement, aux métiers de la Supply Chain, en non-discrimination, en soft skills comme en communication, organisation, gestion des émotions, ...)\n-Des challenges locaux et aussi nationaux te permettant de te confronter aux meilleurs et de pouvoir remporter différents prix\n- Et surtout une équipe qui sait allier travail et plaisir, et dont l'objectif est de proposer la meilleure expérience à ses candidats et clients !\n\nPlus d'infos ?\nwww.fed-group.fr\nhttps://www.tiktok.com/@fed.group\nhttps://www.instagram.com/fedgroup_/\n\nContrat : CDI\nSalaire : 33000 à 45000 EUR par an",
-        "dateCreation": "2026-07-08T07:04:44.000Z",
-        "dateActualisation": "2026-07-08T07:04:44.000Z",
-        "lieuTravail": {
-          "libelle": "77 - Lognes",
-          "latitude": 48.83872,
-          "longitude": 2.632327,
-          "codePostal": "77185",
-          "commune": "77258"
-        },
-        "romeCode": "M1707",
-        "romeLibelle": "Responsable du développement commercial",
-        "appellationlibelle": "Responsable développement / Business Developer",
-        "entreprise": {
-          "nom": "FED SUPPLY",
-          "description": "Fed Supply est un cabinet de recrutement Supply Chain ultra-spécialisé et créé en 2010 par Fed Group. Nos consultants recrutent les meilleurs candidats sur le terrain partout en France en intérim, CDD et CDI, pour des missions qui couvrent le périmètre de la supply au sens large : ADV, Relation Clients, Assistanat commercial, Achats, Supply Chain, Import-Export, Logistique et Transport.\nVous savez que les pilotes de flux ne travaillent pas dans des avions ? Nous aussi ! Vous pensez qu’une bon..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4685664",
-          "partenaires": [
-            {
-              "nom": "JOBTRANSPORT",
-              "url": "https://www.jobtransport.com/offre-emploi/ido/3210427.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Business Developer",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "4682068",
-        "intitule": "Technical Leader - ServiceNow - Business Line Solutions & Expertises - Ile de france (H/F)",
-        "description": "\n            Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe, avec 50000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services et solutions numériques. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, en combinant une connaissance approfondie des secteurs d’activité et des technologies à une approche collaborative.\n\nSopra Steria place l’humain au cœur de son action et s’engage auprès de ses clients à tirer le meilleur parti du numérique pour construire un avenir positif. En 2024, le Groupe a réalisé un chiffre d’affaires de 5,8 milliards d’euros.The world is how we shape it*\n*Le monde est tel que nous le façonnonsDescription du posteLe pôle ServiceNow accompagne ses clients – grands comptes – dans leur transformation digitale et l’optimisation de leurs processus métiers à travers la plateforme ServiceNow. Il intervient sur des projets à forte valeur ajoutée couvrant l’ensemble du cycle de vie des solutions : conseil, conception, intégration, évolution et maintien en conditions opérationnelles.Dans ce contexte, nous recherchons un(e) Technical Leader ServiceNow pour piloter techniquement des projets d’intégration ServiceNow chez nos clients, dans des contextes variés et à forts enjeux. Votre rôle et vos missions :Vous définissez et défendez les choix techniques du projet;Vous coordonnez et accompagnez les consultants techniques;Vous planifiez et pilotez les développements et recettes;Vous rédigez et validez les spécifications techniques;Vous réalisez et supervisez les paramétrages et développements complexes;Vous garantissez la qualité, la performance et les bonnes pratiques ServiceNow.En tant que partenaire d'entreprises nationales et internationales, des déplacements sont à prévoir dans le cadre de nos différents projets. Environnement technique : Plateforme ServiceNow (ITSM, HRSD, SPM, CMDB, CSM…)JavaScript, Glide API, Flow Designer, Service Portal et Integration Hub.Intégration de systèmes via REST, SOAP et MID Server.QualificationsVous êtes doté(e) d'une solide expertise technique. \nVous faites preuve de leadership et avez un bon esprit d'équipe. Vous avez un niveau professionnel en anglais Les certifications ServiceNow (CSA, CIS, CAD) sont un plusDiplômé(e) d'une école d'Ingénieurs ou équivalent, vous disposez d’au moins 5 ans d'expérience en intégration de la plateforme ServiceNow. \nVous souhaitez vous investir au sein d'une équipe dynamique, passionnée et aux valeurs humaines fortes, capable d’accompagner ses clients des projets stratégiques et innovants ?Vous avez une forte appétence pour les nouvelles technologies ?Vous souhaitez intégrer une société qui a à cœur l'épanouissement professionnel de ses collaborateurs ?Rejoignez Sopra Steria !Informations supplémentairesUn accord télétravail pour télétravailler jusqu’à 2 jours par semaine selon vos missions. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d’intéressement, des primes vacances et cooptation.Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie avec Sopra Steria Academy.La possibilité de s’engager auprès d’une association grâce à notre plateforme d’engagement citoyen.L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore…).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C’est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements \n            ",
-        "dateCreation": "2026-07-08T05:30:57.000Z",
-        "dateActualisation": "2026-07-08T05:30:57.000Z",
-        "lieuTravail": {
-          "libelle": "92 - Nanterre",
-          "latitude": 48.879998,
-          "longitude": 2.207752,
-          "codePostal": "92000",
-          "commune": "92050"
-        },
-        "romeCode": "H1106",
-        "romeLibelle": "Responsable support technique clients",
-        "appellationlibelle": "Manager support technique",
-        "entreprise": {
-          "description": "\n                    Sopra Steria, acteur majeur de la Tech en Europe avec 56000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d’édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d’activité et des te..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "0 An(s)",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4682068",
-          "partenaires": [
-            {
-              "nom": "TALENTS_HANDICAP",
-              "url": "https://www.talents-handicap.com/165-sopra-steria/333752-technical-leader-servicenow-business-line-solutions-expertises-ile-de-france?src=FranceTravail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "210XMLY",
-        "intitule": "Chargé / Chargée de recrutement en implant client (H/F)",
-        "description": "Les missions du poste\n\nStart People recherche son futur talent.\n\nRattaché(e) à la responsable de l'agence et en collaboration avec l'équipe, en tant que Chargé de Recrutement en Implant H/F, vous travaillez directement chez notre client.\n\nVous êtes le garant de la prestation RH auprès de notre client, dans ce cadre, vos missions principales sont :\n\nCollecter et analyser les besoins de recrutement en intérim, CDD et CDI de notre client.\nRechercher les candidats (sourcing sur jobboards et vivier interne), les évaluer (entretien téléphonique, entretien physique, passation de tests, contrôles de références, etc.)\nPrésenter avec réactivité les candidats au client et assurer le suivi des délégations.\nEntretenir des relations commerciales avec le client, le fidéliser, et assurer la satisfaction\nAnticiper les besoins du client et faire des propositions actives de candidats.\nConstituer les dossiers administratifs et mettre à jour notre base de données.\nRédiger les contrats de mission et de mise à disposition.\nGérer les visites médicales, les déclarations d'embauche, les relevés d'heures, etc.\n\nLe profil recherché\n\nNous recherchons un talent doté d'un bon relationnel, et d'une bonne capacité d'adaptation. Vous vous distinguez par votre capacité à prioriser les tâches ainsi qu'à gérer efficacement les imprévus et les urgences. Une fibre commerciale est également requise pour ce poste.\n\n\nIdéalement, vous avez une première expérience dans le domaine ou avez occupé des fonctions similaires dans le domaine des services aux entreprises.\n\nL'entreprise / Pourquoi nous rejoindre ?\n\nAu-delà du projet, nous rejoindre, c'est faire partie d'une aventure humaine au sein d'une entreprise stimulante et en développement. Filiale du groupe international RECRUIT, notre métier est le recrutement, la sélection et la délégation de personnel. Quelques chiffres clé sur Start People :\n\nRéseau de 255 agences de recrutement réparties sur toute la France, qui offre une gamme de prestations de recrutement aux entreprises dans tous les secteurs d'activité.\nNos 1 000 salariés connaissent les bassins d'emplois locaux et garantissent réactivité et efficacité pour répondre aux besoins en recrutement de nos 19 000 clients.\n\nInfos complémentaires / En termes d'avantages, Start People propose :\n\nUn salaire fixe sur 13 mois (avec possibilité de le mensualiser)\nUne prime variable mensuelle\n23 RTT en compensation des 39h / semaine du lundi au vendredi\nUn compte épargne temps avec possibilité de monétiser ces RTT\nUne carte Ticket restaurant 9€ (part employeur 60%)\nUne prime de participation annuelle\n\nDes avantages liés au CSE\nUne mutuelle et prévoyance (50 % pris en charge par l'employeur)\nNous sommes fiers d'être une entreprise inclusive. Cette opportunité s'adresse à tous les talents, quelles que soient leurs singularités.",
-        "dateCreation": "2026-07-08T09:39:49.792Z",
-        "dateActualisation": "2026-07-08T09:39:50.265Z",
-        "lieuTravail": {
-          "libelle": "44 - Ancenis-Saint-Géréon",
-          "latitude": 47.369729,
-          "longitude": -1.19892,
-          "codePostal": "44150",
-          "commune": "44003"
-        },
-        "romeCode": "M1502",
-        "romeLibelle": "Chargé / Chargée de recrutement",
-        "appellationlibelle": "Chargé / Chargée de recrutement",
-        "entreprise": {
-          "nom": "USG PEOPLE FRANCE",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 6 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "100541",
-            "libelle": "Techniques de communication orales, écrites et numériques",
-            "exigence": "S"
-          },
-          {
-            "code": "109565",
-            "libelle": "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
-            "exigence": "S"
-          },
-          {
-            "code": "300004",
-            "libelle": "Recruter et intégrer une personne",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Annuel de 25000.0 Euros à 27000.0 Euros sur 12.0 mois",
-          "commentaire": "13ème mois",
-          "complement1": "Titres restaurant / Prime de panier",
-          "complement2": "CSE",
-          "listeComplements": [
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            },
-            {
-              "code": "9",
-              "libelle": "CSE"
-            },
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "10",
-              "libelle": "Intéressement / participation"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "64.20Z",
-        "secteurActivite": "64",
-        "secteurActiviteLibelle": "Activités des sociétés holding",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Organiser son travail selon les priorités et les objectifs",
-            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-          },
-          {
-            "libelle": "Etre force de proposition",
-            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-          },
-          {
-            "libelle": "Etre ouvert aux changements",
-            "description": "Capacité à s'adapter à des situations variées, à réagir à l'imprévu, gérer l'incertitude pour s'ajuster à des organisations, des collectifs de travail, des habitudes, des valeurs propres à l'entreprise."
-          }
-        ],
-        "trancheEffectifEtab": "3 à 5 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XMLY"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "39H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "4679112",
-        "intitule": "Ingénieur Commercial (h/f)",
-        "description": "RESPONSABILITÉS : \n\nRattaché(e) à la Direction Commerciale et en collaboration avec nos équipes internes (ADV, planification, experts métiers), vous intervenez en toute autonomie sur la région Pays de la Loire en tant que véritable partenaire des dirigeants de PME ETI.\nVos principales responsabilités :\n • Développer et fidéliser un portefeuille clients autour des solutions de gestion (Sage, Pennylane, Silae, Lucca, Microsoft...)\n • Prospecter et conquérir de nouveaux clients sur votre zone géographique (72 49 85 44)\n • Comprendre les besoins clients et proposer des solutions sur mesure à forte valeur ajoutée\n • Piloter le cycle de vente de A à Z : qualification, démonstration, proposition commerciale, négociation, closing\n • Assurer un suivi de qualité pour construire une relation client durable\n • Travailler en synergie avec les équipes sédentaires et techniques\n\nPROFIL RECHERCHÉ : \n\n • Expérience en vente BtoB de solutions de gestion / logiciels\n • Excellent relationnel, sens du service et de la négociation\n • Goût du challenge, culture du résultat et esprit de conquête\n • À l'aise avec un poste terrain (déplacements réguliers sur votre secteur)\n • Autonomie, rigueur et esprit d'équipe\nPourquoi nous rejoindre ?\n • Une entreprise en forte croissance avec des perspectives d'évolution\n • Un travail d'équipe avec des experts reconnus\n • Une ambiance dynamique\nProxiteam c'est :\nUn contexte de forte croissance, où le recrutement joue un rôle central dans la stratégie de l'entreprise.\nDe réelles perspectives d'évolution au sein d'une équipe passionnée par le commerce.\n\nUne rémunération attractive et évolutive (fixe + variable + participation), discutée en toute transparence selon votre profil et aussi :\n • Carte tickets restaurant 9 Euros,\n • CSE (carte cadeaux, plateforme réduction...)\n • RTT\n • Suivi d'intégration des salariés, programme des marraines/parrains, cooptation...\n • Possibilité de passer des certifications professionnelles\n • Afterwork\n • Actions RSE\nLe poste nécessite des déplacements en Île de France.\nRejoindre Proxiteam, c'est contribuer directement à la croissance d'une ESN qui valorise l'esprit d'équipe, l'innovation, la proximité et le sens du service.",
-        "dateCreation": "2026-07-08T04:31:31.000Z",
-        "dateActualisation": "2026-07-08T04:31:31.000Z",
-        "lieuTravail": {
-          "libelle": "44 - Nantes",
-          "latitude": 47.253826,
-          "longitude": -1.530426,
-          "codePostal": "44000",
-          "commune": "44109"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "Proxiteam",
-          "description": "Le Groupe Proxiteam est un acteur majeur du marché des ESN en France. Il accompagne ses clients PME, ETI et Collectivités dans leur transformation numérique\nProxiteam réalise un chiffre d'affaires de 75M€ et compte près de 500 collaborateurs. \nProxiteam aborde un nouveau plan de développement qui doit le porter à doubler son activité à l'horizon 2028-2030, tout en continuant à promouvoir l'humain et le client au cœur de sa stratégie."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 40000.0 Euros à 45000.0 Euros"
-        },
-        "dureeTravailLibelle": "38H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4679112",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/c8vibkmzf78/ingenieur-commercial-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "38H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Nantes",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "210XRZN",
-        "intitule": "Téléconseiller ENERGIE  (H/F)",
-        "description": "Envie de rejoindre une entreprise dynamique, en plein essor et de participer à son développement ? \nRejoignez nos équipes et faites valoir vos talents !\n\nPRISE DE POSTE : 19 Août 2026\n\nPour notre site basé à Metz technopôle nous recrutons plusieurs Conseillers Clients H/F en charge de la relation et de la satisfaction de nos clients dans le domaine de l'énergie :\n\n- Gestion de proposition de services supplémentaires\n- Prise en charge et accompagnement des demandes de réclamation\n- Font office et back office\n\nVotre profil:\n- Bonne gestion de la relation client et bonne élocution\n- Une parfaite maitrise de la langue française à l'oral comme à l'écrit\n- Savoir gérer des appels conflictuels\n- Capacité à convaincre\n- Une bonne connaissance des outils informatiques\n- Une première expérience sur même type de poste est requise\n\nNous vous proposons :\n* Prime sur objectifs\n* Une formation dans nos locaux à nos outils!\n* Mutuelle d'entreprise\n* Prise en charge à hauteur de 50% par l'employeur pour les frais de transport en commun\n* 4 jours de télétravail par semaine dès que vous serez autonome sur le poste\n\nNos locaux sont situés sur le technopole et sont facilement accessibles par les transports en commun\nAmplitude horaire:\nDu lundi au vendredi: 08h00-19h00 (35H hebdo selon planning), pause déjeuner d'une heure. \nTravail 1 samedi sur 2.\n\n",
-        "dateCreation": "2026-07-08T10:59:39.928Z",
-        "dateActualisation": "2026-07-08T10:59:39.928Z",
-        "lieuTravail": {
-          "libelle": "57 - METZ",
-          "latitude": 49.136255,
-          "longitude": 6.168298,
-          "codePostal": "57000",
-          "commune": "57463"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "CONCENTRIX",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 6 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois - Relation clientèle ou administratif ",
-        "experienceCommentaire": "Relation clientèle ou administratif ",
-        "formations": [
-          {
-            "niveauLibelle": "Bac ou équivalent",
-            "exigence": "S"
-          }
-        ],
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          },
-          {
-            "code": "300014",
-            "libelle": "Conseiller, accompagner une personne",
-            "exigence": "S"
-          },
-          {
-            "code": "300379",
-            "libelle": "Développer et fidéliser la relation client",
-            "exigence": "S"
-          },
-          {
-            "libelle": "Maîtrise de l'outil informatique",
-            "exigence": "E"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1867.02 Euros sur 12 mois",
-          "complement1": "Primes",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail METZ SEBASTOPOL",
-          "coordonnees1": "METZ SEBASTOPOL TECHNOPOLE 5 RUE DES DINANDIERS                  ",
-          "coordonnees2": "57000 Metz",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XRZN"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XRZN"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "82.20Z",
-        "secteurActivite": "82",
-        "secteurActiviteLibelle": "Activités de centres d'appels",
-        "trancheEffectifEtab": "200 à 249 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XRZN"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "210XPFX",
-        "intitule": "Coordinateur technique (F/H)",
-        "description": "Missions :\nSous la responsabilité du Chef d'équipe, vous aurez la charge de :\n- Participer au Briefing avec le responsable de production et chef d'équipe,\n- Organiser le placement des opérateurs au sein de votre îlot et restituer les informations en lien avec votre îlot,\n- Assurer les changements de production, suivre l'avancement des Ordres de Fabrication et remonter les éventuels\nblocages à son chef d'équipe,\n- Résoudre les problématiques terrain liées à l'approvisionnement des composants/matières, des non-conformités,\n- Assurer le suivi des changements de série ainsi que le suivi de l'état de chaque machine de votre îlot,\n- Participer aux projets d'amélioration continue,\n- Assister les opérateurs dans l'émission de suggestions d'amélioration,\n- Faire le lien avec les services supports (méthodes, logistique, ordonnancement, commercial, maintenance, QSE, RH).",
-        "dateCreation": "2026-07-08T10:11:57.933Z",
-        "dateActualisation": "2026-07-08T10:11:58.121Z",
-        "lieuTravail": {
-          "libelle": "44 - Châteaubriant",
-          "latitude": 47.72084,
-          "longitude": -1.376134,
-          "codePostal": "44110",
-          "commune": "44036"
-        },
-        "romeCode": "H1106",
-        "romeLibelle": "Responsable support technique clients",
-        "appellationlibelle": "Coordinateur / Coordinatrice support technique",
-        "entreprise": {
-          "nom": "RANDSTAD",
-          "description": "Randstad vous ouvre toutes les portes de l'emploi : intérim, CDD, CDI. Chaque année, 330 000 collaborateurs (f/h) travaillent dans nos 60 000 entreprises clientes. Rejoignez-nous !",
-          "logo": "https://api.francetravail.fr/exp-rechercheoffre/v1/logo-entreprise/0RFJQ50JYto8AG9qqGaVhB92c1w0LZi3",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "formations": [
-          {
-            "codeFormation": "23021",
-            "domaineLibelle": "Plasturgie",
-            "niveauLibelle": "Bac ou équivalent",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Annuel de 26000.0 Euros sur 12.0 mois"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail posté (2x8, 3x8, 5x8, etc.)",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "RANDSTAD - Mme Linda VIAVANT",
-          "coordonnees1": "https://www.randstad.fr/offre/001-VAH-R000658_01R/A?utm_medium=jobboard_organic&utm_source=france-travail&utm_campaign=offres",
-          "urlPostulation": "https://www.randstad.fr/offre/001-VAH-R000658_01R/A?utm_medium=jobboard_organic&utm_source=france-travail&utm_campaign=offres"
-        },
-        "agence": {},
-        "nombrePostes": 1,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "trancheEffectifEtab": "20 à 49 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XPFX"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail posté (2x8, 3x8, 5x8, etc.)"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4678882",
-        "intitule": "Chargé clientèle B2B (H/F)",
-        "description": "RESPONSABILITÉS : \n\nDescriptif du poste En tant que Chargé.e de mission, tu accompagnes un portefeuille de dirigeants de TPE au quotidien.\nTu es bien plus qu'un interlocuteur comptable : tu deviens un véritable partenaire de confiance pour tes clients.\nTon rôle : les aider à piloter leur activité, comprendre leurs enjeux et sécuriser leurs décisions.\n\n\n💼 Tes missions Le conseil et le pilotage\n • Être le copilote : tu accompagnes tes clients au quotidien, tu réponds à leurs questions et tu te positionnes en facilitateur orienté solutions,\n • Faire parler les chiffres : tu présentes les bilans et expliques les résultats financiers avec pédagogie pour aider les dirigeants à comprendre leur business,\n • Éclairer les décisions : tu identifies les opportunités et les points de vigilance pour aider tes interlocuteurs à piloter sereinement.\nLa gestion et la conformité\n • Piloter ton portefeuille : tu gères tes clients de manière autonome et assures le suivi de leur comptabilité.\n • Optimiser les process : tu supervises les obligations fiscales en t'appuyant sur nos outils digitaux de pointe pour gagner en efficacité.\nLe développement business et la fidélisation\n • Détecter les opportunités commerciales : à l'écoute des enjeux de tes clients, tu identifies leurs besoins complémentaires et leur proposes nos solutions adaptées (conseil, paie, juridique, outils).\n • Fidéliser et valoriser : tu construis une relation de confiance durable pour sécuriser tes clients et maximiser la valeur de ton portefeuille.\n • Partager tes réussites : tu diffuses tes bonnes pratiques et tes succès commerciaux pour contribuer à la dynamique de l'équipe.\n\nPROFIL RECHERCHÉ : \n\n • Tu es diplômé d'une formation Bac+2 à Bac+5 en gestion, commerce ou compta/finance,\n • Tu disposes d'une première expérience en relation client ou gestion de comptes clients B2B,\n • Tu as idéalement une première approche des sujets liés à la comptabilité ou l'administration des entreprises,\n • Tu as une réelle appétence pour le contact client et tu aimes apporter des solutions,\n • Tu es quelqu'un d'empathique, as un bon sens de l'écoute et tu es pédagogue,\n • Organisé.e, rigoureux.se, tu est capable de gérer plusieurs sujets en parallèle,\n • Tu sais travailler de manière autonome tout en appréciant le travail en équipe,\n • Tu es à l'aise avec les outils digitaux et les environnements de travail modernes,\n • Une connaissance d'outils comptables ou de reporting est un plus.",
-        "dateCreation": "2026-07-08T04:31:29.000Z",
-        "dateActualisation": "2026-07-08T04:31:29.000Z",
-        "lieuTravail": {
-          "libelle": "44 - Nantes",
-          "latitude": 47.253826,
-          "longitude": -1.530426,
-          "codePostal": "44000",
-          "commune": "44109"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
-        "entreprise": {
-          "nom": "Mercato de l'emploi",
-          "description": "Rejoignez une entreprise nantaise en pleine croissance, spécialisée dans la comptabilité, qui place l'innovation et l'accompagnement au cœur de ses valeurs. Cette société dynamique valorise l'esprit d'équipe à travers des parcours d'intégration complets, des teambuilding réguliers et offre des avantages attractifs tels qu'une carte Swile."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 27000.0 Euros à 32000.0 Euros"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4678882",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/mhjzgw059x8/charge-clientele-b2b-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4673780",
-        "intitule": "Conseiller Clientèle F/H - Nantes - CDI h/f",
-        "description": "Description de l'entreprise? Donnez du sens à votre travail et rejoignez la banque des transitions sociale et environnementale. Le Crédit Coopératif est une banque singulière, à taille humaine au sein du groupe BPCE et récemment certifié Great Place To Work dès sa première participation ! ✨ Notre culture d'entreprise se caractérise par la convivialité, le sentiment de fierté et le respect ressenti de la part de notre encadrement. Si vous recherchez une entreprise humaine, où il fait bon travailler et où vos contributions sont valorisées, votre place est parmi nous. Avec ses 2000 collaborateur·rice·s, le Crédit Coopératif et ses filiales, BTP Banque et Ecofi, prônent depuis plus de 130 ans un modèle d’économie sociale et solidaire durable pour ses clients comme pour ses talents. Nous restons fidèles à nos convictions, à nos engagements et au bien-être de nos collaborateur·rice·s pour vous permettre de construire le parcours qui vous ressemble. Et vivre votre métier autrement ! #UnAutreJobEstPossible ; #AvecVousCestPossiblePoste et missionsVotre rôle au sein du centre d'affaires de ? Nantes ? Vous allez renseigner, orienter et vendre des produits et services adaptés aux besoins de la clientèle d'une part. Vous allez traiter des opérations administratives et/ou de guichet des clients dans le respect des procédures en vigueur et des délais définis d'autre part. ? Vous intervenez notamment sur les missions suivantes : Accueillir, informer et renseigner les clients et prospects au guichet et/ou au téléphone ; Réaliser les opérations bancaires : délivrer les moyens de paiement, réaliser des retraits, enregistrer les oppositions sur carte,… Conseiller, proposer et vendre des produits aux clients personnes physiques et identifier des opportunités commerciales ; Traiter les opérations administratives dans le respect de la conformité et des contrôles nécessaires : ouvertures de comptes, produits d’épargne, virements, ordres de placements,… ; Constituer, mettre à jour et assurer la complétude des dossiers clients personnes physiques principalement ; Participer aux différentes activités d’un centre d’affaires. Profil et compétences requisesEt vous ? De formation Bac+2 minimum (type BTS Banque, BTS NRC, BTS MUC..) - Vous justifiez d’une première expérience bancaire, idéalement dans le réseau commercial - Ou vous justifiez d'une première expérience commerciale et souhaitez rejoindre l'univers bancaire. Sensible aux valeurs de l’économie sociale et solidaire, guidé.e par votre sens du service et votre aisance relationnelle, vous savez évoluer en contexte multi-tâches. Animé.e par l'esprit d'équipe, vous aimez contribuer à l'atteinte d'objectifs collectifs. Vous voulez en savoir plus sur le poste ? ? Nos avantages : 32 jours de congés + 12 jours de RTT 100% du coût de la mutuelle d'entreprise pris en charge au titre de la formule de base Avantages collaborateurs Crédit Coopératif : taux et tarifs préférentiels Tickets restaurants Services et avantages proposés par notre CSE (billetterie, voyages…) Accompagnement Ma Bonne Fée (famille, santé, vie professionnelle) Dispositifs d'engagement solidaire Informations complémentaires sur le poste ? Contrat : CDI ? Localisation : Nantes ⌚️ Temps de travail : 37h45, du lundi au vendredi Informations complémentaires sur le posteChez nous, l'égalité professionnelle, la diversité et l'inclusion sont des piliers forts de notre plan stratégique. Nous offrons les mêmes opportunités aux talents de tous horizons qui nous rejoignent, indépendamment de l'âge, l'origine, l'orientation sexuelle, ou encore le handicap... Forts d'un index égalité femmes-hommes de 99 points en 2025 et d'un taux d'emploi handicap de près de 8%, nous déployons des parcours pour les femmes, soutenons la parentalité et nous engageons pour une meilleure inclusion de la maladie en entreprise.",
-        "dateCreation": "2026-07-07T22:26:35.000Z",
-        "dateActualisation": "2026-07-07T22:26:35.000Z",
-        "lieuTravail": {
-          "libelle": "44 - Nantes",
-          "latitude": 47.253826,
-          "longitude": -1.530426,
-          "codePostal": "44000",
-          "commune": "44109"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée de clientèle de banque",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673780",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CCOOP07145#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4673782",
-        "intitule": "Conseiller Clientèle Particuliers F/H - CDI - Lille h/f",
-        "description": "Description de l'entreprise? Donnez du sens à votre travail et rejoignez la banque des transitions sociale et environnementale, une banque différente, à taille humaine au sein du groupe BPCE. Avec ses 2000 collaborateur·rices , le Crédit Coopératif prône depuis 130 ans un modèle d’économie sociale et solidaire durable pour ses clients comme pour ses talents. Nous restons fidèles à nos convictions, à nos engagements et au bien-être de nos collaborateurs pour vous permettre de construire le parcours qui vous ressemble. Et vivre votre métier autrement !Poste et missionsVotre rôle au sein du centre d'affaires de ? Lille ? Vous gérez et développez un portefeuille de clients Particuliers et contribuez à la réussite de la mise en œuvre de la politique commerciale du Groupe. ? Vous avez notamment en charge les missions suivantes : ▶️Établir un plan de prospection adapté pour conquérir de nouveaux clients en s’appuyant sur ses réseaux et les partenaires du Crédit Coopératif ; ▶️Conseiller les clients et prospects en proposant des produits et services adaptés à leurs besoins ; ▶️Analyser le portefeuille pour identifier des opportunités commerciales et les exploiter ; ▶️Étudier et monter les dossiers de prêts aux particuliers sous l’angle du risque et de la rentabilité ; ▶️Assurer la gestion et le suivi de la relation clientèle (ouverture de compte, mise à jour des dossiers clients, suivi SAV…). Profil et compétences requises? Et vous ? Vous avez une formation Bac+2/3 Banque, Gestion, Finance et êtes sensible aux valeurs de l’économie sociale et solidaire. Nous sommes surement faits pour nous entendre ! Votre expérience de 3/5 ans dans l’accompagnement d’une clientèle de personnes physiques vous a offert l’opportunité de prouver vos capacités commerciales, votre esprit d’analyse et votre sens du service client. Votre curiosité, votre écoute, votre esprit collaboratif contribueront à votre réussite ! Un petit plus ? N’hésitez pas à valoriser votre expérience humaine, qui peut faire la différence. Venez-nous en parler, nous avons hâte de vous rencontrer ! Vous voulez en savoir plus sur le poste ? ? Contrat : CDI ? Date de prise de fonction : Dès que possible. ? Localisation : Lille, centre d’affaires ouvert du lundi au vendredi. ? Nos avantages : 32 jours de congés + 12 jours de RTT 100% du coût de la mutuelle d’entreprise pris en charge au titre de la formule de base Avantages collaborateurs Crédit Coopératif : taux et tarifs préférentiels Tickets restaurants Accord de télétravail Services et avantages proposés par notre CSE (billetterie, voyages,... ) Accompagnement Ma Bonne Fée (famille, santé, vie professionnelle) Dispositifs d'engagement solidaire Informations complémentaires sur le poste? Être une banque responsable, c’est limiter notre impact carbone : nous émettons quatre fois moins de C02 que la moyenne des banques françaises ?? En tant qu’employeur responsable et engagé à construire un environnement de travail inclusif, nous offrons les mêmes opportunités aux talents de tous horizons, indépendamment de votre âge, origine, orientation sexuelle, handicap... Pour preuve, notre entreprise, labélisée AFNOR Egalité Professionnelle, cherche en permanence à valoriser les candidatures féminines sur des postes fortement masculins et à contrario à promouvoir les candidats masculins sur des fonctions plus féminines. Enfin, notre entreprise est signataire de la charte \"15 engagements pour l’équilibre des temps de vie\" et a le label Cancer@work pour une meilleure inclusion de la maladie en entreprise.",
-        "dateCreation": "2026-07-07T22:26:35.000Z",
-        "dateActualisation": "2026-07-07T22:26:35.000Z",
-        "lieuTravail": {
-          "libelle": "59 - Lille",
-          "latitude": 50.644293,
-          "longitude": 3.060016,
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673782",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CCOOP07044#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "4673772",
-        "intitule": "Gestionnaire de Clientèle (H/F) h/f",
-        "description": "Description de l'entrepriseDepuis 1818, la Caisse d’Epargne est pionnière dans les transitions de la société. Vous souhaitez contribuer à son développement ? Et si c’était vous le prochain acteur de son ambition ? Appartenant au groupe BPCE, nous sommes le 2ème groupe bancaire français. Cela nous permet de créer des emplois durables et de vous offrir des opportunités de carrière qui répondront à vos projets !   Avec nos 2500 collaborateurs, aujourd’hui, la Caisse d’Epargne Aquitaine Poitou Charentes est une banque régionale, coopérative, solide, puissante, qui couvre 9 départements. #proximité Indépendante des marchés financiers, la Caisse d’Epargne Aquitaine Poitou Charentes appartient à plus de 295 000 clients sociétaires en région. #sociétariat Trouver le juste équilibre entre performance économique et engagement sociétal : c’est là tout l’enjeu de notre démarche de responsabilité sociétale et environnementale. #rse. Pour cela, nous sommes présents sur le marché des particuliers (344 agences), des professionnels (14 agences), des entreprises (11 centres d’affaires), des investisseurs mais aussi des collectivités locales. #coopératif. Fidèles à nos valeurs coopératives, nous sommes engagés dans une politique de ressources humaines responsable et volontariste. #inclusif. C’est pour tout cela que nous souhaitons « Être utile à chacun, en étant utile à tous » ! Poste et missionsEt si on parlait de votre futur quotidien ? Notre agence de La Réole recherche sa future pépite pour le poste de Gestionnaire de clientèle en CDI. Vous intégrerez une équipe de collaborateurs, tous animés par la même motivation : être au service de nos clients. Et vous alors ? Quel est votre rôle dans cette agence ? : Accueillir, conseiller et orienter les clients de l’agence. Réaliser des rebonds commerciaux sur les demandes clients. Développer et maintenir la relation client à l’aide de l’ensemble des canaux mis à votre disposition (Face à face, Visio, Téléphone, Mail). Sans oublier l’essentiel ! Gérer VOTRE PORTEFEUILLE de clients particuliers (550 à 700 relations) : accompagner les clients de manière proactive dans leur projet en leur proposant des solutions adaptées aux 4 univers de besoins (épargne, crédit, bancarisation et assurance). Un dernier coup de pouce pour vous convaincre ? Dès votre embauche, vous intégrerez un parcours de formation initiale de 5 semaines. Tout au long de votre carrière, vous bénéficierez d’un accompagnement RH personnalisé et l’accès aux dispositifs de formation continue. Au-delà de ça … Votre contrat de travail prévoit de multiples avantages tels que : Une rémunération fixe, une part variable, un intéressement (PEE) Non pas 25 jours mais 28 jours de congés payés et 11 jours de RTT Car chez nous l’équilibre vie personnelle et vie professionnelle est important, vous travaillerez 4,5 jours / semaine (mardi au samedi midi). Mutuelle d’entreprise avec participation employeur à hauteur de 52 %. Attendez … nous vous proposons également d’autres avantages sociaux : Tickets restaurants 12,20 € (7.32 € de prise en charge par l’entreprise) Avantages CSE (CESU, chèques vacances, …) Tarifs préférentiels sur nos produits et services Une participation aux frais de transports en commun à hauteur de 60% Un forfait \"mobilités durables\" pour les trajets domicile-travail (vélo et covoiturage) Et bien d’autres éléments à vous faire découvrir ! Profil et compétences requisesConvaincu(e) ? A votre tour de nous convaincre ! Vous êtes titulaire d’un Bac +2 validé. Vous bénéficiez d’une 1ère expérience réussie dans la vente et dans la relation client. Vous portez un intérêt significatif pour le secteur bancaire et vous êtes sensible à nos valeurs. Bravo, vous avez passé le 1er cap. Un cursus, c’est bien ! Mais nous aimons aussi chez vous les valeurs et les traits de votre personnalité ! Les véritables atouts pour mener à bien votre future mission : Votre dynamisme, votre proactivité. Votre autonomie, votre aisance à travailler en équipe. Votre ténacité et votre fibre commerciale ! Tous nos emplois sont ouverts aux personnes en situation de handicap. “ Alors prêt(e) à relever le défi ? Postulez et rejoignez-nous !”. Venez à notre rencontre afin d'échanger avec le département recrutement et votre futur manager. Notre valeur ajoutée, votre personnalité !",
-        "dateCreation": "2026-07-07T22:26:34.000Z",
-        "dateActualisation": "2026-07-07T22:26:34.000Z",
-        "lieuTravail": {
-          "libelle": "33 - Réole",
-          "latitude": 44.545653,
-          "longitude": -0.041814,
-          "codePostal": "33190",
-          "commune": "33352"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Gestionnaire de clientèle bancaire",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673772",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CEAPC05753#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4673767",
-        "intitule": "CHARGE DE CLIENTELE ASSURANCES H/F h/f",
-        "description": "Afin d’accompagner notre développement, nous recherchons un Chargé de Clientèle en Assurance (F/H) en CDI.\n\nSi vous avez au moins 3 ans d'expérience dans la vente de produits d’assurances professionnels et que vous souhaitez intégrer un groupe à taille humaine (1700 collaborateurs), dédié aux professionnels de santé, cette offre est faite pour vous.\n\nEn tant que commercial itinérant, vous jouez un rôle clé en conseillant nos sociétaires pour les protéger au mieux avec une large gamme de produits.\n\nVos missions :\n\n- Gérer et développer un portefeuille de 1200 sociétaires, avec le soutien d'un manager et des équipes agence.\n\n- Organiser votre emploi du temps, générer votre activité en appelant les clients – sociétaires, réaliser des rendez-vous sur le terrain (12 à 15 RV par semaine)\n\n- Intervenir sur des sujets professionnels et privés : RCP, Prévoyance, Epargne, Retraite, Multirisques pros, IARD, etc.\n\nVotre secteur d’activité ?\n\nVous serez basé sur l'agence de Toulouse mais vous serez amené à vous déplacer tout autour de l'agence, sur le département 31.\n\nCe que vous allez aimer à la MACSF :\n\n- Variable moyen de 4k€ brut par an, pouvant être dépassé.\n\n- Primes de participation et d’intéressement (environ 3 mois de salaire chaque année).\n\n- PEG et PERCOL abondés.\n\n- Voiture de fonction selon le secteur\n\n- Des outils pour vous faciliter la vie : ordinateur avec signature électronique, téléphone portable…\n\n- Horaires du lundi au vendredi.\n\n- Package attractif : titres-resto à 10 euros, avantages sociaux CSE, couverture santé complète.\n\n- Possibilité de convertir vos jours de congés en salaire ou de les épargner sur votre CET\n\n- Challenges pour remporter des voyages en Europe.\n\nVotre accompagnement\n\nNous vous proposons un parcours de formation de 8 semaines pour maîtriser les codes du monde de la santé, nos produits, outils et démarches commerciales.\n- Expérience commerciale réussie de 3 ans dans la vente de produits d'assurances professionnels dans le secteur banque-assurance.\n\n- Disponible, réactif, à l'écoute, vous savez anticiper les besoins et proposez des solutions claires et pertinentes.\n\nRejoignez-nous pour une carrière enrichissante et épanouissante !",
-        "dateCreation": "2026-07-07T22:26:34.000Z",
-        "dateActualisation": "2026-07-07T22:26:34.000Z",
-        "lieuTravail": {
-          "libelle": "31 - Haute-Garonne"
-        },
-        "romeCode": "C1116",
-        "romeLibelle": "Chargé / Chargée de clientèle centre d'appels en assurances",
-        "appellationlibelle": "Chargé / Chargée de clientèle en assurances",
-        "entreprise": {
-          "description": "Premier assureur des professionnels de santé, le groupe MACSF innove depuis toujours grâce à l'implication et l'expertise de ses collaborateurs.\n\nLeader sur son marché avec la confiance de plus d'un million de sociétaires, notre groupe est resté fidèle à ses valeurs mutualistes qui font sa force et sa différence. Sans actionnaires ni capital à rémunérer, la MACSF est indépendante et protège ses sociétaires sur le long terme.\n\nPourquoi nous rejoindre ?\n\n- Pour notre raison d'être : \"Aux côtés ..."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673767",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/macsf-2026-3441#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Toulouse",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4673748",
-        "intitule": "Chargé de Clientèle particuliers F/H h/f",
-        "description": "Qui sommes nous ?Notre mission est claire : vous être utile ?️!\n\nChaque jour, à travers nos actions, nos services et nos engagements, nous accompagnons nos clients dans leurs projets de vie. En rejoignant la Caisse d’Epargne Bretagne Pays de Loire, vous intégrez une banque de proximité au service du développement de nos deux belles régions. Ici, nous soutenons des projets locaux porteurs de sens.\nVous rejoignez une équipe qui valorise les valeurs mutualistes, sociétales et environnementales, et vous devenez un acteur du progrès économique et social de votre territoire. En nous rejoignant, vous bénéficiez de : Un esprit d’équipe au quotidien : 90% de nos collaborateurs affirment pouvoir compter sur leurs collègues. Convivialité, solidarité et entraide sont au cœur de nos valeurs ! Un terrain de jeu pour votre carrière : évoluez dans LA Banque de tous les possibles. Grâce à des formations continues et de nombreuses opportunités d’évolution au sein de notre réseau régional et du Groupe BPCE, vous ne serez jamais à court de défis. Un engagement concret et porteur de sens : Contribuez à des projets innovants et locaux ayant un impact positif sur l’environnement, la société et la gouvernance. Vous aussi, laissez votre empreinte ! Que proposons nous ?Nous recherchons pour notre agence des Hauts d'Anjou, un.e chargé.e de clientèle pour les particuliers. Sous la responsabilité de votre Directeur.ice d'agence, et en collaboration avec l'équipe, vos missions seront : Développer commercialement votre portefeuille : Vous gérez un portefeuille de clients particuliers. Vous identifiez des opportunités de développement de votre portefeuille, renforcez les relations existantes, et garantissez une expérience client optimale. Vous jouez collectif, chaque passe décisive contribue à la satisfaction de nos clients !\n? Notre objectif : la préférence client ! Accompagner et suivre votre clientèle : Chez nous, le collectif prime, mais c’est la singularité et l’authenticité de chacun qui font la différence. En établissant des échanges réguliers et individualisés, vous devenez l’interlocuteur privilégié de vos clients. Votre personnalité, votre sens de l’écoute et votre compréhension des besoins vous permettent d’instaurer une relation de confiance avec vos clients.\n? Notre objectif : bâtir une relation de proximité durable. Apporter un conseil personnalisé : Vous diagnostiquez les besoins de vos clients et leur apportez des solutions sur mesure. A l’image d’un coach et grâce à votre proactivité/anticipation, vous les guidez avec expertise dans leurs projets de vie.\n? Notre rôle : apporter notre expertise. Maîtriser le risque et la conformité : Vous êtes le garant du respect des règles de confidentialité et de gestion des risques. Votre vigilance assure la protection des opérations, respectant ainsi le cadre et les règle du jeu.\n? Notre engagement : la gestion des risquesQue recherchons nous ?Ce que nous attendons de vous ? Avoir le goût du contact : comme un capitaine d’équipe, vous êtes capable de créer des liens forts avec vos clients. Votre enthousiasme et votre chaleur ajoutée sont des atouts précieux. Être un négociateur dans l’âme : Vous transformez les opportunités en résultats et relevez le challenge commercial. Savoir anticiper : tel un défenseur avisé, vous avez la capacité à anticiper les besoins de vos clients. Vous ne vous contentez d’attendre et de répondre à leurs attentes, vous prenez les devants pour leur offrir des solutions adaptées. Vous avez une expérience en banque ? C'est un plus ! Mais si ce n'est pas le cas, ne vous inquiétez pas, nous vous proposerons un parcours de formation dès le 1er jour de votre intégration ! Ce que nous avons à vous offrir ? :\n\nEn rejoignant la Caisse d'Epargne Bretagne Pays de Loire, vous bénéficierez de : 6 semaines de congés payés par an et environ 10 RTT. Une mutuelle complète pour vous et votre famille. Tickets restaurants à hauteur de 10€ par jour travaillé (prise en charge à 60% par l'entreprise). Accès aux avantages du Comité d'Entreprise. Agence bancaire du personnel avec avantages tarifaires. Ce que vous devez savoir avant de postuler ?: La rémunération est composée d'un fixe sur 13 mois, à partir de 28 000 € annuel, d'une prime de performance, et d'une prime d'intéressement. Le contrat est à durée indéterminée. Vous travaillez du mardi au samedi midi de 8h40 à 18h00 (12h50 le samedi) La période d'essai est de 3 mois, renouvelable une fois. Le poste n'est pas ouvert au télétravail. Toutes les candidatures sont étudiées. Les CV sont présélectionnés par Léa puis analysés selon les critères définis, avec le manager. Le process de recrutement comprend deux entretiens distincts : RH et manager. La décision est ensuite prise de façon collégiale et communiquée. Nous soutenons l’égalité entre les hommes et les femmes, et favorisons l’insertion professionnelle, l’accès et le maintien dans l’emploi des personnes en situation de handicap. Pour en savoir plus, retrouvez toutes nos in...",
-        "dateCreation": "2026-07-07T22:26:34.000Z",
-        "dateActualisation": "2026-07-07T22:26:34.000Z",
-        "lieuTravail": {
-          "libelle": "49 - Hauts-d'Anjou",
-          "latitude": 47.728912,
-          "longitude": -0.518371,
-          "codePostal": "49330",
-          "commune": "49080"
-        },
-        "romeCode": "C1217",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale de banque",
-        "appellationlibelle": "Chargé / Chargée de clientèle particuliers de banque",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673748",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CEBPL10361#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "4673769",
-        "intitule": "Conseiller Clientèle (F/H) h/f",
-        "description": "Description de l'entrepriseBanque régionale et coopérative, la Caisse d’Epargne Rhône Alpes est un acteur économique incontournable de la région. Elle accompagne l’ensemble de ses clients et contribue au développement durable de son territoire. Son engagement social et solidaire se traduit concrètement à travers des actions fortes en faveur de l’égalité des chances, de l’inclusion et de la diversité. Dans une démarche d’amélioration continue de l’expérience collaborateur, la Caisse d’Epargne Rhône Alpes obtient, dès sa première participation, la certification Great Place To Work®, référence mondiale en matière de qualité de vie au travail. Cette distinction vient reconnaître l’engagement collectif des équipes ainsi que les actions menées pour favoriser un environnement de travail positif, au service de la performance.Poste et missionsLes missions proposées Un achat immobilier ? Un mariage ? Un imprévu ? Une succession ? Autant de projets qui font la richesse et la diversité du métier de conseiller. Au sein de l’agence de Chambéry Colonne et en collaboration avec l’ensemble de l’équipe, vos principales missions seront de : - Développer un portefeuille de clients dédiés en assurant leur satisfaction,\n- Comprendre les besoins du client et lui apporter des conseils adaptés,\n- Commercialiser nos produits et services,\n- Garantir la qualité des dossiers et assurer la maîtrise des risques,\n- Contribuer aux objectifs commerciaux tout en veillant à la satisfaction client. Nous recherchons celle ou celui qui deviendra l’interlocuteur privilégié de nos clients en les accompagnant dans leurs projets financiers tout au long de leur vieProfil et compétences requisesCe que nous recherchons ? Un savoir-être avant un savoir-faire ! Ce qui nous intéresse ? Votre appétence pour la relation client, votre tempérament commercial (goût du challenge), votre faculté à travailler en équipe, votre curiosité... De formation BAC+2/3 minimum (diplôme obtenu ou niveau), vous disposez d'une expérience commerciale idéalement acquise dans le développement de portefeuille client. Pas d'expérience bancaire ? Nous saurons vous accompagner à travers un parcours d'intégration et de formation, adapté à chacun, qui peut s'étendre sur 3 mois !. Alors n'hésitez plus, rejoignez-nous et construisez votre avenir avec nous !Informations complémentaires sur le postePoste à pourvoir en CDI Salaire fixe proposé entre 32.500 et 35.500 € annuel brut (en fonction de l’expérience bancaire), plus éléments variables et avantages dont :\n- Rémunération variable\n- Intéressement\n- Avantages tarifaires sur offres bancaires & assurances\n- Semaine de 4,5 jours de travail\n- Possibilité de télétravail La Caisse d’Epargne Rhône Alpes s’engage en faveur de l’accueil et de l’intégration des personnes en situation de handicap.",
-        "dateCreation": "2026-07-07T22:26:34.000Z",
-        "dateActualisation": "2026-07-07T22:26:34.000Z",
-        "lieuTravail": {
-          "libelle": "73 - Chambéry",
-          "latitude": 45.56609,
-          "longitude": 5.916585,
-          "codePostal": "73000",
-          "commune": "73065"
-        },
-        "romeCode": "C1201",
-        "romeLibelle": "Chargé / Chargée d'accueil et de services clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée d'accueil et de services clientèle bancaire",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4673769",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CERA05571#utm_source=PoleEmploi",
               "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
             }
           ]
