@@ -1,5 +1,1744 @@
 [
   {
+    "date": "2026-07-23",
+    "count": 29,
+    "offres": [
+      {
+        "id": "211MYKH",
+        "intitule": "commercial terrain (H/F)",
+        "description": "mission\nRattachée au Manager Commercial et intégré à une équipe de 6 personnes, vous bénéficiez d'une période d'intégration complète afin de vous familiariser avec nos produits, nos outils et notre organisation.\nUne fois opérationnel, vous prenez en main un portefeuille de clients professionnels sur le secteur de Lille.\n\nVéritable acteur de terrain, vous pilotez l'ensemble du cycle commercial et contribuez activement au développement du chiffre d'affaires :\n\nVous gérez un portefeuille varié de clients professionnels, issus de secteurs d'activité et d'entreprises de toutes tailles. \nVous développez votre portefeuille par une prospection active et ciblée, en identifiant de nouvelles opportunités business. \nVous analysez les besoins de vos clients et proposez des solutions de communication adaptées (print, digital, OPS et réseaux sociaux). \nVous réalisez vos négociations commerciales et assurez la conclusion des ventes jusqu'à la signature du bon de commande. \nVous accompagnez vos clients tout au long de la prestation, en garantissant leur satisfaction et la qualité du suivi. \nVous conseillez vos interlocuteurs en véritable expert de la communication locale, en leur proposant des solutions innovantes et performantes. \nVous suivez vos indicateurs et contribuez activement à l'atteinte des objectifs commerciaux de l'entreprise. \nVous restez en veille permanente sur les nouveautés et tendances du marché, afin d'enrichir vos pratiques et d'apporter toujours plus de valeur à vos clients. \nLe profil recherché\nVous bénéficiez déjà d'une première expérience dans la vente de services auprès d'une clientèle de professionnels. Commercial dans l'âme, vous êtes stimulé par le challenge.\n\nVous aimez autant \"chasser\" que \"fidéliser\" vos prospects et les argumentaires commerciaux n'ont (quasiment) plus de secret pour vous. Vous êtes curieux, capable de détecter et d'analyser rapidement les problématiques de vos clients. Les valeurs de proximité et de confiance vous parlent et vous avez à cœur de les retrouver dans votre métier. Orienté business, vous êtes doté d'un excellent relationnel vous permettant d'entretenir et de développer avec aisance votre réseau professionnel. Le profil recherché\nVous bénéficiez déjà d'une première expérience dans la vente de services auprès d'une clientèle de professionnels. Commercial dans l'âme, vous êtes stimulé par le challenge.\n\nVous aimez autant \"chasser\" que \"fidéliser\" vos prospects et les argumentaires commerciaux n'ont (quasiment) plus de secret pour vous. Vous êtes curieux, capable de détecter et d'analyser rapidement les problématiques de vos clients. Les valeurs de proximité et de confiance vous parlent et vous avez à cœur de les retrouver dans votre métier. Orienté business, vous êtes doté d'un excellent relationnel vous permettant d'entretenir et de développer avec aisance votre réseau professionnel. \n\nVous êtes à l'aise sur les outils informatiques (suite Office, CRM) et avez une forte appétence pour le digital et les nouvelles technologies. \n",
+        "dateCreation": "2026-07-22T13:02:41.248Z",
+        "dateActualisation": "2026-07-22T13:02:41.248Z",
+        "lieuTravail": {
+          "libelle": "59 - LILLE",
+          "latitude": 50.612754,
+          "longitude": 3.047638,
+          "codePostal": "59000",
+          "commune": "59350"
+        },
+        "romeCode": "D1416",
+        "romeLibelle": "Commercial / Commerciale auprès d'une clientèle d'entreprises",
+        "appellationlibelle": "Attaché(e) commercial(e) services auprès des entreprises",
+        "entreprise": {
+          "nom": "LA VOIX DU NORD",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "102318",
+            "libelle": "Etablir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)",
+            "exigence": "S"
+          },
+          {
+            "code": "300377",
+            "libelle": "Elaborer, adapter une proposition commerciale",
+            "exigence": "S"
+          },
+          {
+            "code": "300384",
+            "libelle": "Elaborer une stratégie commerciale",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "commentaire": "grille indiciaire:\nAvantages : Voiture de fonction, titres restaurant, RTT, télétravail, CSE, primes... \n\n"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail LILLE PORT FLUVIAL",
+          "coordonnees1": "43 BOULEVARD DE LA MOSELLE            ",
+          "coordonnees2": "59000 Lille",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211MYKH"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211MYKH"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "73.11Z",
+        "secteurActivite": "73",
+        "secteurActiviteLibelle": "Activités des agences de publicité",
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211MYKH"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "211NYRM",
+        "intitule": "Responsable du développement et des relations entreprises (H/F)",
+        "description": "Le CREPI Ile-de-France recrute actuellement 1 Responsable du développement et des relations entreprises F/H en CDI\nPour ce poste, vous contribuez au développement et à l'animation du réseau d'entreprises autour des actions menées par le CREPI Ile-de-France, en associant une approche stratégique de la prospection (adhésions, partenariats, mécénat.) à une capacité à concevoir et animer des formats innovants de mobilisation (rencontres, ateliers, événements collectifs).\nLe poste s'adresse à un(e) professionnel(le) capable de créer des liens durables avec les entreprises, de comprendre leurs enjeux, de valoriser leur engagement, et de leur proposer des formes de coopération utiles, concrètes et inspirantes.\nEn rejoignant le CREPI Ile-de-France, vous mettez vos compétences au service d'un projet à fort impact social, où l'innovation, la qualité des relations humaines et la dynamique collective sont au cœur de notre action.\n\nVos missions :\nSous la responsabilité de La Directrice du CREPI Ile-de-France, le(la) responsable du développement et des relations entreprises aura pour missions :\n1. Développement et fidélisation du réseau d'entreprises\n- Identifier, prospecter et mobiliser de nouvelles entreprises (TPE, PME, grands groupes) pour rejoindre le projet du CREPI Ile-de-France.\n- Présenter et formaliser les offres d'adhésion et de partenariat, en lien avec la directrice et l'assistant administratif (contrats, relances, facturation).\n- Assurer le suivi individualisé des entreprises partenaires et entretenir une relation de proximité fondée sur la confiance, l'écoute et l'engagement.\n\n2. Conception et animation de rencontres entreprises-personnes en recherche d'emploi\n- Concevoir, organiser et animer des actions originales favorisant la mise en relation directe et authentique entre entreprises et candidats (Cafés Papote, Missions Défis, visites croisées, ateliers.).\n- Expérimenter de nouveaux formats, capitaliser sur les retours et ajuster les dispositifs dans une logique d'amélioration continue et d'impact mesurable.\n\n3. Valorisation et représentation du projet\n- Déployer une stratégie de communication BtoB : rédaction de contenus (newsletters, portraits, témoignages), création de supports (plaquettes, bilans, propositions.).\n- Représenter le CREPI Ile-de-France lors d'événements économiques ou institutionnels (forums, rencontres RH, webinaires.) en incarnant avec conviction nos valeurs et notre approche.\n- Imaginer des formats d'animation innovants et engageants pour les entreprises : temps forts inattendus, collaborations croisées, mécénat de compétences, événements expérientiels. pour entretenir une dynamique active et de fidélisation.\n\n4. Suivi des résultats et pilotage opérationnel\n- Suivre les indicateurs de développement et d'impact : nombre d'adhésions, renouvellements, participations, retombées emploi (PMSMP, embauches, formations.).\n- Mettre à jour les outils de suivi et reporting (CRM, tableaux de bord) et contribuer à la production des bilans qualitatifs et quantitatifs.\n\n\nProfil recherché :\n- Expérience en développement commercial et en animation de réseau\n- Aisance relationnelle, sens de l'écoute, goût du terrain\n- Esprit d'initiative, autonomie, rigueur\n- Capacité à adapter son discours à des interlocuteurs très variés (DRH, dirigeants, TPE, grandes entreprises.)\n- Appétence pour les enjeux d'emploi, d'insertion et/ou de responsabilité sociétale\n- Vous savez vendre avec conviction et élégance.\n- Vous aimez les gens, autant que les résultats.\n- Vous êtes à l'aise avec des TPE comme avec des grands groupes.\n- Vous parlez \"business\" et \"impact\" avec la même fluidité.",
+        "dateCreation": "2026-07-23T10:00:05.353Z",
+        "dateActualisation": "2026-07-23T10:18:32.650Z",
+        "lieuTravail": {
+          "libelle": "75 - PARIS 17",
+          "latitude": 48.884682,
+          "longitude": 2.322169,
+          "codePostal": "75017",
+          "commune": "75117"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable développement / Business Developer",
+        "entreprise": {
+          "nom": "CREPI ILE DE FRANCE",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "formations": [
+          {
+            "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
+            "exigence": "E"
+          }
+        ],
+        "permis": [
+          {
+            "libelle": "B - Véhicule léger",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "115028",
+            "libelle": "Données d'activité de la structure, du service",
+            "exigence": "S"
+          },
+          {
+            "code": "300067",
+            "libelle": "Analyser, exploiter, structurer des données",
+            "exigence": "S"
+          },
+          {
+            "code": "121364",
+            "libelle": "Déterminer le potentiel d'un client ou prospect",
+            "exigence": "E"
+          },
+          {
+            "code": "300384",
+            "libelle": "Elaborer une stratégie commerciale",
+            "exigence": "E"
+          },
+          {
+            "code": "122534",
+            "libelle": "Mettre en œuvre la stratégie commerciale de l'entreprise",
+            "exigence": "E"
+          },
+          {
+            "code": "300379",
+            "libelle": "Développer et fidéliser la relation client",
+            "exigence": "E"
+          },
+          {
+            "code": "121427",
+            "libelle": "Développer un portefeuille clients et prospects",
+            "exigence": "E"
+          },
+          {
+            "code": "300371",
+            "libelle": "Prospecter de nouveaux clients, de nouveaux marchés",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Annuel de 37000.0 Euros à 40000.0 Euros sur 12.0 mois",
+          "commentaire": "13ème mois (au prorata temporis) + Mutuelle (60% pris en charge par l'employeur) + Tickets restaurants (60% pris en charge par l'employeur) + Pass Navigo à 100%",
+          "complement1": "Commissions",
+          "complement2": "Indemnité transports",
+          "listeComplements": [
+            {
+              "code": "11",
+              "libelle": "Commissions"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "3",
+              "libelle": "Téléphone mobile"
+            },
+            {
+              "code": "4",
+              "libelle": "Ordinateur portable"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail Paris 16 et 17ème Cardinet",
+          "coordonnees1": "8 RUE Bernard Buffet",
+          "coordonnees2": "75017 Paris",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211NYRM"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211NYRM"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "3",
+        "deplacementLibelle": "Fréquents",
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "94.99Z",
+        "secteurActivite": "94",
+        "secteurActiviteLibelle": "Autres organisations fonctionnant par adhésion volontaire",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Avoir l'esprit d'équipe",
+            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+          },
+          {
+            "libelle": "Inspirer, donner du sens",
+            "description": "Capacité à transmettre un message afin de susciter la réflexion et guider l'action."
+          },
+          {
+            "libelle": "Organiser son travail selon les priorités et les objectifs",
+            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+          }
+        ],
+        "trancheEffectifEtab": "6 à 9 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211NYRM"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Business Developer",
+        "_ville_recherchee": "Paris",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "5366586",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients. Vous avez pour principales missions : Le management et l'engagement de votre équipe autour de nos ambitions ; Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ; La gestion de la qualité de la relation client ; La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ; L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ; Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'esprit d'entreprendre constituent de véritables valeurs. Vous souhaitez vous investir pleinement et évoluer au sein d'une équipe de passionnés, capable de reconnaître et de valoriser votre talent ?\nDoté(e) d'un excellent sens du relationnel et animé(e) par un véritable esprit commerçant, vous savez instaurer avec vos clients une relation de confiance et de proximité, en leur apportant conseils et valeur ajoutée.\nVotre capacité à manager une équipe, vos qualités de communication ainsi que votre forte orientation client seront des atouts essentiels pour réussir dans ce poste.\nUne première expérience en management d'équipe, en contact direct avec la clientèle, en tant que responsable ou adjoint, est indispensable.\nNous vous proposons une rémunération attractive composée d'un salaire fixe, de primes, d'une mutuelle, ainsi que d'une remise de 5 % sur vos achats.\nPoste en CDI, Agent Maitrise, 36h45 hebdomadaires, du lundi au samedi.\nGrâce à nos parcours de développement des compétences, vous bénéficierez de réelles opportunités d'évolution.\nRejoignez-nous pour vivre votre passion et vous engager au sein d'une équipe humaine et conviviale \n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:30.000Z",
+        "dateActualisation": "2026-07-23T07:04:30.000Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5366586",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2580979.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "5363882",
+        "intitule": "Chargé (e) de clientèle ( H/F)",
+        "description": "Nouvelle saison, nouveau job ? Vous souhaitez intégrer une entreprise nantaise de renom avec une ambiance conviviale ?\nJ'ai le poste qu'il vous faut !\n\nJe suis Manon, consultante en recrutement pour FED SUPPLY, je suis là pour créer des rencontres qui ont du sens. En effet, je recrute pour une société spécialisée dans le secteur des biens d'équipement haut de gamme située à Nantes (44) un(e) chargé ( e) clientèle ( H/F).\nRattaché ( e) à Amandine, la responsable du pôle expert, vos missions sont :\n\n* Se montrer à l'écoute et s'assurer de la bonne compréhension de la demande/du besoin du client en utilisant la reformulation\n* Apporter une réponse adaptée avec la bonne formulation dans le respect des procédures établies par , en utilisant le canal le plus approprié (téléphone, courriel, courrier)\n* Communiquer toutes les informations de nature à rassurer le client sur la prise en charge de sa demande ou réclamation\n* Participer à la mise en place des actions complémentaires à réaliser en dehors du service client si nécessaire (actions en lien avec les autres services du siège)\n* Accompagner le client dans le suivi de son dossier\n* Qualifier et consigner le résultat de son intervention dans les logiciels adaptés\n* Reporter au Responsable Service Client tout évènement suspect ou nouveau motif de contact pour lesquels il n'existe pas de réponse prévue dans un objectif d'amélioration continue\n\n\nPour pouvoir intégrer cette société, vous :\n\n- Justifiez d'une première expérience ou de bonnes bases sur des missions de chargé de clientèle / service client / SAV\n- Avez un excellent relationnel et une bonne élocution.\n- Maitrisez l'exercice de l'entretien téléphonique.\n-Avez de réelles qualités rédactionnelles (orthographe et grammaire).\n- Possédez une forte capacité d'écoute et sens développé de l'empathie\n- Etes doté d'un excellent relationnel et aptitude à gérer les situations conflictuelles avec diplomatie\n\nEn contrepartie, l'entreprise offre :\n- Un poste à pourvoir en CDI à temps plein\n- Un statut employé\n- Des tickets restaurant d'une valeur de 10 euros\n- CSE, CET\n-Indemnité de transport\n- Jusqu'à 2 jours de télétravail par semaine possible\n- Un parking pour stationner\n- Une petite équipe conviviale et travaillant dans l'entraide stable avec un faible taux de turn over\n- Une formation en continue avec un coaching de proximité\n\nLe processus de recrutement commencera par un premier entretien avec moi.\nVous rencontrerez ensuite la responsable ressources humaines ainsi que la responsable du pôle expert. Pour le dernier entretien, vous rencontrerez la responsable qualité et relations clients.\n\nContrat : CDI\nSalaire : 25000 à 26300 EUR par an",
+        "dateCreation": "2026-07-23T07:04:16.000Z",
+        "dateActualisation": "2026-07-23T07:04:16.000Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "latitude": 47.239923,
+          "longitude": -1.519033,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
+        "entreprise": {
+          "nom": "FED SUPPLY",
+          "description": "Fed Supply est un cabinet de recrutement Supply Chain ultra-spécialisé et créé en 2010 par Fed Group. Nos consultants recrutent les meilleurs candidats sur le terrain partout en France en intérim, CDD et CDI, pour des missions qui couvrent le périmètre de la supply au sens large : ADV, Relation Clients, Assistanat commercial, Achats, Supply Chain, Import-Export, Logistique et Transport.\nVous savez que les pilotes de flux ne travaillent pas dans des avions ? Nous aussi ! Vous pensez qu'une bon..."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "78.20Z",
+        "secteurActivite": "78",
+        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5363882",
+          "partenaires": [
+            {
+              "nom": "JOBTRANSPORT",
+              "url": "https://www.jobtransport.com/offre-emploi/ido/3227700.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "5354669",
+        "intitule": "Adjoint(e) au responsable de la filière confection (H/F)",
+        "description": "MINISTERE DE LA JUSTICE - ATIGIP\n\nDescription du poste\n\nPlacé sous l'autorité du responsable du développement de la filière confection, ce personnel est chargé :\n\n- De la gestion du progiciel UNINET et du suivi des dotations de renouvellement des agents (personnels de surveillance, ERIS, personnels techniques, etc.), soit +/- 31 000 agents ;\n- Du développement du nouveau progiciel d'effets d'uniformes ;\n- Des suivis de production des effets personnels techniques ;\n- Des suivis des tableaux de bord de la plateforme d'Arles et de la supervision des commandes Hors Dotation ;\n- De la gestion des commandes de GPB et housses GPB ;\n- De maintenir une permanence au service des établissements et de leurs référents ;\n- De maintenir une permanence au service des ateliers de production du SEP ;\n- D'élaborer des requêtes et des tableaux de suivis sous tableur Excel. \n- Dans le cadre de certains suivis de dossiers, des déplacements sont à prévoir sur le territoire métropolitain sur une ou plusieurs journées. Par ailleurs, une discrétion absolue est demandée à l'agent sur les dossiers traités par le service.\n\nCette fiche de poste n'est pas exhaustive : ce personnel peut avoir en charge toutes autres tâches directement liées à la structure.\n\nLocalisation administrative et géographique\nMinistère de la Justice - ATIGIP SEP-RIEP - 11 rue Louisa Paulin - BP 534 - 19015 TULLE CEDEX\n\nLes activités du service\nLe service à compétence nationale, dénommé « Agence du travail d'intérêt général et de l'insertion professionnelle des personnes placées sous main de justice » et rattaché au directeur de l'administration pénitentiaire, a pour mission de développer le travail d'intérêt général (TIG) ainsi que la formation professionnelle, le travail et l'insertion professionnelle et par l'activité économique pour les personnes placées sous main de justice (PPSMJ), en particulier dans les établissements pénitentiaires.\nAu sein de l'ATIGIP, le service de l'emploi pénitentiaire (SEP-RIEP) est en charge de l'emploi pénitentiaire en régie et à ce titre assure la gestion technique, commerciale, administrative et financière de ses ateliers de production implantés principalement dans des établissements pour peines. Il est doté des moyens structurels et fonctionnels permettant de développer le travail pénitentiaire.\nLe service de l'emploi pénitentiaire représente 55 ateliers implantés dans une trentaine d'établissements pénitentiaires, dans divers  secteurs d'activités : confection - menuiserie boissellerie - métallerie - mécanique générale - imprimerie - informatique - traitement du son et de l'image - travail à façon - reliure -cuir - exploitation agricole. 1 200 détenus y sont employés et encadrés par 165 personnels de l'administration, appuyé par 65 personnels à Tulle (19). En 2024, le service de l'emploi pénitentiaire a réalisé un chiffre d'affaires de 39 M €.\nPour plus d'informations : *atigip.justice**/\n\nComposition et effectifs du service\nL'ATIGIP est composée de 260 personnels, répartis au siège à Tulle et à Paris, ainsi que dans les ateliers situés sur tout le territoire national.\n\nMoyens mis à votre disposition (matériel, logiciels spécifiques, véhicules.)\nUn bureau, téléphone fixe et portable, ordinateur portable avec accès progiciels communs et spécifiques à la structure, voiture de service.\n\nVotre hiérarchie\nLe supérieur hiérarchique direct de l'agent est le responsable du développement de la filière confection.\n\nVos interlocuteurs métiers\nDans le cadre de l'exercice de ses fonctions, ce personnel est principalement en relation avec :\n\n- Le responsable du développement de la filière confection,\n- Les responsables d'ateliers et ces encadrants ;\n- Les responsables administratifs locaux des ateliers uniformes ;\n- Les services à Tulle (informatique, service facturier - marchés publics, contrôle de gestion, agence comptable, service juridique et contentieux.) ;\n- Les fournisseurs ;\n- Les référents en établissement pénitentiaire.\n\nVos principales compétences à mettre en euvre :\n\nConnaissances :\nNiveau minimum requis BAC ou expérience équivalente.\nConnaissance d'un PGI (Progiciel de Gestion Intégré).\nConnaissances en confection (Machines, Tissus et fournitures).\n\nSavoir faire :\nMaitrise des outils informatiques exigée (Word, Excel).\nNotions de comptabilité administrative.\n\nSavoir-être :\nRigueur, autonomie, sens du service.\nCapacité d'adaptation aux interlocuteurs techniques.\nBon relationnel et esprit d'équipe.\n\nOrganisation de travail : Travail en présentiel, télétravail possible dans le cadre réglementaire\nRestauration : Restaurant administratif\nAccessibilité en transport / Parking : *** personnel (parking gratuit à disposition), train, bus\nRémunération : selon l'expérience pour les agents non titulaires. Remboursement de 75% du titre de transport.\nType de contrat : CDD d'une durée de 3 ans, renouvelable.\nDurée de travail : 37h30 par semaine soit 7h30 par jour.\nCongés : 25 jours de congé annuel, 20 jours de RTT et 2 jours hors période.\n\nCV...",
+        "dateCreation": "2026-07-23T01:37:30.000Z",
+        "dateActualisation": "2026-07-23T01:37:30.000Z",
+        "lieuTravail": {
+          "libelle": "19 - Tulle",
+          "latitude": 45.265775,
+          "longitude": 1.77173,
+          "codePostal": "19000",
+          "commune": "19272"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Adjoint / Adjointe service clients",
+        "entreprise": {},
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Mensuel de 2500.0 Euros à 2700.0 Euros"
+        },
+        "dureeTravailLibelle": "36H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "codeNAF": "84.23Z",
+        "secteurActivite": "84",
+        "secteurActiviteLibelle": "Justice",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5354669",
+          "partenaires": [
+            {
+              "nom": "CANDIDATUS",
+              "url": "https://f.candidatus.com/?ref=atigip-2758",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/candidatus80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "36H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "211PGSP",
+        "intitule": "TELECONSEILLERE/TELECONSEILLER RECLAMATIONS (H/F)",
+        "description": "La Carsat Auvergne (Caisse d'assurance retraite et de la santé au travail) est un organisme de la Sécurité sociale à compétence régionale couvrant l'Allier, le Cantal, la Haute-Loire et le Puy-de-Dôme.\nEn tant qu'organisme de droit privé chargé de la gestion d'un service public, nous sommes placés sous la tutelle des pouvoirs publics.\n\nMISSION & ACTIVITES\nLe poste est situé au sein du pôle relation clients. Il offre l'opportunité de participer activement à l'accompagnement quotidien des assurés dans leurs démarches liées à la retraite, en assurant une contribution régulière dans le traitement des réclamations, avec rigueur, réactivité et expertise. La vacance de ce poste est liée à une mobilité interne.\nLe profil du poste est le suivant :\n Traiter des réclamations des assurés dans le respect des délais et en lien avec les missions des autres services retraite.\n Répondre aux demandes d'information et de conseil sur les droits à la retraite via les différents canaux de contacts (téléphone, mails, courriers)\n Accompagner les assurés dans leurs démarches, les orienter vers les bons interlocuteurs et services en ligne ;\n Apporter un service de qualité aux assurés de l'Assurance Retraite.\n\nCe poste nécessite de bonnes capacités rédactionnelles, une appétence au traitement du mécontentement, à la prise en charge de situation d'urgence ou complexes, à l'accompagnement de nos publics.\nLa personne recrutée est intégrée à une équipe de téléconseillères/téléconseillers en relation avec les assurés et est susceptible de contribuer à la réponse téléphonique. Notre plateforme téléphonique est accessible pour les assurés du lundi au vendredi de 8h à 17h.\n\nCOMPETENCES ATTENDUES DANS L'EMPLOI\n Sens du service rendu et goût de la relation clients\n Capacité à poser un diagnostic rapide sur les dossiers\n Aisance téléphonique\n Bonnes capacités rédactionnelles exigées\n Adaptabilité aux situations complexes, patience et pédagogie\n Résistance aux stress et à la gestion de l'insatisfaction.\n Respect des règles de confidentialité, de discrétion et de déontologie\n Connaissance obligatoire de la réglementation retraite\n Maitrise des outils métier (GRC, bureau métier, Oréli.)\n\nFORMATION\n Selon le profil de la candidate ou du candidat, une formation à l'emploi sera assurée à la prise de fonction (réglementation, outils métier de la relation client, techniques d'accueil téléphonique et de rédaction, gestion des réclamations ..)\n Une connaissance de la réglementation retraite serait un plus.\n Une expérience dans un emploi d'accueil du public, de téléconseiller en plateforme serait appréciée.\n\nCONDITIONS PARTICULIERES\n prise de fonction dès que possible\n\nDe nombreux avantages s'offrent à vous en nous rejoignant :\n Horaires variables (36h, 37h, 38h ou 39h) avec RTT\n Télétravail possible après intégration\n Carte chèque déjeuner (11,52 € par jour travaillé, part patronale de 6,91 €)\n Comité Social Economique\n Intéressement\n Mutuelle professionnelle\n Participations employeur (sous conditions) : prime transport, réduction supplémentaire dans le cadre du forfait mobilité durable, prime de crèche.\nPOUR FAIRE ACTE DE CANDIDATURE\nSi cette offre vous intéresse, nous vous remercions de postuler directement en ligne (CV + lettre de motivation exigées) jusqu'au 11/08/2026 en respectant le format d'envoi des pièces.\n\nMODALITE DE RECRUTEMENT\n Pré-sélection des candidatures sur la base des lettres de motivation et CV\n Tests écrits de sélection et tests RH de personnalité, motivation et raisonnement prévus le 18 Août 2026\n Entretien en présentiel avec un jury composé de deux cadres métier et d'un représentant RH prévu le 28 Août 2026.",
+        "dateCreation": "2026-07-23T11:57:25.952Z",
+        "dateActualisation": "2026-07-23T12:25:54.783Z",
+        "lieuTravail": {
+          "libelle": "63 - Clermont-Ferrand",
+          "latitude": 45.812995,
+          "longitude": 3.128579,
+          "codePostal": "63000",
+          "commune": "63113"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": "CAISSE D ASSURANCES RETRAITE ET DE LA SA",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - Sur même type de poste",
+        "experienceCommentaire": "Sur même type de poste",
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1917.57 Euros sur 14 mois",
+          "complement1": "CSE",
+          "complement2": "Intéressement / participation",
+          "listeComplements": [
+            {
+              "code": "9",
+              "libelle": "CSE"
+            },
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            },
+            {
+              "code": "8",
+              "libelle": "Restauration"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "coordonnees1": "https://www.lasecurecrute.fr/offre-emploi/teleconseillere-teleconseiller-reclamations-cdi/auvergne-rhone-alpes/1077507",
+          "urlPostulation": "https://www.lasecurecrute.fr/offre-emploi/teleconseillere-teleconseiller-reclamations-cdi/auvergne-rhone-alpes/1077507"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": true,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "84.30A",
+        "secteurActivite": "84",
+        "secteurActiviteLibelle": "Activités générales de sécurité sociale",
+        "trancheEffectifEtab": "250 à 499 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211PGSP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": true,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "5379912",
+        "intitule": "Gestionnaire support client f/h",
+        "description": "Safran Landing Systems est le leader mondial des fonctions d'atterrissage et de freinage pour aéronefs. Son expertise couvre le cycle de vie complet de ses produits, depuis la conception et la fabrication jusqu'à la maintenance et la réparation. Safran Landing Systems est partenaire de 30 avionneurs dans les domaines du transport civil, régional et d'affaires et dans le domaine militaire. La société assure le support de 25 000 avions effectuant plus de 40 000 atterrissages chaque jour. Safran Landing Systems compte plus de 7 300 collaborateurs en Europe, Amérique du Nord et Asie.\n\nSafran Landing Systems détient par ailleurs deux filiales en France, Safran Landing Systems Services Dinard et Filtration Systems, spécialisées respectivement dans la maintenance et les systèmes de filtration.\n\n\nDescriptif missionSitué à proximité de la station balnéaire de Dinard, Safran Landing Systems Services est un site de maintenance et réparation aéronautique à taille humaine. Nous traitons une multitude de pièces et d'équipements de Systèmes d'atterrissages et de freinage pour avions régionaux, hélicoptères et autres avions de petite à moyenne taille.\n\n\n\nEn tant que Gestionnaire Support Client, vous aurez pour mission de:\n\n\n\n- Gérer, planifier, organiser et suivre les relations quotidiennes avec les clients (portefeuille client, délais, documents)\n\n- Elaboration déploiement et pilotage des indicateurs de performance\n\n- Assurer le suivi et la relance des devis commerciaux\n\n- Identifier les problématiques, évaluer le degré d'urgence des demandes ainsi que la faisabilité des réponses ceci en concordance avec le contenu des contrats de vente\n\n- Assurer la coordination des informations entre services\n\n- Assistez le Customer Support Manager, notamment sur des projets et sur le reporting.",
+        "dateCreation": "2026-07-23T08:15:40.000Z",
+        "dateActualisation": "2026-07-23T08:15:40.000Z",
+        "lieuTravail": {
+          "libelle": "35 - Dinard",
+          "latitude": 48.631579,
+          "longitude": -2.054751,
+          "codePostal": "35800",
+          "commune": "35093"
+        },
+        "romeCode": "H1106",
+        "romeLibelle": "Responsable support technique clients",
+        "appellationlibelle": "Responsable centre de support client",
+        "entreprise": {},
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 12 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5379912",
+          "partenaires": [
+            {
+              "nom": "AEROCONTACT",
+              "url": "https://www.aerocontact.com/emploi-aeronautique/gestionnaire-support-client-fh~1155390.html?fromref=poleemploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Rennes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368720",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe (entre 5-6 pers) autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\nVous assurez la bonne tenue de tout l'environnement immédiate de la ligne de caisse et assurer sa présentation marchande.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + mutuelle.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:36.000Z",
+        "dateActualisation": "2026-07-23T07:04:36.000Z",
+        "lieuTravail": {
+          "libelle": "33 - Bordeaux",
+          "latitude": 44.820519,
+          "longitude": -0.571451,
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368720",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584994.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368971",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\n10% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-07-23T07:04:36.000Z",
+        "dateActualisation": "2026-07-23T07:04:36.000Z",
+        "lieuTravail": {
+          "libelle": "67 - Brumath",
+          "latitude": 48.730536,
+          "longitude": 7.708566,
+          "codePostal": "67170",
+          "commune": "67067"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368971",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584932.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Strasbourg",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368801",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Poste à pourvoir trés rapidement sur l'intermarché de Carry le rouet en contrat temps plein, salaire selon profil.\n \nVous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDD\nDurée du CDD (en mois) : 8 mois\nStatut : Agent de maîtrise\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps partiel\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:36.000Z",
+        "dateActualisation": "2026-07-23T07:04:36.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Ensuès-la-Redonne",
+          "latitude": 43.356776,
+          "longitude": 5.206084,
+          "codePostal": "13820",
+          "commune": "13033"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 8 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368801",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2585289.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368679",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe de 2200€ brut + 13ème mois + mutuelle avantageuse+ une remise sur vos achats effectués en magasin ainsi que de 5 semaines de congés payés.\nVous alternez une semaine du matin,une semaine de l'après-midi avec votre adjointe.\nNotre poste vous intéresse.Nous avons hâte de vous rencontrer.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:35.000Z",
+        "dateActualisation": "2026-07-23T07:04:35.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Villefranche-sur-Saône",
+          "latitude": 45.990109,
+          "longitude": 4.716871,
+          "codePostal": "69400",
+          "commune": "69264"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368679",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584317.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368205",
+        "intitule": "- RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe+ mutuelle,\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:35.000Z",
+        "dateActualisation": "2026-07-23T07:04:35.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Givors",
+          "latitude": 45.604904,
+          "longitude": 4.763149,
+          "codePostal": "69700",
+          "commune": "69091"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368205",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584091.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368553",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle + treizième mois (à compter d'un an d'ancienneté)\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:35.000Z",
+        "dateActualisation": "2026-07-23T07:04:35.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Fos-sur-Mer",
+          "latitude": 43.454533,
+          "longitude": 4.943479,
+          "codePostal": "13270",
+          "commune": "13039"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368553",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584418.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5368166",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:35.000Z",
+        "dateActualisation": "2026-07-23T07:04:35.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Miramas",
+          "latitude": 43.580569,
+          "longitude": 5.001038,
+          "codePostal": "13140",
+          "commune": "13063"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5368166",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2584234.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5367958",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:33.000Z",
+        "dateActualisation": "2026-07-23T07:04:33.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Tassin-la-Demi-Lune",
+          "latitude": 45.761248,
+          "longitude": 4.777181,
+          "codePostal": "69160",
+          "commune": "69244"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5367958",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2583283.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5367752",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + indemnités repas + participation/intéressement + mutuelle, (NOMBRE) semaines de congés payés et (NOMBRE)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:33.000Z",
+        "dateActualisation": "2026-07-23T07:04:33.000Z",
+        "lieuTravail": {
+          "libelle": "31 - Montgiscard",
+          "latitude": 43.458143,
+          "longitude": 1.573578,
+          "codePostal": "31450",
+          "commune": "31381"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5367752",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2582778.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5367952",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:33.000Z",
+        "dateActualisation": "2026-07-23T07:04:33.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Auriol",
+          "latitude": 43.369365,
+          "longitude": 5.634557,
+          "codePostal": "13390",
+          "commune": "13007"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5367952",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2583445.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5367176",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + participation + mutuelle, et 5 % de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\n39H/ Semaine - Horaires variables du lundi au dimanche.\nSalaire négociable.\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac +2 / +3\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-07-23T07:04:31.000Z",
+        "dateActualisation": "2026-07-23T07:04:31.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Somain",
+          "latitude": 50.359256,
+          "longitude": 3.281232,
+          "codePostal": "59490",
+          "commune": "59574"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5367176",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2581544.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5367029",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération composée d'un salaire fixe + mutuelle, (5) semaines de congés payés et (5)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDD\nDurée du CDD (en mois) : 3 mois\nStatut : Non cadre\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-07-23T07:04:31.000Z",
+        "dateActualisation": "2026-07-23T07:04:31.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Fourmies",
+          "latitude": 50.018205,
+          "longitude": 4.046615,
+          "codePostal": "59610",
+          "commune": "59249"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 3 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5367029",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2581890.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5366409",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + indemnités repas + participation/intéressement + mutuelle, (NOMBRE) semaines de congés payés et (NOMBRE)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein",
+        "dateCreation": "2026-07-23T07:04:29.000Z",
+        "dateActualisation": "2026-07-23T07:04:29.000Z",
+        "lieuTravail": {
+          "libelle": "31 - Cazères",
+          "latitude": 43.205274,
+          "longitude": 1.086588,
+          "codePostal": "31220",
+          "commune": "31135"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5366409",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2580816.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5366483",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, et pour le Groupement Mousquetaires, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac +2 / +3\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-07-23T07:04:29.000Z",
+        "dateActualisation": "2026-07-23T07:04:29.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Lille",
+          "latitude": 50.612754,
+          "longitude": 3.047638,
+          "codePostal": "59000",
+          "commune": "59350"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5366483",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2580480.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5366317",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + indemnités repas + participation/intéressement + mutuelle, (NOMBRE) semaines de congés payés et (NOMBRE)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:29.000Z",
+        "dateActualisation": "2026-07-23T07:04:29.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Châteaurenard",
+          "latitude": 43.882394,
+          "longitude": 4.855341,
+          "codePostal": "13160",
+          "commune": "13027"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5366317",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2580821.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5365963",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nCDI à temps plein, statut Agent de maitrise. Vous bénéficiez d'une rémunération attractive composée d'un salaire fixe de 2300 euros sur 13 mois + mutuelle et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac à Bac +2\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:28.000Z",
+        "dateActualisation": "2026-07-23T07:04:28.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Roquevaire",
+          "latitude": 43.348735,
+          "longitude": 5.604031,
+          "codePostal": "13360",
+          "commune": "13086"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5365963",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2579998.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5365580",
+        "intitule": "MODELE INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Cadre",
+        "dateCreation": "2026-07-23T07:04:27.000Z",
+        "dateActualisation": "2026-07-23T07:04:27.000Z",
+        "lieuTravail": {
+          "libelle": "69 - Sainte-Foy-lès-Lyon",
+          "latitude": 45.736249,
+          "longitude": 4.799684,
+          "codePostal": "69110",
+          "commune": "69202"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5365580",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2579373.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5365759",
+        "intitule": "RESPONSABLE CAISSE (H/F) CDI 36H45",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération composée d'un salaire fixe + 13ème mois + participation à la mutuelle, et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-07-23T07:04:27.000Z",
+        "dateActualisation": "2026-07-23T07:04:27.000Z",
+        "lieuTravail": {
+          "libelle": "31 - Muret",
+          "latitude": 43.461481,
+          "longitude": 1.330667,
+          "codePostal": "31600",
+          "commune": "31395"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5365759",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2579226.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5365405",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.!\n\nContrat : CDD\nDurée du CDD (en mois) : 3 mois\nTemps de travail : Temps partiel\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps partiel",
+        "dateCreation": "2026-07-23T07:04:26.000Z",
+        "dateActualisation": "2026-07-23T07:04:26.000Z",
+        "lieuTravail": {
+          "libelle": "59 - Emmerin",
+          "latitude": 50.592944,
+          "longitude": 3.002415,
+          "codePostal": "59320",
+          "commune": "59193"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 3 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5365405",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2578942.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5364043",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n\n\nChez Netto, et pour le Groupement Mousquetaires, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience en qualité de responsable caisse est requise pour ce poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + mutuelle.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein",
+        "dateCreation": "2026-07-23T07:04:16.000Z",
+        "dateActualisation": "2026-07-23T07:04:16.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Trets",
+          "latitude": 43.44725,
+          "longitude": 5.683895,
+          "codePostal": "13530",
+          "commune": "13110"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Netto"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "68.20A",
+        "secteurActivite": "68",
+        "secteurActiviteLibelle": "Location de logements",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5364043",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2578004.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "5359628",
+        "intitule": "Ingénieur Commercial IT - Infrastructures (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Responsable Commercial, vous avez en charge le développement et de la fidélisation d'un portefeuille de comptes issus du secteur privé ( ETI) et de comptes issus du secteur public (Collectivités locales et territoriales).  \n - Commercialisation de solutions et de services innovants axés sur les enjeux de cyber résilience, sur la réalisation d'environnements DataCentre on-premise, et d'hébergement de solutions Cloud. \n - Identification et analyse des enjeux IT et Sécurité des SI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions. \n - Prospection et suivi de comptes pour le développement de vos activités avec l'appui de véhicules de marché (centrales d'achats pour le secteur public).\n\nPROFIL RECHERCHÉ : \n\nVotre profil\n - Vous possédez une expérience de 3 ans minimum dans la vente BtoB de solutions IT d'infrastructures et/ou de services.  \n - Vous disposez d'une bonne connaissance du tissu économique de la région.  \n - Vous aimez les métiers répondant aux enjeux d'innovations.  \n - Vous êtes rigoureux et vous aimez les challenges\nAutres informations\n - Salaire selon profil et expérience : package de 45000€ à 70000€ brut annuel\n - Véhicule de fonction dédié, Carte Carburant et péages\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Télétravail\n - Mutuelle, prévoyance\n - Prime de Participation\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-07-23T04:31:29.000Z",
+        "dateActualisation": "2026-07-23T04:31:29.000Z",
+        "lieuTravail": {
+          "libelle": "13 - Aubagne",
+          "latitude": 43.292369,
+          "longitude": 5.569481,
+          "codePostal": "13400",
+          "commune": "13005"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq",
+          "description": "Heliaq est une entreprise dédiée au Digital Workplace, intégrateur de solutions d'infrastructures et de services associés, partenaire privilégié des acteurs leaders sur le marché de l'IT (Dell Technologies, IBM, VMware, Microsoft, Veeam, Fortinet,...) et qui a pour ambition l'accompagnement des entreprises et collectivités dans leur transformation numérique afin de répondre aux besoins complexes de ses clients. Un société dynamique en pleine expansion et reconnue pour son expertise!"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 70000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5359628",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/fxwr17wsqe8/ingenieur-commercial-it-infrastructures-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "211NQBP",
+        "intitule": "Enquêteur client / Enquêtrice au téléphone (H/F)",
+        "description": "Qualimarket recrute un(e) télé-enquêteur(trice) !\nRejoignez notre plateforme téléphonique à taille humaine au sein d'une société d'études spécialisée dans les\nenquêtes notamment médicales.\n\n- Missions : administration de questionnaires auprès de professionnels et/ou particuliers.\n- Environnement bienveillant, encadrement de proximité, équipe dynamique.\n- Contrat de 35h semaine (10h00 -12h30 et 14h00-18h30)\n- Durée: du 31 août au 11 septembre 2026\n\nPoste basé à Talence (33) - Proche Tram B arrêt Peixotto\nCandidature à envoyer à candidature@qualimarket.fr",
+        "dateCreation": "2026-07-22T18:03:50.728Z",
+        "dateActualisation": "2026-07-23T08:39:51.297Z",
+        "lieuTravail": {
+          "libelle": "33 - TALENCE",
+          "latitude": 44.808464,
+          "longitude": -0.588693,
+          "codePostal": "33400",
+          "commune": "33522"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléopérateur / Téléopératrice",
+        "entreprise": {
+          "nom": "QUALIMARKET",
+          "url": "info@qualimarket.fr",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 15 Jour(s)",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "1 Mois",
+        "competences": [
+          {
+            "code": "400557",
+            "libelle": "Gérer les appels téléphoniques entrants et sortants",
+            "exigence": "S"
+          },
+          {
+            "code": "503645",
+            "libelle": "Respecter les procédures et les normes de qualité",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Aisance rédactionnelle",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Horaire de 12.31 Euros à 12.32 Euros sur 12 mois"
+        },
+        "dureeTravailLibelle": "Temps partiel - 7H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps partiel",
+        "alternance": false,
+        "contact": {
+          "nom": "QUALIMARKET - Mme BAHIJA CHAIB",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211NQBP",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211NQBP"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "73.20Z",
+        "secteurActivite": "73",
+        "secteurActiviteLibelle": "Études de marché et sondages",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve de persévérance",
+            "description": "Capacité à maintenir son effort jusqu'à l'achèvement complet d'une tâche quels que soient les imprévus, les obstacles de réalisation rencontrés."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          }
+        ],
+        "trancheEffectifEtab": "10 à 19 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211NQBP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "Temps partiel - 7H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-07-22",
     "count": 7,
     "offres": [
@@ -5277,730 +7016,6 @@
             {
               "nom": "JOBINLIVE",
               "url": "http://www.missionhandicap.com/emploi/BPCE-BPVF01695#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-07-09",
-    "count": 8,
-    "offres": [
-      {
-        "id": "210XVRH",
-        "intitule": "Conseiller Clientèle quadrilingue H/F (H/F)",
-        "description": "La Maison Moncler est actuellement à la recherche d'un/une Conseiller/conseillère de Vente quadrilingue Français, Anglais, Mandarin et Coréen en CDI à temps plein pour les équipes de nos points de vente de la Samaritaine.\n\nAvec une présentation irréprochable et une élégance naturelle, nos Conseillers de Vente guident chaque client au travers des valeurs et l'héritage de la Maison Moncler, véhiculant une forte compréhension du client et de ses besoins, en l'engageant dans une relation à long terme avec notre marque.\n\nLe Conseiller/La Conseillère de Vente sera amené(e) à faire vivre une expérience unique aux clients au sein du point de vente et les différents univers de la Maison Moncler. Il/Elle saura être force de proposition à travers les collections permanentes, la collection Grenoble ou bien encore les différentes collaborations Moncler Genius.\n\nLe Conseiller/La Conseillère de Vente, en partenariat avec l'équipe, est responsable de l'atteinte des résultats individuels et contribue activement aux objectifs de l'équipe et de la Boutique.\n\nResponsabilités et Missions :\n\nVous serez l'ambassadeur(drice) de la marque Moncler et veillerez en permanence à offrir une haute qualité de service à la clientèle dans le cadre de la politique commerciale de la Maison.\n\nVous accueillerez et conseillerez les clients en suivant la cérémonie de vente Moncler en leur présentant les valeurs et le patrimoine de la marque. Vous contribuerez à l'atteinte des objectifs collectifs et individuels. Vous veillerez au respect des procédures internes, des règles de merchandising et à la bonne tenue de notre boutique et de son stock.\nVous vous tiendriez régulièrement informé(e) des activités du groupe Moncler et des évolutions du secteur d'activité dont fait partie la Maison afin de répondre au mieux aux besoins des clients.\n\nVous serez intégré(e) à l'équipe de vente de la boutique afin :\n- D'assurer une expérience client unique, en l'engageant dans une relation durable avec la Marque, via la gestion des différentes phases de la cérémonie de vente, des activités après-vente et Clienteling, dans une atmosphère chaleureuse et bienveillante ;\n- Réaliser d'excellentes performances commerciales ;\n- Implémenter les standards Visuels en Boutique à travers les différents univers de la Maison, en collaboration avec l'équipe Visuel Merchandising et prenant en responsabilité le réapprovisionnement et la gestion des stocks;\n- Coopérer activement à la préparation et de l'exécution des inventaires;\n- Travailler avec l'équipe de manière efficace et enthousiaste, y mettant en valeur son énergie et sa motivation.\n\nProfil : \n- Formation académique supérieure de type Licence ou Master\n- 1ère expérience impérative dans des missions de vente dans le secteur du Luxe \n- Capacité à communiquer couramment, avec fluidité et sophistication en français, mandarin, coréen et anglais \n- Passion pour la vente au détail, le service à la clientèle ;\n- Forte sensibilité produit ;\n- Réelles qualités relationnelles dans un environnement fortement international ;\n- Affinité avec les outils digitaux et ouverture à de nouvelles et innovantes méthodes de travail.",
-        "dateCreation": "2026-07-08T11:46:27.080Z",
-        "dateActualisation": "2026-07-09T08:13:39.063Z",
-        "lieuTravail": {
-          "libelle": "75 - PARIS",
-          "latitude": 48.877495,
-          "longitude": 2.317589,
-          "codePostal": "75008",
-          "commune": "75108"
-        },
-        "romeCode": "D1214",
-        "romeLibelle": "Vendeur / Vendeuse en prêt-à-porter",
-        "appellationlibelle": "Vendeur / Vendeuse en prêt-à-porter de luxe",
-        "entreprise": {
-          "nom": "MONCLER FRANCE",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "formations": [
-          {
-            "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
-            "exigence": "E"
-          },
-          {
-            "niveauLibelle": "Bac+5 et plus ou équivalents",
-            "exigence": "S"
-          }
-        ],
-        "langues": [
-          {
-            "libelle": "Chinois (Mandarin)",
-            "exigence": "E"
-          },
-          {
-            "libelle": "Coréen",
-            "exigence": "E"
-          }
-        ],
-        "competences": [
-          {
-            "code": "100341",
-            "libelle": "Procédures d'encaissement",
-            "exigence": "S"
-          },
-          {
-            "code": "102405",
-            "libelle": "Techniques de mise en rayon",
-            "exigence": "S"
-          },
-          {
-            "code": "121691",
-            "libelle": "Analyse des besoins des clients",
-            "exigence": "S"
-          },
-          {
-            "code": "100381",
-            "libelle": "Argumentation commerciale",
-            "exigence": "S"
-          },
-          {
-            "code": "116414",
-            "libelle": "Gestion de la relation client (CRM)",
-            "exigence": "S"
-          },
-          {
-            "code": "498870",
-            "libelle": "Techniques de vente",
-            "exigence": "S"
-          },
-          {
-            "code": "300375",
-            "libelle": "Organiser, aménager un espace de vente",
-            "exigence": "S"
-          },
-          {
-            "code": "300374",
-            "libelle": "Présenter et valoriser un produit ou un service",
-            "exigence": "E"
-          },
-          {
-            "code": "300361",
-            "libelle": "Accueillir, orienter, renseigner un public",
-            "exigence": "S"
-          },
-          {
-            "code": "121381",
-            "libelle": "Adapter une stratégie de vente à une cible ou un produit",
-            "exigence": "S"
-          },
-          {
-            "code": "518724",
-            "libelle": "Atteindre les objectifs de vente individuels et collectifs",
-            "exigence": "S"
-          },
-          {
-            "code": "507476",
-            "libelle": "Conseiller les clients sur les produits les plus adaptés",
-            "exigence": "S"
-          },
-          {
-            "code": "300379",
-            "libelle": "Développer et fidéliser la relation client",
-            "exigence": "S"
-          },
-          {
-            "code": "300363",
-            "libelle": "Identifier, traiter une demande client",
-            "exigence": "S"
-          },
-          {
-            "code": "483320",
-            "libelle": "Maintenir un environnement de travail propre et organisé",
-            "exigence": "S"
-          },
-          {
-            "code": "518721",
-            "libelle": "Proposer des alternatives en cas de produits indisponibles",
-            "exigence": "S"
-          },
-          {
-            "libelle": "#TDEF2026 ",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "commentaire": "Remunération fixe + commissions mensuelles",
-          "complement1": "Indemnité transports",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "14",
-              "libelle": "Indemnité transports"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            },
-            {
-              "code": "7",
-              "libelle": "Complémentaire santé"
-            },
-            {
-              "code": "10",
-              "libelle": "Intéressement / participation"
-            },
-            {
-              "code": "11",
-              "libelle": "Commissions"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "39H/semaine\nTravail en journée...",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail Paris 7 8 9ème St Petersbourg",
-          "coordonnees1": "34 RUE Saint Petersbourg",
-          "coordonnees2": "75008 Paris",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XVRH"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XVRH"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": true,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "47.71Z",
-        "secteurActivite": "47",
-        "secteurActiviteLibelle": "Commerce de détail d'habillement en magasin spécialisé",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Avoir l'esprit d'équipe",
-            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-          },
-          {
-            "libelle": "Avoir le sens du service",
-            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
-          },
-          {
-            "libelle": "Etre à l'écoute, faire preuve d'empathie",
-            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
-          }
-        ],
-        "trancheEffectifEtab": "100 à 199 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XVRH"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "39H/semaine\nTravail en journée",
-            " Travail les week-ends et jours fériés",
-            " Travail le samedi",
-            " Travail le dimanche"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": true,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Paris",
-        "_score": 3,
-        "_is_remote": false
-      },
-      {
-        "id": "210ZPTB",
-        "intitule": "Télévendeur (H/F)",
-        "description": "Acteur de la distribution de produits alimentaires (frais, surgelés et épicerie), l'entreprise accompagne au quotidien les professionnels de la restauration.Vos missions\nRattaché(e) au service télévente et en collaboration avec des commerciaux terrains attitrés\n\nVous gérez les commandes clients (appels entrants et sortants) dans une logique de conseil et de développement des ventes\nVous proposez des ventes additionnelles (promotions, opérations commerciales, déstockage)\nVous suggérez des produits de substitution en cas de rupture\nVous participez activement à la fidélisation des clients en instaurant une relation de confiance\nVous travaillez en équipe dans un environnement dynamique\n\nVotre profil\nVous êtes dynamique, motivé(e) et à l'aise au téléphone\nVous possédez un excellent relationnel\nVous avez un attrait pour le commerce et/ou la gastronomie\nVous aimez relever des défis\nUne première expérience en BtoB est appréciée\nUn intérêt pour la cuisine ou les produits alimentaires est un plus\n\n",
-        "dateCreation": "2026-07-09T15:19:12.473Z",
-        "dateActualisation": "2026-07-09T15:19:12.876Z",
-        "lieuTravail": {
-          "libelle": "59 - LILLE",
-          "latitude": 50.633332,
-          "longitude": 3.089939,
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Télévendeur / Télévendeuse",
-        "entreprise": {
-          "nom": "NPN DISTRIBUTION",
-          "description": "NPN Distribution, PME rgionale incontournable de son secteur, est spcialise dans la commercialisation de produits alimentaires ( Glaces, Surgels, Frais Epicerie) auprs de la restauration commerciale, collective et vnementielle.",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "3 Mois",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "commentaire": "Fixe+commissions+13eme mois",
-          "complement1": "Primes",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            },
-            {
-              "code": "7",
-              "libelle": "Complémentaire santé"
-            },
-            {
-              "code": "11",
-              "libelle": "Commissions"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "38H50/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "NPN DISTRIBUTION - Mme Vincent BOGAERT",
-          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZPTB",
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZPTB"
-        },
-        "agence": {},
-        "nombrePostes": 1,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "46.38B",
-        "secteurActivite": "46",
-        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) alimentaire spécialisé divers",
-        "trancheEffectifEtab": "20 à 49 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210ZPTB"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "38H50/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "4704662",
-        "intitule": "Conseiller Clientèle Grandes Entreprises ESI (F/H) - Otoktone h/f",
-        "description": "Description de l'entreprisePlace à Vous, avec Nous ! La Banque Populaire Grand Ouest est une grande équipe de près de 3 000 collaborateur.rices.s, répartis sur tout le Grand Ouest, dans 12 départements, avec nos 2 marques, Banque Populaire Grand Ouest et Crédit Maritime Grand Ouest. Selon nos expertises et nos métiers, nous accompagnons nos 900 000 client.e.s (dont plus de 400 000 sociétaires) soit dans l’une de nos 250 agences, soit dans l’un de nos 3 sites centraux de Rennes, Nantes et Angers. Historiquement reconnue comme Banque des entrepreneur.e.s et banque du monde marin, nous nous différencions par une très forte proximité et une capacité à innover chaque jour au service de la réussite de nos client.e.s.\nRésolument coopératifs, responsables et innovants, nous accompagnons avec enthousiasme celles et ceux qui vivent et entreprennent sur terre, en mer et sur le littoral dans le Grand Ouest.Poste et missionsAu sein d’OTOKTONE, le Marché de l’Economie Sociale et des Institutionnels est porté au sein du Centre d’Affaires ESI par 4 Conseillers Clientèle Grandes Entreprises ESI, 4 Conseillers Clientèle Entreprises ESI et 3 Gestionnaires Clientèles Entreprises. Le Centre d’Affaires ESI traite les grands comptes de l’économie sociale, la clientèle des institutionnels, les établissements publics locaux et les bailleurs sociaux. Rattaché.e au Directeur du Centre d’Affaires ESI, vous contribuez activement en tant que Conseiller Clientèle Grands Comptes aux résultats commerciaux et à la croissance du PNB de votre entité par le développement, la gestion et la fidélisation du portefeuille de clients et prospects. Vous disposez de toute l'autonomie nécessaire pour valoriser le portefeuille et le territoire d'exploitation qui vous est confié. Vos principales activités : - Développer fortement un portefeuille composé d’une clientèle Économie Sociale et Institutionnelle des Pays de la Loire et contribuer à la réussite de la mise en œuvre de la politique commerciale du Centre d’Affaires. - Analyser le portefeuille pour mettre en place le plan d’action de développement commercial. - Etablir un plan de prospection adapté pour conquérir de nouveaux clients en s’appuyant sur ses réseaux et les partenaires de la BPGO. - Conseiller les clients et prospects en proposant des produits et services et solutions innovantes adaptés à leurs besoins. - Etudier et monter les dossiers de prêts sous l’angle du risque et de la rentabilité. - Piloter sa contribution et l’atteinte de ses objectifs, notamment en termes de commissions générées. - Assurer la gestion et le suivi de la relation clientèle (constitution des dossiers, mise à jour des informations commerciales et juridiques des clients…). - Entretenir et dynamiser les relations avec les acteurs et partenaires locaux en véhiculant l’image et les valeurs du Groupe et d’OTOKTONE. - Réaliser une veille sur les tendances du marché et du secteur afin de développer des relations commerciales. Ce poste requiert des déplacements réguliers sur la région des Pays de la Loire.Profil et compétences requises Passionné.e par les marchés de l’Economie Sociale et des Institutionnels, vous justifiez d’une expérience réussie sur le marché de l’ESI, ou de la gestion privée. Doté.e d'un excellent relationnel et d'un fort esprit développeur vous avez le sens du service et savez être réactif aux demandes d'une clientèle exigeante. Votre sens du résultat ainsi que vos qualités de négociation et de conviction vous permettent d'atteindre les objectifs fixés. Connaissances souhaitées : - Gestion d’actifs, des produits bancaires et d’assurances. - Connaissances techniques en analyse financière et en analyse du risque de crédit. Informations complémentaires sur le posteLISTE (NON EXHAUSTIVE) DES AVANTAGES QUI VOUS SERONT RÉSERVÉS - Rémunération selon votre profil et votre expérience.\n- Des primes d’intéressement et de participation\n- Un accompagnement à la formation individualisé\n- Une agence bancaire collaborateurs, avec des conseillers dédiés à la gestion de vos comptes et ceux de votre famille\n- Une culture d’entreprise résolument coopérative, responsable et innovante où l’enthousiasme est clé, à découvrir ici : www.bpgototheplace.fr",
-        "dateCreation": "2026-07-08T22:27:39.000Z",
-        "dateActualisation": "2026-07-08T22:27:39.000Z",
-        "lieuTravail": {
-          "libelle": "44 - Saint-Herblain",
-          "latitude": 47.244068,
-          "longitude": -1.605885,
-          "codePostal": "44800",
-          "commune": "44162"
-        },
-        "romeCode": "C1129",
-        "romeLibelle": "Responsable grands comptes assurances",
-        "appellationlibelle": "Chargé / Chargée de clientèle entreprises",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4704662",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPGO04909#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "210XWLW",
-        "intitule": "Télé-vendeur (H/F)",
-        "description": "Votre journée s'organise autour d'appels sortants planifiés : environ 14 par heure, pour un total d'une soixantaine par jour. Vous suivez un portefeuille de clients professionnels, à qui vous apportez un conseil adapté et une écoute constante.\n\nVos principales missions couvrent les activités suivantes :\n- Conseiller les clients sur les produits et leur usage\n- Vérifier la disponibilité et enregistrer les commandes\n- Identifier les besoins complémentaires et proposer des offres adaptées\n- Orienter le client vers le bon interlocuteur si nécessaire\n- Saisir les échanges dans le CRM de manière claire et synthétique\n- Mettre à jour les informations clients et suivre les relances\n- Participer à la fidélisation par la promotion de nouveautés ou services\n\nVous aimez le contact téléphonique et savez transformer une conversation en relation de confiance durable. Vous avez déjà exercé dans un environnement de vente ou de conseil à distance et maîtrisez les échanges soutenus par téléphone.\n\nNous recherchons une personne capable de combiner écoute active et efficacité commerciale, avec un bon sens de la priorisation.\n\n- Première expérience réussie en télévente ou télé-conseil\n- À l'aise dans la communication orale et écrite\n- Habitué à utiliser un CRM pour tracer les échanges et suivre les commandes\n- Capacité à gérer un rythme d'appels soutenu avec précision\n- Réflexes d'organisation et sens du travail collectif\n- Résilience et gestion sereine du stress face aux imprévus\n\nCe que nous proposons:\n- Rémunération : 2100 à 2200€ brut mensuel + prime sur objectif jusqu'à 300€/mois\n- 3 jours de congés supplémentaires + congés exceptionnels (enfants malades, engagement associatif...).\n- Parcours d'intégration et formation continue (ex. SST).\n- Accès à une crèche d'entreprise pour un meilleur équilibre vie pro/perso.\n- Horaires de journée, sans astreintes ni week-ends.\n\nPrise de poste souhaitée en septembre 2026.",
-        "dateCreation": "2026-07-08T12:02:54.275Z",
-        "dateActualisation": "2026-07-08T16:09:40.331Z",
-        "lieuTravail": {
-          "libelle": "44 - ST AIGNAN GRANDLIEU",
-          "latitude": 47.124082,
-          "longitude": -1.631162,
-          "codePostal": "44860",
-          "commune": "44150"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Télévendeur / Télévendeuse",
-        "entreprise": {
-          "nom": "PLG",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 2100.0 Euros à 2600.0 Euros sur 12.0 mois",
-          "complement1": "Primes",
-          "complement2": "CSE",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "9",
-              "libelle": "CSE"
-            },
-            {
-              "code": "8",
-              "libelle": "Restauration"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "36H30/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais Zone départementale",
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "46.44Z",
-        "secteurActivite": "46",
-        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) de vaisselle, verrerie et produits d'entretien",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Faire preuve d'autonomie",
-            "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-          },
-          {
-            "libelle": "Etre force de proposition",
-            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-          },
-          {
-            "libelle": "Avoir le sens du service",
-            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
-          }
-        ],
-        "trancheEffectifEtab": "100 à 199 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XWLW"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "36H30/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "210ZGSN",
-        "intitule": "Conseiller accueil service (H/F)",
-        "description": "Description\nStellantis &You Nantes recrute un conseiller accueil service en CDI afin de renforcer l'accueil et l'accompagnement des clients au sein de son service après-vente. Le poste est localisé sur le site de Nantes Nord, à Orvault (44).\n\nPourquoi nous rejoindre\nRejoindre Stellantis & You, c'est intégrer le réseau de distribution du groupe Stellantis, l'un des leaders mondiaux du secteur automobile. Sur un site dynamique et en forte activité, vous aurez l'opportunité de développer vos compétences techniques et commerciales, dans un environnement structuré et responsabilisant.\n\nMissions\nLe conseiller accueil service est le premier contact du client au service Après-vente. Il garantit une expérience fluide et de qualité, tout en contribuant à la performance commerciale du site. Son rôle consiste à accueillir, orienter, conseiller et accompagner chaque client tout au long de son parcours Après-vente. Il participe ainsi activement à la satisfaction client.\n\nAccueil et relation client\nAccueillir chaque client avec professionnalisme et bienveillance.\nIdentifier leurs besoins et leurs problématiques (techniques, logistiques, commerciales.).\nAssurer une communication claire et rassurante pour offrir une expérience client positive.\nConseil et développement commercial\nPrésenter les prestations disponibles (diagnostic, entretien, réparations.).\nÉtablir et proposer des devis.\nRéaliser de la vente additionnelle en fonction des besoins identifiés.\nOrganisation du parcours client\nPlanifier et organiser les rendez-vous SAV : prise, modification, confirmation.\nCréer les dossiers atelier et préparer tous les éléments nécessaires avant la venue du client.\nCoordonner les échanges entre les équipes réception, atelier, magasin pièces et service location.\nSuivi administratif et qualité\nAssurer le suivi complet des dossiers : devis, factures, relances.\nOrganiser la mise à disposition des véhicules de location en collaboration avec le service RENT.\nVeiller au respect des standards qualité, sécurité et environnement du groupe Stellantis.\nContribuer activement à la satisfaction client et aux objectifs qualité Peugeot / Citroën / DS.\n\nProfil\nLe poste s'adresse à un candidat doté d'une forte aisance relationnelle, d'un sens du service client et capable d'évoluer dans un environnement dynamique.\nFormation et compétences\nBac+2 en commerce, relation client ou réception.\nPremière expérience dans l'accueil, la relation client ou l'après-vente (automobile appréciée).\nMaîtrise des outils bureautiques et numériques, respect des procédures internes.\nQualités relationnelles\nAccueil professionnel, courtois et orienté satisfaction.\nExpression claire à l'oral et à l'écrit, capacité à instaurer la confiance.\nAttitude positive, souriante et orientée solution.\nCompétences organisationnelles\nRigueur, méthode et gestion simultanée de plusieurs demandes.\nPriorisation efficace, réactivité, respect des standards qualité de la marque.\nQualités personnelles\nEsprit d'équipe et contribution à la coordination des services.\nDynamisme, fiabilité et sens du résultat.\nAppétence commerciale et capacité à valoriser les prestations.\n\nConditions du poste :\nSociété : Stellantis &You France (filiale du Groupe Stellantis).\nContrat : à durée indéterminée (CDI).\nStatut : Agent de maîtrise.\nPériode d'essai : 3 mois, renouvelable une fois.\nLocalisation : Stellantis &You Nantes, à Orvault (44700).\nRémunération fixe selon profil : 26 400 à 34 800 euros annuels bruts.\nRémunération variable : pouvant aller de 0 à 900 € bruts par mois, selon la productivité, la performance et la qualité.\nDisponibilité du poste : à pourvoir dès que possible.\nTemps de travail : 41h/semaine avec 12 jours de RTT par an.\nAvantages : \nTitres restaurant (60% pris en charge par l'employeur).\nAccès aux offres sociales et culturelles du CSE : voyages, chèques vacances, réductions.  \nBonne mutuelle d'entreprise (IRP auto)",
-        "dateCreation": "2026-07-09T12:00:24.553Z",
-        "dateActualisation": "2026-07-09T12:00:24.553Z",
-        "lieuTravail": {
-          "libelle": "44 - ORVAULT",
-          "latitude": 47.27081,
-          "longitude": -1.624564,
-          "codePostal": "44700",
-          "commune": "44114"
-        },
-        "romeCode": "I1623",
-        "romeLibelle": "Conseiller / Conseillère client après-vente des véhicules",
-        "appellationlibelle": "Conseiller / Conseillère client après-vente des véhicules",
-        "entreprise": {
-          "nom": "STELLANTIS &YOU ORVAULT",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "formations": [
-          {
-            "codeFormation": "34554",
-            "domaineLibelle": "Commerce",
-            "niveauLibelle": "Bac+2 ou équivalents",
-            "exigence": "S"
-          }
-        ],
-        "competences": [
-          {
-            "code": "512822",
-            "libelle": "Appliquer une démarche de satisfaction client",
-            "exigence": "E"
-          },
-          {
-            "code": "513337",
-            "libelle": "Relancer les clients de l'atelier par téléphone, par mail, en face à face",
-            "exigence": "S"
-          },
-          {
-            "code": "502516",
-            "libelle": "Gérer les réclamations et assurer un suivi de qualité",
-            "exigence": "E"
-          }
-        ],
-        "salaire": {
-          "libelle": "Annuel de 26400.0 Euros à 34800.0 Euros sur 12 mois",
-          "commentaire": "Rémunération variable : pouvant aller de 0 à 900 € bruts par mois, selon la productivité, la performance et la qualité.",
-          "complement1": "CSE",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "9",
-              "libelle": "CSE"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "41H/semaine\nTravail en journée...",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail NANTES NORD",
-          "coordonnees1": "BATIMENT C 50 BOULEVARD EINSTEIN\nCS72367",
-          "coordonnees2": "44323 Nantes",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZGSN"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZGSN"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "qualificationCode": "8",
-        "qualificationLibelle": "Agent de maîtrise",
-        "codeNAF": "45.11Z",
-        "secteurActivite": "45",
-        "secteurActiviteLibelle": "Commerce de voitures et de véhicules automobiles légers",
-        "trancheEffectifEtab": "50 à 99 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210ZGSN"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "41H/semaine\nTravail en journée",
-            " Travail le samedi"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4745602",
-        "intitule": "RESPONSABLE CAISSE (H/F)",
-        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion du drive\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac à Bac +2\nTemps de travail : Temps plein\nStatut : Non cadre",
-        "dateCreation": "2026-07-09T07:04:53.000Z",
-        "dateActualisation": "2026-07-09T07:04:53.000Z",
-        "lieuTravail": {
-          "libelle": "31 - Toulouse",
-          "latitude": 43.556879,
-          "longitude": 1.380671,
-          "codePostal": "31000",
-          "commune": "31555"
-        },
-        "romeCode": "D1505",
-        "romeLibelle": "Hôte / Hôtesse de caisse",
-        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
-        "entreprise": {
-          "nom": "Intermarché"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4745602",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2556676.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Toulouse",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4745762",
-        "intitule": "RESPONSABLE CAISSE (H/F)",
-        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + participation + mutuelle, et 5 % de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\n39H/ Semaine - Horaires variables du lundi au dimanche.\nSalaire négociable.\n\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac +2 / +3\nTemps de travail : Temps plein\nStatut : Non cadre",
-        "dateCreation": "2026-07-09T07:04:53.000Z",
-        "dateActualisation": "2026-07-09T07:04:53.000Z",
-        "lieuTravail": {
-          "libelle": "59 - Somain",
-          "latitude": 50.359256,
-          "longitude": 3.281232,
-          "codePostal": "59490",
-          "commune": "59574"
-        },
-        "romeCode": "D1505",
-        "romeLibelle": "Hôte / Hôtesse de caisse",
-        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
-        "entreprise": {
-          "nom": "Intermarché"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4745762",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2556745.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "4704665",
-        "intitule": "ARNAY,POUILLY,SAULIEU - CONSEILLER CLIENTELE PARTICULIER H/F h/f",
-        "description": "Description de l'entreprise✨ La BPBFC, banque coopérative profondément ancrée en Bourgogne Franche-Comté, allie sa proximité régionale à la solidité du Groupe BPCE (2ème groupe Bancaire en France). Pour accompagner cette dynamique et renforcer nos équipes, nous recherchons notre futur(e) Conseiller clientèle Particuliers dans notre agence de Pouilly en Auxois (mobilité à prévoir sur les agences de Saulieu et Arnay le Duc).Poste et missionsNos Conseillers Clientèle accompagnent nos clients dans les moments clé de leur vie en proposant des solutions adaptées à leurs besoins. Ils jouent un rôle primordial dans la réalisation de nos engagements envers nos clients en fournissant des conseils de qualité et en développant des relations à long terme. Votre quotidien sera rythmé ! Vos futures missions ? : Gérer les opérations courantes (ouverture et clôture de compte virements, remises de chèques…) Accueillir, orienter et conseiller nos clients en agence (établir une relation de confiance, comprendre ses besoins et lui fournir des conseils personnalisés) Offrir des solutions adaptées : proposer et promouvoir les produits et services bancaires appropriés aux besoins du client, tout en maitrisant les risques Suivre et fidéliser nos clients : développer votre portefeuille, assurer le suivi régulier des clients, maintenir des relations durables afin d’assurer la satisfaction client Profil et compétences requisesVotre profil ?: - Vous êtes diplômé(e) d’un Bac+2 à Bac+5, dans le domaine bancaire ou non - Vous êtes doté(e) d’un grand sens commercial et d’un bon relationnel – - Vous avez le goût de la négociation et le sens de l’écoute A la BPBFC, nous recherchons avant tout des personnalités qui adhérent à nos valeurs et souhaitent mettre leurs qualités au service de nos clients. Vous ne possédez pas encore d’expérience dans le secteur bancaire ? Pas de panique, la BPBFC vous accompagne grâce à son programme de formation sur-mesure ! ?‍? La clé pour réussir ? Une bonne dose de motivation ! Nos avantages ? : Rejoindre la BPBFC, c’est intégrer une entreprise qui valorise ses collaborateurs et leur montée en compétence et bénéficier d’avantages attractifs tels que : Des opportunités de formation et de développement professionnel (7% de notre masse salariale est dédiée à la formation) Un accord d’Intéressement/Participation Un accord sur la Qualité de Vie et des Conditions de Travail (RTT, Télétravail, équilibre vie pro/vie perso...) Un véritable équilibre vie pro/perso avec la semaine de 4.5 jours Prise en charge des frais de transport en commun à hauteur de 70%, Tickets restaurant Nous proposons une rémunération brute située entre 28k€ et 32k€. Rencontrons nous ?! Prise de contact :Un premier échange téléphonique avec un membre de notre équipe recrutement pour faire connaissance. Entretien RH :Une rencontre pour discuter de votre parcours, vos motivations et vous présenter la culture de la BPBFC. Entretien managérial :Un entretien final avec votre futur manager pour découvrir votre environnement de travail et poser toutes vos questions. Prêt(e) à relever le défi ? Postulez dès maintenant et préparez vous pour une aventure bancaire unique ! ??",
-        "dateCreation": "2026-07-08T22:27:39.000Z",
-        "dateActualisation": "2026-07-08T22:27:39.000Z",
-        "lieuTravail": {
-          "libelle": "21 - Pouilly-en-Auxois",
-          "latitude": 47.262328,
-          "longitude": 4.556339,
-          "codePostal": "21320",
-          "commune": "21501"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "entreprise": {
-          "description": "Groupe BPCE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4704665",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPBFC01300#utm_source=PoleEmploi",
               "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
             }
           ]
