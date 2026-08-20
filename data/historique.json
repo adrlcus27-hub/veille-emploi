@@ -1,5 +1,822 @@
 [
   {
+    "date": "2026-08-20",
+    "count": 15,
+    "offres": [
+      {
+        "id": "6123332",
+        "intitule": "Ingénieur Commercial Grands Compte privés H/F",
+        "description": "RESPONSABILITÉS : \n\nVotre mission\nRattaché au Directeur Commercial Grands Comptes, le Commercial Grands Comptes est chargé du développement et du suivi d'un portefeuille de clients du secteur privé. Son rôle est d'assurer la prospection, la fidélisation et le développement du chiffre d'affaires en proposant des solutions adaptées aux besoins des grandes entreprises en matière de Digital Workplace, infogérance.\nDéveloppement du portefeuille clients :\n - Identifier et prospecter de nouveaux clients parmi les entreprises du SBF120.\n - Qualifier les besoins et proposer des offres adaptées en collaboration avec l'avant-vente et la direction technique.\n - Développer une approche de vente consultative, en mettant en avant les solutions les plus pertinentes pour chaque client.\n - Assurer une veille concurrentielle pour identifier les opportunités et anticiper les évolutions du marché.\n - Participer à l'élaboration des plans de comptes stratégiques pour maximiser la valeur des clients sur le long terme.\nGestion et fidélisation des grands comptes :\n - Développer et entretenir des relations avec les décideurs clés (DSI, CTO, Directeurs des Achats, DRH, DG) des entreprises du SBF120.\n - Assurer un suivi régulier des clients en garantissant un haut niveau de satisfaction et en anticipant leurs besoins.\n - Conduire les négociations commerciales complexes en garantissant le respect des marges et des objectifs financiers.\n - Collaborer avec les équipes avant-vente, delivery et support pour garantir la bonne exécution des contrats signés.\nRéponse aux appels d'offres et élaboration des offres :\n - Participer à l'élaboration des réponses aux appels d'offres privés en lien avec la cellule AO.\n - Travailler avec les équipes techniques et avant-vente pour construire des offres sur-mesure adaptées aux besoins clients.\n - Présenter et défendre les propositions commerciales devant les clients et lors de comités de pilotage.\nSuivi et reporting commercial :\n - Assurer un reporting régulier auprès du Directeur Commercial Grands Comptes sur les avancées et résultats.\n - Mettre à jour et suivre les opportunités via le CRM de l'entreprise (Salesforce, HubSpot ou autre).\n - Analyser les performances commerciales et proposer des actions correctives si nécessaire.\n\nPROFIL RECHERCHÉ : \n\nVotre profil\n - Expérience de 5 à 7 ans en vente de solutions IT auprès de grands comptes privés.\n - Expérience réussie en développement commercial et gestion d'un portefeuille grands comptes privés.\n - Capacité démontrée à générer du business sur des cycles de vente longs (6-12 mois).\n - Expérience en réponse à des appels d'offres complexes et en closing de contrats stratégiques.\nCompétences techniques :\n - Connaissance des solutions IT : Digital Workplace (infra, cloud, cyber en option).\n - Expérience en vente de services IT (intégration, infogérance, conseil).\n\nSupérieur hiérarchique : Directeur Commercial Grands Comptes.\nCollaboration interne avec : Avant-vente, équipes techniques, marketing, cellule AO, direction juridique.\nCollaboration externe avec : Clients grands comptes, partenaires technologiques (Microsoft, Dell, HP, LENOVO).\nAutres informations\n - Véhicule de fonction dédié, Carte Carburant et péages\n - Salaire selon poste et expérience : 60.000€ à 80.000€ de package brut par an\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Mutuelle (prise en charge à 80% de l'employeur sur la formule individuelle + enfants)\n - Prime de Participation\n - Accès au Plan Epargne Entreprise\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:35.342Z",
+        "dateActualisation": "2026-08-20T04:31:35.342Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "E1113",
+        "romeLibelle": "Responsable e-commerce",
+        "appellationlibelle": "Web commercial / Web commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123332",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/qt7lkf0can8/ingenieur-commercial-grands-compte-prives-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Paris",
+        "_score": 3,
+        "_is_remote": false
+      },
+      {
+        "id": "6124401",
+        "intitule": "Téléconseiller / Téléconseillère (H/F)",
+        "description": " Teletech International, spécialiste de la Relation Client multicanal, appartient à la branche centres de contacts du Groupe FINARE (courtage en assurance - 170 M€ de CA - 1700 collaborateurs France et International). Depuis 1993, cette entreprise met à disposition de ses clients des plateformes pour assurer la gestion de leur relation client (appels entrants et sortants, réclamations, précontentieux, qualification de contact, prise de rendez-vous.). Les équipes de Teletech International sont réparties sur 8 sites de production de France et 2 sites au Maroc.\n\n\nLes clés de notre réussite : Engagement, Performance, Innovation, Capital Humain.\n\n\nDans le cadre de notre collaboration avec un acteur majeur du secteur de l'économie et de l'innovation, nous recherchons des Chargés de Relation Client (H/F) afin de répondre aux demandes d'entreprises pour les accompagner dans leurs démarches administratives et soutenir le développement de leur activité. \n\n\nDATE DE PRISE DE POSTE : DES QUE POSSIBLE\n\n\nVos missions, si vous les acceptez, seront les suivantes :\n\n\nPrise en charge des appels entrantsTraitement de mailsRépondre aux questions des déclarantsInformer, conseiller et orienter les usagersReporting\nProfil recherché :\n\n\nEt si c'était toi ? \n\n\nProfessionnel de la relation client, vous mettez un point d'honneur à satisfaire le client.\n\n\nNous cherchons avant tout des collaborateurs avec un bel esprit d'équipe, qui aiment les challenges et souhaitent s'épanouir et évoluer au sein d'une structure à taille humaine.\n\n\nDes personnes qui ont une bonne aisance relationnelle faisant preuve d'initiative et de persévérance.\n\n\nLes profils atypiques ou les personnes en reconversion professionnelle sont les bienvenus !\n\n\nVos qualités d'écoute et de communication, votre rigueur et votre organisation sont des atouts indispensables pour réussir dans cette fonction.\n\n\nPourquoi nous rejoindre ?\n- Une équipe engagée et dynamique.\n- Un environnement convivial, grâce à un véritable esprit d'équipe et un espace de travail agréable\n- Un équilibre vie professionnelle / vie personnelle : rythme de travail hebdomadaire de 36 heures : du lundi au samedi, horaire de 9h à 20h (amplitude maximum), 0,5 jours de RTT par mois, possibilité de télétravail sous conditions.\n- Avantages CSE (chèques cadeaux, évènements entreprise.).\n- Tickets restaurant\n- Rémunération : SMIC + primes sur objectifs.\n- Prise en charge des frais de transports en commun à hauteur de 60%,\n- CDD de 6 mois\n\n\nNotre petit plus ?\nEn tant qu'employeur responsable et engagé, Teletech est signataire de la charte de la diversité. Nous offrons les mêmes opportunités professionnelles aux talents de tous horizons, indépendamment de l'âge, l'origine, l'orientation sexuelle, le handicap.\n\n\nPour en savoir plus sur l'entreprise et les postes à pourvoir, rendez-vous sur notre site internet : https://www.teletech-int.com/ \n            ",
+        "dateCreation": "2026-08-20T06:03:19.389Z",
+        "dateActualisation": "2026-08-20T06:03:19.389Z",
+        "lieuTravail": {
+          "libelle": "28 - Chartres",
+          "codePostal": "28000",
+          "commune": "28085"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": " TELETECH\n                "
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "0 An(s)",
+        "salaire": {
+          "libelle": "Annuel de 22405.0 Euros à 30000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "82.20Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Activités de centres d'appels",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6124401",
+          "partenaires": [
+            {
+              "nom": "LAYAN",
+              "url": "https://jobs.layan.eu/fr/offer-of-teletech-no-109364/56",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/layan80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "6123377",
+        "intitule": "Ingénieur commercial Cybersécurité H/F",
+        "description": "RESPONSABILITÉS : \n\nMission principale\nDévelopper l'activité cybersécurité sur le marché public en région Pays de la Loire, avec un focus particulier sur le développement du partenariat Gigalis\nResponsabilités principales\n - Développement commercial - Marché public en priorité et marché privé\n - Identifier et développer les opportunités, piloter les réponses aux appels d'offres et positionner les offres Heliaq sur les enjeux cyber.\n - Développement du partenariat Gigalis\n - Être le référent IC Cyber Heliaq Solutions, développer la visibilité et activer les opportunités via le réseau régional.\n - Animation et cross-selling\n - Développer le cross-selling avec les autres agences de la région, animer les actions terrain et contribuer à la dynamique de la BU Cyber.\n - Pilotage du business\n - Suivre les opportunités via le CRM, structurer le pipe et piloter les projets en lien avec les équipes techniques\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\nExpérience commerciale IT/cyber, connaissance du marché public, capacité à développer un réseau et travailler en transverse.\n\nPackage et informations complémentaires :  \n - Véhicule de fonction dédié avec carte essence / péage\n - Accord de télétravail\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Mutuelle prise en charge à 80% de l'employeur sur la formule individuelle + enfants\n - Prime de participation\n - Accès au Plan épargne groupe\n - Avantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.421Z",
+        "dateActualisation": "2026-08-20T04:31:39.421Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 55000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123377",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/mzli067xpw8/ingenieur-commercial-cybersecurite-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "6122842",
+        "intitule": "Chargé(e) de Clientèle (F/H)",
+        "description": "Description du poste\n\nActeur français de l'externalisation de la relation clients, Prodirect accompagne plus de 30 grandes entreprises françaises pour construire et déployer des parcours clients. Une expérience client authentique, alignés sur les attentes des consommateurs.\n\nChez Prodirect l'humain est au cœur de l'entreprise. L'engagement collectif, l'expertise de nos 700 talents, notre méthodologie approuvée et la proximité avec chaque client font la différence. Prodirect c'est aussi l'assurance d'une entreprise française, solide, reconnue depuis plus de 35 ans.\n\nEt c'est ce qui fait que nos clients nous confient l'externalisation de leur expérience client dans la durée.\n\nContribuez au dynamisme de PRODIRECT en intégrant nos équipes !\n\nRattaché(e) à l'équipe commerciale, vous intervenez en tant que véritable conseiller auprès d'un portefeuille de clients BtoB IT.\n\nVos missions :\n\n* Gestion et suivi d'un portefeuille clients BtoB IT\n* Réalisation d'assessments et analyse des besoins\n* Suivi client et accompagnement dans la durée\n* Développement business (upsell / cross-sell)\n* Identification et conclusion des opportunités commerciales\n* Atteinte des objectifs individuels\n\nVous adoptez une posture de conseil orientée valeur et relation long terme.\n\nProfil recherché :\n\n* Excellente écoute active et posture de conseiller\n* Expérience en gestion de portefeuille clients BtoB\n* Maîtrise des techniques d'upsell et cross-sell\n* Capacité à structurer un échange avec des interlocuteurs exigeants (DSI, dirigeants)\n* Approche orientée performance et satisfaction client\n* Bonne compréhension des environnements IT\n\nConnaissances techniques appréciées :\n\n* Environnements On-Premise et Cloud\n* SaaS, IaaS, PaaS\n* Notions d'infrastructure et de sécurité\n* Capacité à traduire un besoin métier en solution IT\n\nVous vous reconnaissez si :\n\n* Vous êtes Commercial sédentaire BtoB IT avec gestion de portefeuille\n* Vous avez une expérience en Customer Success en environnement IT\n* Vous aimez développer et fidéliser vos clients\n* Vous êtes orienté(e) résultats tout en privilégiant la relation sur le long terme\n\nConditions de poste :\n\n* Salaire : 1867.05 € brut mensuel + prime\n* Contrat : CDD de 6 mois\n* Du lundi au vendredi\n* Poste à pourvoir dès que possible,\n* Carte restaurant avec prise en charge employeur à hauteur de 60 %\n* Avantages CSE\n* Aide au logement\n* Animations tout au long de l'année : moments festifs et challenge\n\nÀ compétences égales, cette offre est ouverte aux personnes en situation de handicap.\n\nType d'emploi : CDD\nDurée du contrat : 6 mois\n\nRémunération : 26 000,00€ à 30 000,00€ par an\n\nLieu du poste : En présentiel",
+        "dateCreation": "2026-08-20T04:01:48.986Z",
+        "dateActualisation": "2026-08-20T04:01:48.986Z",
+        "lieuTravail": {
+          "libelle": "13 - Marseille",
+          "commune": "13055"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
+        "entreprise": {
+          "nom": "GROUPE PRO DIRECT"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6122842",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://prodirectservices.factorial.fr/apply/charge-e-de-clientele-f-h-314323?utm_source=francetravail.fr",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "6123564",
+        "intitule": "Ingénieur commercial Business IT H/F",
+        "description": "RESPONSABILITÉS : \n\nQue ferez-vous à nos côtés ?\nRattaché au Directeur Régional Nord-Ouest, vous aurez comme principaux objectifs :\n - La fidélisation de notre clientèle\n - Développer un territoire et développer le portefeuille clients avec la prospection de nouveaux comptes\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nQui êtes-vous ?\nVous possédez une expérience dans la vente BtoB de solutions numériques (digital workplace, infrastructure, software) et services IT.\nVous maîtrisez les fondamentaux : prospection, négociation, fidélisation. Votre sens du service, votre réactivité et vos qualités relationnelles sont vos meilleurs atouts !\nVous disposez d'une bonne connaissance du tissu économique de la région.\nPackage et informations complémentaires :\n - Véhicule, carte essence / péage\n - Salaire selon profil et expérience : 45.000 à 60.000€ de package brut annuel\n - Accord de télétravail\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Mutuelle prise en charge à 80% par l'employeur pour le salarié et ses enfants\n - Prime de participation\n - Accès au Plan épargne groupe\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:43.005Z",
+        "dateActualisation": "2026-08-20T04:31:43.005Z",
+        "lieuTravail": {
+          "libelle": "35 - Rennes",
+          "codePostal": "35000",
+          "commune": "35238"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 60000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123564",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/i7cq4ghkdj8/ingenieur-commercial-business-it-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123536",
+        "intitule": "Ingénieur Commercial IT - Infrastructure F/H",
+        "description": "RESPONSABILITÉS : \n\nQue ferez-vous à nos côtés ?\nRattaché au Directeur Commercial, vous aurez comme principaux objectifs :\n - Développer un territoire avec la prospection de nouveaux comptes\n - La fidélisation de notre clientèle via un portefeuille clients\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nQui êtes-vous ?\nVous possédez une expérience dans la vente BtoB d'équipements (idéalement infrastructure) et service IT.\nVous avez un profil chasseur\nLa connaissance de l'écosystèmes DELL est un atout !\nVous maîtrisez les fondamentaux : prospection, négociation, fidélisation. Votre sens du service, votre réactivité et vos qualités relationnelles sont vos meilleurs atouts !\nVous disposez d'une bonne connaissance du tissu économique de la région.\nPackage et informations complémentaires :\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Salaire selon profil : package de 60.000€ à 80.000€ brut par an\n - Mutuelle et Prévoyance\n - Accord de télétravail\n - Prime de participation\n - Accès au Plan épargne groupe\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:42.988Z",
+        "dateActualisation": "2026-08-20T04:31:42.988Z",
+        "lieuTravail": {
+          "libelle": "33 - Haillan",
+          "codePostal": "33185",
+          "commune": "33200"
+        },
+        "romeCode": "E1113",
+        "romeLibelle": "Responsable e-commerce",
+        "appellationlibelle": "Web commercial / Web commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123536",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/e426zczse88/ingenieur-commercial-it-infrastructure-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123482",
+        "intitule": "Ingénieur commercial - Infrastructure IT H/F",
+        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Directeur régional, vous avez en charge le développement et de la fidélisation d'un portefeuille de clients ETI.\n - Développer un territoire avec la prospection de nouveaux comptes\n - La fidélisation de notre clientèle via un portefeuille clients\n - Commercialisation de services innovants axés sur les enjeux de cyber résilience, sur les environnements d' infrastructures IT, et d'hébergement de solutions Cloud.\n - Identification et analyse des enjeux IT et SSI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions.\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nVotre profil :\nVous possédez une expérience de 2 ans minimum dans la vente BtoB de solutions Infrastructures IT et/ou service IT.\nVous disposez d'une bonne connaissance du tissu économique de la région.\nVous maîtrisez les fondamentaux : prospection, négociation, fidélisation. Votre sens du service, votre réactivité et vos qualités relationnelles sont vos meilleurs atouts !\n\nAutres informations :\n - Salaire selon expérience : package de 50.000 à 80.000€\n - Véhicule, carte carburant et péages\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Accord télétravail\n - Mutuelle et prévoyance\n - Prime de Participation\n - Avantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:40.136Z",
+        "dateActualisation": "2026-08-20T04:31:40.136Z",
+        "lieuTravail": {
+          "libelle": "51 - Reims",
+          "codePostal": "51100",
+          "commune": "51454"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123482",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/9bokczb3s88/ingenieur-commercial-infrastructure-it-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123438",
+        "intitule": "Chargé de clientèle H/F",
+        "description": "RESPONSABILITÉS : \n\nRattaché(e) au Directeur d'Agence et en appui d'une équipe de commerciaux terrain, vous travaillez activement au développement et à la fidélisation du portefeuille clients.\nVos principales missions :\n - Sur la base de votre secteur commercial comprenant des PME/PMI, ETI, Grands Comptes privés et publics, vous instaurez une relation de proximité et de confiance avec vos interlocuteurs clients et prospects.\n - Vous identifiez leurs besoins, les analysez et les conseillez dans les phases d'avant-vente.\n - Vous orientez les demandes complexes auprès des équipes techniques.\n - Vous établissez les devis (produits, solutions, infrastructure) et les relancez jusqu'à réception des commandes.\n - Vous effectuez le suivi des livraisons des matériels et logiciels avec les équipes logistiques en vue de leur facturation par l'administration des ventes.\n - Vous établissez des liens étroits avec les fournisseurs (constructeurs, éditeurs, grossistes, partenaires) dans l'optique de bénéficier de leurs meilleurs prix et qualité de service pour vos demandes de cotations.\n - Vous assurez la gestion de la documentation administrative des Appels d'Offres Publics des Ingénieurs Commerciaux.\n - Vous assurez la gestion administrative liée à l'activité (avoirs, demandes d'engagements etc.).\n\nPROFIL RECHERCHÉ : \n\nProfil :\n - Vous avez une formation Bac+2/+3 et vous justifiez d'une expérience déjà significative dans la vente directe de produits et solutions informatiques en B to B\n - Vous êtes passionné(e) par les produits technologiques, vos qualités d'écoute, d'analyse et de persuasion sont des atouts dans votre action commerciale\n - Vous aimez travailler en équipe et avez une bonne compréhension des organisations et du mode de fonctionnement des sociétés ciblées ainsi que de leur circuit décisionnel\n - Vous avez une bonne connaissance du monde de la distribution et des programmes de ventes spécifiques à ces marchés ainsi que des métiers du service\n\n\nAutres informations\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Télétravail\n - Mutuelle (prise en charge à 80% de l'employeur sur la formule individuelle+enfants)\n - Prime de Participation\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:40.118Z",
+        "dateActualisation": "2026-08-20T04:31:40.118Z",
+        "lieuTravail": {
+          "libelle": "74 - Annecy",
+          "codePostal": "74000",
+          "commune": "74010"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 25000.0 Euros à 30000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123438",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/1qwcdxz8fr8/charge-de-clientele-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123424",
+        "intitule": "Ingénieur Commercial Sénior -  Solutions Infra HPE F/H",
+        "description": "RESPONSABILITÉS : \n\nPourquoi ce poste est unique chez Heliaq ?\nHeliaq, leader européen des infrastructures Dell, accélère son développement sur le périmètre HPE et vous confie une mission stratégique : devenir le visage de l'entreprise sur ce marché.\nIl s'agit du premier recrutement 100% dédié HPE dans le groupe. Vous bénéficierez de :\n - Un portefeuille clients ETI/Grands Comptes déjà identifié (avec des opportunités à récupérer).\n - L'appui d'une structure commerciale rodée (avant-vente, marketing, back-office) et d'un constructeur partenaire (HPE) engagé dans notre croissance.\n - La responsabilité de définir les cibles et les leviers pour positionner Heliaq dans le Top 3 des partenaires HPE en France.\n\nVotre impact en 12 mois\n - Signature de plus de 10 nouveaux logos HPE\n - Génération d'un revenu supérieur ou égal à 2 millions d'euros\n - Positionnement de Heliaq dans le Top 3 des partenaires HPE France\n\nVos missions au quotidien - Ingénieur Commercial Sénior - Solutions Infra HPE F/H\n - Construire et piloter un pipeline HPE à partir de zéro : prospection de nouveaux comptes et développement du portefeuille existant.\n - Signer des contrats complexes (cycles de 6 à 18 mois, valeur moyenne supérieure ou égale à 150 000 euros) auprès des DSI, Directeurs Infrastructure et acheteurs IT.\n - Commercialiser l'ensemble des solutions infra HPE : serveurs (ProLiant), stockage (Alletra, Nimble, MSA), HCI, Greenlake (as-a-Service)...\n - Analyser les enjeux IT et de sécurité des clients pour proposer des solutions sur-mesure en collaboration avec les Consultants Avant-Vente.\n - Animer la relation avec le constructeur HPE : roadmaps produits, avant-vente, formations et certifications conjointes.\n - Piloter des cycles de vente multi-interlocuteurs (directions métiers, achats, technique) selon une approche consultative.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\nCritères indispensables\n - 5 à 10 ans d'expérience dans la vente de solutions d'infrastructure HPE (ProLiant, Alletra, Greenlake, Nimble). Cette expertise technique est impérative.\n - Historique de succès prouvé sur des cycles de vente longs (6 à 18 mois) auprès de comptes ETI et Grands Comptes (paniers moyens supérieurs ou égaux à 150 000 euros).\n - Réseau actif de DSI, Directeurs Infrastructure et acheteurs IT dans au moins un secteur vertical (banque, santé, industrie, etc.).\n - Maîtrise des programmes partenaires HPE et des leviers de négociation avec le constructeur.\nCritères différenciants (atouts majeurs)\n - Double culture HPE et écosystèmes concurrents (Dell, Lenovo, Cisco) afin de construire des discours de substitution pertinents.\n - Expérience des modèles de vente as-a-Service (Greenlake) et de la transition Capex vers Opex.\n - Expérience préalable au sein d'un environnement VAR ou Intégrateur (et non uniquement en distribution directe).\n - Esprit entrepreneurial orienté vers la création de business et la valeur ajoutée.\nCe que nous vous offrons\n - Rémunération attractive composée d'un fixe et d'un variable indexé sur la marge.\n - Véhicule de fonction\n - Accord télétravail\n - Tickets restaurant de 8 euros par jour (pris en charge à 60%).\n - Mutuelle premium (prise en charge à 80% pour vous et votre famille).\n - Prime de participation et Plan d'épargne groupe.\n - Support dédié des équipes internes : avant-vente technique, back-office commercial et service juridique.\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.503Z",
+        "dateActualisation": "2026-08-20T04:31:39.503Z",
+        "lieuTravail": {
+          "libelle": "92 - Châtenay-Malabry",
+          "codePostal": "92290",
+          "commune": "92019"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123424",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/jgfksprax38/ingenieur-commercial-senior-solutions-infra-hpe-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123375",
+        "intitule": "Ingénieur Commercial Cloud F/H",
+        "description": "RESPONSABILITÉS : \n\nQue ferez-vous à nos côtés ?\nRattaché au Directeur du Développement des activités Cloud, nous recherchons un Ingénieur d'Affaires Cloud et Services Managés :\n - Identifier et prospecter de nouveaux clients potentiels, développer des opportunités autour des activités Cloud sur des comptes cibles\n - Assurer la fidélisation d'un portefeuille client (upselling, cross-selling, mise en place d'actions, anticipation des attentes...)\n - Comprendre les besoins spécifiques des clients et proposer des solutions informatiques adaptées à leurs exigences.\n - Assurer la prise de commandes, par des actions en amont avec les équipes de business développement, jusqu'aux phases de closing\n - Assurer un suivi régulier avec les clients pour garantir leur satisfaction et favoriser des relations à long terme.\n - Collaborer avec les équipes internes pour garantir la livraison efficace des solutions vendues et assurer une intégration réussie\n - Assurer un reporting clair et fiable vers la direction commerciale.\n\nPROFIL RECHERCHÉ : \n\nQui êtes-vous ?\nVous possédez une expérience dans la vente de services IT chez un Cloud Services Provider, et/ou un Managed Security Services Provider, et vous savez promouvoir des offres de Cloud Hybride (Mutualisé, dédié, Hypersacler).\nLa fidélisation d'un portefeuille client n'a pas de secret pour vous : sur votre territoire, composé essentiellement d'ETI et de Grands Comptes, vous êtes en mesure d'identifier des opportunités et de développer rapidement un pipe commercial autour de sujets orientés autour du Cloud et des Services Managés.\nVous avez l'habitude de travailler avec les avant-vente et les SDM. Ce travail en équipe vous a conduit à participer à la rédaction des offres cloud et d'infogérance avec l'avant-vente (constitution des dossiers de réponse, compréhension des enjeux et objectifs client, conseil sur la stratégie de réponse à adopter, personnalisation des propositions). Participer aux soutenances, valoriser l'offre proposée, prendre en charge la négociation et la mise en place de contrats pluriannuels avec engagements fait partie intégrante de vos savoir-faire.\nPackage et informations complémentaires :\n - Véhicule avec carte essence / péage\n - Salaire en fonction de l'expérience\n - Accord de télétravail\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Mutuelle prise en charge à 80% par l'employeur sur la formule collaborateur + enfants\n - Prime de participation\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.468Z",
+        "dateActualisation": "2026-08-20T04:31:39.468Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 9e Arrondissement",
+          "codePostal": "69009",
+          "commune": "69389"
+        },
+        "romeCode": "E1113",
+        "romeLibelle": "Responsable e-commerce",
+        "appellationlibelle": "Web commercial / Web commerciale",
+        "entreprise": {
+          "nom": "Heliaq Solutions"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 60000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123375",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/zy1l14o5ag8/ingenieur-commercial-cloud-f-h",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123362",
+        "intitule": "Ingénieur commercial - Infrastructure IT H/F",
+        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Directeur régional, vous avez en charge le développement et de la fidélisation d'un portefeuille de clients ETI.\n - Développer un territoire avec la prospection de nouveaux comptes\n - La fidélisation de notre clientèle via un portefeuille clients\n - Commercialisation de services innovants axés sur les enjeux de cyber résilience, sur les environnements d' infrastructures IT, et d'hébergement de solutions Cloud.\n - Identification et analyse des enjeux IT et SSI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions.\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nVotre profil :\nVous possédez une expérience de 2 ans minimum dans la vente BtoB de solutions Infrastructures IT et/ou service IT.\nVous disposez d'une bonne connaissance du tissu économique de la région.\n\nAutres informations :\nSalaire selon expérience\nVéhicule, carte carburant et péages\nTickets restaurant : 8€ avec 60% de prise en charge par l'employeur\nDurée du travail : 36H30 avec 9,5 jours de RTT\nTélétravail\nMutuelle et prévoyance\nPrime de Participation\nAvantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.422Z",
+        "dateActualisation": "2026-08-20T04:31:39.422Z",
+        "lieuTravail": {
+          "libelle": "69 - Villeurbanne",
+          "codePostal": "69100",
+          "commune": "69266"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123362",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/qb8b4tlgen8/ingenieur-commercial-infrastructure-it-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123371",
+        "intitule": "Ingénieur commercial - Infrastructure IT H/F",
+        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Directeur régional, vous avez en charge le développement et de la fidélisation d'un portefeuille de clients ETI.\n - Développer un territoire avec la prospection de nouveaux comptes\n - La fidélisation de notre clientèle via un portefeuille clients\n - Commercialisation de services innovants axés sur les enjeux de cyber résilience, sur les environnements d' infrastructures IT, et d'hébergement de solutions Cloud.\n - Identification et analyse des enjeux IT et SSI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions.\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nVotre profil :\nVous possédez une expérience de 2 ans minimum dans la vente BtoB de solutions Infrastructures IT et/ou service IT.\nVous disposez d'une bonne connaissance du tissu économique de la région.\nVous maîtrisez les fondamentaux : prospection, négociation, fidélisation. Votre sens du service, votre réactivité et vos qualités relationnelles sont vos meilleurs atouts !\n\nAutres informations :\n - Salaire selon expérience : package de 50.000 à 80.000€\n - Véhicule, carte carburant et péages\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Accord télétravail\n - Mutuelle et prévoyance\n - Prime de Participation\n - Avantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.421Z",
+        "dateActualisation": "2026-08-20T04:31:39.421Z",
+        "lieuTravail": {
+          "libelle": "67 - Strasbourg",
+          "codePostal": "67000",
+          "commune": "67482"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 80000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123371",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/9w5ya88zfe8/ingenieur-commercial-infrastructure-it-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6123369",
+        "intitule": "Chargé de clientèle H/F",
+        "description": "RESPONSABILITÉS : \n\nRattaché(e) au Département Commercial et en appui d'une équipe de commerciaux terrain, vous travaillez activement au développement et à la fidélisation du portefeuille clients.\nVos principales missions :\n - Sur la base de votre secteur commercial comprenant des ETI, Grands Comptes privés et publics, vous instaurez une relation de proximité et de confiance avec vos interlocuteurs clients et prospects.\n - Vous identifiez leurs besoins, les analysez et les conseillez dans les phases d'avant-vente.\n - Vous orientez les demandes complexes auprès des équipes techniques.\n - Vous établissez les devis (produits, solutions, infrastructure) et les relancez jusqu'à réception des commandes.\n - Vous effectuez le suivi des livraisons des matériels et logiciels avec les équipes logistiques en vue de leur facturation.\n - Vous établissez des liens étroits avec les fournisseurs (constructeurs, éditeurs, grossistes, partenaires) dans l'optique de bénéficier de leurs meilleurs prix et qualité de service pour vos demandes de cotations.\n - Vous assurez la gestion de la documentation administrative des Appels d'Offres Publics des Ingénieurs Commerciaux.\n - Vous assurez la gestion administrative liée à l'activité (avoirs, demandes d'engagements etc.).\n\nPROFIL RECHERCHÉ : \n\nProfil :\n - Vous avez une formation Bac+2/+3 et vous justifiez d'une expérience déjà significative dans la vente directe de produits et solutions informatiques en B to B\n - Vous êtes passionné(e) par les produits technologiques, vos qualités d'écoute, d'analyse et de persuasion sont des atouts dans votre action commerciale\n - Vous aimez travailler en équipe et avez une bonne compréhension des organisations et du mode de fonctionnement des sociétés ciblées ainsi que de leur circuit décisionnel\n - Vous avez une bonne connaissance du monde de la distribution et des programmes de ventes spécifiques à ces marchés ainsi que des métiers du service\n\n\nAutres informations\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Télétravail\n - Mutuelle (prise en charge à 80% de l'employeur sur la formule individuelle+enfants)\n - Prime de Participation\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-08-20T04:31:39.421Z",
+        "dateActualisation": "2026-08-20T04:31:39.421Z",
+        "lieuTravail": {
+          "libelle": "76 - Rouen",
+          "codePostal": "76000",
+          "commune": "76540"
+        },
+        "romeCode": "C1206",
+        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
+        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Mensuel de 26000.0 Euros à 32000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6123369",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/ohfs9cmclb8/charge-de-clientele-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "6117258",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nDans le cadre du développement de notre activité Industrie, nous recherchons notre futur Business Manager basé à Lyon.\n\nVous prenez en main une activité déjà initiée (une dizaine de consultants en portefeuille) mais dont le principal enjeu reste la création et le développement de la Business Unit.\n\nVos missions seront de :\n\n * Développer un portefeuille de clients industriels par une démarche de prospection active.\n * Recruter, accompagner et fidéliser vos consultants.\n * Suivre les missions et développer les comptes existants.\n * Construire progressivement une équipe afin de faire grandir cette activité.\n\nÀ terme, vous pourrez prendre la responsabilité de la Business Unit Industrie à l'échelle nationale et participer à son déploiement sur les différentes agences du groupe.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nVous justifiez d'une expérience réussie en Business Management au sein d'une ESN, idéalement sur des environnements industriels.\n\nAu-delà de votre parcours, nous recherchons avant tout un véritable développeur, animé par la conquête commerciale et capable de créer son activité presque from scratch.\n\nVous aimez prospecter, ouvrir des comptes, relever des défis et évoluer dans un environnement où les perspectives de développement sont nombreuses.\n        \n        \nLES AVANTAGES :\n        \nRejoindre notre entreprise, cest intégrer une structure où vous pourrez construire votre activité comme une véritable mini-BU, avec une liberté daction et une autonomie rares. Voici ce que nous vous offrons :\n\n * Rejoindre la 2e Best Workplace France 2026 et l'une des ESN les plus reconnues pour son expérience collaborateur.\n * Intégrer une entreprise où la qualité de vie au travail est une réalité : Happiness Manager, nombreux événements internes, proximité des dirigeants et accompagnement personnalisé.\n * Un package rémunérateur, composé dun fixe compétitif, mais surtout dun variable particulièrement attractif, indexé sur la marge générée. Avec une vingtaine de consultants en portefeuille, votre package pourra atteindre 100 k.\n * Des perspectives dévolution claires : management déquipe, ouverture dagence ou participation à lactionnariat pour les profils les plus performants.\n * Un environnement dynamique, où votre travail aura un impact direct sur la croissance de lentreprise, avec des circuits de décision courts et une proximité avec la direction.\n\nSi vous êtes prêt à relever un défi motivant et à vous investir dans un projet ambitieux, nous serions ravis déchanger avec vous.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-08-20T00:00:41.070Z",
+        "dateActualisation": "2026-08-20T00:00:41.070Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 2e Arrondissement",
+          "codePostal": "69002",
+          "commune": "69382"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        "
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 100000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6117258",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/49938/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "212QYRF",
+        "intitule": "Téléconseiller / Téléconseillère",
+        "description": "La mission du téléconseiller(e) est entièrement orientée vers le service au public, renseigner et informer\npar téléphone, fournir une réponse efficace et adaptée.\nVotre rôle consistera à :\n- réceptionner et traiter les appels téléphoniques des assurés et des professionnels de santé, ainsi que les\ncourriels reçus des professionnels de santé. Cette activité est secondaire et soumise à un résultat\nd'accessibilité du plateau téléphonique en conformité avec l'attendu : 90% de taux de décroché\n- répondre de façon claire, fiable et personnalisée aux assurés en étant à leur écoute et en créant les\nconditions favorables au dialogue,\n- enregistrer votre activité sur un applicatif interne dédié au suivi des contacts clients,\n- analyser la situation et orienter les dossiers vers les services de back office adéquats,\nLe candidat retenu devra se conformer aux exigences du Plan de Sécurité du Système d'information.\nProfil recherché\nVos compétences\nVous êtes ponctuel (le)\nVotre bon relationnel ainsi que vos qualités d'écoute et de communication vous permettent de\nrépondre de manière précise, adaptée et efficace à vos interlocuteurs ;\nVous disposez d'une capacité d'apprentissage de la législation de Sécurité sociale ;\nVous êtes agile et doté d'une capacité d'analyse et de synthèse afin d'apporter une réponse fiable en\nun minimum de temps ;\nVous savez argumenter vos décisions afin de susciter l'adhésion à la solution proposée ;\nVous attachez une importance particulière à la satisfaction des assurés et à la qualité de votre\ntravail ;\nVous faites de preuve de curiosité et savez rechercher l'information de façon autonome ;\nVous savez prendre du recul et adopter un comportement relationnel approprié avec nos clients,\nsavoir gérer les situations difficiles, les incivilités, en alertant si nécessaire le bon interlocuteur ;\nVous maitrisez les outils bureautiques et êtes en capacité de travailler en simultané sur plusieurs\nlogiciels.\nUne première expérience dans la relation client et l'accueil téléphonique demandée\nNéanmoins, ceci n'étant pas une condition sine qua non, nous recherchons surtout un/une candidat(e) qui\nsouhaite s'investir dans une activité impliquant l'accompagnement des publics, l'utilisation de nombreux\napplicatifs informatiques et le goût pour la relation téléphonique.\n\nVotre formation\nVous ne connaissez pas le monde de la protection sociale et vous hésitez encore ? Une formation vous\nsera dispensée dès votre intégration pour vous permettre d'appréhender l'ensemble de vos missions.\nInformations complémentaires\nLocalisation : embauche place de l'Europe à Bordeaux puis déménagement à Cracovie (130 allée\nde Boutaut\nPou postuler, merci de nous faire parvenir un cv et une lettre de motivation en mettant en objet « Candidature Téléconseiller PFS médicale - octobre\".\n.",
+        "dateCreation": "2026-08-19T14:56:51.609Z",
+        "dateActualisation": "2026-08-19T14:56:51.609Z",
+        "lieuTravail": {
+          "libelle": "33 - BORDEAUX",
+          "latitude": 44.847691,
+          "longitude": -0.581278,
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": "CAISSE PRIMAIRE ASSURANCE MALADIE",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 3 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois - Relation client ou téléconseil",
+        "experienceCommentaire": "Relation client ou téléconseil",
+        "salaire": {
+          "libelle": "Mensuel de 1917.0 Euros sur 12 mois",
+          "commentaire": "14 mois",
+          "complement1": "Complémentaire santé",
+          "listeComplements": [
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail BORDEAUX NORD",
+          "coordonnees1": "12 ALLEE Haussmann",
+          "coordonnees2": "33300 Bordeaux",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212QYRF"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212QYRF"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "84.30A",
+        "secteurActivite": "84",
+        "secteurActiviteLibelle": "Activités générales de sécurité sociale",
+        "trancheEffectifEtab": "1000 à 1999 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212QYRF"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "count": 8,
     "offres": [
@@ -5351,367 +6168,6 @@
         "employeurHandiEngage": false,
         "_recherche": "Chargé de clientèle",
         "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      }
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "count": 8,
-    "offres": [
-      {
-        "id": "5744341",
-        "intitule": "Business Analyst (en Assurances IARD) - AXA Luxembourg - CDI (H/F)",
-        "description": "Notre environnement de travailFier/ière d'appartenir au Groupe AXA, une marque d'assurance internationale et un leader mondial des services financiers, la société AXA Assurances Luxembourg est un acteur majeur du secteur des assurances au Grand-Duché.Nous aidons nos clients à traverser les petites et grandes difficultés de la vie. Chaque jour, nous agissons ensemble pour inventer la meilleure manier/ière de les protéger et voulons donner à chacun les moyens de vivre une vie meilleure.Chez AXA, nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs. C'est pour cette raison que nous menons une politique RH engagée qui favorise la diversité, qui préserve l'équilibre vie privée-vie professionnelle et accompagne le développement des compétences et des carrier/ières. Quelle que soit l'équipe que vous rejoignez au sein de notre organisation, certaines choses sont vraies pour nous tous : une culture forte fondée sur la confiance, le respect et où nous sommes bienveillants les uns avec les autres, parce que c'est la meilleure façon d'être les meilleures versions de nous-mêmes. Nous cherchons toujours à attirer des talents dans notre entreprise, tout en continuant à développer notre personnel existant.Vos missions Au sein de la Direction IT, vous accompagnerez les équipes d'AXA Luxembourg dans les phases d'analyse et de testing de nos projets de transformation. Vous serez également appelé à suivre les demandes des clients internes, à les sélectionner, les hiérarchiser et à suivre les étapes de leur réalisation.En qualité de Business Analyst vous êtes l'interlocuteur clé entre nos clients internes et l'informatique. Vous contribuez activement à l'élaboration du contenu du projet par les actions suivant/antes : Vous êtes en charge de l'étude, de l'analyse fonctionnelle et de la formalisation des demandes business.Vous challengez l'expression des besoins et proposez des solutions innovant/antes.Vous participez au suivi du planning des réalisations en collaboration avec le chef de projet.Vous définissez la stratégie de tests, préparez les scénarios de tests, suivez leur parfaite exécution et rapportez les résultats.Vous animez des réunions de coordination et de réflexion sur différents thèmes.Vous maîtrisez les processus « end-to-end » dans l'entreprise.Vous accompagnez les utilisateurs dans le processus de changement,Votre profil  Vous disposez de 3 à 5 ans d'expérience en qualité de Business Analyst IT et/ou en Test Management.  La connaissance des métiers de l'assurance est essentielle.La connaissance d'une des plateformes suivant/antes est un atout : Salesforce (Service Cloud/Sales Cloud).Vous maîtrisez à la fois les techniques d'analyses (ex. BABOK, IREB) et de tests (ex. ISTQB). Les compétences en approche « Agile - Continuous Delivery » seront un plus.Vous êtes analytique, synthétique et pragmatique.Tout en étant autonome, vous avez le sens du contact et la capacité à travailler en équipe.Vous appréciez les responsabilités et l'accompagnement du business dans sa transformation.La satisfaction de nos clients est votre priorité : vous vous engagez à fournir un service optimal par une gestion rapide et qualitative dans des domaines en constant/ante évolution.Vous avez une expérience probant/ante sur des projets AGILE.Vous disposez de bonnes capacités relationnelles, de communication et d'adaptabilité.Vous maitrisez le français et l'anglais.Vos avantagesVous avez envie de mettre votre énergie et votre talent au service de nos clients et de la société dans son ensemble ? Faites partie de notre grande famille en rejoignant : Un cadre stimulant où la formation continue permet sans cesse d'enrichir ses compétences et développer son employabilité ;Une entreprise très attachée à la qualité de vie au travail de ses salariés et qui offre de nombreux avantages collaborateurs (télétravail, programme de Well-being et , activités sportives en dehors du temps de travail, ,5 jours de congés, etc.) ;Une entreprise responsable menant une politique volontaire pour reconnaître et valoriser les différences individuelles dans un environnement de travail inclusif ;Une compagnie où sont organisés des événements culturels, sportifs et conviviaux tout au long de l'année (Staff Days, After-works, visites des musées gratuites, city trips etc) ;Un employeur citoyen qui agit en faveur de causes sociétales et environnementales en tant qu'assureur, investisseur et entreprise notamment au travers de l'association AXA Atout Cœur.",
-        "dateCreation": "2026-08-06T07:01:35.759Z",
-        "dateActualisation": "2026-08-06T07:01:35.759Z",
-        "lieuTravail": {
-          "libelle": "Luxembourg"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(ère) commercial(e) en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5744341",
-          "partenaires": [
-            {
-              "nom": "MOOVIJOB",
-              "url": "https://www.moovijob.com/offres-emploi/axa-luxembourg/business-analyst-en-assurances-iard-axa-luxembourg-cdi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "5719819",
-        "intitule": "Business Developer H/F",
-        "description": "Notre mission chez Fed Group est de créer des rencontres qui ont du sens ! Pour nous, dans chaque rencontre il y a une opportunité.\n\nAu sein de Fed Group, Fed Supply est la marque dédiée aux recrutements dans les métiers de la Supply Chain.\nNous recrutons pour nos clients en Administration des Ventes, Support commercial, Relation clients, lmport-Export, Achats, Transport, Logistique de production et Logistique d'exploitation.\n\nPour accompagner la croissance de cette marque établie depuis 2010 et développer nos activités de recrutement permanent et temporaire (CDI, CDD et Intérim), nous recherchons un ou une Consultant(e) en recrutement qui saura accompagner nos clients situés en Ile de France, issus de tous secteurs d'activité (majoritairement industriel et distribution) et de toutes tailles (PME, grands groupes, ...).\nPoste à pourvoir à Paris 8ième (75008) dans le cadre d'un CDI.\nPour que notre collaboration soit un succès, nous te formerons et/ou t'accompagnerons pour que tu sois opérationnel(le) sur le métier à 360 - commercial et recrutement -, et ensuite que tes succès te permettent de créer ton parcours d'évolution (managérial ou transversal) dans le groupe.\n\nLa finalité du poste se résume en 2 axes :\no Développement commercial : tout ce qu'on attend d'un ou d'une commercial(e) à ce sujet : développement du portefeuille prospects et clients existants, prospection, stratégie commerciale, suivi de comptes et des postes à pourvoir, rendez-vous physique chez les clients, négociation commerciale, arbitrage, gestion des litiges, ...\no Recrutement : identification des meilleurs candidats, rédaction et diffusion des annonces d'emploi, évaluation en entretiens individuels, gestion des obligations de moyens (référence, ...) et conseils auprès des candidats dans leur recherche.\nCoté clients : positionner les candidats sur les postes confiés dans le but de finaliser les recrutements, puis de suivre leur intégration chez les clients\n\n\nDiplômé(e) de l'enseignement supérieur (Bac+5), tu justifies d'une première expérience dans la vente de services BtoB.\nC'est encore mieux si cette expérience a été réalisée en cabinet de recrutement, ESN ou société d'intérim.\n\nLa connaissance des métiers Supply Chain est un plus mais pas un prérequis. Nous ne sommes pas des opérationnels de la logistique.\n\nSi tu souhaites rejoindre un cabinet ambitieux pour te construire une belle histoire professionnelle, c'est chez Fed Group que tu trouveras ta place !\n\nRémunération et avantages :\n- Pour un(e) débutant(e) : une rémunération fixe de 33K€ et des bonus trimestriels non plafonnés, basés sur ta performance individuelle. Package à +/- 38K€ en moyenne la première année selon tes résultats.\n- Suite à une première expérience/ pour un(e) confirmé(e) : rémunération fixe à négocier et des bonus trimestriels non plafonnés, basés sur ta performance individuelle.\n- Statut cadre, 4 jours de télétravail par mois, jusqu'à 12 RTT cumulables, une très bonne mutuelle et des titres restaurant\n- Un iphone, un ordinateur portable\n- Un véhicule de fonction quand tu évolues\n\nNous te proposons :\n- Un projet ambitieux avec des perspectives d'évolution avec management pour développer ta propre équipe ou sans management pour valoriser des compétences transverses\n- Une entreprise solide, 24 ans d'existence, en développement constant, certifiée par le label HappyIndexAtWork de Choose my Company\n- Une politique mobilité active en France comme à l'international\n- Des moyens pour travailler : un puissant CRM (Salesforce), des accès aux meilleures CVthèques et diffuseurs d'annonces, une équipe de 25 Business Partners mobilisés pour t'accompagner dans la réussite (RH, Juridique, Finance, IT, Marketing et Communication, Qualité & innovation ...)\n- Une forte Learning Culture : tu bénéficieras d'un cursus de formation complet avec un accès à plus d'une quinzaine de formations par an (en commercial, en recrutement, aux métiers de la Supply Chain, en non-discrimination, en soft skills comme en communication, organisation, gestion des émotions, ...)\n-Des challenges locaux et aussi nationaux te permettant de te confronter aux meilleurs et de pouvoir remporter différents prix\n- Et surtout une équipe qui sait allier travail et plaisir, et dont l'objectif est de proposer la meilleure expérience à ses candidats et clients !\n\nPlus d'infos ?\nwww.fed-group.fr\nhttps://www.tiktok.com/@fed.group\nhttps://www.instagram.com/fedgroup_/\n\nContrat : CDI\nSalaire : 33000 à 45000 EUR par an",
-        "dateCreation": "2026-08-05T13:58:18.323Z",
-        "dateActualisation": "2026-08-05T13:58:18.323Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "M1707",
-        "romeLibelle": "Responsable du développement commercial",
-        "appellationlibelle": "Responsable développement / Business Developer",
-        "entreprise": {
-          "nom": "FED SUPPLY"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5719819",
-          "partenaires": [
-            {
-              "nom": "JOBTRANSPORT",
-              "url": "https://www.jobtransport.com/offre-emploi/ido/3241775.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Business Developer",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "5700928",
-        "intitule": "Fund Admin or Fund Accountant? Become a Jr Fund Controller! (H/F)",
-        "description": " Vous avez déjà acquis une premier/ière expérience dans les fonds au Luxembourg et souhaitez aujourd'hui intégrer une structure plus qualitative, où vous apprendrez auprès d'experts tout en conservant un véritable équilibre de vie ?Notre client est une AIFM, reconnue sur la place luxembourgeoise pour son expertise en Private Equity. Loin des grandes structures impersonnelles, vous rejoindrez une équipe de spécialistes, où chaque collaborateur bénéficie d'un réel accompagnement, d'une grande autonomie et d'une forte visibilité.Situés à seulement quelques minutes de la Gare de Luxembourg, les bureaux sont parfaitement accessibles en train, tram ou bus.Vos responsabilitésSuperviser les Fund Administrators, auditeurs et autres prestataires externes.Participer à la préparation des reportings financiers et investisseurs.Assurer le suivi des capital calls, distributions et mouvements de trésorerie.Collaborer avec les équipes Investment, Legal, Compliance et Middle Office sur les opérations des fonds.Coordonner les audits, les reportings fiscaux et répondre aux demandes des investisseurs.Contribuer au bon fonctionnement de l'administration des fonds et à l'amélioration des processus.Votre profilEntre 6 mois et 2 ans d'expérience au Luxembourg.Une expérience acquise en Fund Administration, Fund Accounting, Fund Controlling ou Audit.Français et anglais courants.Vous êtes à l'aise avec les nouvelles technologies et souhaitez évoluer dans une société qui investit dans l'innovation.Notre offreUn salaire pouvant atteindre . € brut annuel, selon votre expérience.Un bonus annuel.Un plan de pension et une assurance .Divers avantages complémentaires. jours de congé.Une politique de télétravail particulier/ièrement flexible.Des horaires flexibles favorisant un excellent équilibre entre vie privée et vie professionnelle.Des augmentations salariales annuelles.Des team buildings, dédynamiquers d'équipe et événements organisés tout au long de l'année.Des bureaux idéalement situés à proximité immédiate de la Gare de Luxembourg. Vous recherchez une structure qui vous formera réellement au métier de Fund Controller, dans une équipe reconnue pour son expertise et son excellente ambiance ? Cette opportunité pourrait bien être la prochaine étape de votre carrier/ière.",
-        "dateCreation": "2026-08-05T12:59:04.694Z",
-        "dateActualisation": "2026-08-05T12:59:04.694Z",
-        "lieuTravail": {
-          "libelle": "Luxembourg"
-        },
-        "romeCode": "D1444",
-        "romeLibelle": "Responsable grands comptes",
-        "appellationlibelle": "Key Account Manager",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5700928",
-          "partenaires": [
-            {
-              "nom": "MOOVIJOB",
-              "url": "https://www.moovijob.com/offres-emploi/austin-bright/fund-admin-or-fund-accountant-become-a-jr-fund-controller",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "5716041",
-        "intitule": "Formateur réseaux assurances IARD F/H h/f",
-        "description": "Description de l'entrepriseAvant de commencer, quelques mots sur notre entreprise :\nIntégrer BPCE Assurances IARD, c'est rejoindre une entreprise qui fait partie du 2èmegroupe bancaire en France : Le groupe BPCE.\nBPCE Assurances IARD conçoit et gère ses contrats d'assurances non-vie distribués par les réseaux Banque Populaire et Caisse d'Epargne à ses clients particuliers.\nBPCE Assurances IARD c'est aussi une entité à part entière en pleine croissance qui a à cœur d'accompagner ses assurés dans chaque situation.\nVous souhaitez saisir une opportunité et faire partie de l'aventure ?\nVous êtes au bon endroit, BPCE Assurances IARD recherche ses futurs talents !\nMais à quoi ressemblera votre nouveau quotidien, ne bougez pas nous allons vous expliquer.Poste et missionsPour accompagner le développement des ventes et la mise en marché des offres, le formateur réseau assurances IARD doit :\n-Déployer les formations proposées par le département Ingénierie pédagogique et méthodes de ventes :\n- En présentiel dans les établissements ou à Paris pour les sessions inter établissements,\n- En distanciel (Classe virtuelle),\n- À destination des animations internes (formateur de formateur) pour déploiement de la formation en interne par les Caisses d''Epargne et les Banques Populaires.\n- À destination des conseillers ou téléconseillers particuliers ou professionnels, directeurs d'agences, des responsables régionaux de BPCEAI ou toute autre cible définie avec l'établissement et en accord avec notre feuille de route.\n\nLe formateur doit être mobile sur toute la France et disponible pour les 2 réseaux Banques Populaires et Caisses d'Epargne.\nLe formateur devra respecter les contraintes réglementaires DDA et dans ce cadre dispenser les formations de façon fidèle au support (support d'animation et guide animateur) et à la durée annoncée.\nLe formateur contribue également à la création des supports en remontant les demandes ou observations terrains, en participant à des ateliers ou relecture en fonction de ses dispositions (ex : période estivale).\nIl est amené à travail de façon transverse avec les autres membres de l'équipe et les services formation et animation des établissements.Profil et compétences requisesLe candidat devra :\n- avoir une bonne connaissance de l'IARD et du groupe\n- avoir une appétence indispensable l'animation de formation\n- être mobile toute la semaine sur toute la France (3/4 jours d'animation par semaine)\n- être autonome sur la gestion de ses déplacements\n- avoir des connaissances sur les modalités pédagogiques\n- aimer et savoir travailler en équipe\n\nInformations complémentaires sur le postePour finir, BPCE Assurances IARD c'est aussi :\n- Un parcours d'intégration et de formation pour vous former à votre nouveau métier et vous donner toutes les clés pour réussir\n- Un environnement de travail repensé au profit d'une expérience collaborateur optimisée\n- Un accompagnement managérial de proximité\n- Une rémunération fixe annuelle sur 13,5 mois comprenant un 13ème mois et une prime vacances, des possibilités de primes exceptionnelles et/ou de rémunération variable pour valoriser votre performance, une participation et un intéressement avec un abondement pouvant aller jusqu'à 3500 euros.\n- Des modalités de télétravail jusqu'à 10 jours mensuels\n- Des possibilités d'évolutions en CDI et de mobilités\n- L'accès aux offres voyages, billetterie et chèques vacances de notre CSE\nAlors ? Vous souhaitez que nous formions un duo de choc ? Les cartes sont entre vos mains !\nNous sommes une entreprise handi- accueillante et ouverte à la diversité sous toutes ses formes. Seules votre personnalité et vos compétences comptent.\nNOTRE PROCESS DE RECRUTEMENT\nNotre annonce vous parle et vous donne envie ? Candidatez, et si votre profil matche notre équipe de recruteurs vous contactera :\n- 1 entretien pour comprendre votre parcours et vos motivations\n- 1 à 2 entretiens métiers\nA minima un des entretiens aura lieu au sein de nos locaux, pour que vous puissiez découvrir votre futur environnement de travail.\nNous sommes fiers de notre engagement en faveur de l'inclusion et de la diversité notamment au travers de notre accord Handicap Groupe qui, entre autres, met à disposition des collaborateurs concernés les aménagements nécessaires afin qu'ils puissent continuer à valoriser leurs compétences et à évoluer au sein de notre Groupe.",
-        "dateCreation": "2026-08-05T13:49:44.516Z",
-        "dateActualisation": "2026-08-05T13:49:44.516Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller / Conseillère (IARD)",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5716041",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPCE_ASS02105#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "5716042",
-        "intitule": "Conseiller Clientèle Professionnels F/H -  Montélimar - BANQUE MARZE par BPS h/f",
-        "description": "Description de l'entreprise? Notre entreprise, #CestCommeçaChezNous  Avec plus de 250 agences implantées de l'Ardèche à l'Ariège, la Banque Populaire du Sud est une Banque Coopérative Régionale, appartenant au 2ème groupe bancaire français (BPCE). Elle comprend également la Banque Dupuy, de Parseval, la Banque Marze et le Crédit Maritime Méditerranée. 100% des décisions sont prises en local. 100% de l'épargne collectée finance des projets en local. 100% de nos équipiers vivent en local. Poste et missions? Le poste et ses missions.   En tant que Conseiller Clientèle Professionnels, vous intégrez une équipe dynamique et solidaire au sein de l'une de notre agence MARZE MONTELIMAR Vos missions seront les suivantes : Développer , conseiller et gérer une clientèle de Professionnels (artisans, commerçants, professions libérales, agriculteurs, etc.) constituée sous des formes juridiques variées (Entreprises Individuelles ou Sociétés),dans un souci de sécurité et de rentabilité Fidéliser la clientèle en étant l'interlocuteur privilégié pour la gestion du patrimoine privé et professionnel. Proposer les produits et services bancaires adaptés aux besoins et assurer la gestion courante des comptes, et le suivi de chaque dossier. Pourvu(e) d'un véritable goût du challenge, contribuer à la performance commerciale de l'agence et à la réalisation des objectifs. Profil et compétences requises? Votre profil matche ?  Vous détenez un BAC +2/3 validé ou plus,   Vous êtes organisé, rigoureux, doté d'un sens relationnel et d'un esprit d'équipe qui vous permettra de relever tous les challenges,   Vous maîtrisez les techniques bancaires et assurances de base ainsi que les techniques de ventes rapides, Vous connaissez les circuits, procédures et règles de déontologie, et que vous êtes à l'aise avec le digital.  ? Les infos qui comptent aussi.  Caractéristiques, suivi de carrière et avantages collaborateurs :  Le poste est à pourvoir à compter du 01/09/2025 Vous pouvez bénéficier de jours de télétravail en fonction de l'organisation de votre équipe Chez nous, chaque collaborateur bénéficie d'un plan de carrière et d'un suivi RH personnalisé (avec plus de 200 métiers, c'est important ?)  Nous investissons 7 fois plus que l'obligation légale pour la formation de nos collaborateurs.   Chez nous, la création de valeurs bénéficie aussi aux collaborateurs avec un Intéressement et participation équivalent en moyenne à trois mois de salaire (ça c'est vraiment CANON ?).  Vous bénéficiez d'une Carte ticket restaurant (60 % pris en charge par l'employeur)  Pour vous protéger, vous avez accès à notre mutuelle d'entreprise Notre CSE vous offrira de multiples avantages Une Agence bancaire « Pop 4 You » est exclusivement dédiée à nos collaborateurs et à leur famille pour vous faire vivre une expérience client premium.   ?Les bonnes raisons de nous rejoindre !   Les débuts, comment ça se passe ? ? ",
-        "dateCreation": "2026-08-05T13:49:44.497Z",
-        "dateActualisation": "2026-08-05T13:49:44.497Z",
-        "lieuTravail": {
-          "libelle": "26 - Montélimar",
-          "codePostal": "26200",
-          "commune": "26198"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée de clientèle de banque",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5716042",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPS00992#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "5716024",
-        "intitule": "Conseiller Clientèle Particuliers (F/H) h/f",
-        "description": "Description de l'entrepriseLa Banque Populaire Val de France fait partie du Groupe BPCE, 2e groupe bancaire français.\nBanque Coopérative Régionale qui appartient à ses 185 000 sociétaires, la Banque Populaire Val de France s'engage pour la réussite économique et humaine de sa région en restant fidèle à ses engagements d'origine : stimuler toutes les initiatives et l'esprit d'entreprendre.\n? La Banque Populaire Val de France, c'est 179 agences à travers 10 départements : Yvelines, Essonne, Hauts de Seine, le Centre Val de Loire et la Vienne.\nEt si vous nous rejoignez ? La Banque Populaire Val de France vous permet de vous former, d'évoluer, d'être en proximité avec la clientèle et vos collègues.Poste et missions? Vos missions clés Vous aurez en charge un portefeuille qui vous permettra de rencontrer vos clients, de les guider dans leurs projets de vie et de garantir leur satisfaction. Vous devrez les conseiller sur notre gamme de produits, services financiers et d'assurance afin de mieux les accompagner sur le long terme. Vous vous challengerez avec votre équipe et votre manager pour développer votre portefeuille à travers des actions de prospection et de manifestations. Profil et compétences requises? Profil & compétences recherchés Vous êtes diplômé(e) d'un BAC +2 / BAC + 3 minimum et vous justifiez impérativement d'une première expérience réussie d'au moins 3 ans dans la gestion d'un portefeuille de clients particuliers en banque de détail Vous faites preuve d'un esprit d'équipe, de partage et avez le goût du challenge Vous avez une capacité d'écoute active, un intérêt marqué pour votre clientèle et êtes déterminé(e) dans la réalisation de vos missions et vos projets de carrière Vous maîtrisez les outils d'IA mis à disposition par l'entreprise et savez adapter votre travail en intégrant les fonctionnalités de l'IA.\nLa certification AMF doit être validée.Informations complémentaires sur le posteCe que vous recherchez : Une entreprise avec des perspectives d'évolution de poste et de carrière au sein de notre banque ou de notre groupe. Un accompagnement dès votre entrée à la Banque Populaire Val de France avec notre parcours d'intégration, mais également tout au long de votre carrière. De la proximité avec votre équipe et également avec votre Responsable des Ressources humaines\n? Alors c'est chez nous que ça se passe ! ?\nEn nous rejoignant, vous bénéficierez : D'une rémunération attractive : un salaire annuel brut compris entre 32 000 € et 37 000 € (payé en 13 mensualités), ajusté selon votre expérience D'une part variable motivante : en lien direct avec l'atteinte de vos objectifs D'un dispositif de partage de la performance collective : intéressement et participation pouvant représenter jusqu'à 3 mois de salaire Un équilibre vie pro / perso préservé : organisation en semaine de 4,5 jours, RTT, Télétravail Des avantages au quotidien et un socle social attractif Une protection sociale de qualité : couverture santé et prévoyance avantageuse Une mobilité facilitée et durable : prise en charge des frais de transport, indemnité de covoiturage Un soutien à la parentalité : indemnités de garde et primes de scolarité par enfant De nombreux avantages proposés par le CSE : culture, sport, loisirs, vacances. Un développement professionnel continu : parcours de formation complet et certifiant Une intégration soignée : parcours d'accueil incluant 3 jours au siège social Notre processus de recrutement  Notre équipe de recrutement se charge de vous joindre par téléphone afin d'échanger sur votre projet de carrière et les formalités. Un entretien RH pour échanger sur votre parcours et comprendre votre motivation à rejoindre la Banque Populaire Val de France. Un entretien opérationnel pour étudier votre côté terrain directement Enfin, nous intégrons la prise de références afin d'assurer une évaluation complète des candidats et de garantir un meilleur alignement avec les valeurs et les exigences de notre entreprise.\nInformations supplémentaires :\nLa diversité et l'inclusion sont des valeurs fondamentales pour notre banque : ce poste est ouvert à tous les talents, sans aucune distinction.",
-        "dateCreation": "2026-08-05T13:49:44.005Z",
-        "dateActualisation": "2026-08-05T13:49:44.005Z",
-        "lieuTravail": {
-          "libelle": "86 - Poitiers",
-          "codePostal": "86000",
-          "commune": "86194"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5716024",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPVF01786#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "5716032",
-        "intitule": "Devenez Conseiller de Clientèle Particuliers (H/F) h/f",
-        "description": "Description de l'entrepriseVous cherchez un nouveau départ professionnel ? Nous avons une place pour vous. Description de l'entreprise À la Caisse d'Épargne Hauts de France, nous croyons que les parcours atypiques sont souvent les plus riches. Banque coopérative régionale du 2e groupe bancaire français (BPCE), nous sommes fiers de notre ancrage local et de notre engagement pour un avenir plus solidaire, durable et humain. Avec un réseau de 300 agences, 11 Centres d'Affaires, 1 Banque Privée, 1 Banque Digitale et plus de 3 000 collaborateurs, nous accompagnons nos clients dans tous les moments de leur vie. Et si vous étiez le prochain talent à nous rejoindre ? Que vous veniez du secteur commercial, de la grande distribution, du tourisme, ou d'un tout autre univers professionnel ou même sportif de haut niveau, votre curiosité, votre relationnel et votre envie d'apprendre sont vos meilleurs atouts.Poste et missionsPoste et missions Conseiller Clientèle Particuliers (H/F) - Parcours de formation en reconversion Vous n'avez jamais travaillé en banque ? Parfait. Nous vous formons de A à Z pour devenir un conseiller clientèle particulier accompli. Dans le cadre de ce parcours de formation en reconversion, vous bénéficiez d'une organisation pensée pour vous faire monter en compétences rapidement et durablement. ? Un rythme 3 semaines / 1 semaine pour allier pratique et théorie 3 semaines par mois en agence\nVous êtes pleinement intégré à une équipe et accompagné par un tuteur. Sur le terrain, vous découvrez et pratiquez concrètement le métier de Conseiller Clientèle Particuliers : accueil et accompagnement des clients, analyse des besoins et conseil, proposition de solutions adaptées (épargne, crédits, assurances.), utilisation des outils et application des procédures, participation à la vie commerciale de l'agence. Cette immersion progressive vous permet de développer vos réflexes professionnels, votre aisance relationnelle et votre compréhension du fonctionnement d'une agence bancaire. 1 semaine par mois en formation à Villeneuve d'Ascq\nVous suivez une formation structurée, dispensée par l'École Supérieure de la Banque, pour vous construire un capital théorique solide et directement opérationnel : fondamentaux de la banque et de l'assurance, cadre réglementaire et conformité, techniques de vente et de conseil, analyse de la situation financière des clients, gestion d'un portefeuille et prévention des risques. À l'issue de ce parcours, vous validerez également un diplôme reconnu, le Bachelor Banque Assurance (Bac +3), via l'École Supérieure de la Banque.Profil et compétences requisesProfil recherché Vous êtes en reconversion professionnelle ou souhaitez donner un nouveau souffle à votre carrière Vous avez un bac +2 validé et vous aimez travailler en équipe Votre sens commercial et de la relation client, votre goût du challenge et votre dynamisme sont les atouts qui feront la différence. Si vous aimez relever des défis, ce poste est fait pour vous ! Pourquoi nous rejoindre ? Une formation complète au métier de banquier, prise en charge dès votre arrivée. Une banque engagée et utile, certifiée B Corp, qui agit pour son territoire et ses habitants. Un socle social solide : 13e mois, mutuelle, tickets resto, prime de transport, 35 jours de congés payés, RTT. Un environnement où vos idées comptent, vos efforts sont reconnus, et votre parcours valorisé. Rejoindre la Caisse d'Épargne Hauts de France, c'est faire bien plus qu'un métier. C'est apprendre, évoluer, et être utile. Si vous êtes prêt à faire le premier pas vers une carrière enrichissante dans le domaine bancaire et à contribuer à un modèle économique respectueux et solidaire, n'attendez plus ! Postulez dès aujourd'hui et commencez votre nouvelle aventure avec nous.",
-        "dateCreation": "2026-08-05T13:49:44.000Z",
-        "dateActualisation": "2026-08-05T13:49:44.000Z",
-        "lieuTravail": {
-          "libelle": "59 - Dunkerque",
-          "codePostal": "59140",
-          "commune": "59183"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5716032",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CEHDF05946#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "5699646",
-        "intitule": "Chargé d'affaires maintenance junior CVC H/F",
-        "description": "RESPONSABILITÉS : \n\nRattaché-e au Chargé d'affaires maintenance, Michel, et en relation quotidienne avec les Techniciens de maintenance, vous participez aux chiffrages des contrats et aux devis de réparations, au suivi technique des opérations de maintenance ainsi qu'à la gestion et à la planification des équipes dans le cadre des affaires générées par l'activité maintenance.\nVous accompagnez votre responsable dans la constitution des dossiers techniques et vous veillez à la bonne application des procédures en matière de sécurité.\nVous participez aux réunions avec le personnel technique afin d'organiser les interventions dans le cadre préventif et curatif.\n \nPoste à pourvoir en CDI - temps plein au sein de notre agence ANVOLIA 44 situé au 24 rue Leinster à La Chapelle sur Erdre.\n\nPROFIL RECHERCHÉ : \n\nDe formation technique dans le domaine du génie climatique et thermique, vous avez une expérience réussie de 5 ans minimum sur un poste similaire.\nVous avez une vision complète d'une installation type, vous êtes organisé-e, méthodique et avez l'esprit de service.\nUne habilitation à la manipulation des fluides serait un plus.\nUne bonne maîtrise des outils informatiques est recommandée.\nRigueur, relationnel aisé, autonomie et sens des responsabilités sont vos atouts principaux pour mener à bien vos activités.\n \nVous souhaitez participer au développement d'Anvolia et vous investir durablement au sein d'une équipe à taille humaine ? Rejoignez-nous !\nDynamisme, proximité, esprit familial et convivial... sont des valeurs qui nous représentent.\nChez Anvolia, bénéficiez de plusieurs avantages :\n-      Un salaire adapté à votre expérience et une prime de participation\n-      Une prime de congés payés et des jours de RTT\n-      Une mutuelle attractive (avec participation employeur à hauteur de 70%)\n-      Une carte tickets restaurant SWILE (avec participation employeur à hauteur de 60%)\n-      Une prime de parrainage possible\n-      Des avantages et services via Action logement (aides et prêts)\n-      Un organisme de formation interne (Anvoli'academy)\n-      Un parcours d'intégration sur mesure\n-      Un compte avantages HelloCSE (réductions sur les places de cinéma, parcs, sorties...)\n-      Des évolutions professionnelles internes possibles\n \nAlors, prêt-e à postuler ?",
-        "dateCreation": "2026-08-05T12:51:18.000Z",
-        "dateActualisation": "2026-08-05T12:51:18.000Z",
-        "lieuTravail": {
-          "libelle": "44 - Chapelle-sur-Erdre",
-          "latitude": 47.299446,
-          "longitude": -1.551338,
-          "codePostal": "44240",
-          "commune": "44035"
-        },
-        "romeCode": "F1135",
-        "romeLibelle": "Chargé / Chargée d'affaires BTP",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale BTP",
-        "entreprise": {
-          "nom": "Anvolia 44",
-          "description": "Un nouveau souffle dans votre vie professionnelle, ça vous dit ?\nAnvolia, entreprise française indépendante en génie climatique en fort développement, est spécialisée dans l'installation et la maintenance des équipements de climatisation, chauffage ventilation et plomberie auprès des professionnels, depuis 1991."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5699646",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/zertfzicsq8/charge-d-affaires-maintenance-junior-cvc-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Nantes",
         "_score": 0,
         "_is_remote": false
       }
