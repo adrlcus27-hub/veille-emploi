@@ -1,5 +1,381 @@
 [
   {
+    "date": "2026-08-21",
+    "count": 6,
+    "offres": [
+      {
+        "id": "6154640",
+        "intitule": "Responsable service et relation client magasin (H/F)",
+        "description": "RESPONSABILITÉS : \n\nDéfi RH, cabinet de recrutement dédié à l'emploi des travailleurs handicapés, recherche, pour un de ses clients spécialisé dans le commerce, des :\n \nResponsable service et relation client magasin (H/F)\n \nVos missions principales sont les suivantes :\n -  Garantir la fluidité et la fiabilité de l'encaissement dans le respect des procédures,\n -  Organiser les plannings de l'équipe et coordonner l'activité quotidienne du service client (pauses, congés, intégration),\n -  Planifier les événements clients en magasin et assurer la coordination avec les différents services,\n -  Accompagner la montée en compétences de l'équipe, relayer les informations managériales et soutenir les collaborateurs en cas de besoin.\n\nPROFIL RECHERCHÉ : \n\nNotre cabinet de recrutement est dédié à l'emploi des travailleurs handicapés.\n\n\n\nDe niveau bac, vous disposez d'une solide expérience dans le management d'équipe.\n \nDynamique et organisé(e), vous savez faire preuve de pédagogie et vous aimez les challenges. Vous disposez d'excellentes capacités relationnelles et êtes doté(e) d'un bon sens de l'écoute.\n \nCe poste est à pourvoir en CDI à Colomiers (31). Ce poste implique le port de charges lourdes ainsi qu'une disponibilité Week-end.\nréf 5095.",
+        "dateCreation": "2026-08-21T04:31:44.791Z",
+        "dateActualisation": "2026-08-21T04:31:44.791Z",
+        "lieuTravail": {
+          "libelle": "31 - Colomiers",
+          "codePostal": "31770",
+          "commune": "31149"
+        },
+        "romeCode": "D1503",
+        "romeLibelle": "Chef / Cheffe de rayon de produits non alimentaires",
+        "appellationlibelle": "Responsable de rayon produits non alimentaires",
+        "entreprise": {
+          "nom": "Défi RH"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6154640",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/n5fy7qr68t8/responsable-service-et-relation-client-magasin-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "6154614",
+        "intitule": "Responsable service et relation client (H/F)",
+        "description": "RESPONSABILITÉS : \n\nDéfi RH, cabinet de recrutement dédié à l'emploi des travailleurs handicapés, recherche, pour un de ses clients spécialisé dans le commerce, des :\n \nResponsable service et relation client (H/F)\n \nvos missions principales sont les suivantes :\n -  Garantir la fluidité et la fiabilité de l'encaissement dans le respect des procédures,\n -  Organiser les plannings de l'équipe et coordonner l'activité quotidienne du service client (pauses, congés, intégration),\n -  Planifier les événements clients en magasin et assurer la coordination avec les différents services,\n -  Accompagner la montée en compétences de l'équipe, relayer les informations managériales et soutenir les collaborateurs en cas de besoin.\n\nPROFIL RECHERCHÉ : \n\nNotre cabinet de recrutement est dédié à l'emploi des travailleurs handicapés.\n\n\n\nDe niveau bac, vous disposez d'une expérience solide dans le management d'équipe.\n \nDynamique et organisé(e), vous savez faire preuve de pédagogie et vous aimez les challenges. Vous disposez d'excellentes capacités relationnelles et êtes doté(e) d'un bon sens de l'écoute.\n \nCe poste est à pourvoir en CDI à Villeneuve d'Ascq (59). Ce poste implique le port de charges lourdes ainsi qu'une disponibilité week-end.\nréf 5095",
+        "dateCreation": "2026-08-21T04:31:44.780Z",
+        "dateActualisation": "2026-08-21T04:31:44.780Z",
+        "lieuTravail": {
+          "libelle": "59 - Villeneuve-d'Ascq",
+          "codePostal": "59491",
+          "commune": "59009"
+        },
+        "romeCode": "D1503",
+        "romeLibelle": "Chef / Cheffe de rayon de produits non alimentaires",
+        "appellationlibelle": "Responsable de rayon produits non alimentaires",
+        "entreprise": {
+          "nom": "Défi RH"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6154614",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/p5drbgnp2j8/responsable-service-et-relation-client-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "6154453",
+        "intitule": "Conseiller en Gestion de Patrimoine Salarié H/F - Clientèle Haut de gamme",
+        "description": "RESPONSABILITÉS : \n\n Vos missions\n\n\n -  Développer et fidéliser un portefeuille de clients à fort potentiel.\n - Identifier les besoins patrimoniaux et proposer des solutions sur mesure : épargne, retraite, prévoyance, placements, immobilier,..\n -  Créer, animer et développer un réseau de prescripteurs (experts-comptables, professions libérales, chefs d'entreprise...)\n - Travailler avec des outils patrimoniaux performants et une méthode de vente reconnue.\n\n\n Ce que vous gagnez\n\n\n -  Rémunération motivante : fixe + commissions non plafonnées + primes liées à des actions clés.\n -  Moyenne annuelle pour les profils confirmés : 80 000 à 100 000 brut/an.\n - les meilleurs sont rémunérés bien au delà des 100 K brut/an.\n - Intéressement, participation, plan action avec abondement entreprise\n - Véhicule fonction\n\n\nPrécisions\nCe poste est en \"vrai\" statut salarié.\n\n\nEn revanche pour les profils les plus expérimentés avec la fibre entrepreneuriale et disposant d'un réseau solide, une alternative en statut d'Agent Général Expert en patrimoine et protection sociale pourra vous être proposé au sein de la même compagnie, avec possibilité de valoriser et céder à terme son propre portefeuille.\nLes différents modèles pourront vous être exposés lors d'un premier entretien.\n\nPROFIL RECHERCHÉ : \n\n Profil recherché  - Minimum 3 ans d'expérience dans la gestion de patrimoine, la banque, l'assurance ou la vente de solutions financières.\n - Solide fibre commerciale, excellent relationnel, capacité à créer et développer un réseau.\n - Autonomie, rigueur, goût du conseil personnalisé et du terrain.\n\n\nNous recherchons avant tout des profils \"développeurs\" capables de créer des liens avec des apporteurs d'affaires, générer de la recommandation. Un portefeuille n'est pas systématiquement remis par la compagnie : c'est à vous d'aller chercher vos clients. En revanche, vous bénéficiez pour cela d'un appui logistique, humain, financier incomparable.\nVous bénéficiez en contrepartie du Payplan le plus attractif du marché avec une rémunération en proportion de vos performances.\n\n\nSi vous recherchez un poste centré exclusivement sur la gestion d'un portefeuille remis, ce job ne sera pas fait pour vous\n\n\nBesoin d'autonomie, d'être centré sur votre expertise, être payé à hauteur de vos contributions : vous serez comblé.",
+        "dateCreation": "2026-08-21T04:31:31.543Z",
+        "dateActualisation": "2026-08-21T04:31:31.543Z",
+        "lieuTravail": {
+          "libelle": "13 - Marseille 1er Arrondissement",
+          "codePostal": "13001",
+          "commune": "13201"
+        },
+        "romeCode": "C1205",
+        "romeLibelle": "Conseiller / Conseillère en gestion de patrimoine",
+        "appellationlibelle": "Conseiller / Conseillère en développement de patrimoine",
+        "entreprise": {
+          "nom": "Mercato de l'emploi"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 45000.0 Euros à 120000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6154453",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/2fbiruk3db8/conseiller-en-gestion-de-patrimoine-salarie-h-f-clientele-haut-de-gamme",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "6154145",
+        "intitule": "Commercial B2B (H/F)",
+        "description": "Airnest est une start-up de l'économie circulaire, qui propose des solutions d'ameublement flexible et durable. Nous voulons créer une alternative responsable à l'achat de meubles neufs qui permette à chacun de s'équiper facilement, économiquement et avec style, tout en réduisant son empreinte environnementale.\n\nTa mission ? Au sein du pôle Vente, tu auras pour mission de développer la clientèle professionnelle d' Airnest.\n\nVos missions\n\n* Identification des opportunités commerciales (prospection téléphonique, digitale et via des salons)\n* Gestion de ton pipeline d'opportunités\n* Elaboration de propositions commerciales\n* Conseil et accompagnement des clients\n* Développement des comptes clients\n* Coordination des projets (design et logistique)\n* Suivi administratif (facturation, paiements)\n\nVos compétences\n\n* Tu as une expérience en tant que business developer / account executive B2B\n* Tu es à l'écoute de tes clients\n* Tu as le sens du service et tu te positionnes en tant que conseiller (tu fais des ventes qualitatives à plusieurs milliers d'euros plutôt que du volume)\n* Tu sais closer un deal\n* Tu es autonome et rigoureux.euse\n* Tu es dynamique, tu fais preuve d'initiative et tu as le sens du résultat\n* Tu accordes de l'importance aux détails, tu es exigeant.e avec toi même\n\nAvantages\n\n* Tu vas apprendre énormément : nous sommes en pleine croissance !\n* Tu seras au contact direct des fondateurs (second-time entrepreneur, ex-BCG, experts e-commerce)\n* Tu auras la fierté de construire un service vraiment cool, qui permet de réduire l'impact environnemental de nos modes de vie\n\nRejoins-nous pour construire une alternative responsable à l'achat de meubles ",
+        "dateCreation": "2026-08-21T04:01:49.310Z",
+        "dateActualisation": "2026-08-21T04:01:49.310Z",
+        "lieuTravail": {
+          "libelle": "33 - Bordeaux",
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Commercial / Commerciale",
+        "entreprise": {
+          "nom": "Airnest"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6154145",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://join.com/companies/airnestcom/16602733-commercial-b2b?pid=d0c6f59b69df21dc4528",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Commercial B2B",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "212RPZX",
+        "intitule": "Conseiller / Conseillère clientèle à distance (H/F)",
+        "description": "La Plateforme PROCH'EMPLOI de Soissons accompagne une entreprise sur Villers-Cotterêts dans la recherche de CONSEILLER CLIENTÈLE H/F.\n\nVos missions : \nVotre mission principale sera d'assurer une relation client à distance de qualité et répondant aux attentes. \nVous serez l'interlocuteur privilégié des clients de la marque. \nVous conseillez, aidez, traitez les demandes clients en y apportant les solutions les plus adaptées. \nVous assurez la satisfaction client et vous respectez les process associés. \nEn résumé, vous êtes un conseiller client Ambassadeur de la satisfaction client ! \n \nGestion d'appels principalement entrants ; appels sortants à la marge, et en fonction de l'activité, uniquement pour recontacter un client \nPas de prospection. \nUtilisation des outils numériques : mails, chat, réseaux sociaux feront partie de vos outils de travail\n\nPROFIL REQUIS\n- Aisance relationnelle, bonne écoute et le sens du service. \n- Ténacité, gout du challenge et dynamisme seront également appréciés. \n- Un bon esprit d'équipe, un goût certain pour les défis et les challenges vous seront utiles au quotidien. \n- Vous êtes doté(e) d'un excellent sens du relationnel et aimez \"trouver la meilleure solution\" pour votre interlocuteur. \n- Vous faites preuve d'une bonne expression orale et écrite ! (Test d'orthographe à réaliser) \n- Plus que votre parcours, c'est votre motivation et votre personnalité qui feront la différence\n\nCONTRAT PROPOSÉ\nCDD (6 mois (renouvelable jusque 18 mois))\nTemps plein (37 heures par semaine) 37h semaine payés 35h : 14 jours de RTT.\nHoraires du lundi au vendredi 8 H 30 -19 H. Planning défini 3 semaines à l'avance.\n\nDémarrage souhaité le 20/08/2026\n- Formation initiale et continue au métier \n- Possibilité de télétravail hybride après 4 mois de formation (3 à 4 jours par semaine) \n- Primes d'objectifs mensuelles (jusqu'à 2160€ brut par an) \n- Participation \n- Mutuelle prise en charge à 70% par l'employeur \n- Carte titres restaurant ou Restaurant inter-entreprise \n- 25 jours congés payés + 14 jours RTT\nSalaire de base : SMIC + Primes.",
+        "dateCreation": "2026-08-20T10:19:10.618Z",
+        "dateActualisation": "2026-08-20T10:20:51.021Z",
+        "lieuTravail": {
+          "libelle": "02 - VILLERS COTTERETS",
+          "latitude": 49.255067,
+          "longitude": 3.090897,
+          "codePostal": "02600",
+          "commune": "02810"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Conseiller / Conseillère clientèle à distance",
+        "entreprise": {
+          "nom": "PROCH EMPLOI ",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - Service client (souhaité)",
+        "experienceCommentaire": "Service client (souhaité)",
+        "competences": [
+          {
+            "code": "490161",
+            "libelle": "Créer une relation de confiance",
+            "exigence": "E"
+          },
+          {
+            "code": "403441",
+            "libelle": "Effectuer un reporting régulier à la hiérarchie",
+            "exigence": "E"
+          },
+          {
+            "code": "403822",
+            "libelle": "Adapter sa communication selon les interlocuteurs et les médias utilisés",
+            "exigence": "E"
+          },
+          {
+            "code": "501073",
+            "libelle": "Proposer des solutions adaptées aux besoins spécifiques des clients",
+            "exigence": "E"
+          },
+          {
+            "code": "503643",
+            "libelle": "Suivre les dossiers clients jusqu'à résolution",
+            "exigence": "E"
+          },
+          {
+            "code": "503646",
+            "libelle": "Optimiser le temps de réponse aux clients",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Horaire de 12.31 Euros sur 12 mois",
+          "commentaire": "SMIC + primes ",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "70.22Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre à l'écoute, faire preuve d'empathie",
+            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          },
+          {
+            "libelle": "Faire preuve de contrôle de soi",
+            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
+          }
+        ],
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212RPZX"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "6149245",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nEn tant que Responsable Commercial(e), vous jouez un rôle clé dans le développement de notre activité. Rattaché(e) directement à la direction, vous alliez vision stratégique, action terrain et encadrement d'équipe.\n\nVos missions principales :\n\n * Développement commercial et Chasse B2B : Prospecter et développer activement un portefeuille de clients Grands Comptes et PME (Directions Générales, Responsables Marketing/Com, Responsables Formation).\n * Fidélisation et Offres Structurantes : Fidéliser et dynamiser le portefeuille existant ; développer des accords-cadres pluriannuels avec des partenaires récurrents (organismes de formation, etc.).\n * Management et Structuration : Encadrer et faire monter en compétences l'équipe, et créer des process commerciaux structurants (outils, méthodes de vente, suivi).\n * Stratégie et Visibilité : Contribuer au lancement de nouvelles offres (séminaires, salons internes) et participer aux actions de communication pour accroître la notoriété de nos espaces.\n\nConditions de travail :\n\n * Périmètre d'intervention : Île-de-France avec déplacements sur le terrain pour les rendez-vous clients.\n * Organisation : Poste basé sur site à Paris pour assurer la cohésion d'équipe et le suivi opérationnel.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nNous recherchons une personnalité autonome et polyvalente, capable d'échanger avec des interlocuteurs de haut niveau !\n\nVotre profil :\n\n * Expérience réussie en Chasse B2B : Vous avez une première expérience probante dans la prospection active et la vente de services ou de prestations complexes en B2B.\n * Connaissance de l'événementiel : Une expérience ou une connaissance fine du secteur de l'événementiel est un très gros plus pour réussir rapidement sur ce poste.\n * Aisance relationnelle et posture C-Level : Capacité à établir une relation de confiance avec des décideurs de haut niveau (Directions Générales, Comex) grâce à une communication claire, crédible et impactante.\n * Leadership de proximité : Envie d'encadrer, d'accompagner et d'amener de la méthode dans une organisation commerciale.\n * Esprit PME et Polyvalence : Capacité à concevoir des offres sur-mesure tout en faisant preuve d'agilité au quotidien.\n        \n        \nLES AVANTAGES :\n        \n* Package attractif : Rémunération globale brute (fixe + variable) comprise entre 50 K et 55 K par an selon profil et expérience.\n * Cadre de travail agréable : Une équipe dynamique et engagée, un environnement de travail de qualité et une réelle autonomie dans votre organisation.\n * Projet d'entreprise stimulant : La possibilité d'avoir un impact direct sur la structuration commerciale et le développement de l'activité.\n * Engagement RSE concret : L'opportunité de porter des offres écoresponsables qui intègrent une démarche inclusive, des circuits courts et des partenariats à fort impact social.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-08-21T00:00:44.938Z",
+        "dateActualisation": "2026-08-21T00:00:44.938Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris 1er Arrondissement",
+          "codePostal": "75001",
+          "commune": "75101"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        "
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 55000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6149245",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/50050/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "count": 15,
     "offres": [
@@ -5967,209 +6343,6 @@
         "_ville_recherchee": "Remote",
         "_score": 0,
         "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "count": 4,
-    "offres": [
-      {
-        "id": "5800841",
-        "intitule": "CONSEILLER/E DE VENTES H/F",
-        "description": "RESPONSABILITÉS : \n\nSous la responsabilité directe du Responsable de la boutique, vous aurez pour missions:\n - Accueillir, conseiller et fidéliser la clientèle tout en garantissant une expérience de vente qualitative\n - Assurer la vente des produits et la tenue de la caisse\n - Participer à la mise en valeur de la boutique (merchandising, vitrines, tenue du magasin)\n - Gérer les stocks (réception, rangement, inventaire, préparation et vérification des commandes)\n - Assister aux réunions organisée par la société\n - Veiller au bon fonctionnement quotidien de la boutique dans le respect des procédures internes\n\nPROFIL RECHERCHÉ : \n\nVous justifiez d'une première expérience réussie en vente.\nVous faites preuve d'un excellent sens du service et avez un réel goût pour le conseil et le contact client.\nVous faites preuve de rigueur, d'organisation et d'autonomie.\nLa maîtrise de l'anglais est indispensable.\nHoraires de travail du mardi au samedi.\nPoste à pourvoir en CDI, 35 heures.\nRémunération fixe + variable + tickets restaurants.",
-        "dateCreation": "2026-08-07T04:31:24.000Z",
-        "dateActualisation": "2026-08-07T04:31:24.000Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Télévendeur / Télévendeuse",
-        "entreprise": {
-          "nom": "Kim Executive",
-          "description": "Kim Executive, cabinet de recrutement et de travail temporaire basé au cœur de Dijon, recrute pour son client, une enseigne spécialisée dans la vente d'équipements de sport haut de gamme située à Paris, un(e) Conseiller(ère) de ventes H/F en CDI."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5800841",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/bg7ncyero68/conseiller-e-de-ventes-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Paris",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "5785509",
-        "intitule": "Chargé de relations clients Néerlandais H/F",
-        "description": "Lynx RH Lyon Nord-Ouest recherche pour l'un de ses clients basé à Craponne, un(e) Responsable Relations Clients Marché Belge H/F en CDI.Interlocuteur(trice) privilégié(e) de vos clients, vous jouez un rôle clé d'interface entre les équipes internes et un portefeuille clients belge exigeant, dans un environnement international et technique.La maitrise du Flamand est indispensable.\n\n            \nVos missionsPrendre en charge et traiter les demandes clients au quotidienAnalyser les besoins, proposer des solutions adaptées et élaborer les propositions commercialesAssurer le suivi, la coordination et la gestion de bout en bout des projets clients confiésAnimer les réunions clients (comités de production, points projets, COPIL) et en rédiger les comptes-rendusGarantir le respect des engagements contractuels : KPI, gestion des stocks, alertes pertinentesGérer la partie administrative des commandes cartes et consommables via CEGID (Sales Orders : AR + BL)Gérer les visuels cartes via l'outil Groupe e-sample toolSuivre les approvisionnements cartes et consommables, traiter les réclamations clientsParticiper aux appels d'offres et mettre en place les éléments tarifaires selon les grilles contractuellesÉlaborer et maintenir à jour les modes opératoires des clients affectésParticiper à la démarche QRQC et assurer le rôle Export Control GDFR\n\n            \nPré-requisExpérience avérée en relation clients dans un contexte internationalBilingue Francais / flamandAptitude à piloter plusieurs projets simultanément et à interagir avec des équipes internes variéesÀ l'aise avec les outils de suivi et de reporting (tableaux de bord, ERP, outils Groupe)\n Notre processus de recrutementNous avons à cœur de vous proposer un parcours de recrutement simple, rapide et transparent :Analyse de votre candidatureEntretien téléphonique avec Marc-Olivier, directeur d'agence, pour faire connaissance et valider les premiers critèresEntretien physique ou visio pour échanger sur votre parcours et vos compétences techniquesEntretien physique ou visio avec notre clientRetour rapide sous quelques jours et, nous l'espérons, proposition d'embaucheInformations complémentaires\n\n            \nProfil recherchéFormation Bac+2 à Bac+5 en commerce, gestion de projets ou équivalentExpérience confirmée en gestion de la relation clients, idéalement en environnement industriel ou technologiqueMaîtrise du Pack Office (Word, Excel, PowerPoint) et d'un ERP type CEGIDLa maîtrise du flamand est indispensable pour ce posteAutonomie, rigueur, sens des priorités et excellente aisance relationnelleCapacité d'analyse, anticipation et posture proactive dans la gestion de projets multi-interlocuteurs\n\n            \nInformations complémentairesType de contrat : CDI\n\n            Temps de travail : Temps pleinSalaire : 32000 € - 45000 € par an ",
-        "dateCreation": "2026-08-06T17:36:42.457Z",
-        "dateActualisation": "2026-08-06T17:36:42.457Z",
-        "lieuTravail": {
-          "libelle": "69 - Craponne",
-          "codePostal": "69290",
-          "commune": "69069"
-        },
-        "romeCode": "D1510",
-        "romeLibelle": "Chef / Cheffe de secteur magasin",
-        "appellationlibelle": "Chef de secteur magasin",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5785509",
-          "partenaires": [
-            {
-              "nom": "CARRIEREONLINE",
-              "url": "https://www.carriereonline.com/offre-emploi/charge-de-relations-clients-neerlandais-h-f/rhone-69/37653675/?xtor=SEC-1321",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "5800717",
-        "intitule": "CONSEILLER D'ENTREPRISE ARTISANS COMMERCANTS SERVICES H/F",
-        "description": "RESPONSABILITÉS : \n\nSi vous êtes conseiller(ère) auprès des artisans, des commerçants ou des entreprises prestataires de services et que vous recherchez un environnement bienveillant et près de chez vous, attention, cette annonce est peut-être pour vous !\nVotre futur challenge :\nIntégré(e) à une équipe conseil, vous prendrez en charge un portefeuille de clients pour lequel vous serez l'interlocuteur privilégiez et vous assurez :\n\n - Le conseil stratégique dans les orientations et le développement des entreprises du secteur artisans/commerçants (maitrise des montages financiers avec holding - création de société avec apport ou vente)\n - Le conseil de gestion (analyse des chiffres pour les transformer en action concrète pour le client)\n - Le conseil financier et juridique,\n - La réalisation d'études économiques,\nLa liste n'est pas exhaustive, vos idées, projets et aspirations seront toujours les bienvenus !\n\nPROFIL RECHERCHÉ : \n\nSi vous êtes toujours là, j'en déduis que les missions vous ont convaincu ?\nAlors maintenant, parlons de vous ! Voici ce que nous attendons de vous :\n - Vous êtes de formation supérieure Master économie gestion d'entreprise ou équivalent,\n - Vous recherchez un métier de contact auprès d'une clientèle artisans/commerçants,\n - Vous êtes force de proposition et vous aimez être proactif\nSi cette description ressemble à la vôtre, nous sommes faits pour collaborer !\n& voici les avantages que nous mettons à votre disposition :\n - Le salaire brut annuel est de 31 à 37 K€ sur 13 mois selon expérience avec possibilité d'évolution\n -  Primes (objectifs, accord d'intéressement et de participation)\n - Accord 35heures, 39h effectives avec 22 RTT par an\n - Accord télétravail\n - Mutuelle prise en charge à 100% pour le salarié\n - Autonomie dans votre gestion du temps grâce à des horaires flexibles\n -  Tickets restaurants\n -  CSE qui offre de nombreux avantages (chèques cadeaux, négociations annuelles...) !\nEt ce n'est pas tout :\n - Un parcours d'intégration et tutorat pour vous accompagner pleinement dans votre prise de poste !\n - Rejoindre un cabinet avec de fortes valeurs humaines.\nSelon votre mobilité géographique, le poste sera basé à Caen, Thury-Harcourt, Vire ou Mortain avec des déplacements hebdomadaires à prévoir sur ce secteur.\nProcessus de recrutement :\nNous étudions et répondons à toutes les candidatures. Après un premier contact téléphonique avec Estelle du service RH, nous aurons le plaisir de vous convier à un premier entretien d'échange. Nous apprendrons à vous connaître grâce à un test de personnalité et à un test métier. A l'issue de cet entretien et de ces tests, un second entretien sera positionné avec votre(vos) futur(s) Responsable(s) hiérarchique(s).\nPrêt(e) à rejoindre une équipe dynamique et bienveillante près de chez vous ?\nNous vous attendons ! Venez rejoindre notre équipe de collaborateurs passionnés et donnez un nouveau souffle à votre carrière.",
-        "dateCreation": "2026-08-07T04:31:24.000Z",
-        "dateActualisation": "2026-08-07T04:31:24.000Z",
-        "lieuTravail": {
-          "libelle": "14 - Saint-Contest",
-          "latitude": 49.213627,
-          "longitude": -0.399966,
-          "codePostal": "14280",
-          "commune": "14566"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "entreprise": {
-          "nom": "CERFRANCE NORMANDIE OUEST",
-          "description": "Première entreprise associative d' expertise comptable et de conseil sur les territoires de la Manche et du Calvados, Cerfrance Normandie Ouest est le partenaire stratégique des entreprises agricoles, des artisans, des commerçants et des professions libérales depuis plus de 70 ans.\nNos 465 collaborateurs, répartis dans 15 agences de proximité, interviennent pour répondre à leurs exigences réglementaires et apportent un conseil d'expert dans la gestion de leur entreprise."
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 31000.0 Euros à 37000.0 Euros"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "8",
-        "qualificationLibelle": "Agent de maîtrise",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5800717",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/1w8kpb9jup8/conseiller-d-entreprise-artisans-commercants-services-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "5793041",
-        "intitule": "Devenez Conseiller de Clientèle Particuliers (H/F) h/f",
-        "description": "Description de l'entrepriseVous cherchez un nouveau départ professionnel ? Nous avons une place pour vous. Description de l'entreprise À la Caisse d'Épargne Hauts de France, nous croyons que les parcours atypiques sont souvent les plus riches. Banque coopérative régionale du 2e groupe bancaire français (BPCE), nous sommes fiers de notre ancrage local et de notre engagement pour un avenir plus solidaire, durable et humain. Avec un réseau de 300 agences, 11 Centres d'Affaires, 1 Banque Privée, 1 Banque Digitale et plus de 3 000 collaborateurs, nous accompagnons nos clients dans tous les moments de leur vie. Et si vous étiez le prochain talent à nous rejoindre ? Que vous veniez du secteur commercial, de la grande distribution, du tourisme, ou d'un tout autre univers professionnel ou même sportif de haut niveau, votre curiosité, votre relationnel et votre envie d'apprendre sont vos meilleurs atouts.Poste et missionsPoste et missions Conseiller Clientèle Particuliers (H/F) - Parcours de formation en reconversion Vous n'avez jamais travaillé en banque ? Parfait. Nous vous formons de A à Z pour devenir un conseiller clientèle particulier accompli. Dans le cadre de ce parcours de formation en reconversion, vous bénéficiez d'une organisation pensée pour vous faire monter en compétences rapidement et durablement. ? Un rythme 3 semaines / 1 semaine pour allier pratique et théorie 3 semaines par mois en agence\nVous êtes pleinement intégré à une équipe et accompagné par un tuteur. Sur le terrain, vous découvrez et pratiquez concrètement le métier de Conseiller Clientèle Particuliers : accueil et accompagnement des clients, analyse des besoins et conseil, proposition de solutions adaptées (épargne, crédits, assurances.), utilisation des outils et application des procédures, participation à la vie commerciale de l'agence. Cette immersion progressive vous permet de développer vos réflexes professionnels, votre aisance relationnelle et votre compréhension du fonctionnement d'une agence bancaire. 1 semaine par mois en formation à Villeneuve d'Ascq\nVous suivez une formation structurée, dispensée par l'École Supérieure de la Banque, pour vous construire un capital théorique solide et directement opérationnel : fondamentaux de la banque et de l'assurance, cadre réglementaire et conformité, techniques de vente et de conseil, analyse de la situation financière des clients, gestion d'un portefeuille et prévention des risques. À l'issue de ce parcours, vous validerez également un diplôme reconnu, le Bachelor Banque Assurance (Bac +3), via l'École Supérieure de la Banque.Profil et compétences requisesProfil recherché Vous êtes en reconversion professionnelle ou souhaitez donner un nouveau souffle à votre carrière Vous avez un bac +2 validé et vous aimez travailler en équipe Votre sens commercial et de la relation client, votre goût du challenge et votre dynamisme sont les atouts qui feront la différence. Si vous aimez relever des défis, ce poste est fait pour vous ! Pourquoi nous rejoindre ? Une formation complète au métier de banquier, prise en charge dès votre arrivée. Une banque engagée et utile, certifiée B Corp, qui agit pour son territoire et ses habitants. Un socle social solide : 13e mois, mutuelle, tickets resto, prime de transport, 35 jours de congés payés, RTT. Un environnement où vos idées comptent, vos efforts sont reconnus, et votre parcours valorisé. Rejoindre la Caisse d'Épargne Hauts de France, c'est faire bien plus qu'un métier. C'est apprendre, évoluer, et être utile. Si vous êtes prêt à faire le premier pas vers une carrière enrichissante dans le domaine bancaire et à contribuer à un modèle économique respectueux et solidaire, n'attendez plus ! Postulez dès aujourd'hui et commencez votre nouvelle aventure avec nous.",
-        "dateCreation": "2026-08-06T22:26:50.540Z",
-        "dateActualisation": "2026-08-06T22:26:50.540Z",
-        "lieuTravail": {
-          "libelle": "59 - Valenciennes",
-          "codePostal": "59300",
-          "commune": "59606"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5793041",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-CEHDF05877#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
       }
     ]
   }
