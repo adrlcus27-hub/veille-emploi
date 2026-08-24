@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-08-24",
+    "count": 1,
+    "offres": [
+      {
+        "id": "6227025",
+        "intitule": "Technicien Conseil Print (H/F)",
+        "description": "Xefi Lyon : entité du groupe XEFI, assure la maintenance et la performance de nos clients TPE/PME en les accompagnants chaque jour sur leur choix materiels et leur maintien, Copieur inclus !\n\nSi nous devions choisir un mot pour définir l'expérience XEFI ce serait \"performance\".\n\n Performance d'entreprise, car depuis plus de 25 ans, XEFI affiche une croissance exponentielle et ambitionne de construire un réseau de 400 agences de proximité réparties dans 7 pays européens. Nous avons développé un modèle de franchise puissant qui a fait ses preuves en France et à l'étranger.\n\n Performance informatique, car nous maitrisons les plus hautes technologies du marché destinées aux TPE / PME.\n\n  Performance sportive, à travers notre programme Santé Sport, chaque collaborateur a la possibilité de profiter d'un accompagnement personnalisé (sportif, nutrition et posture au travail) dans le but de maintenir un bon état de forme au quotidien ou pour atteindre ses objectifs sportifs.\n\n Performance professionnelle grâce à notre centre de formation et notre plateforme e-learning 24/7, nos collaborateurs ont la possibilité de développer leurs compétences professionnelles grâce à un accompagnement assisté par nos experts métier.\n\n Performance collective car c'est ensemble, au sein de nos équipes, que nous co-construisons tous les projets. Chaque collaborateur a une mission clé qui mène le groupe vers sa croissance. Chez XEFI, nous avons le culte du résultat mais nous travaillerons dans la bonne entente et la bienveillance. L'expérience collaborateur est une de nos priorités et nous vous préparons un accueil 5 étoiles.\n\nCe que nous allons vous apporter :\n\n Privilégiant le savoir-être au savoir-faire, le groupe XEFI est réputé pour son recrutement sans CV. Nous proposons des formations dès l'entrée en poste via notre centre de formation, la XEFI Academy, pour vous faire monter en compétences rapidement et sereinement.\n\n Chez XEFI, la valeur travail est essentielle et nous fonctionnons à la méritocratie. Vous êtes motivés et vous vous donnez les moyens de réussir ? Alors, vous évoluerez et construirez votre carrière chez nous !\n\n Le groupe XEFI est un groupe humain qui prend soin de ses collaborateurs à travers diverses actions mises en place au quotidien. Chez XEFI, la solidarité et l'esprit d'équipe sont de rigueur. Nous avons à cœur de proposer à nos collaborateurs des carrières dans laquelle ils pourront concilier vie professionnelle et vie personnelle.\n\n Les étapes du recrutement chez XEFI :\n\nChez XEFI, nous nous engageons à mettre en place un processus de recrutement clair et tenu et de vous faire une réponse entre chaque étape en 48h maximum. Les différentes étapes à valider avant de pousser la porte de votre nouveau job sont les suivantes :\n\nPréqualification : appel téléphonique avec une personne de notre équipe recrutement\n\nEntretien 1 avec votre futur manager\n\nEntretien RH avec la personne traitant votre dossier de recrutement\n\nSi vous êtes retenus, votre interlocutrice vous transmettra une promesse d'embauche à laquelle vous devrez répondre en transmettant l'intégralité des pièces administratives demandées.\n\nVous serez ensuite officiellement un collaborateur XEFI \n\nVos missions\n\nVous êtes un véritable couteau-suisse de l'informatique mais spécialisé en solutions d'impressions.\n\nChez XEFI, vous participez quotidiennement à la maintenance des infrastructures et aux projets informatiques de nos clients, en toute autonomie.\n\nRattaché à la Direction technique et épaulé par l'équipe support, vous intervenez sur site et prenez en charge :\n\n\\- Gestions des incidents clients\n\\- Préparations des matériels neuf en atelier avant expéditions client\n\\- Gestions des interventions clients (dépannages et installations)\n\\- Vous êtes le conseillé technique de votre client !\n\nVous prendrez en charges ces demandes de rappel technique, vous l'assisterez à distance et interviendrez sur site quand nécessaire.\n\nVous serez donc force de proposition pour que sont parcours client chez XEFI soit excellent.\n\nVos compétences\n\nPROFIL :\n\nVous avez le goût du challenge et votre passion pour l'informatique n'est pas votre seul atout.\n\nVous avez le sens du service et le travail en équipe vous anime.\n\nLa satisfaction client est votre priorité n°1 !",
+        "dateCreation": "2026-08-24T04:01:46.894Z",
+        "dateActualisation": "2026-08-24T04:01:46.894Z",
+        "lieuTravail": {
+          "libelle": "69 - Rillieux-la-Pape",
+          "codePostal": "69140",
+          "commune": "69286"
+        },
+        "romeCode": "H1108",
+        "romeLibelle": "Technicien / Technicienne support client en industrie",
+        "appellationlibelle": "Conseiller / Conseillère support technique",
+        "entreprise": {
+          "nom": "Dailyapps"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6227025",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://join.com/companies/dailyapps/16614973-technicien-conseil-print-h-f?pid=d0c6f59b69df21dc4528",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 1,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-08-23",
     "count": 8,
     "offres": [
@@ -6994,10 +7045,5 @@
         "_is_remote": false
       }
     ]
-  },
-  {
-    "date": "2026-08-10",
-    "count": 0,
-    "offres": []
   }
 ]
