@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-12",
+    "count": 1,
+    "offres": [
+      {
+        "id": "6831624",
+        "intitule": "INGENIEUR SDR (H/F)",
+        "description": "QUI SOMMES-NOUS ?\n\nARIAL Industries, créée en 2001, est une société d'ingénierie et d'assistance technique en forte croissance dans les métiers de la mécanique, de l'électricité et des systèmes embarqués. Nous intervenons sur le plan national et européen pour des programmes d'envergure auprès des grands comptes des secteurs aéronautique, automobile, spatial, énergies et défense.\n\nNOS VALEURS ?\n\nNotre politique RH est construite autour d'un maître mot, l'Humain. Nous souhaitons promouvoir le sens du service et la réactivité, l'écoute et la reconnaissance.\n\nNOS OPPORTUNITES / LES MISSIONS\n\nDans le cadre de nos projets dans le secteur aéronautique, nous recherchons un Ingénieur SDR (H/F) afin de participer au développement et à la qualification d'équipements embarqués (éclairage, radio, commandes de vol, systèmes de navigation, calculateurs, capteurs.).\n\nLe poste est à pouvoir depuis Vitrolles.\n\nLes missions proposées :\n\n- Effectuer le suivi du fournisseur (KOM, PDR, CDR, QR, FAI.),\n\n- Valider les documents fournisseurs,\n\n- Rédiger des documents techniques type plan d'installation, descriptif de l'installation, DDP installation, demande essais sol et vol, programme de maintenance,\n\n- Effectuer les revues internes,\n\n- Effectuer le support aux essais,\n\n- Réaliser des bilans de puissance.\n\nPROFIL RECHERCHÉ\n\nDe formation Ingénieur à dominante Electronique, vous justifiez d'une expérience de 2 ans minimum dans l'Ingénieurie Système.\nNous recherchons des profils curieux, ayant l'envie d'apprendre et une bonne communication.\nL'anglais (lu, parlé, écrit) est nécessaire sur ce poste.\n\nSALAIRE ET AVANTAGES\n\n-       Entre 32K et 38K/ brut par an en fonction du profil,\n\n-       Contrat CDI,\n\n-       Vous bénéficiez d'une prise en charge à hauteur de 50% de la mutuelle entreprise, 100% pour la prévoyance,\n\n-       Prime de cooptation, primes de vacances et autres primes\n\n-       Paniers repas par mois,\n\n-       RTT,\n\n-       Participez à nos évènements et rencontrez toutes nos équipes Arial Industries,\n\n-       Plateforme Avantages (cinéma, culture, jeux, multimédia, chèques cadeaux.).\n\nVOS OPPORTUNITES CHEZ ARIAL INDUSTRIES\n\nPas de limitation ! Vous avez des objectifs professionnels ? Nous les définirons ensemble et serons heureux de vous aider à les atteindre.\n\nVotre sérieux et motivation ouvriront les portes des missions qui vous intéressent.\n\nPROCESSUS DE RECRUTEMENT\n\n- Etape 1 : Point téléphonique (5/10 minutes) avec la chargée de recrutement\n\n- Etape 2 : Entretien Teams (30 minutes) avec la chargée de recrutement\n\n- Etape 3 : Entretien (1h) avec le manager technique\n\n- Etape 4 : Intégration au sein de nos équipes\n\nNous garantissons de la réactivité et nous faisons en sorte de vous partager une réponse le plus vite possible !\n\nEn espérant vous compter parmi nous très prochainement\n\nRef : C73O63450",
+        "dateCreation": "2026-09-12T01:37:20.372Z",
+        "dateActualisation": "2026-09-12T01:37:20.372Z",
+        "lieuTravail": {
+          "libelle": "13 - Vitrolles",
+          "codePostal": "13127",
+          "commune": "13117"
+        },
+        "romeCode": "H1206",
+        "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
+        "appellationlibelle": "Ingénieur / Ingénieure systèmes industriels",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 32000.0 Euros à 38000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "71.12B",
+        "secteurActivite": "71",
+        "secteurActiviteLibelle": "Ingénierie,études techniques",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6831624",
+          "partenaires": [
+            {
+              "nom": "CANDIDATUS",
+              "url": "https://f.candidatus.com/?ref=arial-12440",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/candidatus80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "SDR / BDR",
+        "_ville_recherchee": "Marseille",
+        "_score": 1,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "count": 8,
     "offres": [
@@ -7901,534 +7957,6 @@
         "_ville_recherchee": "Lille",
         "_score": 0,
         "_is_remote": false
-      }
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "count": 11,
-    "offres": [
-      {
-        "id": "6400412",
-        "intitule": "Key Account Manager On Trade France (H/F)",
-        "description": "RESPONSABILITÉS : \n\nAfin de poursuivre le développement de nos ventes au sein du circuit traditionnel France, nous recrutons en contrat à durée indéterminée un.e Key Account Manager On Trade France\n\n\nRattaché.e à la Direction Commerciale, vous êtes responsable du développement et de la gestion des comptes clés régionaux / nationaux du circuit CHR (chaînes de restauration, groupes hôteliers, réseaux organisés et clients stratégiques).\nÀ ce titre, vous pilotez la relation commerciale avec les comptes stratégiques, négociez les accords nationaux et assurez le déploiement des partenariats sur le terrain en lien avec les équipes commerciales.\n\n -  Développement des Comptes Clés Nationaux CHR\n - Définir et déployer la stratégie commerciale auprès des comptes clés régionaux et nationaux CHR ;\n - Identifier et prospecter de nouveaux comptes stratégiques (chaînes, groupes, réseaux organisés) ;\n - Développer le chiffre d'affaires et la rentabilité des comptes existants ;\n - Construire des partenariats durables avec les clients clés ;\n - Mettre en œuvre les plans d'action nécessaires au développement de la présence et de la part de marché.\n\n\n\n\n -  Négociations Commerciales\n - Conduire les négociations régionales/nationales avec les comptes clés (référencements, conditions tarifaires, accords cadres) ;\n - Définir les objectifs de développement par client (CA, volumes, mix produits) ;\n - Construire et piloter les plans d'affaires annuels ;\n - Assurer le suivi et l'optimisation des conditions commerciales ;\n - Garantir la bonne application des accords négociés.\n\n\n\n\n -  Pilotage & Déploiement Opérationnel\n - Coordonner le déploiement des accords avec les équipes commerciales terrain ;\n - Assurer la visibilité et la présence des marques au sein des réseaux CHR ;\n - Accompagner les équipes dans la mise en œuvre des activations clients (animations, opérations, cartes) ;\n - Veiller à la cohérence des actions menées avec la stratégie commerciale nationale ;\n - Être l'interface entre les clients, le marketing et les équipes internes.\n\n\n\n\n -  Analyse & Reporting\n - Assurer le suivi de la performance des comptes (CA, volumes, rentabilité, distribution) ;\n - Analyser les résultats et proposer des plans d'action correctifs ;\n - Suivre les budgets commerciaux et les investissements clients ;\n - Assurer un reporting régulier auprès de la Direction Commerciale ;\n - Participer à l'élaboration de la stratégie commerciale nationale.\n\nPROFIL RECHERCHÉ : \n\nIssu.e d'une formation supérieure commerciale (Bac+3 à Bac+5, type BTS, DUT Techniques de Commercialisation, Bachelor, Master Commerce ou spécialisé Vins & Spiritueux), vous justifiez d'une expérience significative dans la gestion de comptes clés, idéalement acquise dans les secteurs des vins & spiritueux ou du CHR.\nVous avez une solide expérience de la négociation nationale auprès de clients stratégiques et maîtrisez parfaitement les enjeux du circuit CHR ainsi que ses principaux acteurs. Votre forte orientation business, associée à une véritable culture du résultat, vous permet de développer durablement le chiffre d'affaires et la rentabilité de vos comptes.\nUne expérience dans l'univers des vins & spiritueux constitue un atout majeur, tout comme une formation spécialisée (type WSET, sommellerie).\nÀ l'aise avec les outils digitaux et notamment les CRM, vous disposez d'excellentes capacités d'analyse et d'une vision stratégique vous permettant d'identifier des leviers de croissance pertinents.\nReconnu.e pour vos qualités relationnelles et votre sens de la négociation, vous savez créer des partenariats solides et de confiance. Autonome, rigoureux/euse et proactif/ve, vous faites preuve d'initiative dans la gestion et le développement de votre portefeuille.\nL'anglais professionnel est requis pour échanger avec les équipes internationales.\n\n\nAdVini collabore avec des organismes, acteurs de l'insertion professionnelle des personnes en situation de handicap, pour offrir un environnement de travail inclusif. Quelle que soit votre situation, si vous avez les compétences requises, nous serions ravis de vous rencontrer.\n\nPour candidater\nMerci de bien vouloir nous adresser votre CV. Un court questionnaire de qualification vous sera proposé lors de votre candidature. Vous pouvez également joindre, si vous le souhaitez, une lettre de motivation ou un message d'accompagnement.\n  \nProcessus de recrutement\nSi votre candidature est sélectionnée, vous rencontrerez le manager et un.e membre des Ressources Humaines en présentiel ou en visioconférence.\n\n\nType de poste : CDI\nDébut de contrat : dès que possible\nLieu de travail (lié à votre domicile) : Paris (75) / Bordeaux (33) ou grandes villes à < d'1h de Paris (Reims...) - déplacements à prévoir pour les besoins de vos missions (France - Maisons de Vin/Clients)\nAutres informations : rémunération fixe + variable, mutuelle familiale (prise en charge à 100% par l'entreprise), 13ème mois, CSE",
-        "dateCreation": "2026-08-29T04:31:55.594Z",
-        "dateActualisation": "2026-08-29T04:31:55.594Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris 2e Arrondissement",
-          "codePostal": "75002",
-          "commune": "75102"
-        },
-        "romeCode": "C1305",
-        "romeLibelle": "Opérateur / Opératrice sur marchés financiers",
-        "appellationlibelle": "Opérateur / Opératrice back-office",
-        "entreprise": {
-          "nom": "ADVINI"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 61000.0 Euros à 69000.0 Euros"
-        },
-        "dureeTravailLibelle": "38H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6400412",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/3xkm476bnz8/key-account-manager-on-trade-france-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "38H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Paris",
-        "_score": 4,
-        "_is_remote": false
-      },
-      {
-        "id": "6400335",
-        "intitule": "CONSEILLER/E DE VENTES H/F",
-        "description": "RESPONSABILITÉS : \n\nSous la responsabilité directe du Responsable de la boutique, vous aurez pour missions:\n - Accueillir, conseiller et fidéliser la clientèle tout en garantissant une expérience de vente qualitative\n - Assurer la vente des produits et la tenue de la caisse\n - Participer à la mise en valeur de la boutique (merchandising, vitrines, tenue du magasin)\n - Gérer les stocks (réception, rangement, inventaire, préparation et vérification des commandes)\n - Assister aux réunions organisée par la société\n - Veiller au bon fonctionnement quotidien de la boutique dans le respect des procédures internes\n\nPROFIL RECHERCHÉ : \n\nVous justifiez d'une première expérience réussie en vente.\nVous faites preuve d'un excellent sens du service et avez un réel goût pour le conseil et le contact client.\nVous faites preuve de rigueur, d'organisation et d'autonomie.\nLa maîtrise de l'anglais est indispensable.\nHoraires de travail du mardi au samedi.\nPoste à pourvoir en CDI, 35 heures.\nRémunération fixe + variable + tickets restaurants.",
-        "dateCreation": "2026-08-29T04:31:53.201Z",
-        "dateActualisation": "2026-08-29T04:31:53.201Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Télévendeur / Télévendeuse",
-        "entreprise": {
-          "nom": "Kim Executive"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6400335",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/bg7ncyero68/conseiller-e-de-ventes-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Paris",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "6400072",
-        "intitule": "Ingénieur Commercial H/F",
-        "description": "RESPONSABILITÉS : \n\nLe poste proposé : En tant qu'Ingénieur Commercial au sein de Sincrone IT, vous rejoignez une équipe dynamique et engagée, sous la responsabilité directe du Responsable d'Agence.\nVotre mission principale sera de développer et fidéliser le portefeuille clients de votre secteur en proposant des solutions innovantes en téléphonie mobile et fixe, ainsi que des solutions sur-mesure dans l'intégration de solutions IT en étant accompagné par nos IAV et Responsable d'activités.\nVous assurez la négociation, le suivi et le déploiement des contrats dans le respect de la politique commerciale.\nResponsabilités Principales :\n - Prospection commerciale active, incluant le phoning et la veille du marché pour identifier de nouvelles opportunités d'affaires.\n - Développement commercial et gestion des ventes auprès des entreprises, associations et collectivités, en assurant la promotion des offres et services du Groupe SINCRONE.\n - Réalisation de rendez-vous clients et proposition de solutions adaptées aux besoins spécifiques des clients.\n - Mise en place d'un plan d'action commercial en collaboration avec le manager d'agence pour atteindre les objectifs en conquête et fidélisation de clients.\n - Négociation, suivi et déploiement des contrats conformément à la politique commerciale établie.\n - Utilisation et qualification des outils de CRM pour assurer un suivi efficace des activités commerciales et générer des rapports d'activité détaillés.\n\nPROFIL RECHERCHÉ : \n\nProfil et expériences  De formation commerciale, vous justifiez d'une première expérience (2 ans) dans la vente directe auprès d'entreprises, idéalement dans la vente de solutions télécoms ou informatiques.\nExcellentes compétences en communication et en négociation, avec une capacité démontrée à établir et entretenir des relations client solides.\nVous maitrisez les techniques de vente BtoB.\nVous êtes à l'aise avec les nouvelles technologies et capable de comprendre les enjeux d'optimisation et de rationalisation des télécoms chez vos clients.\nDoté(e) d'un esprit de conquête commerciale, votre goût du défi et votre capacité à convaincre seront vos atouts dans ce projet professionnel. Organisé(e) et doté(e) de qualités relationnelles, vous savez travailler en équipe.\nSi vous êtes passionné par le domaine commercial, avez le sens du challenge et souhaitez évoluer au sein d'une entreprise en pleine expansion, nous serions ravis de recevoir votre candidature.\nRejoignez nous dès maintenant pour faire partie de notre équipe !\nPackage :\nLe package proposé est composé d'un salaire fixe (selon profil) + variable attractif non plafonné + voiture de fonction 5 places + PC + Smartphone + prime d'intéressement + Tickets restaurants + CE\nParcours de recrutement :\nConvaincu et motivé à rejoindre un groupe en croissance ?\nAfin de mieux se connaitre, nous fonctionnons en plusieurs étapes :\n - Echange téléphonique pour mieux cerner vos attentes et orienter votre candidature\n - Entretien avec un manager opérationnel : il vous présentera plus en détail les missions, ce qu'il attend de vous, le mode de fonctionnement de l'équipe, les projets.\n - Entretien avec le DRH : l'objectif est de vous présenter notre groupe, les perspectives de carrière, les contours du poste envisagé, et surtout comprendre qui vous êtes, vos aspirations, vos motivations, votre projet professionnel\nNous nous ferons un plaisir d'échanger avec vous sur le projet et notre ambition si votre profil correspond à nos attentes.",
-        "dateCreation": "2026-08-29T04:31:42.363Z",
-        "dateActualisation": "2026-08-29T04:31:42.363Z",
-        "lieuTravail": {
-          "libelle": "44 - Saint-Herblain",
-          "codePostal": "44800",
-          "commune": "44162"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "Sincrone IT"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 40000.0 Euros à 60000.0 Euros"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "8",
-        "qualificationLibelle": "Agent de maîtrise",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6400072",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/tqnnlrajtl8/ingenieur-commercial-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Nantes",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "6399830",
-        "intitule": "Ingénieur Commercial H/F",
-        "description": "RESPONSABILITÉS : \n\nLe poste proposé : En tant qu'Ingénieur Commercial PME Senior au sein du Groupe SINCRONE, vous rejoignez une équipe dynamique et engagée, sous la responsabilité directe du Responsable d'Agence.\nVotre mission principale sera de développer et fidéliser le portefeuille clients de votre secteur en proposant des solutions innovantes en téléphonie mobile et fixe, ainsi que des solutions sur-mesure dans l'intégration de solutions IT en étant accompagné par nos IAV et Responsable d'activités..\nVous assurez la négociation, le suivi et le déploiement des contrats dans le respect de la politique commerciale.\nResponsabilités Principales :\n - Prospection commerciale active, incluant le phoning et la veille du marché pour identifier de nouvelles opportunités d'affaires.\n - Développement commercial et gestion des ventes auprès des entreprises, associations et collectivités, en assurant la promotion des offres et services du Groupe SINCRONE.\n - Réalisation de rendez-vous clients et proposition de solutions adaptées aux besoins spécifiques des clients.\n - Mise en place d'un plan d'action commercial en collaboration avec le manager d'agence pour atteindre les objectifs en conquête et fidélisation de clients.\n - Négociation, suivi et déploiement des contrats conformément à la politique commerciale établie.\n - Utilisation et qualification des outils de CRM pour assurer un suivi efficace des activités commerciales et générer des rapports d'activité détaillés.\n\nPROFIL RECHERCHÉ : \n\nProfil et expériences  De formation commerciale, vous justifiez d'une première expérience (5 ans) dans la vente directe auprès d'entreprises, dans la vente de solutions télécoms ou informatiques.\nDoté(e) d'un esprit de conquête commerciale, votre goût du défi et votre capacité à convaincre seront vos atouts dans ce projet professionnel.\nOrganisé(e) et doté(e) de qualités relationnelles, vous savez travailler en équipe.\nExcellentes compétences en communication et en négociation, avec une capacité démontrée à établir et entretenir des relations client solides.\nVous maitrisez les techniques de vente BtoB.\nVous êtes à l'aise avec les nouvelles technologies et capable de comprendre les enjeux d'optimisation et de rationalisation des télécoms chez vos clients.\nSi vous êtes passionné par le domaine commercial, avez le sens du challenge et souhaitez évoluer au sein d'une entreprise en pleine expansion, nous serions ravis de recevoir votre candidature.\nRejoignez-nous dès maintenant pour faire partie de notre équipe !\nPackage :\nLe package proposé est composé d'un salaire fixe (selon profil) + variable attractif non plafonné + voiture de fonction 5 places + PC + GSM + prime d'intéressement + Tickets restaurants + CE\nParcours de recrutement :\nConvaincu et motivé à rejoindre un groupe en croissance ?\nAfin de mieux se connaitre, nous fonctionnons en plusieurs étapes :\n - Echange téléphonique pour mieux cerner vos attentes et orienter votre candidature\n - Entretien avec un manager opérationnel : il vous présentera plus en détail les missions, ce qu'il attend de vous, le mode de fonctionnement de l'équipe, les projets.\n - Entretien avec le DRH : l'objectif est de vous présenter notre groupe, les perspectives de carrière, les contours du poste envisagé, et surtout comprendre qui vous êtes, vos aspirations, vos motivations, votre projet professionnel\nNous nous ferons un plaisir d'échanger avec vous sur le projet et notre ambition si votre profil correspond à nos attentes.",
-        "dateCreation": "2026-08-29T04:31:29.387Z",
-        "dateActualisation": "2026-08-29T04:31:29.387Z",
-        "lieuTravail": {
-          "libelle": "13 - Meyreuil",
-          "codePostal": "13590",
-          "commune": "13060"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "Sincrone IT"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 45000.0 Euros à 60000.0 Euros"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6399830",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/1pmmvyxpu78/ingenieur-commercial-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Marseille",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "6399402",
-        "intitule": "Ingénieur commercial IT confirmé (H/F)",
-        "description": "À propos d'Elit-Technologies\n\nCréée en 2007, Elit-Technologies est une société française spécialisée dans les infrastructures réseau, la cybersécurité, la collaboration et les services managés. Elit-Technologies a été créée pour accompagner les entreprises et concevoir des solutions sur mesure, adaptées à leurs enjeux de performance, de sécurité et de transformation digitale.\n\nBasée à Courbevoie (92), Lyon-Villeurbanne (69) et Toulon (83), Elit-Technologies accompagne ses clients dans leur transformation numérique et leur résilience, en combinant proximité, innovation et expertise technique.\n\nPartenaire de référence de Cisco, Microsoft, Cato Networks et des principaux acteurs du marché, Elit-Technologies dispose d'un SOC et d'un NOC 24/7/365, ainsi que d'une division Elit-Cyber dédiée à la sécurité des systèmes d'information.\n\nVos missions\n\nMissions principales - un poste orienté conquête\n\nRattaché(e) à la Direction commerciale, vous jouerez un rôle clé dans le développement du portefeuille clients B2B, avec une priorité claire : la conquête de nouveaux comptes stratégiques sur les offres réseaux, sécurité, cybersécurité, téléphonie et collaboration.\n\nVotre mission principale : ouvrir de nouveaux territoires commerciaux, créer des opportunités à fort potentiel et positionner Elit-Technologies comme un acteur incontournable sur ses marchés cibles.\n\nResponsabilités\n\n* Prospecter activement de nouveaux clients dans les secteurs cibles (industrie, services, retail, finance, etc.)\n* Identifier et qualifier les décideurs clés au sein des entreprises ciblées\n* Déployer une stratégie de chasse multicanale : phoning, emailing, LinkedIn, networking, événements, recommandations, etc.\n* Transformer les leads en opportunités, puis en contrats signés\n* Élaborer des propositions commerciales sur mesure, en lien avec les équipes avant-vente, cyber et réseaux\n* Construire et entretenir des relations de long terme avec les nouveaux clients (fidélisation, upsell, renouvellements)\n* Atteindre et dépasser les objectifs de conquête et de chiffre d'affaires fixés par la direction\n* Reporter votre activité dans le CRM et contribuer à l'amélioration continue des processus de prospection et de vente\n\nVos compétences\n\nProfil recherché\n\n* 3 à 4 ans d'expérience minimum dans la vente de solutions IT (réseaux, cybersécurité, services managés ou collaboration)\n* Âme de business maker, animé par la conquête, la performance et les résultats\n* Bonne connaissance des environnements techniques : LAN/WAN, SD-WAN, sécurité (firewall, SASE, SOC), téléphonie IP, Microsoft 365, etc.\n* Excellente capacité à ouvrir des portes, convaincre et transformer\n* Autonomie, rigueur, esprit d'équipe et goût du challenge\n* Capacité à évoluer dans un environnement dynamique et exigeant\n\nAvantages\n\nRémunération et avantages\n\n* Package attractif (fixe entre 40 et 45k€ + variable non plafonné)\n* Véhicule ou indemnités de déplacement\n* Formations certifiantes et accompagnement personnalisé au développement de carrière\n* Mutuelle, télétravail, participation aux événements partenaires\n\nPourquoi rejoindre Elit-Technologies ?\n\n* Une culture de la performance et de la conquête, valorisant l'initiative et les résultats\n* Une entreprise à taille humaine, reconnue pour sa proximité et son expertise technique\n* Des outils commerciaux performants (CRM, plateformes de prospection, marketing automation)\n* Un portefeuille d'offres différenciantes et à forte valeur ajoutée\n* Une équipe commerciale ambitieuse et soudée, soutenue par des ingénieurs avant-vente expérimentés\n* Une culture d'innovation centrée sur la satisfaction client et la performance\n* Un parcours de formation continue (technique, commerciale et certifiante) permettant à chaque collaborateur de monter en compétences sur les solutions Cisco, Microsoft, Cato Networks, etc.\n* De réelles perspectives d'évolution vers des postes de Key Account Manager ou Business Developer Senior",
-        "dateCreation": "2026-08-29T04:01:35.845Z",
-        "dateActualisation": "2026-08-29T04:01:35.845Z",
-        "lieuTravail": {
-          "libelle": "69 - Villeurbanne",
-          "codePostal": "69100",
-          "commune": "69266"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "ELIT-TECHNOLOGIES"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6399402",
-          "partenaires": [
-            {
-              "nom": "SKELLO",
-              "url": "https://join.com/companies/elit-technologies/16637161-ingenieur-commercial-it-confirme?pid=d0c6f59b69df21dc4528",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "6394624",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "\n        \n        \nLES MISSIONS :\n        \nCe poste est orienté chasse ! Alors si vous êtes de nature à pousser des portes et à remplir un portefeuille avec passion et engagement, vous êtes certainement la personne idéale !\n\nVos missions :\n\nGérer l'ensemble du processus de vente (cycles longs), dès la génération de leads.\n\n>> Vous assurez la prospection dune hitlist via différents canaux, de la découverte des besoins au lead nurturing, de la négociation à la conclusion du deal !\n\nGérer le pipeline et rendre compte de votre activité quotidienne dans notre CRM (Hubspot)\n\nTravailler main dans la main avec léquipe de CSM pour le déploiement des clients\n\nParticiper à des salons et des événements locaux pour développer votre réseau de décideurs clés dans le secteur de la restauration\n\nSuivre en permanence le marché pour devenir un-e expert-e en solution digitale HACCP (veille, enquête terrain, etc.)\n\nRépondre à des appels doffres et les soutenir pour le secteur public\n\nCapitaliser sur votre portefeuille existant une fois quil sera sécurisé : up et cross-selling.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nVotre envie dintégrer une scale-up et de participer à sa croissance dans une ambiance décontractée mais rigoureuse contribuera à vos succès, cest certain !\n\nEt pour réussir pleinement, vous vous appuierez sur une expérience denviron 5 ans dans le vente de services ou de logiciels SAAS : vous parlez le même langage que vos clients et adaptez le discours aux personnes et aux situations.\n\nVotre fort tempérament de chasseur vous facilite la tâche : décrocher votre téléphone, prospecter activement avec une approche SMART de la vente (cycle long et conservation des clients à long terme) sont autant de compétences aiguisées au fil des années.\n\nLes outils de prospection digitaux nont que peu de secrets pour vous -et au minimum, vous en manifestez un fort attrait pour vous en emparez rapidement !\n\nVous avez le sens de lanalyse et êtes force de proposition : vous nhésiterez pas à nous recommander de nouveaux outils, proposer des solutions concernant des problématiques clients, être proactif sur votre portefeuille, faire de la veille concurrentielle Votre curiosité est insatiable.\n\nEnfin, dans un contexte de quasi full remote, vous êtes un as de lorganisation : rigueur sur le reporting, bonne tenue du CRM, esprit de synthèse.\n        \n        \nLES AVANTAGES :\n        \n- Rémunération fixe attractive et variable déplafonné\n\n- Tickets restaurants\n\n- Carte affaires (pas davance de frais)\n\n- Poste en 100% Home Office avec une prime versée tous les mois pour les frais de télétravail\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
-        "dateCreation": "2026-08-29T00:00:47.806Z",
-        "dateActualisation": "2026-08-29T00:00:47.806Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris 1er Arrondissement",
-          "codePostal": "75001",
-          "commune": "75101"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "UPTOO\n        "
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 55000.0 Euros à 70000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6394624",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/50108/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "6414917",
-        "intitule": "Chargé-e de support client réparations f/h (H/F)",
-        "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 110 000 collaborateurs pour un chiffre d'affaires de 31,3 milliards d'euros en 2025, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. \n\nSafran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2025 » du magazine TIME.\n\n\n\nSafran Cabin est n°1 mondial des intérieurs d'avions. Safran Cabin fournit des aménagements intérieurs innovants, intelligents et responsables, et des équipements avancés de gestion de l'eau et des déchets.\n\nIci, vous développez vos compétences et évoluez au sein d'une communauté d'experts qui vous enrichit chaque jour.\n\nIci, la collaboration connecte nos équipes à travers le monde.\n\nLe saviez-vous ? Nous avons déjà volé ensemble !\n\nEnvie de nous rejoindre ? En savoir plus sur Safran Cabin  (hyperlink pour la partie soulignee: https://www.safran-group.com/fr/societes/safran-cabin)\n\n\n\nParce que nous sommes persuadés que chaque talent compte, nous valorisons et encourageons les candidatures de personnes en situation de handicap pour nos opportunités d'emploi.\n\n\nDescriptif missionSafran Cabin propose de nombreuses offres d'après-vente : distribution de pièces détachées, réparation de composants, support technique, assistance d'urgence (AOG), mais également aménagements, modifications et réaménagements d'intérieurs de cabine. \n\n\n\nAu sein d'une équipe pluridisciplinaire et dans un environnement de support après-vente en pleine croissance,/ \n\n\n\n- Vous assurerez le traitement administratif des besoins de réparations de nos clients. \n\n\n\n- Vous serez un acteur clé de la satisfaction des clients (compagnies aériennes) et pour cela vous devrez établir une relation de confiance avec votre portefeuille client.",
-        "dateCreation": "2026-08-29T08:15:50.978Z",
-        "dateActualisation": "2026-08-29T08:15:50.978Z",
-        "lieuTravail": {
-          "libelle": "31 - Colomiers",
-          "codePostal": "31770",
-          "commune": "31149"
-        },
-        "romeCode": "H1106",
-        "romeLibelle": "Responsable support technique clients",
-        "appellationlibelle": "Responsable centre de support client",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6414917",
-          "partenaires": [
-            {
-              "nom": "AEROCONTACT",
-              "url": "https://www.aerocontact.com/emploi-aeronautique/charge-e-de-support-client-reparations-fh~1171262.html?fromref=poleemploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Toulouse",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "6403226",
-        "intitule": "RESPONSABLE CAISSE (H/F)",
-        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac à Bac +2\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
-        "dateCreation": "2026-08-29T07:09:45.328Z",
-        "dateActualisation": "2026-08-29T07:09:45.328Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille",
-          "commune": "13055"
-        },
-        "romeCode": "D1505",
-        "romeLibelle": "Hôte / Hôtesse de caisse",
-        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
-        "entreprise": {
-          "nom": "Intermarché"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6403226",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2640880.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Marseille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "6399409",
-        "intitule": "Chargé(e) de Clientèle (F/H)",
-        "description": "Acteur français de l'externalisation de la relation clients, Prodirect accompagne plus de 30 grandes entreprises françaises pour construire et déployer des parcours clients. Une expérience client authentique, alignés sur les attentes des consommateurs.\n\nChez Pro Direct l'humain est au cœur de l'entreprise. L'engagement collectif, l'expertise de nos 700 talents, notre méthodologie approuvée et la proximité avec chaque client font la différence. Pro Direct c'est aussi l'assurance d'une entreprise française, solide, reconnue depuis plus de 30 ans.\n\nEt c'est ce qui fait que nos clients nous confient l'externalisation de leur expérience client dans la durée.\n\nContribuez au dynamisme de PRO DIRECT en intégrant nos équipes !\n\nNous recherchons notre futur(e) Conseiller(e) Clientèle.\n\nDans le cadre de ce poste, vous serez en charge de contacter des prospects ayant rempli un formulaire en ligne afin de les accompagner dans leur démarche de mise en relation avec un conseiller VAE.\n\nVos missions :\n\n* La gestion des leads et la réalisation d'appels sortants\n* L'identification des besoins et l'accompagnement des prospects dans leur projet\n* L'argumentation commerciale et le traitement des objections\n* L'organisation de votre activité et la gestion des priorités\n\nVotre profil :\n\n* Une bonne capacité d'écoute et un sens de l'empathie maîtrisé\n* Une aisance commerciale avec une appétence pour la vente\n* De la rigueur dans l'application des process\n* De solides compétences rédactionnelles (orthographe, grammaire)\n* Un bon esprit d'analyse\n* Une aisance avec les outils informatiques\n\nVous vous reconnaissez ? Rejoignez notre équipe en nous transmettant votre CV.\n\nConditions du poste :\n\n* CDI : prise de poste au plus tôt\n* Salaire fixe brut de 1867,05 € + prime mensuelle\n* Carte restaurant et prise en charge de l'employeur à hauteur de 60%\n* Avantages CSE\n* Télétravail possible sous conditions d'éligibilités\n* Aide au logement\n\nÀ compétences égales, cette offre est ouverte aux personnes en situation de handicap.",
-        "dateCreation": "2026-08-29T04:01:36.569Z",
-        "dateActualisation": "2026-08-29T04:01:36.569Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille",
-          "commune": "13055"
-        },
-        "romeCode": "M1704",
-        "romeLibelle": "Responsable service clients",
-        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
-        "entreprise": {
-          "nom": "GROUPE PRO DIRECT"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6399409",
-          "partenaires": [
-            {
-              "nom": "SKELLO",
-              "url": "https://prodirectservices.factorial.fr/apply/charge-e-de-clientele-f-h-319880?utm_source=francetravail.fr",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "6394570",
-        "intitule": "Conseiller Clientèle Agriculture (F/H) h/f",
-        "description": "Description de l'entrepriseLa Banque Populaire Val de France fait partie du Groupe BPCE, 2e groupe bancaire français.\nBanque Coopérative Régionale qui appartient à ses 185 000 sociétaires, la Banque Populaire Val de France s'engage pour la réussite économique et humaine de sa région en restant fidèle à ses engagements d'origine : stimuler toutes les initiatives et l'esprit d'entreprendre.\n? La Banque Populaire Val de France, c'est 179 agences à travers 10 départements : Yvelines, Essonne, Hauts de Seine, le Centre Val de Loire et la Vienne.\nEt si vous nous rejoignez ? La Banque Populaire Val de France vous permet de vous former, d'évoluer, d'être en proximité avec la clientèle et vos collègues.Poste et missions? Vos missions clés Accueillir, servir et conseiller ses clients : en privilégiant l'approche globale des besoins pour pratiquer la multi-vente en veillant au respect des procédures en vigueur et des objectifs qui vous seront fixés. Développer et gérer son portefeuille par le biais de conquête interne et conquête externe (réseaux et partenariats, représentation, recherche de prescriptions). Lutter contre l'attrition (traitement des réclamations, qualité de conseil et de service, disponibilité). Gérer et anticiper les risques : respecter la réglementation en vigueur en matière de crédits, de risques et de conformité. Vous aurez à cœur de faire vivre et promouvoir notre modèle coopératif et ses valeurs au quotidien auprès de nos clients et partenaires. Profil et compétences requises? Profil & compétences recherchés Vous êtes diplômé(e) d'un BAC +2 / BAC +3 minimum dans le domaine de l'agriculture ou dans le domaine banque/finance avec une appétence pour le domaine agricole. Vous faites preuve d'un esprit d'équipe, de partage et le goût du challenge Vous avez une capacité d'écoute active, un intérêt marqué pour votre clientèle et êtes déterminé(e) dans la réalisation de vos missions et vos projets de carrière Vous maîtrisez les outils d'IA mis à disposition par l'entreprise et savez adapter votre travail en intégrant les fonctionnalités de l'IA.\nLa certification AMF doit être validée.Informations complémentaires sur le posteCe que vous recherchez : Une entreprise avec des perspectives d'évolution de poste et de carrière au sein de notre banque ou de notre groupe. Un accompagnement dès votre entrée à la Banque Populaire Val de France avec notre parcours d'intégration, mais également tout au long de votre carrière. De la proximité avec votre équipe et également avec votre Responsable des Ressources humaines\n? Alors c'est chez nous que ça se passe ! ?\nEn nous rejoignant, vous bénéficierez : D'une rémunération attractive : un salaire annuel brut compris entre 36 k€ et 45 k€ (payé en 13 mensualités), ajusté selon votre expérience D'une part variable motivante : en lien direct avec l'atteinte de vos objectifs D'un dispositif de partage de la performance collective : intéressement et participation pouvant représenter jusqu'à 3 mois de salaire Un équilibre vie pro / perso préservé : organisation en semaine de 4,5 jours, RTT, Télétravail Des avantages au quotidien et un socle social attractif Une protection sociale de qualité : couverture santé et prévoyance avantageuse Une mobilité facilitée et durable : prise en charge des frais de transport, indemnité de covoiturage Un soutien à la parentalité : indemnités de garde et primes de scolarité par enfant De nombreux avantages proposés par le CSE : culture, sport, loisirs, vacances. Un développement professionnel continu : parcours de formation complet et certifiant Une intégration soignée : parcours d'accueil incluant 3 jours au siège social\nNotre processus de recrutement  Notre équipe de recrutement se charge de vous joindre par téléphone afin d'échanger sur votre projet de carrière et les formalités. Un entretien RH pour échanger sur votre parcours et comprendre votre motivation à rejoindre la Banque Populaire Val de France. Un entretien opérationnel pour étudier votre côté terrain directement Enfin, nous intégrons la prise de références afin d'assurer une évaluation complète des candidats et de garantir un meilleur alignement avec les valeurs et les exigences de notre entreprise.\nInformations supplémentaires :\nLa diversité et l'inclusion sont des valeurs fondamentales pour notre banque : ce poste est ouvert à tous les talents, sans aucune distinction.",
-        "dateCreation": "2026-08-28T22:25:57.800Z",
-        "dateActualisation": "2026-08-28T22:25:57.800Z",
-        "lieuTravail": {
-          "libelle": "37 - Chambray-lès-Tours",
-          "codePostal": "37170",
-          "commune": "37050"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6394570",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPVF01832#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "6394569",
-        "intitule": "Conseiller Clientèle Agriculture (F/H) h/f",
-        "description": "Description de l'entrepriseLa Banque Populaire Val de France fait partie du Groupe BPCE, 2e groupe bancaire français.\nBanque Coopérative Régionale qui appartient à ses 185 000 sociétaires, la Banque Populaire Val de France s'engage pour la réussite économique et humaine de sa région en restant fidèle à ses engagements d'origine : stimuler toutes les initiatives et l'esprit d'entreprendre.\n? La Banque Populaire Val de France, c'est 179 agences à travers 10 départements : Yvelines, Essonne, Hauts de Seine, le Centre Val de Loire et la Vienne.\nEt si vous nous rejoignez ? La Banque Populaire Val de France vous permet de vous former, d'évoluer, d'être en proximité avec la clientèle et vos collègues.Poste et missions? Vos missions clés Accueillir, servir et conseiller ses clients : en privilégiant l'approche globale des besoins pour pratiquer la multi-vente en veillant au respect des procédures en vigueur et des objectifs qui vous seront fixés. Développer et gérer son portefeuille par le biais de conquête interne et conquête externe (réseaux et partenariats, représentation, recherche de prescriptions). Lutter contre l'attrition (traitement des réclamations, qualité de conseil et de service, disponibilité). Gérer et anticiper les risques : respecter la réglementation en vigueur en matière de crédits, de risques et de conformité. Vous aurez à cœur de faire vivre et promouvoir notre modèle coopératif et ses valeurs au quotidien auprès de nos clients et partenaires. Profil et compétences requises? Profil & compétences recherchés Vous êtes diplômé(e) d'un BAC +2 / BAC +3 minimum dans le domaine de l'agriculture ou dans le domaine banque/finance avec une appétence pour le domaine agricole. Vous faites preuve d'un esprit d'équipe, de partage et le goût du challenge Vous avez une capacité d'écoute active, un intérêt marqué pour votre clientèle et êtes déterminé(e) dans la réalisation de vos missions et vos projets de carrière Vous maîtrisez les outils d'IA mis à disposition par l'entreprise et savez adapter votre travail en intégrant les fonctionnalités de l'IA.\nLa certification AMF doit être validée.Informations complémentaires sur le posteCe que vous recherchez : Une entreprise avec des perspectives d'évolution de poste et de carrière au sein de notre banque ou de notre groupe. Un accompagnement dès votre entrée à la Banque Populaire Val de France avec notre parcours d'intégration, mais également tout au long de votre carrière. De la proximité avec votre équipe et également avec votre Responsable des Ressources humaines\n? Alors c'est chez nous que ça se passe ! ?\nEn nous rejoignant, vous bénéficierez : D'une rémunération attractive : un salaire annuel brut compris entre 36 k€ et 45 k€ (payé en 13 mensualités), ajusté selon votre expérience D'une part variable motivante : en lien direct avec l'atteinte de vos objectifs D'un dispositif de partage de la performance collective : intéressement et participation pouvant représenter jusqu'à 3 mois de salaire Un équilibre vie pro / perso préservé : organisation en semaine de 4,5 jours, RTT, Télétravail Des avantages au quotidien et un socle social attractif Une protection sociale de qualité : couverture santé et prévoyance avantageuse Une mobilité facilitée et durable : prise en charge des frais de transport, indemnité de covoiturage Un soutien à la parentalité : indemnités de garde et primes de scolarité par enfant De nombreux avantages proposés par le CSE : culture, sport, loisirs, vacances. Un développement professionnel continu : parcours de formation complet et certifiant Une intégration soignée : parcours d'accueil incluant 3 jours au siège social\nNotre processus de recrutement  Notre équipe de recrutement se charge de vous joindre par téléphone afin d'échanger sur votre projet de carrière et les formalités. Un entretien RH pour échanger sur votre parcours et comprendre votre motivation à rejoindre la Banque Populaire Val de France. Un entretien opérationnel pour étudier votre côté terrain directement Enfin, nous intégrons la prise de références afin d'assurer une évaluation complète des candidats et de garantir un meilleur alignement avec les valeurs et les exigences de notre entreprise.\nInformations supplémentaires :\nLa diversité et l'inclusion sont des valeurs fondamentales pour notre banque : ce poste est ouvert à tous les talents, sans aucune distinction.",
-        "dateCreation": "2026-08-28T22:25:57.534Z",
-        "dateActualisation": "2026-08-28T22:25:57.534Z",
-        "lieuTravail": {
-          "libelle": "86 - Montmorillon",
-          "codePostal": "86500",
-          "commune": "86165"
-        },
-        "romeCode": "D1403",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale auprès des particuliers",
-        "appellationlibelle": "Conseiller(ère) commercial(e) pour clientèle de particuliers",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6394569",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/BPCE-BPVF01831#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
       }
     ]
   }
