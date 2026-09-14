@@ -1,5 +1,370 @@
 [
   {
+    "date": "2026-09-14",
+    "count": 4,
+    "offres": [
+      {
+        "id": "6860455",
+        "intitule": "Ingénieur commercial H/F",
+        "description": "Le Groupe Cybertek est un acteur majeur dans le secteur de la vente de matériel informatique et High-Tech en France. Créé en 1996, son siège social et ses plateformes logistiques se trouvent à Bordeaux. Cybertek possède 28 magasins sous les enseignes Cybertek et Grosbill, ainsi que cinq sites de commerce en ligne. Employant plus de 250 personnes, Cybertek a réussi à atteindre un chiffre d'affaires annuel de 130 millions d'euros en s'appuyant sur des équipes dynamiques et soudées.\n\nVos missions\n\nDe manière autonome, en tant que véritable Business Développeur, au sein d'une équipe déjà opérationnelle vous êtes chargé(e) de :\n\n* Identifier les besoins en matériel, solutions et services informatique (PC, serveurs, réseaux, logiciels, licences, etc.) et proposer les offres les plus adaptées ;\n* Assurer la prospection commerciale : détection de nouvelles opportunités, élargissement du réseau de partenaires et développement du chiffre d'affaires ;\n* Piloter le cycle de vente complet : qualification, proposition, négociation, closing et suivi de la satisfaction client ;\n* Négocier les conditions commerciales (prix, délais, volumes, marges) en respectant la politique tarifaire du groupe auprès d'interlocuteurs de haut niveau (acheteurs, DSI, DG, maires) ;\n* Assurer le suivi complet du cycle de vente : de la qualification du prospect à la conclusion du contrat et au suivi post-vente ;\n* Être un interlocuteur expert et de confiance pour les clients : comprendre leurs enjeux techniques, leurs contraintes budgétaires et leur stratégie IT ;\n* Mettre en œuvre une approche de vente consultative (solution selling) afin de maximiser la valeur ajoutée pour le client ;\n* Promouvoir les marques et solutions distribuées en mettant en avant les avantages techniques et les services associés.\n\nVos compétences\n\nVous avez une formation commerciale et au moins trois années d'expérience réussie dans la vente BtoB ? Passionné (e) par l'univers de l'informatique et des nouvelles technologies, vous aimez aller à la rencontre des professionnels et comprendre leurs besoins ?\n\nChez CYBERTEK, nous recherchons une personnalité engagée, dotée d'un excellent sens du relationnel et d'une écoute attentive. Vous aimez relever des défis et vous épanouissez dans l'atteinte - voire le dépassement - de vos objectifs. Votre capacité à convaincre, alliée à une approche stratégique et constructive de la négociation, fait de vous un(e) véritable partenaire pour vos clients.\n\nVous êtes résolument tourné(e) vers les résultats et avez envie de participer activement au développement d'une entreprise en pleine croissance.\n\nCe profil vous ressemble ? Alors n'attendez plus : rejoignez l'aventure CYBERTEK !\n\nSalaire : package de 35 K - 45k selon profil",
+        "dateCreation": "2026-09-14T04:03:13.157Z",
+        "dateActualisation": "2026-09-14T04:03:13.157Z",
+        "lieuTravail": {
+          "libelle": "33 - Bordeaux",
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "GROUPE CYBERTEK"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6860455",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://join.com/companies/cybertek/16701538-ingenieur-commercial-h-f?pid=d0c6f59b69df21dc4528",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "213VKNJ",
+        "intitule": "Téléprospecteur / Téléprospectrice",
+        "description": "Vous aurez comme mission :\n- Démarchage auprès d'entreprises France entière afin de proposer notre catalogue de chocolats et capter de nouveaux clients\n- Suivi des dossiers et des commandes\n\nVous travaillez sur le site Clermontois (pas de télétravail)\nLes horaires : du lundi au vendredi 35h00\nContrat CDD jusqu'au 20/12/26\nPrimes en fonction des objectifs\n\nVous devez maitriser l'outil informatique afin de faire les saisies nécessaires",
+        "dateCreation": "2026-09-14T11:57:50.910Z",
+        "dateActualisation": "2026-09-14T13:17:20.346Z",
+        "lieuTravail": {
+          "libelle": "63 - CLERMONT FERRAND",
+          "latitude": 45.812995,
+          "longitude": 3.128579,
+          "codePostal": "63000",
+          "commune": "63113"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléprospecteur / Téléprospectrice",
+        "entreprise": {
+          "nom": "JEFF DE BRUGES",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 3 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - En phoning",
+        "experienceCommentaire": "En phoning",
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "S"
+          },
+          {
+            "code": "121427",
+            "libelle": "Développer un portefeuille clients et prospects",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1867.02 Euros",
+          "complement1": "Primes",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "JEFF DE BRUGES - Mme JUSTINE DE FREITAS",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213VKNJ",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213VKNJ"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "47.24Z",
+        "secteurActivite": "47",
+        "secteurActiviteLibelle": "Commerce de détail de pain, pâtisserie et confiserie en magasin spécialisé",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve d'autonomie",
+            "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          }
+        ],
+        "trancheEffectifEtab": "3 à 5 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213VKNJ"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "213VKJP",
+        "intitule": "Chargé(e) de relation client (H/F)",
+        "description": "C'est nous :\n- Des valeurs Mutualiste de solidarité, de transparence, de responsabilité.\n- Une formation adaptée dans une équipe soudée avec une ambiance positive\n- Des opportunités de carrière au sein d'un Groupe dynamique aux activités variées, \n- Des possibilités de télétravail et de mobilités intragroupe\nC'est vous :\n- Votre aisance relationnelle et votre sens du service\n- Votre écoute et votre esprit d'équipe\n- Votre connaissance de la relation client et du conseil téléphonique\n- Votre envie de contribuer activement à la réussite de votre entreprise\n\nVos Missions :\nVous devez répondre au mieux aux demandes de l'ensemble de nos adhérents par téléphone. Vous analysez leurs demandes, réclamations et leur apporter des solutions par des conseils adaptés.\nDans une démarche de prise en charge globale de la demande de nos adhérents et afin de garantir leur satisfaction et leur fidélisation, vous serez amené, chaque fois que cela sera possible, à assurer directement le traitement de leur dossier par la réalisation d'actes de gestion.\n\nNotre offre :\nUn salaire fixe de 26 000€ bruts annuels + Variable + Intéressement + RTT + Mutuelle de Groupe + TR + possibilité de télétravail \nPoste en CDD de 6 mois renouvelable en temps complet situé à Paris 15ème à pourvoir dès que possible. Merci d'adresser votre candidature en précisant la référence CCT26",
+        "dateCreation": "2026-09-14T11:53:32.984Z",
+        "dateActualisation": "2026-09-14T11:53:33.497Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris 15e Arrondissement",
+          "latitude": 48.841401,
+          "longitude": 2.300274,
+          "codePostal": "75015",
+          "commune": "75115"
+        },
+        "romeCode": "C1116",
+        "romeLibelle": "Chargé / Chargée de clientèle centre d'appels en assurances",
+        "appellationlibelle": "Téléconseiller / Téléconseillère en assurances",
+        "entreprise": {
+          "nom": "GPM",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "122700",
+            "libelle": "Assurances",
+            "exigence": "E"
+          },
+          {
+            "code": "121427",
+            "libelle": "Développer un portefeuille clients et prospects",
+            "exigence": "S"
+          },
+          {
+            "code": "117240",
+            "libelle": "Rassembler les justificatifs et transmettre la proposition d'assurance pour décision",
+            "exigence": "S"
+          },
+          {
+            "code": "300366",
+            "libelle": "Recueillir et analyser les besoins client",
+            "exigence": "E"
+          },
+          {
+            "code": "300374",
+            "libelle": "Présenter et valoriser un produit ou un service",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Annuel de 24000.0 Euros à 26000.0 Euros",
+          "complement1": "Primes",
+          "complement2": "Titres restaurant / Prime de panier",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "urlPostulation": "https://www.groupepasteurmutualite.fr/carrieres/rejoignez-nous/offre-d-emploi-572688865-572688870/candidater"
+        },
+        "agence": {},
+        "nombrePostes": 4,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "82.99Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Autres activités de soutien aux entreprises n.c.a.",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre à l'écoute, faire preuve d'empathie",
+            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          },
+          {
+            "libelle": "Faire preuve de contrôle de soi",
+            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
+          }
+        ],
+        "trancheEffectifEtab": "250 à 499 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213VKJP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "213VKFF",
+        "intitule": "Téléconseiller ENERGIE  (H/F)",
+        "description": "Envie de rejoindre une entreprise dynamique, en plein essor et de participer à son développement ? \nRejoignez nos équipes et faites valoir vos talents !\n\nPRISE DE POSTE : 22/10/2026\n\nPour notre site basé à Metz technopôle nous recrutons plusieurs Conseillers Clients H/F en charge de la relation et de la satisfaction de nos clients dans le domaine de l'énergie :\n\n- Gestion de proposition de services supplémentaires\n- Prise en charge et accompagnement des demandes de réclamation\n- Font office et back office\n\nVotre profil:\n- Bonne gestion de la relation client et bonne élocution\n- Une parfaite maitrise de la langue française à l'oral comme à l'écrit\n- Savoir gérer des appels conflictuels\n- Capacité à convaincre\n- Une bonne connaissance des outils informatiques\n- Une première expérience sur même type de poste est requise\n\nNous vous proposons :\n* Prime sur objectifs\n* Une formation dans nos locaux à nos outils!\n* Mutuelle d'entreprise\n* Prise en charge à hauteur de 50% par l'employeur pour les frais de transport en commun\n* 4 jours de télétravail par semaine dès que vous serez autonome sur le poste\n\nNos locaux sont situés sur le technopole et sont facilement accessibles par les transports en commun\nAmplitude horaire:\nDu lundi au vendredi: 08h00-19h00 (35H hebdo selon planning), pause déjeuner d'une heure. \nTravail 1 samedi sur 2.",
+        "dateCreation": "2026-09-14T11:51:00.217Z",
+        "dateActualisation": "2026-09-14T11:51:00.217Z",
+        "lieuTravail": {
+          "libelle": "57 - METZ",
+          "latitude": 49.099241,
+          "longitude": 6.173661,
+          "codePostal": "57000",
+          "commune": "57463"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": "CGE FRANCE",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 6 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - Relation clientèle ou administratif ",
+        "experienceCommentaire": "Relation clientèle ou administratif ",
+        "formations": [
+          {
+            "niveauLibelle": "Bac ou équivalent",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Maîtrise de l'outil informatique",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1867.02 Euros",
+          "complement1": "Primes",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail METZ SEBASTOPOL",
+          "coordonnees1": "METZ SEBASTOPOL TECHNOPOLE 5 RUE DES DINANDIERS",
+          "coordonnees2": "57000 Metz",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213VKFF"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213VKFF"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "82.20Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Activités de centres d'appels",
+        "trancheEffectifEtab": "200 à 249 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213VKFF"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "count": 2,
     "offres": [
@@ -7323,247 +7688,6 @@
         "_ville_recherchee": "Remote",
         "_score": 0,
         "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "count": 4,
-    "offres": [
-      {
-        "id": "6443011",
-        "intitule": "Commercial(e) Terrain B2B (H/F) - Région Lilloise",
-        "description": "Acteur majeur de la digitalisation des points de vente, Digilor déploie ses solutions innovantes dans toute la France. Experts en affichage dynamique, dispositifs interactifs et applications tactiles, nous proposons un catalogue de solutions particulièrement large. Dans le cadre de notre développement, nous recherchons notre nouveau(elle) Commercial(e) Terrain pour conquérir et développer le secteur de la région lilloise !\n\nVos missions\n\nDirectement rattaché(e) à la Direction Commerciale, votre rôle est à 100% axé sur la conquête et le développement.\n\nOrganisation du poste : Notre siège étant basé à Nancy et notre seconde entité à Saint-Denis, vous gérez votre secteur lilloise en totale autonomie. Votre quotidien se partagera exclusivement entre vos déplacements sur le terrain pour la prospection et la vente, et votre domicile en télétravail pour toute la gestion administrative (suivi, relances, administratif).\n\nAu quotidien, vos responsabilités seront de :\n\n* Prospecter activement sur votre secteur (prospection physique et téléphonique) auprès d'une clientèle variée de professionnels.\n* Analyser les besoins de vos interlocuteurs pour leur proposer les solutions Digilor les plus pertinentes parmi notre large gamme de produits (écrans, bornes tactiles, affichage dynamique, etc.).\n* Négocier et conclure les ventes en menant l'intégralité du cycle de vente, de la présentation jusqu'à la signature du contrat.\n* Assurer le suivi et le reporting de votre activité de manière rigoureuse dans notre outil CRM.\n\nVos compétences\n\n* Vous justifiez d'une première expérience réussie dans la vente terrain B2B et la prospection.\n* Une expérience préalable en télétravail ou une grande rigueur dans l'auto-organisation est indispensable pour réussir à ce poste en Home Office.\n* Doté(e) d'un véritable tempérament de chasseur/se, vous êtes tenace, orienté(e) résultats et animé(e) par le goût du challenge.\n* Vous savez créer du lien facilement, argumenter avec conviction et conquérir vos interlocuteurs.\n\nAvantages\n\n* Rémunération attractive : Un salaire fixe de 2 200 € brut mensuel, complété par une rémunération variable liée à vos performances.\n* Véhicule de fonction : Mise à disposition d'un véhicule (les modalités d'attribution seront définies au plus tard à l'issue de la période d'essai). L'utilisation de ce véhicule est strictement encadrée par la Car Policy en vigueur au sein de l'entreprise. Les frais fixes (assurance, entretien) sont pris en charge par l'entreprise et les frais de carburant professionnels sont remboursés sur notes de frais.\n* Tickets Restaurants : D'une valeur de 13 € par jour travaillé, pris en charge à 60 % par Digilor.\n* Mutuelle d'entreprise : Une couverture santé prise en charge à 100 % par l'employeur.\n* Prime d'intéressement : Un accord d'intéressement est en vigueur pour vous associer aux réussites et aux bons résultats annuels de l'entreprise.\n* Matériel : Pack complet pour travailler efficacement depuis votre domicile (ordinateur, téléphone, outils CRM performants).\n\nSi vous êtes prêt(e) à relever ce défi et à contribuer activement au développement de Digilor, nous serions ravis de vous rencontrer ! Vous rejoindrez une entreprise innovante et ambitieuse, où l'on récompense les efforts et où l'on fête les réussites.\n\nVous avez l'âme d'un(e) compétiteur(rice) et l'envie de performer à nos côtés ? N'hésitez plus : c'est le moment de postuler !",
-        "dateCreation": "2026-08-31T04:01:51.954Z",
-        "dateActualisation": "2026-08-31T04:01:51.954Z",
-        "lieuTravail": {
-          "libelle": "59 - Lille",
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "E1113",
-        "romeLibelle": "Responsable e-commerce",
-        "appellationlibelle": "E-commercial / E-commerciale",
-        "entreprise": {
-          "nom": "DIGILOR"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6443011",
-          "partenaires": [
-            {
-              "nom": "SKELLO",
-              "url": "https://join.com/companies/digilor/16642789-commercial-e-terrain-b2b-h-f-region-lilloise?pid=d0c6f59b69df21dc4528",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Commercial B2B",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "6459273",
-        "intitule": "Conseiller Commercial en Assurance (H/F)",
-        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Commercial Assurances (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance bien implantée sur la METROPOLE LILLOISE\n\nC'est où - secteur de RONCHIN (59)\n\nC'est quoi - un poste sédentaire de conseiller(ère) clients en assurance et banque, à la fibre commerciale, pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 30 000 € à 34 000 € bruts par an selon votre qualification et votre expérience + Variable individuel motivant\n\nQuels avantages - Mutuelle et Prévoyance + Tickets restaurant + Avantages salariés type CSE\n\nQuel environnement - structure locale tournée vers le conseil client - importance attachée à une ambiance de travail agréable et à l'humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\nTemps plein - 39 H par semaine du Lundi au Samedi midi (avec 1/2 journée de récupération dans la semaine)\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez les clients :\n- Vous accueillez les clients et prospects de l'Agence (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, SANTE, PREVOYANCE, BANQUE et PLACEMENT.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des avenants, suivi des pièces contractuelles.).\n\nProfil\n\nIdéalement issu(e) d'une formation BTS ou Licence dans les Assurances, vous avez 5 à 10 ans d'expérience minimum en Agence Générale ou Cabinet de Courtage d'Assurances.\n- Vous êtes reconnu(e) pour vos aptitudes administratives et commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n- Organise(é), vous saurez faire preuve de dynamisme et de polyvalence.\n- Vous souhaitez progresser en relevant des défis et en apprenant.",
-        "dateCreation": "2026-08-31T11:02:42.911Z",
-        "dateActualisation": "2026-08-31T11:02:42.911Z",
-        "lieuTravail": {
-          "libelle": "59 - Lille",
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(e) commercial(e) relation client en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 34000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6459273",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32397/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "213CQMJ",
-        "intitule": "Gestionnaire clients (H/F)",
-        "description": "Après une formation complète à notre métier, à nos outils de gestion et à nos procédures clients, pour\nvous permettre de monter rapidement en compétences.\n\nVous interviendrez sur deux axes complémentaires ;\nFrontOffice :\n- Réception et émission d'appels téléphoniques.\n- Accueil des clients : analyse de la demande, reformulation et traitement adapté.\nBack-Office :\n-Gestion des missions : qualification, enregistrement, affectation ou réaffectation aux experts.\n-Prise en charge administrative des dossiers : première évaluation des dommages, collecte des pièces,\ntransmission aux experts.\n-Organisation et suivi : planification des rendez-vous, contrôle des délais, relances, mise à jour des outils\nmétiers.\n-Vérification et clôture : contrôle des rapports d'expertise, proposition de solutions de réparation,\ninformation aux mandants sur l'avancement des dossiers\n\nProfil recherché\n\nPourquoi VOUS ?\n- Vous possédez une bonne communication écrite et orale ainsi qu'un bon relationnel,\n- Idéalement, vous avez une première expérience dans la relation client,\n- Vous aimez le travail en équipe,\n- Vous êtes à l'aise avec les outils informatiques.\nA compétences égales, tous nos postes sont ouverts aux personnes en situation de handicap.\nNombre de poste(s) : 8\n\nInformations complémentaires\nPoste en CDI, date de prise de poste : 21 septembre 2026\nRémunération : 2013,92€ bruts + prime variable pouvant aller jusqu'à 150€/mois selon atteinte des\nobjectifs individuels et collectifs ;\nAvantages : Titres restaurant de 10€/jour travaillé avec prise en charge à 60% par l'employeur + Primes\nd'intéressement et participation +Mutuelle prise en charge à 70%+ Remboursement des transports en\ncommun à 50% (sur justificatif) ;\nLocalisation : Villeurbanne - secteur Charpennes, proches de toutes commodités (tram/métro...) et du\nParc de la Tête d'or.",
-        "dateCreation": "2026-08-31T09:13:01.988Z",
-        "dateActualisation": "2026-08-31T09:22:02.815Z",
-        "lieuTravail": {
-          "libelle": "69 - VILLEURBANNE",
-          "latitude": 45.766184,
-          "longitude": 4.877063,
-          "codePostal": "69100",
-          "commune": "69266"
-        },
-        "romeCode": "D1432",
-        "romeLibelle": "Assistant / Assistante service clients",
-        "appellationlibelle": "Assistant / Assistante service clients",
-        "entreprise": {
-          "nom": "ALKERA SOLUTIONS",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "117243",
-            "libelle": "Etablir un devis",
-            "exigence": "S"
-          },
-          {
-            "code": "300305",
-            "libelle": "Effectuer le suivi des commandes, la facturation",
-            "exigence": "S"
-          },
-          {
-            "code": "300426",
-            "libelle": "Utiliser les outils numériques",
-            "exigence": "S"
-          },
-          {
-            "code": "403448",
-            "libelle": "Communiquer efficacement avec l'équipe et les clients",
-            "exigence": "S"
-          },
-          {
-            "code": "300451",
-            "libelle": "Relayer de l'information",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 2013.92 Euros sur 12 mois"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail VILLEURBANNE",
-          "coordonnees1": "41 RUE COLIN\nCS 60032",
-          "coordonnees2": "69625 Villeurbanne",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213CQMJ"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213CQMJ"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": false,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "66.21Z",
-        "secteurActivite": "66",
-        "secteurActiviteLibelle": "Évaluation des risques et dommages",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Avoir le sens du service",
-            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
-          }
-        ],
-        "trancheEffectifEtab": "100 à 199 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213CQMJ"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "6443019",
-        "intitule": "Technico-Commercial Sédentaire B2B (F/H)",
-        "description": "Notre client est un acteur spécialisé et reconnu dans la conception, la fabrication et la distribution de solutions de levage et de manutention de haute performance. Loin des distributeurs généralistes, cette structure se distingue par sa capacité à fournir des équipements critiques (palonniers, élingues, câblerie de haute résistance) pour des secteurs exigeants : BTP, Industrie lourde, Marine et Offshore.\n\nDotée d'outils industriels de pointe (banc de traction haute capacité, ateliers de confection), l'entreprise mise sur une réactivité absolue et un conseil technique de haut niveau pour accompagner ses partenaires dans leurs défis de levage les plus complexes.\n\nVos missions\n\nRattaché(e) directement à la direction, vous occupez un poste central où la maîtrise technique sert la réussite commerciale. Votre rôle n'est pas de \"vendre un catalogue\", mais de construire des solutions.\n\n* Ingénierie de Vente : Réceptionner et analyser les besoins techniques complexes des clients. Préconiser les matériels et accessoires adaptés (normes de sécurité, capacités de charge, spécificités d'usage).\n* Chiffrage & Études : Élaborer des offres commerciales précises et compétitives. Vous êtes le garant de la faisabilité technique et de la rentabilité des dossiers.\n* Closing & Développement : Piloter votre pipe commercial avec ténacité. Assurer une relance proactive des devis pour transformer les opportunités en succès concrets.\n* Suivi Opérationnel : Coordonner les commandes avec les équipes techniques/production pour garantir le respect des délais et la conformité des solutions livrées.\n\nVos compétences\n\nNous recherchons un(e) professionnel(le) qui possède déjà les codes de la vente technique B2B.\n\n* Parcours : Vous justifiez d'une expérience de 2 ans minimum en vente sédentaire, idéalement acquise dans les secteurs des Matériaux, du Levage, de la Manutention ou de la Fourniture Industrielle.\n* Compétences clés : Vous savez lire un plan technique, comprenez les contraintes de charges et maîtrisez les étapes d'un cycle de vente B2B (prospection, négociation, closing).\n* Savoir-être : Vous êtes reconnu(e) pour votre rigueur organisationnelle et votre capacité à gérer plusieurs dossiers de front. Votre aisance relationnelle vous permet de dialoguer aussi bien avec des responsables de parcs qu'avec des acheteurs industriels.\n* Engagement : Vous cherchez une structure stable, agile, où votre autonomie et votre impact sur le chiffre d'affaires seront directement valorisés.\n\nAvantages\n\nContrat : CDI - Base 39h/semaine.\n\nDisponibilité : Idéalement fin avril 2026.\n\nRémunération : Fixe motivant selon expertise + Participation aux frais de transport (selon zone de résidence).\n\nLe \"+\" bien-être : Cagnotte CSE externalisée de 50 € nets par mois, offrant un gain de pouvoir d'achat immédiat et concret.\n\nVotre futur s'écrit ici.\n\nVous vous reconnaissez dans ce challenge technique ? Vous avez envie de rejoindre une structure agile où votre expertise commerciale fera réellement la différence au quotidien ?\n\nPourquoi franchir le pas ?\nPostuler à cette offre, c'est s'assurer que votre profil sera étudié avec attention et bienveillance. Mon rôle est de créer la rencontre idéale entre vos ambitions de carrière et les besoins réels du terrain. Ici, on privilégie la transparence et la qualité des échanges.\n\nPrêt(e) à passer à l'étape suivante ? Ne laissez pas passer cette opportunité. Postulez dès maintenant et discutons ensemble de votre prochaine réussite professionnelle !",
-        "dateCreation": "2026-08-31T04:01:52.508Z",
-        "dateActualisation": "2026-08-31T04:01:52.508Z",
-        "lieuTravail": {
-          "libelle": "13 - Gémenos",
-          "codePostal": "13420",
-          "commune": "13042"
-        },
-        "romeCode": "D1407",
-        "romeLibelle": "Technico-commercial / Technico-commerciale",
-        "appellationlibelle": "Technico-commercial / Technico-commerciale",
-        "entreprise": {
-          "nom": "SNIPER 360"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6443019",
-          "partenaires": [
-            {
-              "nom": "SKELLO",
-              "url": "https://join.com/companies/sniper360fr/16643317-technico-commercial-sedentaire-b2b-f-h?pid=d0c6f59b69df21dc4528",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Commercial B2B",
-        "_ville_recherchee": "Marseille",
-        "_score": 0,
-        "_is_remote": false
       }
     ]
   }
