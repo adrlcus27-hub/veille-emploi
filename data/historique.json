@@ -1,5 +1,337 @@
 [
   {
+    "date": "2026-10-06",
+    "count": 5,
+    "offres": [
+      {
+        "id": "7681146",
+        "intitule": "CONSEILLER/E DE VENTES H/F",
+        "description": "RESPONSABILITÉS : \n\nSous la responsabilité directe du Responsable de la boutique, vous aurez pour missions:\n - Accueillir, conseiller et fidéliser la clientèle tout en garantissant une expérience de vente qualitative\n - Assurer la vente des produits et la tenue de la caisse\n - Participer à la mise en valeur de la boutique (merchandising, vitrines, tenue du magasin)\n - Gérer les stocks (réception, rangement, inventaire, préparation et vérification des commandes)\n - Assister aux réunions organisée par la société\n - Veiller au bon fonctionnement quotidien de la boutique dans le respect des procédures internes\n\nPROFIL RECHERCHÉ : \n\nVous justifiez d'une première expérience réussie en vente.\nVous faites preuve d'un excellent sens du service et avez un réel goût pour le conseil et le contact client.\nVous faites preuve de rigueur, d'organisation et d'autonomie.\nLa maîtrise de l'anglais est indispensable.\nHoraires de travail du mardi au samedi.\nPoste à pourvoir en CDI, 35 heures.\nRémunération fixe + variable + tickets restaurants.",
+        "dateCreation": "2026-10-06T04:32:08.734Z",
+        "dateActualisation": "2026-10-06T04:32:08.734Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Télévendeur / Télévendeuse",
+        "entreprise": {
+          "nom": "Kim Executive"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Mensuel de 2000.0 Euros à 2100.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7681146",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/bg7ncyero68/conseiller-e-de-ventes-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "214WBSG",
+        "intitule": "TELECONSEILLER RCAD TGV CARE (H/F)",
+        "description": "Nous recherchons 3 Téléconseillers à la Relation Client à Distance, vous serez le/la garant(e) de la qualité de service fournie à nos clients.\n Vous contribuerez en tant qu'agent polycompétent à la satisfaction du client. Vous interviendrez soit en Front (Téléphone) , soit en BACK (Mails) pour répondre à nos clients.\n\nVos activités : \n- Accueillir, conseiller, informer le client avec bienveillance, attention, et proactivité par téléphone (Front) et par mail (Back)\n- Commande, achat de billets\n- Informations et renseignements clients (offre tarifaire, cartes de fidélité, mise à jour des comptes clients, dématérialisation.)\n- Traitement des demandes/réclamations clients par téléphone et mail\n\nConnaissances géographique et maitrise de l'écrit indispensable.\n\nCDD du 6 novembre au 21 décembre.\n\namplitude horaire: 07h50 à 20h15, travail en 7/7 par roulement.",
+        "dateCreation": "2026-10-06T12:15:24.752Z",
+        "dateActualisation": "2026-10-06T12:15:24.752Z",
+        "lieuTravail": {
+          "libelle": "44 - NANTES",
+          "latitude": 47.239923,
+          "longitude": -1.519033,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 2 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois",
+        "formations": [
+          {
+            "niveauLibelle": "Bac ou équivalent",
+            "exigence": "E"
+          }
+        ],
+        "langues": [
+          {
+            "libelle": "Français",
+            "exigence": "E"
+          }
+        ],
+        "competences": [
+          {
+            "code": "300363",
+            "libelle": "Identifier, traiter une demande client",
+            "exigence": "S"
+          },
+          {
+            "code": "485132",
+            "libelle": "Répondre aux appels téléphoniques, mails, tchat et renseigner les clients",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Geographie",
+            "exigence": "E"
+          },
+          {
+            "libelle": "Rédaction écrite",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Annuel de 24645.0 Euros",
+          "complement1": "Indemnité transports",
+          "complement2": "Complémentaire santé",
+          "listeComplements": [
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "1",
+              "libelle": "Primes"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en horaires décalés...",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail NANTES HALUCHERE",
+          "coordonnees1": "224 BOULEVARD JULES VERNE ",
+          "coordonnees2": "44300 Nantes",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214WBSG"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214WBSG"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": true,
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "49.10Z",
+        "secteurActivite": "49",
+        "secteurActiviteLibelle": "Transport ferroviaire interurbain de voyageurs",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve de contrôle de soi",
+            "description": "Capacité à garder le contrôle de soi pour agir efficacement face à des situations irritantes, imprévues, stressantes."
+          },
+          {
+            "libelle": "Avoir l'esprit d'équipe",
+            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+          },
+          {
+            "libelle": "Etre à l'écoute, faire preuve d'empathie",
+            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+          }
+        ],
+        "trancheEffectifEtab": "100 à 199 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214WBSG"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en horaires décalés",
+            " Travail les week-ends et jours fériés",
+            " Travail posté (2x8, 3x8, 5x8, etc.)",
+            " Travail par roulement",
+            " Travail selon un rythme irrégulier et des pics d'activité"
+          ],
+          "conditionsExercice": [
+            "Station assise prolongée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": true,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "7685199",
+        "intitule": "Chargé de Relation Client F/H/X",
+        "description": "Chargé de Relation Client F/H/X\n\nExploitation\n\nInspirer et mettre en mouvement une mobilité responsable. \n\nKISIO Services et Consulting offre aux collectivités, aux opérateurs de transports et aux entreprises une approche experte, multidisciplinaire et sur-mesure de la mobilité \n\nAu quotidien, nous allions conseil et services opérationnels et œuvrons à la transition sociétale, environnementale et énergétique, en agissant en faveur d'une mobilité durable au service des citoyens.\n\nNous sommes une filiale française du groupe Keolis, fruit du rapprochement de plusieurs entités expertes en 2015.\n\nCe que nous pouvons accomplir ensemble :\n\nSous la responsabilité du Chef d'équipe, le Chargé de relation client promeut l'image des clients donneur d'ordres et fidélise la clientèle par la qualité et la pertinence des réponses apportées, et ce quel que soit le canal utilisé (téléphone, courriel, courrier, chat...). Il assure aussi bien le front office que le back office. Il contribue à l'amélioration de la qualité de service et traite l'aspect administratif lié à ses missions.\n\nVotre rôle :\n\n1. Gestion des appels et interactions clients\n\nRéceptionner les appels entrants et émettre des appels sortants.\n\nIdentifier l'objet de l'appel (information, réclamation, assistance, commande, vente, , etc.).\n\nRépondre aux demandes des clients en fonction des procédures établies.\n\nRediriger les appels vers les services compétents si nécessaire.\n\nAssurer un suivi efficace des interactions avec les clients.\n\n2. Traitement administratif et suivi des dossiers\n\nSaisir les informations et suivis des appels dans les outils dédiés.\n\nGérer et traiter les dossiers clients en back-office selon des procédures établies \n\nSuivre les consignes et respecter les processus internes.\n\nAppliquer les directives relatives aux certifications et labels en vigueur.\n\n3. Formation et amélioration continue\n\nAssister aux formations concernant les produits, services, campagnes promotionnelles, outils et procédures.\n\nRespecter le discours client et les standards de qualité définis.\n\nConnaître et appliquer les principes du système de management de la qualité.\n\nContribuer à l'amélioration continue du service client en signalant les dysfonctionnements\n\n4. Utilisation quotidienne de l'IA comme appui au conseiller\n\nS'appuyer sur des outils d'intelligence artificielle (assistants virtuels, suggestions de réponses, analyse de sentiment) pour préparer et personnaliser les réponses aux clients, tout en gardant la responsabilité finale du message envoyé.\n\nRelire, vérifier et ajuster les réponses proposées par l'IA pour garantir leur conformité aux procédures internes, leur exactitude et leur adéquation au contexte client. \n\nVotre profil :\n\nVous êtes de formation Bac à Bac +2\n\nVous avez idéalement une première expérience en relation client\n\nVous faites preuve de vivacité d'esprit, de logique et de réactivité. Vous aimez le travail d'équipe. Vous avez un sens du contact, une très bonne expression écrite et orale, la qualité de service est essentielle pour vous. Vous êtes curieux et êtes force de proposition. \n\nCe que nous vous proposons:\n\nContrat 35h en roulement Lundi au vendredi de 7h à 20h / samedi de 8h à 17H30\n\nRémunération annuelle 22 440,00 € soit 1870€ brut mensuel\n\nUne culture d'entreprise inclusive et bienveillante, où chacun peut évoluer pleinement\n\nUn environnement collaboratif et vivant : animations, partages d'expérience, actualités régulières\n\nDes engagements RSE concrets : créer de la valeur pour nos clients et nos territoires, mettre l'humain au cœur de nos priorités, protéger la planète et garantir une croissance durable\n\nDe nombreux avantages : télétravail, CSE, épargne salariale, Forfait Mobilité Durable, remboursement à 75 % des frais de transport, et un engagement solidaire fort - chaque collaborateur bénéficie d'1 jour par an dédié à une mission à fort impact social\n\nNos engagements reconnus :\n\nBaromètre LGBTQIA+ : 100 % des participants reconnaissent Kisio comme une entreprise LGBT+ friendly\n\nSignataire de la Charte d'engagement LGBT+ de L'Autre Cercle depuis 2023\n\nIndex égalité professionnelle femmes-hommes : 94/100\n\nLabellisé RSE Exemplaire\n\nProcessus de recrutement :\n\n1. \nPrésélection\n: si votre candidature est retenue, un premier échange RH vous sera proposé. Si ce n'est pas le cas, vous recevrez une réponse par mail.\n\n2. \nEntretiens métier\n: vous rencontrez votre futur manager et éventuellement d'autres membres de l'équipe.\n\n3. \nDécision\n: votre candidature est validée ? L'équipe RH vous transmet une offre de contrat. Dans le cas contraire, vous êtes informé(e) dans les meilleurs délais\n\nDans un souci de lisibilité et d'accessibilité, cette offre est rédigée au masculin générique, sans préférence de genre. Kisio cultive la diversité et l'inclusion au sein de ses équipes, sans distinction d'origine, d'expérience, d'âge, de genre, d'orientation sexuelle, de religion ou de situation de handicap",
+        "dateCreation": "2026-10-06T07:13:23.054Z",
+        "dateActualisation": "2026-10-06T07:13:23.054Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "N4203",
+        "romeLibelle": "Agent / Agente d'exploitation en transport routier de marchandises",
+        "appellationlibelle": "Agent / Agente d'intervention technique",
+        "entreprise": {
+          "nom": "Keolis"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "70.10Z",
+        "secteurActivite": "70",
+        "secteurActiviteLibelle": "Activités des sièges sociaux",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7685199",
+          "partenaires": [
+            {
+              "nom": "JOBTRANSPORT",
+              "url": "https://www.jobtransport.com/offre-emploi/ido/3323275.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobtransport80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "7685185",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\n\n\n\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n\n\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n\n\n- La gestion de la qualité de la relation client ;\n\n\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n\n\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\n\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste.\n\nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\n\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\n\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\nTemps de travail : Temps plein\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nStatut : Agent de maîtrise\nNiveau d'études minimum requis : Bac +2 / +3",
+        "dateCreation": "2026-10-06T07:13:22.675Z",
+        "dateActualisation": "2026-10-06T07:13:22.675Z",
+        "lieuTravail": {
+          "libelle": "67 - Strasbourg",
+          "codePostal": "67000",
+          "commune": "67482"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "68.20B",
+        "secteurActivite": "68",
+        "secteurActiviteLibelle": "Location de terrains et d'autres biens immobiliers",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7685185",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2706613.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Strasbourg",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "7680422",
+        "intitule": "Responsable Accompagnement Clients - Transition énergétique des bâtiments (H/F)",
+        "description": "Chez Lowit, nous avons une ambition : accélérer et massifier la transition énergétique des bâtiments tertiaires.\n\nFace à la hausse des coûts de l'énergie, aux enjeux climatiques et aux évolutions réglementaires, les gestionnaires de patrimoine ont besoin d'outils fiables, mais aussi d'un accompagnement de qualité pour passer à l'action.\n\nC'est pourquoi nous avons développé une plateforme SaaS qui permet de créer le jumeau numérique des bâtiments, de piloter les consommations énergétiques et de construire des trajectoires d'investissement réalistes, chiffrées et adaptées aux enjeux de chaque organisation.\n\nAujourd'hui, nous accompagnons plusieurs centaines de collectivités et d'entreprises partout en France dans leurs projets de transition énergétique.\n\nPME lyonnaise en forte croissance, nous recherchons des collaborateurs qui souhaitent avoir un impact concret, prendre des responsabilités et contribuer à une aventure collective porteuse de sens.\n\nVos missions\n\nChez Lowit, nous accompagnons chaque jour des collectivités, des entreprises et des établissements publics dans la gestion et la transition énergétique de leur patrimoine immobilier.\n\nNotre plateforme leur permet de mieux connaître leurs bâtiments, de piloter leurs consommations, d'anticiper les obligations réglementaires et de construire des trajectoires d'investissement cohérentes.\n\nParce qu'une plateforme ne crée de valeur que lorsqu'elle est pleinement appropriée par ses utilisateurs, nous accordons une place essentielle à l'accompagnement de nos clients. C'est précisément la mission de notre équipe Accompagnement Clients.\n\nPour accompagner notre croissance, nous recherchons aujourd'hui un(e) Responsable Accompagnement Clients.\n\nVous deviendrez l'interlocuteur privilégié d'un portefeuille de collectivités, d'entreprises et d'établissements publics. Votre mission sera de construire une relation de confiance durable avec vos clients, de comprendre leurs enjeux et de les accompagner dans l'utilisation de nos solutions afin qu'ils en tirent le meilleur parti.\n\nConcrètement, vous serez amené à :\n\n* Accompagner vos clients tout au long de leur parcours chez Lowit au travers d'échanges réguliers (téléphone, visioconférences, réunions et e-mails).\n* Développer une compréhension approfondie de leurs enjeux afin de leur apporter un accompagnement pertinent et personnalisé.\n* Les conseiller sur les sujets liés à la transition énergétique des bâtiments : réglementation, stratégie patrimoniale, performance énergétique, dispositifs d'aides, mécanismes de financement... en vous appuyant sur les experts internes lorsque cela est nécessaire.\n* Réaliser ponctuellement des missions de conseil directement chez les clients afin de fiabiliser leur patrimoine, mettre à jour leurs données, construire des scénarios personnalisés et restituer des plans d'action auprès de leurs équipes de direction ou de leurs élus.\n* Identifier les besoins émergents, détecter les opportunités d'accompagnement complémentaires et remonter les signaux business aux équipes concernées.\n* Animer des webinaires, partager les bonnes pratiques et contribuer au développement de la communauté d'utilisateurs Lowit.\n* Faire remonter les retours clients et les besoins fonctionnels afin de contribuer à l'amélioration continue de notre plateforme et de nos services.\n\nVous travaillerez en étroite collaboration avec les équipes Projets, Produit, Commerce et nos experts techniques afin de garantir un accompagnement de grande qualité.\n\nCe poste est avant tout un métier de relation client, de conseil et d'accompagnement. Vous ne serez pas seul face aux problématiques techniques : vous pourrez vous appuyer sur les expertises présentes chez Lowit. En revanche, votre capacité à écouter, comprendre les enjeux de vos clients et construire avec eux une relation de confiance sera déterminante dans leur réussite. et dans la nôtre.\n\nVos compétences\n\nNous recherchons avant tout une personne qui aime construire des relations de confiance dans la durée.\n\nIngénieur(e) de formation ou diplômé(e) d'un Bac+5 dans les domaines de l'énergie, du bâtiment, de la thermique ou de l'immobilier, vous souhaitez mettre votre expertise au service de l'accompagnement client.\n\nVous aimez comprendre les problématiques de vos interlocuteurs, les accompagner dans leurs projets et leur apporter des conseils concrets. Curieux(se), à l'écoute et pédagogue, vous appréciez autant les échanges humains que les sujets techniques.\n\nUne première expérience dans le conseil, la gestion de projet, le Customer Success ou l'accompagnement client constitue un véritable atout.\n\nAu-delà de votre parcours, nous serons particulièrement attentifs à votre capacité à :\n\n* Créer une relation de confiance avec vos clients et communiquer avec aisance, aussi bien à l'oral qu'à l'écrit.\n* Comprendre les enjeux techniques, réglementaires et patrimoniaux liés à la transition énergétique des bâtiments, ou avoir l'envie de développer rapidement cette expertise.\n* Faire ...",
+        "dateCreation": "2026-10-06T04:02:16.409Z",
+        "dateActualisation": "2026-10-06T04:02:16.409Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon",
+          "commune": "69123"
+        },
+        "romeCode": "F1113",
+        "romeLibelle": "Responsable énergie",
+        "appellationlibelle": "Responsable énergie",
+        "entreprise": {
+          "nom": "Lowit"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7680422",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://join.com/companies/lowit/16789122-responsable-accompagnement-clients-transition-energetique-des-batiments?pid=d0c6f59b69df21dc4528",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "count": 3,
     "offres": [
@@ -7611,615 +7943,6 @@
         "_ville_recherchee": "Remote",
         "_score": 0,
         "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-09-22",
-    "count": 13,
-    "offres": [
-      {
-        "id": "7093126",
-        "intitule": "Stagiaire/Alternant.e  Account Manager - Marseille (H/F)",
-        "description": "\n            Description de l'entrepriseRejoignez un cabinet de conseil international qui accompagne les grandes transformations stratégiques.Nous sommes Wavestone : des expert-es passionné-es et orienté-es solutions, qui placent l'humain au cœur de la performance et de la croissance. Ambitieux-ses et en pleine expansion, nous développons sans cesse notre portefeuille de clients et de projets, avec une portée internationale et une réelle volonté de générer un impact positif.Êtes-vous un vrai team player, porté par des valeurs fortes ? Êtes-vous curieux-se et déterminé-e, avec l'envie d'apprendre chaque jour ? Êtes-vous du genre à relever les défis sans hésiter ? Alors vous êtes au bon endroit. Rejoignez Wavestone et exprimez votre potentiel dans un environnement stimulant et collaboratif, où l'on transforme les défis d'aujourd'hui en opportunités de demain.Description du posteFort de plus de 270 consultant.e.s, la Bunisess Unit ALMA regroupe les deux bureaux du quart sud-est de la France métropolitaine (Lyon, Marseille) et celui du Maroc (Casablanca). Elle adresse la majorité des terrains d'excellence du cabinet et intervient sur une grande diversité de missions auprès de ses clients, du cadrage stratégique à la réalisation de projets. En tant qu'Account Manager Junior, vous travaillerez en forte proximité de nos équipes Conseil du collectif France d'ALMA expertes de ces problématiques rencontrées par nos clients. Acteur.rice majeur.e du développement du cabinet, votre rôle sera de promouvoir ces expertises portées par nos consultant.e.s et de déceler les futures opportunités business pour Wavestone. Votre mission comportera un volet exploration, avec la conquête de nouveaux comptes pour le bureau, et un volet account management sur des comptes plus installés.Vous serez notamment amené.e à réaliser les missions suivantes :1/ Développement commercial & relation clientGérer et entretenir la relation client dans une logique de partenariat sur le long terme :Prospecter de nouveaux donneurs d'ordres sur vos comptes ;Organiser et mener des rendez-vous client en binôme avec les équipes conseil afin de présenter le cabinet et ses expertises, et identifier de nouvelles opportunités business ;Être garant de la satisfaction client et de la mise en place de plans d'actions éventuels, dans le but de créer une relation solide et durable avec vos clients.   2/ Ventes complexesPiloter en mode projet le cycle d'avant-vente de nos prestations de conseil, dans un souci constant de différenciation :Qualifier les besoins client, élaborer la stratégie de réponse, concevoir l'offre commerciale et la présenter au client ;Coordonner l'ensemble des managers et consultant.e.s qui contribuent aux réponses aux appels d'offres ;Négocier l'offre commerciale auprès des Directions Achats de nos clients et sécuriser la vente ainsi que la contractualisation.  3/ Stratégie de compteAnalyser le potentiel de l'environnement client aux côtés du management :Cibler les périmètres prioritaires sur lesquels investir commercialement ;Définir et piloter les plans d'actions commerciaux pour développer notre positionnement sur un ou plusieurs comptes donnés.Renforcer les synergies et entretenir la relation avec les autres practices (notamment parisiennes) afin de couvrir tous les besoins de vos comptes QualificationsMotivé.e pour apprendre, vous êtes attiré.e par le business development et la vente complexe et possédez une appétence pour la transformation digitale des entreprises et organisations.Votre profil : Futur.e diplômé.e d'un Bac +5 d'une grande école de management ou d'ingénieurs Doté.e d'un esprit entrepreneurial, d'un excellent relationnel, d'une curiosité développée, d'un goût du challenge et d'une forte orientation résultats Maîtrisant l'anglais (B2 minimum) Souhaitant intégrer une équipe à taille humaine favorisant l'épanouissement de chacun Informations supplémentairesWavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversité et inclusion, Wavestone accompagne les personnes en situation de handicap et/ou nécessitant un aménagement durant leur process de recrutement et lors de leur prise de poste. Le dispositif de télétravail est largement déployé au sein de Wavestone pour tous les métiers.  \n            ",
-        "dateCreation": "2026-09-22T10:09:44.703Z",
-        "dateActualisation": "2026-09-22T10:09:44.703Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille 1er Arrondissement",
-          "codePostal": "13001",
-          "commune": "13201"
-        },
-        "romeCode": "D1444",
-        "romeLibelle": "Responsable grands comptes",
-        "appellationlibelle": "Key Account Manager",
-        "entreprise": {},
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 12 Mois",
-        "natureContrat": "Contrat apprentissage",
-        "experienceExige": "E",
-        "experienceLibelle": "0 An(s)",
-        "salaire": {},
-        "alternance": true,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093126",
-          "partenaires": [
-            {
-              "nom": "TALENTS_HANDICAP",
-              "url": "https://www.talents-handicap.com/315-wavestone/343230-stagiaire-alternant-e-account-manager-marseille?src=FranceTravail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "7093117",
-        "intitule": "Stagiaire/Alternant.e - Account Manager - Lyon (H/F)",
-        "description": "\n            Description de l'entrepriseRejoignez un cabinet de conseil international qui accompagne les grandes transformations stratégiques.Nous sommes Wavestone : des expert-es passionné-es et orienté-es solutions, qui placent l'humain au cœur de la performance et de la croissance. Ambitieux-ses et en pleine expansion, nous développons sans cesse notre portefeuille de clients et de projets, avec une portée internationale et une réelle volonté de générer un impact positif.Êtes-vous un vrai team player, porté par des valeurs fortes ? Êtes-vous curieux-se et déterminé-e, avec l'envie d'apprendre chaque jour ? Êtes-vous du genre à relever les défis sans hésiter ? Alors vous êtes au bon endroit. Rejoignez Wavestone et exprimez votre potentiel dans un environnement stimulant et collaboratif, où l'on transforme les défis d'aujourd'hui en opportunités de demain.Description du posteFort de plus de 270 consultant.e.s, la Bunisess Unit ALMA regroupe les deux bureaux du quart sud-est de la France métropolitaine (Lyon, Marseille) et celui du Maroc (Casablanca). Elle adresse la majorité des terrains d'excellence du cabinet et intervient sur une grande diversité de missions auprès de ses clients, du cadrage stratégique à la réalisation de projets. En tant qu'Account Manager Junior, vous travaillerez en forte proximité de nos équipes Conseil du collectif France d'ALMA expertes de ces problématiques rencontrées par nos clients. Acteur.rice majeur.e du développement du cabinet, votre rôle sera de promouvoir ces expertises portées par nos consultant.e.s et de déceler les futures opportunités business pour Wavestone. Votre mission comportera un volet exploration, avec la conquête de nouveaux comptes pour le bureau, et un volet account management sur des comptes plus installés.Vous serez notamment amené.e à réaliser les missions suivantes :1/ Développement commercial & relation clientGérer et entretenir la relation client dans une logique de partenariat sur le long terme :Prospecter de nouveaux donneurs d'ordres sur vos comptes ;Organiser et mener des rendez-vous client en binôme avec les équipes conseil afin de présenter le cabinet et ses expertises, et identifier de nouvelles opportunités business ;Être garant de la satisfaction client et de la mise en place de plans d'actions éventuels, dans le but de créer une relation solide et durable avec vos clients.   2/ Ventes complexesPiloter en mode projet le cycle d'avant-vente de nos prestations de conseil, dans un souci constant de différenciation :Qualifier les besoins client, élaborer la stratégie de réponse, concevoir l'offre commerciale et la présenter au client ;Coordonner l'ensemble des managers et consultant.e.s qui contribuent aux réponses aux appels d'offres ;Négocier l'offre commerciale auprès des Directions Achats de nos clients et sécuriser la vente ainsi que la contractualisation.  3/ Stratégie de compteAnalyser le potentiel de l'environnement client aux côtés du management :Cibler les périmètres prioritaires sur lesquels investir commercialement ;Définir et piloter les plans d'actions commerciaux pour développer notre positionnement sur un ou plusieurs comptes donnés.Renforcer les synergies et entretenir la relation avec les autres practices (notamment parisiennes) afin de couvrir tous les besoins de vos comptes QualificationsMotivé.e pour apprendre, vous êtes attiré.e par le business development et la vente complexe et possédez une appétence pour la transformation digitale des entreprises et organisations.Votre profil : Futur.e diplômé.e d'un Bac +5 d'une grande école de management ou d'ingénieurs Doté.e d'un esprit entrepreneurial, d'un excellent relationnel, d'une curiosité développée, d'un goût du challenge et d'une forte orientation résultats Maîtrisant l'anglais (B2 minimum) Souhaitant intégrer une équipe à taille humaine favorisant l'épanouissement de chacun Informations supplémentairesWavestone est un employeur inclusif qui s'engage pour l'égalité des chances. Dans le cadre de cette politique de diversité et inclusion, Wavestone accompagne les personnes en situation de handicap et/ou nécessitant un aménagement durant leur process de recrutement et lors de leur prise de poste. Le dispositif de télétravail est largement déployé au sein de Wavestone pour tous les métiers.  \n            ",
-        "dateCreation": "2026-09-22T10:09:44.202Z",
-        "dateActualisation": "2026-09-22T10:09:44.202Z",
-        "lieuTravail": {
-          "libelle": "69 - Lyon 1er Arrondissement",
-          "codePostal": "69001",
-          "commune": "69381"
-        },
-        "romeCode": "M1501",
-        "romeLibelle": "Assistant / Assistante Ressources Humaines (RH)",
-        "appellationlibelle": "Assistant / Assistante emploi formation",
-        "entreprise": {},
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 12 Mois",
-        "natureContrat": "Contrat apprentissage",
-        "experienceExige": "E",
-        "experienceLibelle": "0 An(s)",
-        "salaire": {},
-        "alternance": true,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093117",
-          "partenaires": [
-            {
-              "nom": "TALENTS_HANDICAP",
-              "url": "https://www.talents-handicap.com/315-wavestone/343231-stagiaire-alternant-e-account-manager-lyon?src=FranceTravail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 3,
-        "_is_remote": true
-      },
-      {
-        "id": "7093539",
-        "intitule": "Gestionnaire Commercial Assurance (H/F)",
-        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons pour un Cabinet de Courtage un(e) Gestionnaire Commercial(e) Assurances chargé(e) du suivi de comptes clients Pros/Entreprises.\n\nPoste à pourvoir, en CDI, à Paris (75)\n- Rémunération Fixe 30 000 € à 36 000 € bruts par an selon qualification et expérience + Prime annuelle collective\n- 35H par semaine du Lundi au Vendredi\n- Poste éligible Télétravail complet\n\nPoste\n\nAu sein d'un Cabinet en fort développement, vous contribuez à la bonne tenue et au développement d'un portefeuille dédié. Vos missions sont riches et diversifiées :\n- Accueil téléphonique des clients et des prospects du cabinet (accueil téléphonique tournant).\n- Conseil, souscription des contrats d'assurances, suivi de la clientèle Pros/Entreprises principalement sur les risques IARD.\n- Action de saturation sur le portefeuille confié.\n- Gestion des contrats d'assurances, encaissement des primes et relances des impayés.\n- Emission des pièces contractuelles, calcul des primes et vérification des quittances.\n\nProfil\n\nDe formation Bac+2 ou Bac +3 en Assurance, Droit ou Négociation commerciale, vous justifiez d'au moins 5 ans d'expérience en Cabinet de Courtage d'Assurances.\n- D'excellentes connaissances sur les contrats IARD Pros sont exigées. La connaissance des contrats assurance de personnes est un plus.\n- D'un tempérament commercial, vous possédez de véritables qualités relationnelles et rédactionnelles.\n- Rigueur, sens du conseil et du service, autonomie attendus.\n\nSi vous souhaitez rejoindre une équipe dynamique, transmettez-nous votre CV.",
-        "dateCreation": "2026-09-22T11:04:22.259Z",
-        "dateActualisation": "2026-09-22T11:04:22.259Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Technico-commercial / Technico-commerciale en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 36000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093539",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32547/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "7093535",
-        "intitule": "Commercial Terrain Assurances (H/F)",
-        "description": "Relais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un(e) Commercial(e) Terrain Assurances de Personnes et VIE auprès d'une clientèle de Particuliers et de Pros pour le compte de notre client.\n\nLes éléments clés :\n- Structure : Agent Général de référence et bien implanté dans les Hauts-de-France\n- Situation du poste : Agence située Dunkerque - déplacements quotidiens sur le secteur des Hauts-de-France\n- Rémunération : Rémunération Fixe 27000 € à 32000 € bruts par an selon votre profil et votre expérience + Variable non plafonné\n- Avantages : Mutuelle et Prévoyance + Véhicule de société\n- Environnement : Importance de la relation avec le client et du bon conseil - autonomie et développement personnel\n- Conditions : CDI - 35 H par semaine du Lundi au Vendredi\n\nPoste :\n\nVéritable acteur sur le terrain, vous contribuez au développement et à la fidélisation du portefeuille Particuliers et Pros sur le secteur des Hauts-de-France.\n\nAu quotidien, vous allez à la rencontre des clients et des prospects afin de les conseiller et de leur apporter des solutions adaptées en matière d'Assurances de Personnes et VIE.\n\nDe la prise de contact en passant par l'évaluation des besoins, la présentation des devis, jusqu'à la souscription, vous suivez vos clients de A à Z.\n\nVous veillez à la mise à jour des contrats.\n\nVos capacités à prospecter, cultiver votre réseau et vos succès commerciaux vous permettront de réussir.\n\nProfil recherché :\n\nIdéalement issu(e) d'une formation commerciale et/ou assurantielle, vous justifiez d'une expérience commerciale d'au moins 3 à 5 ans dans l'Assurance de personnes et l'assurance-vie.\n\nVous maîtrisez les techniques de vente et possédez d'excellentes bases en Assurances de personnes et VIE.\n\nVous savez gérer votre agenda de façon efficace et êtes à l'aise avec les outils informatiques.\n\nChallengeur(euse), vous êtes reconnu(e) pour votre tempérament commercial, votre aisance relationnelle et votre souci de la qualité du conseil que vous délivrez.\n\nAutonomie, rigueur, dynamisme, écoute sont des atouts indispensables pour mener à bien la mission.\n\nPostulez dès maintenant !",
-        "dateCreation": "2026-09-22T11:04:22.255Z",
-        "dateActualisation": "2026-09-22T11:04:22.255Z",
-        "lieuTravail": {
-          "libelle": "59 - Dunkerque",
-          "codePostal": "59140",
-          "commune": "59183"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Technico-commercial / Technico-commerciale en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 27000.0 Euros à 32000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093535",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32003/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "7093528",
-        "intitule": "Commercial Terrain Assurances Pros/Entreprises (H/F)",
-        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un Commercial Terrain Assurances Pros/Entreprises (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - un Cabinet de Courtage appartenant à un groupe international\n\nC'est où - secteur d'Aix-en-Provence (13)\n\nC'est quoi - un poste de commercial terrain en assurance pour une clientèle de professionnels et d'entreprises\n\nC'est combien - rémunération Fixe 28 000 € à 30 000 € bruts par an selon votre qualification et votre expérience + Variable + Bonus\n\nQuels avantages - Mutuelle et Prévoyance - Auto de service - PC portable et Téléphone\n\n35 H par semaine du Lundi au Vendredi\n\nPoste\n\nVéritable acteur sur le terrain, vous contribuez au développement et à la fidélisation du portefeuille Pros/Entreprises.\n- Au quotidien, vous allez à la rencontre des clients et des prospects afin de les conseiller et de leur apporter des solutions adaptées en matière d'Assurances de Biens et de Personnes.\n- De la prise de contact en passant par l'évaluation des besoins, la présentation des devis, jusqu'à la souscription, vous suivez vos clients de A à Z. Vous veillez à la mise à jour des contrats.\n- Votre capacité à prospecter, cultiver votre réseau et vos succès commerciaux vous permet de réussir.\n\nEvolution possible.\n\nProfil\n\nIdéalement issu(e) d'une formation commerciale et/ou assurantielle, vous justifiez d'une expérience précédente à ce poste.\n- Vous maitrisez les techniques de vente, savez gérer votre agenda de façon efficace et êtes à l'aise avec les outils informatiques.\n- Une connaissance de l'assurance est appréciée.\n- Vous êtes reconnu(e) pour votre tempérament commercial, votre aisance relationnelle et votre souci de la qualité du conseil que vous délivrez.\n- Autonomie, rigueur, dynamisme, écoute sont des atouts indispensables pour mener à bien la mission.\n\nEnvie de faire vos preuves, postulez !\n\nOuvert aux profils Juniors.",
-        "dateCreation": "2026-09-22T11:04:22.005Z",
-        "dateActualisation": "2026-09-22T11:04:22.005Z",
-        "lieuTravail": {
-          "libelle": "13 - Aix-en-Provence",
-          "codePostal": "13080",
-          "commune": "13001"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(ère) commercial(e) en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093528",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/31895/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Marseille",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "7093541",
-        "intitule": "Conseiller Commercial en Assurance (H/F)",
-        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Commercial Assurances (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance bien implantée sur la METROPOLE LILLOISE\n\nC'est où - secteur de RONCHIN (59)\n\nC'est quoi - un poste sédentaire de conseiller(ère) clients en assurance et banque, à la fibre commerciale, pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 30 000 € à 34 000 € bruts par an selon votre qualification et votre expérience + Variable individuel motivant\n\nQuels avantages - Mutuelle et Prévoyance + Tickets restaurant + Avantages salariés type CSE\n\nQuel environnement - structure locale tournée vers le conseil client - importance attachée à une ambiance de travail agréable et à l'humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\nTemps plein - 39 H par semaine du Lundi au Samedi midi (avec 1/2 journée de récupération dans la semaine)\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez les clients :\n- Vous accueillez les clients et prospects de l'Agence (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, SANTE, PREVOYANCE, BANQUE et PLACEMENT.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des avenants, suivi des pièces contractuelles.).\n\nProfil\n\nIdéalement issu(e) d'une formation BTS ou Licence dans les Assurances, vous avez 5 à 10 ans d'expérience minimum en Agence Générale ou Cabinet de Courtage d'Assurances.\n- Vous êtes reconnu(e) pour vos aptitudes administratives et commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n- Organise(é), vous saurez faire preuve de dynamisme et de polyvalence.\n- Vous souhaitez progresser en relevant des défis et en apprenant.",
-        "dateCreation": "2026-09-22T11:04:22.287Z",
-        "dateActualisation": "2026-09-22T11:04:22.287Z",
-        "lieuTravail": {
-          "libelle": "59 - Lille",
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(e) commercial(e) relation client en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 34000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093541",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32397/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7093532",
-        "intitule": "Conseiller Clientèle Assurance (H/F)",
-        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un Conseiller Clientèle Assurances (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance\n\nC'est où - secteur de Nantes, La Chapelle-sur-Erdre (44)\n\nC'est quoi - un poste sédentaire de collaborateur(trice) d'agence polyvalent(e) s'occupant essentiellement d'une clientèle de particuliers avec de l'appétence pour le marché des professionnels\n\nC'est combien - rémunération Fixe 30 000 € à 32 000 € bruts par an selon votre qualification et votre expérience + Variable\n\nQuels avantages - Complémentaire Santé du salarié + Prévoyance prises en charge à 100 %\n\nQuel environnement - structure à taille humaine - ancienneté et notoriété de l'enseigne - respect du client avant tout - stationnement facile\n\nTemps plein - 35 H par semaine du Lundi au vendredi\n\nPoste\n\nEn Agence, aux côtés des dirigeants, interlocuteur(trice) privilégié(e) des assurés, vous veillez à la bonne tenue et au développement du portefeuille ainsi qu'à la satisfaction client. Vos missions sont variées :\n- Vous accueillez les assurés et les prospects en face à face ou par téléphone. Vous réceptionnez les demandes par courriel.\n- Vous conseillez et orientez sur les choix des contrats et des garanties. Vous assurez une communication fluide avec les clients en apportant une réponse rapide et conforme à leur situation. Vous tarifez et souscrivez.\n- Vous multi-équipez les clients. Vous menez des actions commerciales (traitement de leads et appels téléphoniques sur la clientèle existante).\n- Vous êtes responsable du suivi des contrats dans le temps (ajustement des garanties, complétude des dossiers, gestion des termes, encaissement, traitement des résiliations.).\n- Vous accompagnez les clients dans leurs déclarations de sinistres.\n- Vous intervenez principalement sur les assurances IARD et Emprunteur.\n\nProfil\n\nVous êtes issu(e) d'une formation Bac+2/3 dans les Assurances ou vous avez au moins 1 an d'expérience dans la souscription de contrats d'assurance pour les particuliers. Des connaissances en Assurance-Vie sont un plus.\n- Autonomie, dynamisme, aisance relationnelle, sens du service, rigueur, organisation, réactivité sont des qualités essentielles pour ce poste.\n- L'empathie, le sens de l'écoute, le sourire sont des atouts.",
-        "dateCreation": "2026-09-22T11:04:22.274Z",
-        "dateActualisation": "2026-09-22T11:04:22.274Z",
-        "lieuTravail": {
-          "libelle": "44 - Nantes",
-          "codePostal": "44000",
-          "commune": "44109"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller / Conseillère clientèle en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 32000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093532",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32637/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7093540",
-        "intitule": "Conseiller en Assurance H/F",
-        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Assurances H/F en CDI pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance\n\nC'est où - secteur de Dunkerque (59)\n\nC'est quoi - un poste sédentaire de collaborateur(trice) en assurance à la fibre commerciale pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 27 000 € à 28 800 € bruts par an selon votre qualification et votre expérience + Variable individuel\n\nQuels avantages - Mutuelle et Prévoyance\n\nQuel environnement - structure locale tournée vers le conseil client - ambitions de développement - importance attachée à une ambiance de travail agréable et à l'humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\n35 H par semaine du Mardi au Samedi midi\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez et développez le portefeuille Clients :\n- Vous accueillez les clients et prospects (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, en Santé, Prévoyance et Retraite.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des remplacements, suivi des pièces.).\n- Vous participez à la gestion des sinistres : déclaration et orientation vers les services externes, déclenchement des expertises, instruction.\n\nProfil\n\nIdéalement issu(e) d'une formation BTS ou Licence Assurance avec une expérience de 3 à 5 ans en agence ou cabinet de courtage d'assurances, vous êtes reconnu(e) pour vos aptitudes commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n\nOrganise(é), vous saurez faire preuve de dynamisme et de polyvalence. Vous souhaitez progresser en relevant des défis et en apprenant.",
-        "dateCreation": "2026-09-22T11:04:22.253Z",
-        "dateActualisation": "2026-09-22T11:04:22.253Z",
-        "lieuTravail": {
-          "libelle": "59 - Dunkerque",
-          "codePostal": "59140",
-          "commune": "59183"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller / Conseillère en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 27000.0 Euros à 28800.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093540",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/30875/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7093529",
-        "intitule": "Chargé de Clientèle Assurance du Particulier (H/F)",
-        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons des Chargés de Clientèle Assurances du Particulier (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence Générale leader de son enseigne avec plusieurs points de vente\n\nC'est où - Bordeaux et Métropole (33)\n\nC'est quoi - un poste sédentaire de conseiller(ère) en assurance à la fibre commerciale pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 30 000 € à 35 000 € bruts par an selon votre qualification et votre expérience + Variable motivant\n\nQuels avantages - Complémentaire Santé et Prévoyance + Accord d'intéressement\n\nTemps plein - 35 H par semaine du Lundi au Vendredi\n\nPoste\n\nAu sein d'une Agence Générale et en contact direct avec les clients au quotidien, vous développez et gérez un portefeuille constitué de Particuliers.\n\nVos missions sont riches et diversifiées :\n- Accueillir, informer, orienter et gérer les clients et prospects de l'Agence,\n- Conseiller sur les choix des contrats et des garanties,\n- Satisfaire les demandes de devis et assurer leur relance,\n- Gérer les tâches administratives diverses (encaissement, relance, saisie des contrats et avenants, mise à jour des dossiers clients),\n- Participer activement aux challenges commerciaux de la compagnie et du cabinet (multi-équipement, campagnes produits, actions de phoning).\n\nProfil\n\nDoté(e) d'une expérience de 3 à 5 ans sur un poste similaire, vous avez le goût du service client, du conseil et de la vente.\n\nVous êtes reconnu(e) pour votre autonomie, votre rigueur et votre organisation.\n\nSi vous souhaitez rejoindre une Agence en fort développement où l'investissement personnel et votre professionnalisme sauront être reconnus, où des responsabilités vous seront données, n'hésitez pas à nous soumettre votre candidature.",
-        "dateCreation": "2026-09-22T11:04:22.026Z",
-        "dateActualisation": "2026-09-22T11:04:22.026Z",
-        "lieuTravail": {
-          "libelle": "33 - Bordeaux",
-          "codePostal": "33000",
-          "commune": "33063"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller / Conseillère clientèle en assurances",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 35000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 5,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093529",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32270/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7093204",
-        "intitule": "Chargé(e) de clientèle F/H",
-        "description": "\n            Dalkia Air Solutions, filiale de Dalkia spécialisée dans la production, le traitement et la distribution d'air comprimé, d'azote et d'air respirable propose des solutions fiables et adaptées aux environnements les plus complexes, dans une logique d'accompagnement et d'amélioration continue de la performance énergétique de ses clients.Dans le cadre de notre développement, nous recrutons un(e) Chargé(e) de Clientèle, pour rejoindre l'équipe de l'antenne de Vitrolles (13).Sous l'autorité du responsable commercial, vos principales missions sont les suivantes :Analyser les besoins du client, exprimés ou implicitesProposer aux clients des prestations supplémentairesInformer sa clientèle des innovations Dalkia Air solutions, veille réglementaire et nouveaux produitsAssurer les négociations commerciales et contractuellesRenégocier des contrats (hors grands comptes)Déterminer l'apport d'experts commercial et/ou technique dans une négociation,Construire la proposition commercialeÉlaborer les contrats et renouvellementsAccompagner l'équipe d'exploitation pour la prise en charge du contratMettre en place et présenter le reporting clients en respectant les éléments contractuelsVeiller au respect des processus, procédures et modes opératoires, définis par Dalkia Air solutions et participer à leur améliorationDévelopper et Exploiter les fiches de références commercialesS'assurer de la bonne tenue à jour du Système d'Information Commerce.Rejoindre Dalkia Air Solutions, c'est aussi bénéficier de conditions de travail avantageuses :- Entre 10 et 13 jours de RTT par an en plus des congés payés- Tickets restaurant de 8 € (participation employeur à 60 %)- Accord de participation et accès au plan d'épargne groupe EDF- Dès 3 mois d'ancienneté, 1,5 jours par an offerts dans le cadre d'ambassadorat scolaire, ou de missions au sein d'associations- 1 jour enfant malade par collaborateur par an- CSE actif (chèques vacances et cadeaux via la plateforme LEETO)- Formations régulières et accompagnement personnalisé dans votre parcours via nos campagnes d'entretiens annuels- Télétravail possible selon l'activité et l'accord managérial- Dispositif de soutien psychologique en lien avec le groupe EDFDe formation technique ou scientifique Bac +2 à Bac +3, vous justifiez d'une première expérience réussie sur le même type de poste. Vous recherchez une forte dimension technique au sein de votre poste et souhaitez par ailleurs exploiter votre fibre commerciale.Vous vous sentez concerné(e) par l'environnement, et l'optimisation de la consommation énergétique, et avez envie de travailler en ce sens.Vos compétences relationnelles vous permettent de créer, et de conserver des relations clients de qualité. Vous êtes apte à proposer des solutions technique personnalisées en fonction des besoins clients. Vous appréciez aller sur le terrain, et êtes forces de proposition. Vous avez l'envie de relever de nouveaux challenges.Vous êtes organisé(e) dans vos tâches, autonome, et possédez de bonnes compétences rédactionnelles.Vous souhaitez évoluer au sein d'une entreprise en plein développement.\n            ",
-        "dateCreation": "2026-09-22T10:09:50.104Z",
-        "dateActualisation": "2026-09-22T10:09:50.104Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille 1er Arrondissement",
-          "codePostal": "13001",
-          "commune": "13201"
-        },
-        "romeCode": "C1129",
-        "romeLibelle": "Responsable grands comptes assurances",
-        "appellationlibelle": "Chargé / Chargée de clientèle entreprises",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "0 An(s)",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "1",
-        "qualificationLibelle": "Manœuvre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093204",
-          "partenaires": [
-            {
-              "nom": "TALENTS_HANDICAP",
-              "url": "https://www.talents-handicap.com/689-edf/337267-charge-e-de-clientele-f-h-2?src=FranceTravail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/talents_handicap80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "7074790",
-        "intitule": "Conseiller clientèle H/F",
-        "description": "Vous aimez aider, chercher des solutions et repartir avec la satisfaction d'avoir vraiment répondu à la demande d'un client ?\nBonne nouvelle : notre client renforce ses équipes et ouvre des postes de Conseiller clients débutant H/F en CDI à Saint-Herblain.\nPas besoin d'avoir 10 ans d'expérience derrière vous : ici, votre sens du service, votre capacité à apprendre et votre envie de vous investir feront la différence.\n\n\nDeux univers selon votre profil\nLors de votre intégration, vous suivrez une formation commune avant de rejoindre le pôle correspondant le mieux à vos compétences et à vos envies.\n\n\n1 Pôle relation client\nHoraires : amplitude de 8h00 à 20h00, du lundi au dimanche, selon planning.\n\n\n2 Pôle technique \nHoraires : amplitude de 8h00 à 23h00, du lundi au dimanche, selon planning.\n\n\nVos missions\n\nAu quotidien, vous accompagnez les clients dans leurs demandes et veillez à leur apporter une réponse claire, efficace et adaptée.\nSelon le pôle intégré, vous pourrez être amené(e) à :\n- Répondre aux appels entrants des clients\n- Identifier rapidement leur besoin ou leur problématique\n- Apporter une réponse personnalisée et rassurante\n- Rechercher les informations nécessaires dans les outils internes\n- Accompagner le client dans la résolution de sa demande\n- Effectuer un premier diagnostic pour les demandes techniques\n- Guider le client étape par étape lorsque la situation le nécessite\n- Mettre à jour les dossiers et assurer la traçabilité des échanges\n- Respecter les procédures et le cadre défini par l'entreprise\n- Garantir une expérience client de qualité, même dans les situations plus complexes\n\n\nPré-requis\n\n- Être à l'aise à l'oral et au téléphone\n- Savoir utiliser les outils informatiques courants\n- Avoir une bonne capacité d'écoute et de compréhension\n- Être capable de suivre des procédures précises\n- Faire preuve de rigueur, de patience et de réactivité\n- Être disponible sur les amplitudes horaires du poste, y compris certains week-ends\n- Être disponible pour une prise de poste en CDI à compter du 28 septembre 2026\n- Pour le pôle technique : avoir une bonne logique, un esprit d'analyse et une réelle appétence pour la résolution de problèmes\nAucune expérience spécifique en relation client n'est exigée : les profils débutants sont acceptés et une formation est prévue à l'intégration.\n\n\nProfil recherché\n\nLes débutants sont les bienvenus !\nNous recherchons avant tout des personnes :\n- À l'aise avec le téléphone et les outils informatiques\n- Capables de communiquer clairement\n- À l'écoute et orientées satisfaction client\n- Rigoureuses et capables de respecter des procédures\n- Réactives face aux imprévus\n- Motivées par un CDI et une réelle intégration dans l'entreprise\n\n\nInformations complémentaires\nType de contrat : CDI\nTemps de travail : Temps plein\nSalaire : 12.31 € par heure",
-        "dateCreation": "2026-09-22T07:06:08.789Z",
-        "dateActualisation": "2026-09-22T07:06:08.789Z",
-        "lieuTravail": {
-          "libelle": "44 - Saint-Herblain",
-          "codePostal": "44800",
-          "commune": "44162"
-        },
-        "romeCode": "C1129",
-        "romeLibelle": "Responsable grands comptes assurances",
-        "appellationlibelle": "Chargé / Chargée de clientèle entreprises",
-        "entreprise": {
-          "nom": "Aquila Rh"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7074790",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2687173.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Nantes",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7073819",
-        "intitule": "Responsable technique (H/F)",
-        "description": "Manpower CABINET EXPERTS ENGINEERING AIX-MARSEILLE recherche pour son client un Responsable technique (H/F) Le/La Responsable Technique pilote l'entretien, la maintenance et les opérations de travaux dans le respect des obligations réglementaires et des budgets.\n\nValorisation et réhabilitation\n- Monter, suivre et maîtriser les budgets et appels d'offres.\n- Assurer le suivi complet des chantiers jusqu'à la GPA.\n- Coordonner maîtres d'œuvre et prestataires.\nExploitation et maintenance\n- Définir les besoins techniques et réglementaires.\n- Rédiger et suivre les marchés d'exploitation/maintenance.\n- Contrôler la bonne exécution des contrats et mettre en place les actions correctives.\nPilotage budgétaire et appui\n- Planifier et suivre les budgets travaux.\n- Prioriser les interventions et alerter en cas de dérive.\n- Apporter un support technique aux gestionnaires et responsables de sites.\nManagement transverse\n- Garantir l'application des politiques techniques.\n- Piloter les prestataires et assurer le rôle de chef de projet sur les opérations structurantes.\nLe/La candidat(e) est issu(e) d'une formation supérieure technique (Bac +5 ou équivalent) avec une dominante en technique, métrage, métrologie ou gestion d'opérations, une spécialisation en bâtiment ou immobilier pouvant être appréciée sans être indispensable. Il/Elle justifie d'une expérience confirmée en environnement technique, notamment en gestion d'opérations, suivi de travaux, métrage, contrôle technique ou métrologie.\n\nIl/Elle maîtrise l'analyse technique, le chiffrage et le suivi budgétaire, et possède une bonne connaissance des procédures d'appels d'offres ainsi que du pilotage de prestataires. Sensible aux enjeux réglementaires et aux normes de sécurité, il/elle fait preuve de rigueur, de capacité d'analyse, d'un bon sens des priorités et d'aisance relationnelle.\n\nDans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap\n\nContrat : CDI\n\nExpérience : 4 ans\n\nSalaire : 40 000 à 42 000 € par an\n\nDate de début : Dès que possible",
-        "dateCreation": "2026-09-22T07:04:25.830Z",
-        "dateActualisation": "2026-09-22T07:04:25.830Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille",
-          "commune": "13055"
-        },
-        "romeCode": "H1106",
-        "romeLibelle": "Responsable support technique clients",
-        "appellationlibelle": "Responsable support technique",
-        "entreprise": {
-          "nom": "Manpower"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7073819",
-          "partenaires": [
-            {
-              "nom": "CLIC_POWER",
-              "url": "https://www.clicandpower.fr/offre-emploi/ido/1384621.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/clic_power80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Marseille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "7061968",
-        "intitule": "Conseiller clientèle à distance - secteur bancaire H/F",
-        "description": "Vous avez le sens du service et aimez trouver des solutions ? Cette opportunité d'emploi en CDI est pour vous : mettez votre écoute et votre rigueur au service des utilisateurs !\n\n\nNotre client, spécialisé dans la gestion d'appels au service de leurs partenaires, recrute des Conseillers Clients en ligne H/F en CDI afin de renforcer leurs équipes courant octobre. Vous évoluerez au sein d'une équipe dynamique, pour laquelle le sens du service et la satisfaction client sont au cœur des préoccupations.\n\n\nOuverte depuis plus de 5 ans, notre agence Aquila RH Dardilly prône la qualité et la relation de proximité avec ses candidats et ses clients pour participer au développement économique de son bassin d'emploi, l'ouest lyonnais. De la petite PME à la multinationale, quel que soit votre niveau d'études, nous vous accompagnons pour des recrutements en intérim, CDD ou CDI, dans les métiers de l'industrie, de l'automobile, de la logistique et de l'administratif.\n\n\nVos missions\n\nImpliqué à accompagner chaque gestionnaire dans leur expertise technique, vos missions, en tant que téléconseiller, seront d'abord d'accompagner les clients dans le process d'utilisation des outils de notre client.\n\n\nÀ ce titre, vous êtes amené à traiter les appels entrants des clients (BtoC).\n\n\nSouriant, accueillant, vous faites preuve d'écoute et posez les questions pertinentes pour mieux cibler leurs besoins et leurs attentes.\nVous vous référez aux process internes et guidez vos clients dans leurs démarches.\nVous vous montrez rassurant, pédagogue et veillez à la bonne compréhension des indications que vous transmettez à votre interlocuteur.\nEn fin d'appel, vous vous assurez de la satisfaction du client.\nVous effectuez enfin le reporting de l'appel sur le logiciel pour garder une traçabilité des échanges.\n\n\nSelon vos compétences, votre professionnalisme et votre curiosité, vous évoluerez sur des dossiers plus techniques dans le conseil en banque et/ou assurance.\n\n\nPré-requis\n\nUne première expérience professionnelle en tant que téléconseiller/chargé d'assistance est un vrai plus, et une expérience dans la relation client indispensable.\n\n\nAisance sur l'outil informatique IMPÉRATIVE (travail sur double écran) ainsi qu'en orthographe (une bonne maitrise de la langue française est obligatoire, des tests seront effectués en entretien afin d'évaluer votre niveau d'aisance).\n\n\nCONDITIONS DU POSTE\nContrat : CDI\nLieu : Lyon 9ème\nDate de prise de poste : Courant octobre.\nHoraires : Amplitude de 8h à 20h (possibilité de quelques samedis de 8h à 13h selon roulement de l'équipe) avec un planning transmis 4 semaines à l'avance pour pouvoir vous organiser.\nRémunération : 1 870€ brut/mois + Tickets Restaurants + 13ème mois.\n\n\nDans le cadre du processus de recrutement, vous devez être disponible au moins sur une demi-journée dans le cadre d'une session de recrutement collective.\n\n\nProfil recherché\n\nVous êtes dynamique, convivial et ça se ressent dans vos échanges téléphoniques ?\n\n\nLa satisfaction client est votre priorité et vous avez à cœur d'accompagner les clients en trouvant des solutions adaptées ?\n\n\nVous êtes sans doute la personne que nous recherchons ! Notre client souhaite intégrer à ses équipes une personne souriante, dotée d'une certaine aisance téléphonique, d'une très bonne élocution orale et d'un sens du service client particulièrement prononcé. \n\n\nVous savez suivre scrupuleusement des procédures internes, suivre un rythme et un volume d'appels soutenus et garder le sourire en toutes circonstances.\nLe goût du défi vous animera pour atteindre les objectifs qualités attendus car ils sont primordiaux pour assurer la fidélisation et la satisfaction des clients.\n\n\nInformations complémentaires\nType de contrat : CDI\nTemps de travail : Temps plein\nSalaire : 1870 € - 1870 € par mois",
-        "dateCreation": "2026-09-21T15:24:19.821Z",
-        "dateActualisation": "2026-09-21T15:24:19.821Z",
-        "lieuTravail": {
-          "libelle": "69 - Lyon",
-          "commune": "69123"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "Aquila Rh"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7061968",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2671535.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 0,
-        "_is_remote": false
       }
     ]
   }
