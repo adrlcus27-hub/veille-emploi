@@ -1,5 +1,398 @@
 [
   {
+    "date": "2026-10-12",
+    "count": 5,
+    "offres": [
+      {
+        "id": "215BXLF",
+        "intitule": "Conseiller / Conseillère client technique  à distance (H/F)",
+        "description": "** Plusieurs postes a pourvoir** \nEn tant que Conseiller Client Technique (x/f/m), Vous êtes l'interlocuteur (trice) privilégié(e) de nos professionnels de santé et de leur personnel médical : Vous  créerez de forts liens avec les professionnels de santé en comprenant leurs besoins et en l'accompagnant à distance (téléphone / vidéo conférence) sur leur utilisation de Doctolib. Voua serez leur point de contact clé pour les soutenir au quotidien.\n\nParmi les missions variées que nous proposons sur ce poste, vous aurez la charge de:\n\n- Support aux soignants : Répondez aux appels et emails des professionnels de santé pour résoudre leurs questions techniques sur nos produits \n- Diagnostic et résolution : Analysez les problèmes (logiciel de suivi de la patientèle, agenda, téléconsultation, e-prescription etc.) et trouvez des solutions adaptées \n- Suivi : Assurez le suivi des demandes et garantissez la satisfaction de nos clients à chaque interaction \n- Expertise produit : Devenez l'interlocuteur de référence de nos clients en maîtrisant parfaitement nos solutions\n \nLes qualités attendues pour ce poste :\n\n- Ce que nous recherchons avant tout pour ce rôle, ce sont des personnes animées par l'aide et la satisfaction de nos usagers. -- Avant de poursuivre votre lecture, si vous n'avez pas le profil exact décrit ci-dessous, mais que vous pensez que cette description de poste correspond à vos compétences et à vos besoins, nous vous encourageons tout de même à postuler ! \n- Passion pour la relation client et la résolution de problèmes \n- Curiosité et envie d'apprendre de nouvelles technologies \n- Excellent relationnel et capacité d'écoute \n- Esprit d'analyse et rigueur dans le travail \n- Aisance à l'oral et à l'écrit\n\nNotre offre\n- Impact direct sur l'amélioration du système de santé\n- Formation complète via notre Doctolib Academy dédiée\n- Équipe dynamique d'experts passionnés\n- Évolution dans un secteur en pleine croissance\n- Avantages : restaurant d'entreprise, sport, événements d'équipe et des nouveaux bureaux sur l'Île de Nantes \n- Horaires : 38h en roulement (8h-16h30, 9h-17h30 et 10h-18h30)\n\nMais aussi :  \n\n- Une mutuelle avantageuse prise en charge à 100% par Doctolib\n- Parental care program (1 mois de congé en plus du congé parental légal et 0,5 jour de congé par enfant à la rentrée scolaire)\n- Solidarity Days (2 jours de volontariat par an pour aider des associations œuvrant dans le domaine de la santé)\n- Wellbeing program (offre de santé mentale et de coaching gratuite avec Moka.care)\n- Une politique de travail flexible avec un mode hybride et au bureau\n- Flexibility days (possibilité de travailler 10 jours par an depuis un autre pays de l'Union Européenne et le Royaume-Uni) \n- Chèque déjeuner avec la carte Swile\n- Une subvention du comité d'entreprise pour rembourser une partie de l'adhésion à un club de sport ou autre activité de loisir\n- Une subvention pour l'achat d'un vélo\n- Remboursement de l'abonnement aux transports en commun \n- Aide au déménagement en cas de mobilité internationale",
+        "dateCreation": "2026-10-12T09:43:28.331Z",
+        "dateActualisation": "2026-10-12T11:29:47.205Z",
+        "lieuTravail": {
+          "libelle": "44 - NANTES",
+          "latitude": 47.256794,
+          "longitude": -1.575958,
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Conseiller / Conseillère clientèle à distance",
+        "entreprise": {
+          "nom": "DOCTOLIB",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois - Téléconseiller / support / tourisme",
+        "experienceCommentaire": "Téléconseiller / support / tourisme",
+        "formations": [
+          {
+            "niveauLibelle": "Bac ou équivalent",
+            "exigence": "E"
+          }
+        ],
+        "langues": [
+          {
+            "libelle": "Français",
+            "exigence": "E"
+          }
+        ],
+        "competences": [
+          {
+            "code": "121862",
+            "libelle": "Techniques de vente par téléphone",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Maîtrise les outils informatiques",
+            "exigence": "E"
+          },
+          {
+            "libelle": "Maitrise du français:  lu- ecrit -parlé",
+            "exigence": "E"
+          },
+          {
+            "libelle": "TB  écriture orthographique",
+            "exigence": "E"
+          },
+          {
+            "libelle": "excellent relationnel",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "commentaire": "27 000 euros annuel (fixe et variable inclus)",
+          "complement1": "Complémentaire santé",
+          "complement2": "CSE",
+          "listeComplements": [
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "38H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail NANTES MALAKOFF",
+          "coordonnees1": "10 RUE DE CHYPRE",
+          "coordonnees2": "44000 Nantes",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215BXLF"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215BXLF"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "62.01Z",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Programmation informatique",
+        "trancheEffectifEtab": "1000 à 1999 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215BXLF"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "38H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "215CJJS",
+        "intitule": "Gestionnaire Relations avec les Professionnels de Santé (H/F).",
+        "description": "La CPAM des Bouches-du-Rhône recrute en CDD temps plein, un Gestionnaire Relations avec les\nProfessionnels de Santé (H/F).\nMissions du service\nLe Département des Professions de Santé a la responsabilité de :\n- l'installation de l'ensemble des professionnels de santé libéraux du département,\n- de l'affiliation, mise à jour et suivi de la qualité du fichier PS,\n- de l'animation conventionnelle de toutes les catégories de professionnels de santé,\n- de la mise en œuvre du dispositif de régulation de l'offre de soins,\n- du paiement et de l'ordonnancement des rémunérations forfaitaires versées aux professionnels de\nsanté,\n- de la promotion et de l'accompagnement des organisations coordonnées.\nOrganisation du service\nLe Département Relations avec les Professions de Santé est directement rattaché à la Direction de la\nGestion du Risque et du Contrôle Contentieux.\nNous recherchons un gestionnaire RPS pour le groupe en charge de l'Exercice Coordonné et de\nl'accompagnement des structures d'exercice coordonné.\nLes missions\nAu sein d'une équipe composée de 5 collaborateurs et sous la responsabilité du Responsable de\nDépartement, le/la candidat/e participera à l'écoulement de la charge du groupe :\n- préparation des rendez-vous avec les structures d'exercice coordonné,\n- saisie de données dans les outils métiers,\n- intégration de données des Professionnels de santé,\n- gestion des opérations qualité\nIl devra également\n- Assurer la relation avec les partenaires externes ARS.... et internes DCGDR, autres services de\nla CPAM\n- Participer à l'écoulement de la charge de son secteur d'activité\n- Assurer la relation clients de premier niveau\n\nCompétences techniques\n- Maitrise des outils informatiques,\n- Capacité de saisie\n- Capacité d'analyse et d'instruction des dossiers\n- Capacité rédactionnelle\n- Capacité à gérer plusieurs dossiers en même temps dans le respect des échéances fixées\n- Capacité à réaliser des tableaux de bord simples\n- Traiter les dossiers dans le respect des objectifs fixés par le Plan de Contrôle Socle de l'Agent\nComptable\nCompétences comportementales\n- Faire preuve de rigueur et d'implication,\n- Aptitude à travailler en autonomie et en équipe,\n- Représenter l'organisme et en donner une image positive.\n- Capacité à s'adapter au public professionnel de santé",
+        "dateCreation": "2026-10-12T12:36:56.890Z",
+        "dateActualisation": "2026-10-12T12:36:56.890Z",
+        "lieuTravail": {
+          "libelle": "13 - Marseille 9e Arrondissement",
+          "commune": "13055"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable de la relation clientèle",
+        "entreprise": {
+          "nom": "CAISSE PRIMAIRE CENTRALE ASSUR MALADIE",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 3 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois - Dans le même poste",
+        "experienceCommentaire": "Dans le même poste",
+        "formations": [
+          {
+            "niveauLibelle": "Niveau Bac",
+            "exigence": "S"
+          },
+          {
+            "niveauLibelle": "Bac+2 ou équivalents",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "101315",
+            "libelle": "Analyse de données expérimentales",
+            "exigence": "S"
+          },
+          {
+            "code": "100541",
+            "libelle": "Techniques de communication orales, écrites et numériques",
+            "exigence": "S"
+          },
+          {
+            "code": "122327",
+            "libelle": "Recueillir l'avis et les remarques d'un client",
+            "exigence": "S"
+          },
+          {
+            "code": "124094",
+            "libelle": "Traiter les demandes de support technique",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 2133.0 Euros - 5 semaines de CP + jusqu'à 20 RTT ",
+          "commentaire": "5 semaines de CP + jusqu'à 20 RTT ",
+          "complement1": "Complémentaire santé",
+          "complement2": "CSE",
+          "listeComplements": [
+            {
+              "code": "7",
+              "libelle": "Complémentaire santé"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            },
+            {
+              "code": "14",
+              "libelle": "Indemnité transports"
+            },
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "39H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail MARSEILLE PONT DE VIVAUX",
+          "coordonnees1": "IMMEUBLE LE LONGCHAMPS 250 BOULEVARD MIREILLE LAUZE",
+          "coordonnees2": "13010 Marseille",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215CJJS"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215CJJS"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "84.30A",
+        "secteurActivite": "84",
+        "secteurActiviteLibelle": "Activités générales de sécurité sociale",
+        "trancheEffectifEtab": "2000 à 4999 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215CJJS"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "39H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "7857836",
+        "intitule": "Chargé de Clientèle Assurance du Particulier (H/F)",
+        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons des Chargés de Clientèle Assurances du Particulier (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence Générale leader de son enseigne avec plusieurs points de vente\n\nC'est où - Bordeaux et Métropole (33)\n\nC'est quoi - un poste sédentaire de conseiller(ère) en assurance à la fibre commerciale pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 30 000 € à 35 000 € bruts par an selon votre qualification et votre expérience + Variable motivant\n\nQuels avantages - Complémentaire Santé et Prévoyance + Accord d'intéressement\n\nTemps plein - 35 H par semaine du Lundi au Vendredi\n\nPoste\n\nAu sein d'une Agence Générale et en contact direct avec les clients au quotidien, vous développez et gérez un portefeuille constitué de Particuliers.\n\nVos missions sont riches et diversifiées :\n- Accueillir, informer, orienter et gérer les clients et prospects de l'Agence,\n- Conseiller sur les choix des contrats et des garanties,\n- Satisfaire les demandes de devis et assurer leur relance,\n- Gérer les tâches administratives diverses (encaissement, relance, saisie des contrats et avenants, mise à jour des dossiers clients),\n- Participer activement aux challenges commerciaux de la compagnie et du cabinet (multi-équipement, campagnes produits, actions de phoning).\n\nProfil\n\nDoté(e) d'une expérience de 3 à 5 ans sur un poste similaire, vous avez le goût du service client, du conseil et de la vente.\n\nVous êtes reconnu(e) pour votre autonomie, votre rigueur et votre organisation.\n\nSi vous souhaitez rejoindre une Agence en fort développement où l'investissement personnel et votre professionnalisme sauront être reconnus, où des responsabilités vous seront données, n'hésitez pas à nous soumettre votre candidature.",
+        "dateCreation": "2026-10-12T11:05:08.194Z",
+        "dateActualisation": "2026-10-12T11:05:08.194Z",
+        "lieuTravail": {
+          "libelle": "33 - Bordeaux",
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère clientèle en assurances",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 30000.0 Euros à 35000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 5,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7857836",
+          "partenaires": [
+            {
+              "nom": "SWEEFT",
+              "url": "https://www.sweeeft.app/offers/relais-assur/32270/apply?platformId=france-travail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "7857601",
+        "intitule": "Chef / Cheffe de projet client (H/F)",
+        "description": "Sous la responsabilité d'un Responsable Parcours et Expérience Client, et en étroite collaboration avec les équipes opérationnelles, tu auras pour missions principales : - Analyser qualitativement les échanges avec nos clients (écrits et oraux) afin d'identifier les points de friction, les attentes et les opportunités d'amélioration ; - Exploiter et analyser les données issues de nos outils de monitoring des interactions clients (conseillers, assistants IA) ; - Rédiger des analyses claires, structurées et opérationnelles, accompagnées de recommandations concrètes et réalistes en lien avec les écarts observés ; - Proposer et suivre des actions d'amélioration de l'expérience client, en lien avec les équipes internes et nos éditeurs partenaires ; - Contribuer à une meilleure compréhension des motifs de contact clients et à l'optimisation continue des parcours et des réponses apportées.",
+        "dateCreation": "2026-10-12T10:15:40.196Z",
+        "dateActualisation": "2026-10-12T10:15:40.196Z",
+        "lieuTravail": {
+          "libelle": "33 - Gironde"
+        },
+        "romeCode": "M1828",
+        "romeLibelle": "Chef de projet / Cheffe de projet (Project Management Officer)",
+        "appellationlibelle": "Chef / Cheffe de projet client",
+        "entreprise": {
+          "nom": "CDISCOUNT"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "1 Mois",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7857601",
+          "partenaires": [
+            {
+              "nom": "INZEJOB",
+              "url": "http://emploi.inzejob.com/offre-emploi/19468506?utm_source=poleEmploi&utm_medium=referral&utm_campaign=affiliate",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/inzejob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "7850494",
+        "intitule": "Responsable d'équipe Gestion véhicules légers (H/F)",
+        "description": "RESPONSABILITÉS : \n\nMembre actif du plateau Gestion VL et rattaché au Directeur des Opérations de Gestion, le/la responsable d'équipe est garant(e) des performances de son équipe en termes de productivité, de qualité et de délai. En collaboration avec les différents pairs du service, il/elle met en place une organisation adaptée aux attentes des clients.\nLes détails de la gestion chez FATEC : \n-  Gestion des commandes  : définition du véhicule, configuration, financement, consultation des loueurs ou constructeurs, déroulé du process de commande & validations.\n- Suivi de livraison  : Organiser, réaliser et suivre les démarches administratives dans les délais impartis\n- Suivi de parc  : saisie des mouvements dans notre SI - gestion des fichiers d'intégration et des alertes - vérification des flux\n-  Proposition de plans de progrès\n- Préparation des éléments nécessaires aux déclarations fiscales du client\n- Gestion des reventes VO ou fins de contrats loueurs - Optimisation du parc\nManager, encadrer et motiver son équipe :\no   Relations clients au quotidien \no   Fixer à chacun ses tâches à accomplir et ses responsabilités\no   Relayer l'ensemble des informations nécessaires au bon fonctionnement de ses équipes\no   Mettre en place et animer un reporting\no   Suivre et contrôler la performance\no   Mener les entretiens annuels de développement de son équipe et son compte rendu\no   Assurer et planifier le développement des compétences et promouvoir les talents internes\no   Recruter\nVeiller au bon déroulement des opérations et du lien avec les clients :\no   Organiser les activités du quotidien afin de garantir les SLA (Service Level Agreement)\no   Contrôler l'application des procédures clients avec les responsables de comptes\no   S'assurer de la qualité des données saisies par les équipes notamment par des audits réguliers\no   Contrôler les états de parcs FATEC VS les états de parcs des loueurs\no   Assurer le reporting dédié aux clients et le suivi des données de production\no   Vérifier les contrôles de facturation réalisés par les équipes\nParticipation à l'amélioration continue chez FATEC :\no   Décliner la stratégie de l'entreprise au sein de son équipe, selon le principe de l'autonomie alignée.\no   Proposer des axes d'améliorations\no   Collaborer avec le service qualité pour l'amélioration des process et la mise à jour des référentiels\no   Participer aux spécifications des fonctionnalités à développer dans notre outil SI de gestion des véhicules, développé en interne.\no   Former les équipes FATEC.\n\nPROFIL RECHERCHÉ : \n\nFormations et expériences :\no   Formation BAC +2/3.\no   Expérience managériale requise : 3 ans minimum, dans un environnement opérationnel (grande distribution, production, ...) ou logistique dynamique orienté processus. - Expérience du secteur véhicules fortement appréciée.\no   Selon le niveau d'expérience l'équipe à suivre peut aller de 4 à 12 collaborateurs.\nCompétences et qualités requises : \nEn management :\no   Capacité à travailler en équipe\no   Capacité à animer une équipe\no   Capacité à déléguer\no   Exemplarité et intégrité\no   Leadership et autorité\no   Bienveillance, persévérance, tempérance",
+        "dateCreation": "2026-10-12T04:31:23.900Z",
+        "dateActualisation": "2026-10-12T04:31:23.900Z",
+        "lieuTravail": {
+          "libelle": "13 - Marseille 16e Arrondissement",
+          "codePostal": "13016",
+          "commune": "13216"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable administratif(tive) du service clients",
+        "entreprise": {
+          "nom": "FATEC GROUP"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 34000.0 Euros à 37000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7850494",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/cmlg739mv48/responsable-d-equipe-gestion-vehicules-legers",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "count": 7,
     "offres": [
@@ -7760,203 +8153,6 @@
             "35H/semaine\nTravail en journée"
           ]
         },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-09-28",
-    "count": 3,
-    "offres": [
-      {
-        "id": "214LXZG",
-        "intitule": "Chargé de relation clients international (H/F)",
-        "description": "Rattaché(e) à la Responsable Relation Clients de la région Alsace, votre rôle consiste à assurer le suivi des contrats des clients clés, en lien avec la stratégie définie par la Direction Régionale et la politique de l'entreprise.  \n\n\nLes missions :\n\n- Identifier les besoins des clients, assurer un service proactif, mettre en place des plans d'action, le tout dans une logique de fidélisation\n- Assurer le suivi des expéditions et le traitement des anomalies liées au transport en proche collaboration avec les équipes internes, les partenaires et le client \n- Reporting et KPI quotidiens et mensuels\n- Assurer l'interface entre les clients, l'exploitation et les commerciaux pour répondre aux demandes des clients\n- Etudier et identifier les axes d'amélioration de process.\n\n\nProfil :  \n\n- Vous êtes titulaire d'un diplôme de niveau Bac+2 et avez une première expérience dans le domaine de la relation client\n- Vous avez d'excellentes capacités d'expression orale et écrite\n- Vous maitrisez l'anglais (niveau B2 minimum) ainsi qu'une seconde langue\n- Vous êtes à l'aise avec les outils bureautiques et en particulier avec excel\n- Vous êtes rigoureux, organisé et vous savez gérer les priorités. \n- Vous avez le sens commercial, un sens développé du service et d'excellentes capacités relationnelles.\n- Vous êtes autonome et réactif.\n- La connaissance du monde du transport est un plus",
-        "dateCreation": "2026-09-28T11:28:22.760Z",
-        "dateActualisation": "2026-09-28T11:28:23.390Z",
-        "lieuTravail": {
-          "libelle": "67 - HOERDT",
-          "latitude": 48.698562,
-          "longitude": 7.783507,
-          "codePostal": "67720",
-          "commune": "67205"
-        },
-        "romeCode": "D1415",
-        "romeLibelle": "Chargé / Chargée de relation client",
-        "appellationlibelle": "Chargé / Chargée de relation client",
-        "entreprise": {
-          "nom": "HEPPNER SOCIETE DE TRANSPORTS",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 4 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "4 Mois",
-        "formations": [
-          {
-            "codeFormation": "34076",
-            "domaineLibelle": "Gestion relation client",
-            "niveauLibelle": "Bac+2 ou équivalents",
-            "exigence": "E"
-          }
-        ],
-        "langues": [
-          {
-            "libelle": "Anglais",
-            "exigence": "E"
-          }
-        ],
-        "competences": [
-          {
-            "code": "400723",
-            "libelle": "Analyser les besoins des clients pour proposer des services adaptés",
-            "exigence": "S"
-          },
-          {
-            "code": "400190",
-            "libelle": "Assurer le suivi de la satisfaction clients",
-            "exigence": "E"
-          },
-          {
-            "code": "300410",
-            "libelle": "Communiquer à l'oral en milieu professionnel",
-            "exigence": "E"
-          },
-          {
-            "code": "300379",
-            "libelle": "Développer et fidéliser la relation client",
-            "exigence": "E"
-          },
-          {
-            "code": "300363",
-            "libelle": "Identifier, traiter une demande client",
-            "exigence": "E"
-          },
-          {
-            "libelle": "excel",
-            "exigence": "E"
-          }
-        ],
-        "salaire": {
-          "commentaire": "en fonction du profil"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais Zone départementale",
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "52.29B",
-        "secteurActivite": "52",
-        "secteurActiviteLibelle": "Affrètement et organisation des transports",
-        "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214LXZG"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Strasbourg",
-        "_score": 3,
-        "_is_remote": false
-      },
-      {
-        "id": "7451952",
-        "intitule": "Ingénieur commercial H/F",
-        "description": "Je suis Lisa, consultante en recrutement. Notre client, agence informatique basée à Toulouse, accompagne depuis  les entreprises de la région dans leur transformation numérique, avec des solutions sur-mesure et innovantes. Il intervient sur l'ensemble des aspects liés aux systèmes d'information, auprès d'une clientèle variée : PME, grands comptes et collectivités.Dans le cadre de son développement, LynxRH recrute pour lui un Ingénieur Commercial / Ingénieur d'Affaires afin de renforcer son équipe commerciale.\n\n            \nVos missionsGestion et fidélisation du portefeuille clientAssurer le suivi et la satisfaction des clients historiques (secteur public et privé)Être l'interlocuteur privilégié sur les prestations de MCO, infogérance et assistance techniqueIdentifier les opportunités de développement au sein des comptes existants (upsell, cross-sell)\nDéveloppement commercialProspecter et développer un nouveau portefeuille de clients, notamment sur les marchés publicsRépondre aux appels d'offres publics (AO) : veille, montage des dossiers, argumentaire technico-commercialConstruire et présenter des propositions commerciales adaptées aux besoins clientsNégocier les contrats et conditions commerciales\nPilotage et reportingÉlaborer et mettre en œuvre un plan d'action commercialAssurer le reporting de l'activité (CRM, prévisions, pipeline)Collaborer étroitement avec les équipes techniques et avant-vente pour construire des offres pertinentes\n\n\n            \n\n            \nProfil recherchéFormation Bac+3 à Bac+5 (école de commerce, ingénieur, ou équivalent) avec une appétence forte pour l'ITExpérience réussie dans une fonction commerciale en environnement IT (infogérance, MCO, ESN, services informatiques)Bonne connaissance des marchés publics et de leurs procédures (appels d'offres, cahiers des charges) appréciéeSens du relationnel client, capacité à fidéliser autant qu'à conquérir de nouveaux comptesAutonomie, rigueur, esprit de négociation et orientation résultatsPermis B requis (déplacements clients à prévoir)\n\n            \nInformations complémentairesType de contrat : CDI\n\n            Temps de travail : Temps pleinSalaire : 30000 € - 35000 € par an ",
-        "dateCreation": "2026-09-27T22:17:21.186Z",
-        "dateActualisation": "2026-09-27T22:17:21.186Z",
-        "lieuTravail": {
-          "libelle": "31 - Toulouse",
-          "codePostal": "31000",
-          "commune": "31555"
-        },
-        "romeCode": "D1517",
-        "romeLibelle": "Chef / Cheffe de secteur distribution",
-        "appellationlibelle": "Chef de secteur commerce",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7451952",
-          "partenaires": [
-            {
-              "nom": "CARRIEREONLINE",
-              "url": "https://www.carriereonline.com/offres-emploi/france/ingenieur-commercial/38112487/?xtor=SEC-1321",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/carriereonline80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Toulouse",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "7453908",
-        "intitule": "Chargé(e) de Clientèle (F/H)",
-        "description": "Acteur français de l'externalisation de la relation clients, Prodirect accompagne plus de 30 grandes entreprises françaises pour construire et déployer des parcours clients. Une expérience client authentique, alignés sur les attentes des consommateurs.\n\nChez Pro Direct l'humain est au cœur de l'entreprise. L'engagement collectif, l'expertise de nos 700 talents, notre méthodologie approuvée et la proximité avec chaque client font la différence. Pro Direct c'est aussi l'assurance d'une entreprise française, solide, reconnue depuis plus de 30 ans.\n\nEt c'est ce qui fait que nos clients nous confient l'externalisation de leur expérience client dans la durée.\n\nContribuez au dynamisme de PRO DIRECT en intégrant nos équipes !\n\nNous recherchons notre futur(e) Conseiller(e) Clientèle.\n\nDans le cadre de ce poste, vous serez en charge de contacter des prospects ayant rempli un formulaire en ligne afin de les accompagner dans leur démarche de mise en relation avec un conseiller VAE.\n\nVos missions :\n\n* La gestion des leads et la réalisation d'appels sortants\n* L'identification des besoins et l'accompagnement des prospects dans leur projet\n* L'argumentation commerciale et le traitement des objections\n* L'organisation de votre activité et la gestion des priorités\n\nVotre profil :\n\n* Une bonne capacité d'écoute et un sens de l'empathie maîtrisé\n* Une aisance commerciale avec une appétence pour la vente\n* De la rigueur dans l'application des process\n* De solides compétences rédactionnelles (orthographe, grammaire)\n* Un bon esprit d'analyse\n* Une aisance avec les outils informatiques\n\nVous vous reconnaissez ? Rejoignez notre équipe en nous transmettant votre CV.\n\nConditions du poste :\n\n* CDI : prise de poste au plus tôt\n* Salaire fixe brut de 1867,05 € + prime mensuelle\n* Carte restaurant et prise en charge de l'employeur à hauteur de 60%\n* Avantages CSE\n* Télétravail possible sous conditions d'éligibilités\n* Aide au logement\n\nÀ compétences égales, cette offre est ouverte aux personnes en situation de handicap.",
-        "dateCreation": "2026-09-28T04:03:16.226Z",
-        "dateActualisation": "2026-09-28T04:03:16.226Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille",
-          "commune": "13055"
-        },
-        "romeCode": "M1704",
-        "romeLibelle": "Responsable service clients",
-        "appellationlibelle": "Chargé / Chargée de clientèle e-commerce",
-        "entreprise": {
-          "nom": "GROUPE PRO DIRECT"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7453908",
-          "partenaires": [
-            {
-              "nom": "SKELLO",
-              "url": "https://prodirectservices.factorial.fr/apply/charge-e-de-clientele-f-h-319880?utm_source=francetravail.fr",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
         "entrepriseAdaptee": false,
         "employeurHandiEngage": false,
         "_recherche": "Chargé de clientèle",
