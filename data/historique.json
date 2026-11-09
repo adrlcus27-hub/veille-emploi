@@ -1,5 +1,890 @@
 [
   {
+    "date": "2026-11-09",
+    "count": 15,
+    "offres": [
+      {
+        "id": "216FVNP",
+        "intitule": "Senior Account Executive (H/F)",
+        "description": "Nous recherchons un.e **Senior Account Executive** pour accélérer le développement de Loyoly en Espagne et en faire une référence au sein de l'écosystème e-commerce & retail.\n\nRattaché(e) au Head of Sales, tu auras pour mission de développer notre croissance sur le marché espagnol avec un haut niveau d'autonomie, de structurer et d'adapter nos processus de vente aux spécificités locales, et de maximiser notre performance commerciale sur ce marché stratégique.\n\n**Développement des affaires**\n\n- Piloter l'ensemble du cycle de vente, de la prospection à la signature, sur des comptes mid-market et grands comptes du e-commerce et du retail espagnol.\n- En collaboration avec un BDR : générer de nouvelles opportunités qualifiées grâce à une approche personnalisée et multicanale (cold mail, cold call, LinkedIn, événements et salons sectoriels).\n- Transformer les opportunités qualifiées issues de nos différents canaux (Inbound, Paid, Partnerships, Outbound) en clients sur le long terme, en appliquant et en faisant évoluer les bonnes pratiques de vente de Loyoly.\n- Construire et activer un réseau de partenaires locaux (agences, intégrateurs, solutions tech complémentaires).\n\n**Structuration du marché**\n\n- Contribuer à la définition de la stratégie go-to-market en Espagne : ciblage, ICP, pricing, messages clés.\n- Faire remonter les retours terrain aux équipes Produit et Marketing pour adapter notre offre et nos contenus au marché local.\n- Partager tes bonnes pratiques et accompagner la montée en compétences des profils plus juniors de l'équipe.\n\n**Profil recherché**\n\n- 5 ans d'expérience minimum en tant qu'Account Executive dans un SaaS B2B, idéalement dans le e-commerce ou le retail, avec un historique de top performer\n- Solide connaissances de l'écosystème e-commerce espagnol\n- Expérience dans l'ouverture ou le développement d'un nouveau marché : un vrai plus\n- Capacité démontrée à closer des deals complexes avec plusieurs interlocuteurs (CMO, Head of E-commerce, CEO)\n- Compétences supérieures en communication et en négociation, avec une approche stratégique et analytique\n- Maîtrise des outils CRM et des technologies de vente actuelles\n- Espagnol courant, anglais est un plus ; français courant",
+        "dateCreation": "2026-11-09T14:45:32.134Z",
+        "dateActualisation": "2026-11-09T16:32:07.489Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Commercial / Commerciale",
+        "entreprise": {
+          "nom": "AURA CORP.",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "5 Mois",
+        "langues": [
+          {
+            "libelle": "Espagnol",
+            "exigence": "S"
+          },
+          {
+            "libelle": "Français",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "121470",
+            "libelle": "Techniques de négociation avancées",
+            "exigence": "S"
+          },
+          {
+            "code": "300379",
+            "libelle": "Développer et fidéliser la relation client",
+            "exigence": "S"
+          },
+          {
+            "code": "121427",
+            "libelle": "Développer un portefeuille clients et prospects",
+            "exigence": "S"
+          },
+          {
+            "code": "300376",
+            "libelle": "Mettre en oeuvre des actions commerciales et promotionnelles",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "commentaire": "salaire fixe avec commission",
+          "complement1": "Titres restaurant / Prime de panier",
+          "complement2": "Commissions",
+          "listeComplements": [
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            },
+            {
+              "code": "11",
+              "libelle": "Commissions"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "39H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "AURA CORP. - Mme Amel Houari",
+          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216FVNP",
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216FVNP"
+        },
+        "agence": {},
+        "nombrePostes": 1,
+        "deplacementCode": "2",
+        "deplacementLibelle": "Ponctuels Zone européenne",
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "62.02A",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre force de proposition",
+            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+          },
+          {
+            "libelle": "Avoir le sens du service",
+            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
+          },
+          {
+            "libelle": "Faire preuve de leadership",
+            "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+          }
+        ],
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/216FVNP"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "39H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Executive",
+        "_ville_recherchee": "Paris",
+        "_score": 4,
+        "_is_remote": false
+      },
+      {
+        "id": "8651667",
+        "intitule": "Head Of Compliance RC / Clients Internationaux, Evolution stratégique, Flexibilité (H/F)",
+        "description": "Head Of Compliance RC / Clients Internationaux, Evolution stratégique, Flexibilité Ce que nous vous proposons aujourd'hui est de faire de votre carrier/ière une vraie force et de mettre à profit vos compétences afin d'intégrer un poste à grande responsabilité dans un groupe mondial.Notre client est un PSF de renommée internationale, en pleine croissance et reconnu sur la place financier/ière luxembourgeoise. Il vous offre l'opportunité d'occuper une fonction clé, combinant le management d'une équipe Compliance et des responsabilités réglementaires en qualité de Responsable du Contrôle (RC), dans un environnement supervisé par la CSSF.Au sein du bureau luxembourgeois qui se compose d'une trentaine de collaborateurs, ce groupe permet de profiter au quotidien d'un environnement francophone. Vous disposerez d'une qualité de travail certaine dans un cadre flexible, où l'expertise avancée est en lien avec la multi de leurs clients.Il est à noter que vos responsabilités sont amenées à évoluer afin de prendre des décisions plus conséquentes, notamment au niveau international sur les ambitions et perspectives du groupe dans sa globalité.Dans le cadre de son développement, notre client recherche un Head of Compliance - RC, justifiant d'au moins 3 années d'expérience dans le management d'une équipe Compliance, et souhaitant s'investir durablement dans une fonction alliant expertise réglementaire, leadership et vision stratégique.Vos responsabilités / Client International, Evolution stratégique, Flexibilité Vous aurez l'opportunité, une fois pleinement autonome dans vos fonctions, d'évoluer rapidement vers davantage de responsabilités, notamment en intégrant un rôle Oversight Group, offrant ainsi de réelles perspectives d'évolution à court terme.Vous serez responsable de l'encadrement et de la supervision d'une équipe Compliance, composée de Compliance Officers et de Compliance Officers.Vous occuperez un rôle central en tant que Responsable du Contrôle auprès de la CSSF pour toutes les questions relatives à l'AML/CFT et à la conformité réglementaire, dans le cadre des mandats délégués.Vous serez chargé de définir, mettre en œuvre et assurer le suivi des politiques, procédures et contrôles internes couvrant l'ensemble des activités réglementées de la société, tout en garantissant leur efficacité, leur conformité et leur indépendance. Profil et parcours / Client International, Evolution stratégique, Flexibilité Vous maîtrisez couramment le français et l'anglais, afin de s'intégrer dans cet environnement et d'accompagner une clientèle internationale.Vous disposez d'au moins années d'expérience en Fond Alternatif et Compliance, vous permettant d'être à l'aise dans la gestion quotidien/ienne de vos tâches.Vous disposez d'au moins une année d'expérience en tant que Responsable du Contrôle, vous ayant permis de développer une bonne maîtrise des exigences réglementaires et des procédures de conformité applicables.Vous faites preuve d'une excellente gestion du stress et d'un réel sens des priorités, vous permettant de respecter les échéances tout en assumant les responsabilités à votre fonction. Offre & avantages / Client International, Evolution stratégique, Fléxibilité Selon votre expérience et vos compétences, vous pourrez bénéficier d'une rémunération jusqu'à . € brut/an, complétée des chèques repas d'un montant de .€, et un bonus selon la réussite de vos objectifs.Vous profiterez de jours de congés annuels, soit 2 jours supplémentaires par rapport au minimum légal, vous permettant de consacrer davantage de temps à votre vie personnelle et de bénéficier d'un meilleur équilibre entre vie professionnelle et vie privée.Vous serez accompagné d'une assurance DKV, vous offrant une meilleure couverture .Vous aurez l'avantage de pouvoir être flexible sur les heures d'arrivée allant jusqu'à h le matin, l'heure de départ se détermine en conséquence. Grâce à cela, fini le stress d'être en retard le matin.  Des jours de télétravail sont accordés au titre de 2 jours par semaine, ce qui vous permettra d'obtenir un meilleur équilibre entre vie professionnelle et vie personnelle. Abiomis est une agence de recrutement et de conseil spécialisée dans les domaines financier et juridique au Luxembourg et en Belgique, offrant des postes s jusqu'à Partner dans tout le pays.Chez Abiomis, nous apprécions ce qui compte le plus pour vous. Nous savons que l'écoute est essentielle et, ce faisant, cela nous permet de déterminer ensemble les opportunités qui pourraient vous convenir le mieux ainsi qu'à vos critères. Que vous soyez candidat ou entreprise, nous sommes là à chaque étape et il nous fera plaisir de vous accompagner dans votre évolution.Contactez-nous dès aujourd'hui au + pour discuter de votre...",
+        "dateCreation": "2026-11-08T07:00:53.460Z",
+        "dateActualisation": "2026-11-09T07:00:51.058Z",
+        "lieuTravail": {
+          "libelle": "Luxembourg"
+        },
+        "romeCode": "H1519",
+        "romeLibelle": "Responsable éthique-déontologie-conformité en industrie pharmaceutique",
+        "appellationlibelle": "Responsable compliance",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651667",
+          "partenaires": [
+            {
+              "nom": "MOOVIJOB",
+              "url": "https://www.moovijob.com/offres-emploi/abiomis/head-of-compliance-rc-clients-internationaux-evolution-strategique-flexibilite-1dab2",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 3,
+        "_is_remote": true
+      },
+      {
+        "id": "8668726",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "\n        \n        \nLES MISSIONS :\n        \nCe rôle est stratégique : vous serez le premier commercial de lentreprise et aurez un impact direct sur notre croissance. Vous bénéficierez dun accompagnement total des associés pour réussir, avec une grande liberté dans lorganisation de votre travail et le choix des outils.\n\nNous créons ce poste pour renforcer notre dynamique commerciale et accélérer notre croissance. Vos missions principales seront les suivantes :\n\n * Prospecter et conquérir : Identifier et démarcher de nouveaux clients pour vendre nos solutions métiers sur mesure.\n * Piloter des cycles de vente : De la qualification des leads à la signature, en passant par la présentation de nos solutions et la négociation des contrats.\n * Structurer la fonction commerciale : Mettre en place des processus et outils (CRM, reporting, etc.) pour optimiser lefficacité commerciale, en collaboration avec les associés.\n * Développer le portefeuille clients : Atteindre un objectif de 500 à 600 K de chiffre daffaires annuel, avec une forte orientation conquête.\n\nLocalisation : Paris 15ème.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nNous recherchons un.e Responsable Commercial.e expérimenté.e, capable de porter seul la fonction commerciale et de contribuer activement à notre développement. Voici ce qui fera la différence :\n\nExpérience et compétences\n * 5 à 7 ans dexpérience en vente de solutions services, conseil ou projets sur mesure, idéalement dans un contexte dESN ou dapplications métiers.\n * Tempérament de chasseur : Capacité à générer des leads qualifiés et à mener une prospection active.\n * Autonomie et rigueur : Aisance à travailler dans une structure en croissance, avec la capacité à instaurer des processus commerciaux.\n * Anglais opérationnel : Capacité à participer à des réunions en anglais.\n\nQualités humaines\n * Aisance relationnelle : Capacité à créer un lien de confiance avec des interlocuteurs exigeants.\n * Esprit entrepreneurial : Envie de contribuer à la croissance dune entreprise en prenant des initiatives.\n * Résilience et persévérance : Capacité à gérer les objections et à conclure des ventes complexes.\n        \n        \nLES AVANTAGES :\n        \nRejoindre notre équipe, cest lopportunité de :\n\n * Jouer un rôle clé dans la croissance dune entreprise en pleine expansion, avec une influence directe sur la stratégie commerciale.\n * Bénéficier dune grande autonomie et de la liberté de choisir vos outils et méthodes de travail.\n * Travailler avec des experts techniques de haut niveau et des clients exigeants, dans un environnement stimulant.\n * Évoluer rapidement : Ce poste offre des perspectives de montée en responsabilité, comme le management dune équipe commerciale ou une implication stratégique.\n * Intégrer une entreprise stable : Notre culture repose sur la qualité, la confiance et la pérennité, avec des équipes en place depuis plusieurs années.\n * Des avantages pour vous : remboursement à 100 % des transports en Île-de-France, tickets restaurant à 70 %, prime dintéressement.\n * Profiter dun cadre de travail privilégié : de beaux locaux modernes et confortables, dans un environnement agréable au quotidien.\n\nSi vous êtes un commercial ambitieux, autonome et passionné par la vente de solutions à forte valeur ajoutée, ce poste est fait pour vous. Rejoignez-nous pour construire ensemble lavenir de notre entreprise.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-11-08T18:00:50.249Z",
+        "dateActualisation": "2026-11-09T00:00:52.090Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris 15e Arrondissement",
+          "codePostal": "75015",
+          "commune": "75115"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        "
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 60000.0 Euros à 75000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8668726",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/50462/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Paris",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "8651650",
+        "intitule": "Associate Corporate M&A - Partners Expérimentés en Tier I - Faible Billable Hours (H/F)",
+        "description": "Associate Corporate M&A - Partners Expérimentés en Tier I - Faible Billable Hours Avez-vous déjà imaginé rejoindre un projet dès sa création et poser les fondations de ce qui pourrait devenir l'un des acteurs majeurs du marché légal au Luxembourg ?Notre client est un cabinet d'avocats en pleine croissance sur la place luxembourgeoise, souhaitant intégrer un nouveau collaborateur pour participer activement à son développement. L'avantage ? Prendre en charge des dossiers de A à Z pour une clientèle premium peut représenter une réelle opportunité d'enrichir votre expérience professionnelle.Établi à Luxembourg, dans le secteur de la Place d'Armes et desservi par les transports en commun. Ce cabinet offre un environnement francophone au sein d'une structure à taille humaine regroupant une dizaine de collaborateurs. La confiance, la qualité et la proximité avec les partners sont les mots d'ordre.Afin d'accompagner cette croissance, notre client recherche un Associate Corporate M&A ayant l'intention de s'investir pleinement dans ce projet, disposant d'au moins 2 années d'expérience sur la place luxembourgeoise.Vos responsabilités / Associate Corporate - Boutique - M&A Vous travaillerez en direct avec des Associés expérimentés au sein de cabinets connus et reconnus au Luxembourg et à l'International.Vos dossiers seront representatifs de la réputation du cabinet. Haut de gamme, complexes, et avec de réelles possibilités de développement technique.Vous conseillerez vos clients sur des transactions essentiellement orientées Corporate/M&A, avec l'objectif d'atteindre une autonomie suffisant/ante rapidement.Conseiller et accompagner des clients locaux et internationaux.Vous reviserez et serez responsable du draft de certains documents, avec un haut niveau de qualité, et l'objectif d'apporter un service haut de gamme à vos clients. Profil et parcours / Associate Corporate - Boutique - M&A Vous disposez d'au moins 2 années d'expérience en cabinet d'avocats au Luxembourg, vous permettant de prendre en charge vos dossiers avec autonomie et de vous positionner comme un interlocuteur de confiance auprès des clients et des associés.Vous maîtrisez couramment le français et l'anglais, afin d'accompagner une clientèle locale et internationale. La connaissance de l'allemand constitue un atout supplémentaire.Vous faites preuve de curiosité, de proactivité dans la gestion de vos missions. Au sein de cette structure à taille humaine, vous pourrez faire entendre vos idées et contribuer directement au développement du cabinet.Vous êtes à l'aise dans la prise en charge de dossiers Corporate et M&A, ce qui vous permettra une gestion et de développer une relation de confiance durable avec vos clients. Offre & avantages / Associate Corporate - Boutique - M&A Selon votre expérience, votre séniorité et votre autonomie, vous pourrez bénéficier d'une rémunération jusqu'à .€ par mois, complétée par un bonus lié à l'atteinte de vos objectifs.Vous aurez accès à des formations pour approfondir votre expertise et accompagner votre évolution au sein du cabinet.Vous aurez la possibilité d'évoluer en prenant une place active dans le développement à long terme d'un cabinet boutique.Si vous disposez d'un portefeuille clients personnel, vous aurez l'opportunité de le valoriser au sein du cabinet et de poursuivre le développement de vos relations, tout en renforçant votre place dans le projet.Vous pourrez bénéficier d'un jour de télétravail par semaine, ce qui vous permettra de flexibiliser et organiser votre temps de travail. Abiomis est une agence de recrutement et de conseil spécialisée dans les domaines financier et juridique au Luxembourg et en Belgique, offrant des postes s jusqu'à Partner dans tout le pays.Chez Abiomis, nous apprécions ce qui compte le plus pour vous. Nous savons que l'écoute est essentielle et, ce faisant, cela nous permet de déterminer ensemble les opportunités qui pourraient vous convenir le mieux ainsi qu'à vos critères. Que vous soyez candidat ou entreprise, nous sommes là à chaque étape et il nous fera plaisir de vous accompagner dans votre évolution.Contactez-nous dès aujourd'hui au +   pour discuter de votre parcours professionnel ou consultez nos offres d'emploi actuelles sur www.abiomis.com.",
+        "dateCreation": "2026-11-08T07:00:52.789Z",
+        "dateActualisation": "2026-11-09T07:00:52.061Z",
+        "lieuTravail": {
+          "libelle": "Luxembourg"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Collaborateur(trice) commercial(e) en assurances",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651650",
+          "partenaires": [
+            {
+              "nom": "MOOVIJOB",
+              "url": "https://www.moovijob.com/offres-emploi/abiomis/associate-corporate-ma-partners-experimentes-en-tier-i-faible-billable-hours-be2de",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 2,
+        "_is_remote": true
+      },
+      {
+        "id": "8672503",
+        "intitule": "CONSEILLER DE VENTE (H/F)",
+        "description": "Acteur(trice) de la réussite du projet d'habitat de nos clients\nVous mettez à profit votre expertise auprès de nos clients afin de les conseiller et favorisez la coopération avec l'équipe pour apporter la meilleure réponse à leurs besoins et la réussite de leurs projets.\nVous êtes rattaché à l'un des univers du point de vente et vous contribuez à fluidifier et rendre agréable le parcours d'achat de nos clients.\nVous êtes garant(e) de l'approvisionnement et de la qualité de la tenue de votre espace de vente et vous n'hésitez pas à prendre des initiatives au quotidien pour mettre en valeur vos produits et les services.\nVous êtes une Femme ou un Homme doté(e) d'un excellent relationnel vous permettant de concrétiser vos ventes et ainsi contribuer à la performance du magasin.\n\n\nEsprit d'équipe, passionné(e) par le commerce et la relation client, fédérateur(trice) avec le goût du terrain, vous avez déjà éprouvé ces qualités dans une expérience significative sur un poste similaire. Vous avez une bonne maîtrise des différentes techniques de vente et vous avez également à cœur d'intégrer un point de vente qui place le client au cœur de ses préoccupations.\n\n\nAu sein du rayon JARDIN, , vous assurez l'entretien et le conseil à la clientèle sur les plantes et les produits s'y rapportant . Vous effectuez la mise en rayon, le contrôle des marchandises et les commandes. Vous avez des connaissances en horticulture et floriculture et êtes fortement sensibilisé à l'univers des plantes.Vous mettez à profit votre expertise auprès de nos clients afin de les conseiller et favorisez la coopération avec l'équipe pour apporter la meilleure réponse à leurs besoins et la réussite de leurs projets\nSalaire : 1609\nContrat : CDI\nNiveau d'expérience minimum requis : Débutant\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-11-09T07:03:55.025Z",
+        "dateActualisation": "2026-11-09T07:03:55.025Z",
+        "lieuTravail": {
+          "libelle": "44 - Batz-sur-Mer",
+          "codePostal": "44740",
+          "commune": "44010"
+        },
+        "romeCode": "D1415",
+        "romeLibelle": "Chargé / Chargée de relation client",
+        "appellationlibelle": "Chargé / Chargée de service après-vente",
+        "entreprise": {
+          "nom": "Bricomarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "codeNAF": "47.52B",
+        "secteurActivite": "47",
+        "secteurActiviteLibelle": "'Commerce de détail de quincaillerie, peintures et verres en grandes surfaces (400 m² et plus)');",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8672503",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2763404.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "8651836",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients. Vous avez pour principales missions : Le management et l'engagement de votre équipe autour de nos ambitions ; Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ; La gestion de la qualité de la relation client ; La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ; L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ; Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'esprit d'entreprendre constituent de véritables valeurs. Vous souhaitez vous investir pleinement et évoluer au sein d'une équipe de passionnés, capable de reconnaître et de valoriser votre talent ?\nDoté(e) d'un excellent sens du relationnel et animé(e) par un véritable esprit commerçant, vous savez instaurer avec vos clients une relation de confiance et de proximité, en leur apportant conseils et valeur ajoutée.\nVotre capacité à manager une équipe, vos qualités de communication ainsi que votre forte orientation client seront des atouts essentiels pour réussir dans ce poste.\nUne première expérience en management d'équipe, en contact direct avec la clientèle, en tant que responsable ou adjoint, est indispensable.\nNous vous proposons une rémunération attractive composée d'un salaire fixe, de primes, d'une mutuelle, ainsi que d'une remise de 5 % sur vos achats.\nPoste en CDI, Agent Maitrise, 36h45 hebdomadaires, du lundi au samedi.\nGrâce à nos parcours de développement des compétences, vous bénéficierez de réelles opportunités d'évolution.\nRejoignez-nous pour vivre votre passion et vous engager au sein d'une équipe humaine et conviviale \n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-11-08T07:03:42.751Z",
+        "dateActualisation": "2026-11-08T07:03:42.751Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651836",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2762576.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "216FTCS",
+        "intitule": "Conseiller clientèle en réception d'appels entrants (H/F)",
+        "description": "Dans le cadre du développement de notre activité, nous cherchons des conseillers clientèles pour assurer la réception des appels entrants, l'accueil et l'information des clients, le traitement de leurs demandes et le suivi des dossiers.\nEn CDI temps plein sur le Pôle d'activité Aix les Milles, en 100 % présentiel, 7h par jour, du lundi au samedi, sur une amplitude de 8h à 19h.\nRémunération : Fixe à hauteur du SMIC + prime sur objectifs jusqu'à 350 €.\n\nVOS MISSIONS :\n-Traiter l'ensemble des contacts qui lui sont attribués\n-Respecter les protocoles de traitement de nos clients\n-Assurer la qualité relationnelle et technique\n-Traiter les appels entrants et sortants\n-Respecter les scripts de traitement des appels sortants\n-Reporter les anomalies techniques rencontrées\n-Réaliser les remontées des clients finaux\n-Traiter les contacts en respectant les règles de sécurité concernant les données personnelles\n-Pour réussir, vous serez formé et accompagné.\n\nPROFIL RECHERCHE :\n- Maitrise des outils de bureautique\n- Aisance à l'oral, sens de l'écoute et du service client\n- Patience, rigueur et capacité à trouver des solutions\n- Une première expérience en relation client ou en centre d'appels est un plus, mais les débutants motivés sont les bienvenus\n\nFormation assurée en interne à la prise de poste.",
+        "dateCreation": "2026-11-09T14:15:11.763Z",
+        "dateActualisation": "2026-11-09T14:15:11.763Z",
+        "lieuTravail": {
+          "libelle": "13 - AIX EN PROVENCE",
+          "latitude": 43.523408,
+          "longitude": 5.43383,
+          "codePostal": "13080",
+          "commune": "13001"
+        },
+        "romeCode": "D1408",
+        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
+        "appellationlibelle": "Téléconseiller / Téléconseillère",
+        "entreprise": {
+          "nom": "ALHENA SERVICES",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "3 Mois - en relation client",
+        "experienceCommentaire": "en relation client",
+        "formations": [
+          {
+            "niveauLibelle": "Bac ou équivalent",
+            "exigence": "S"
+          }
+        ],
+        "competences": [
+          {
+            "code": "404550",
+            "libelle": "Bureautique et outils collaboratifs",
+            "exigence": "S"
+          },
+          {
+            "code": "100541",
+            "libelle": "Techniques de communication orales, écrites et numériques",
+            "exigence": "S"
+          },
+          {
+            "code": "501073",
+            "libelle": "Proposer des solutions adaptées aux besoins spécifiques des clients",
+            "exigence": "S"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 1867.02 Euros",
+          "complement1": "Primes",
+          "complement2": "CSE",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {},
+        "agence": {},
+        "nombrePostes": 1,
+        "accessibleTH": false,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "5",
+        "qualificationLibelle": "Employé non qualifié",
+        "codeNAF": "82.99Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Autres activités de soutien aux entreprises n.c.a.",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Etre à l'écoute, faire preuve d'empathie",
+            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
+          },
+          {
+            "libelle": "Faire preuve de rigueur et de précision",
+            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+          },
+          {
+            "libelle": "Avoir le sens du service",
+            "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
+          }
+        ],
+        "trancheEffectifEtab": "100 à 199 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/216FTCS"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "216FLFF",
+        "intitule": "Commercial Sédentaire en BtoB (H/F)",
+        "description": "Qui sommes-nous ? \nCreditsafe, c'est un groupe privé et indépendant qui propose un ensemble de solutions pour les entreprises, de la gestion du risque, à la procédure de conformité et aux données marketing. Aujourd'hui Creditsafe est le fournisseur d'informations d'entreprise le plus utilisé au monde !\n\nCe qui nous différencie ?\nPartenaire des petites, moyennes et grandes entreprises, nous leur offrons une vision éclairée, soutenue par des sources d'informations de confiance et des plateformes intuitives. Nous comprenons le marché et nous comprenons les entreprises.\n\nDescriptif du poste : \nEn intégrant le Département Télévente, tu deviens un acteur à part entière du développement commercial de Creditsafe. Tu incarnes notre société, et chaque jour, tu la représentes auprès de nombreuses entreprises. \nA ce titre, voici tes missions :\n- Tu prospectes (à partir de prospects qualifiés) par téléphone des TPE et PME afin de vendre nos supers produits.\n- Tu réalises auprès de nos futurs clients professionnels des démonstrations de nos produits afin de les convaincre de la qualité de ces derniers.\n- Tu tiens comptes auprès de ton manager de reportings réguliers sur ton activité.\n\nProfil recherché :\n- Tu es un chasseur ou une chasseuse dans l'âme ?\n- Tu as déjà une expérience commerciale en B2B ?\n- Tu es un négociateur hors pair ?\n- Tu as de l'audace et le goût du challenge ?\n\nSi tu as répondu oui à toutes ces questions et si tu as envie de rejoindre une communauté qui bouge, qui est ambitieuse et qui t'offrira de belles perspectives d'évolution : alors tu es probablement le prochain à rejoindre nos rangs !\n\nRémunération :\nNous te garantissons une rémunération attractive :\nUn fixe ;\nUn plan de commissionnement attractif ;\nUne prime de participation ;\nUne prime de fin d'année ;\nDes tickets Restaurants (Valeur de 11€) ;\nUne prise en charge à 100% de la mutuelle de base ;\nL'accès gratuit à notre salle de sport.\n\nLieu et temps de travail :\nLoft basé à Roubaix (59100)\nSemaine du lundi au vendredi : 9h-12h30 et 13h30-17h30\n\nDans le cadre de notre politique de recrutement et d'intégration des travailleurs handicapés, nous étudions, à compétences égales, toutes les candidatures sans exception.\nPlusieurs postes à pourvoir.\n\nUne réunion de recrutement est organiséeau sein de nos locaux le 21 octobre 2026. Pour vous inscrire : http://mesevenementsemploi.francetravail.fr/mes-evenements-emploi/evenement/768189?at_medium=CMP&at_campaign=DSIMonstreuil&at_cmp_indicateur1=PromotionEvenementConseiller&at_cmp_indicateur2=Multicanal&at_cmp_indicateur3=Multidate",
+        "dateCreation": "2026-11-09T10:50:55.457Z",
+        "dateActualisation": "2026-11-09T10:50:55.457Z",
+        "lieuTravail": {
+          "libelle": "59 - ROUBAIX",
+          "latitude": 50.68538,
+          "longitude": 3.20111,
+          "codePostal": "59100",
+          "commune": "59512"
+        },
+        "romeCode": "D1410",
+        "romeLibelle": "Attaché commercial / Attachée commerciale",
+        "appellationlibelle": "Employé commercial / Employée commerciale sédentaire",
+        "entreprise": {
+          "nom": "SOLVABILITE ENTREPRISE",
+          "entrepriseAdaptee": false
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "6 Mois",
+        "competences": [
+          {
+            "code": "122552",
+            "libelle": "Prospection commerciale",
+            "exigence": "E"
+          },
+          {
+            "code": "121706",
+            "libelle": "Techniques commerciales",
+            "exigence": "E"
+          },
+          {
+            "code": "300350",
+            "libelle": "Négocier un contrat",
+            "exigence": "E"
+          }
+        ],
+        "salaire": {
+          "libelle": "Mensuel de 2183.67 Euros",
+          "complement1": "Primes",
+          "complement2": "Intéressement / participation",
+          "listeComplements": [
+            {
+              "code": "1",
+              "libelle": "Primes"
+            },
+            {
+              "code": "10",
+              "libelle": "Intéressement / participation"
+            },
+            {
+              "code": "11",
+              "libelle": "Commissions"
+            },
+            {
+              "code": "9",
+              "libelle": "CSE"
+            },
+            {
+              "code": "6",
+              "libelle": "Titres restaurant / Prime de panier"
+            }
+          ]
+        },
+        "dureeTravailLibelle": "37H30/semaine\nTravail en journée",
+        "dureeTravailLibelleConverti": "Temps plein",
+        "alternance": false,
+        "contact": {
+          "nom": "Agence France Travail ROUBAIX CENTRE",
+          "coordonnees1": "74 GRANDE RUE",
+          "coordonnees2": "59100 Roubaix",
+          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216FLFF"
+        },
+        "agence": {
+          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/216FLFF"
+        },
+        "nombrePostes": 1,
+        "accessibleTH": true,
+        "deplacementCode": "1",
+        "deplacementLibelle": "Jamais",
+        "qualificationCode": "6",
+        "qualificationLibelle": "Employé qualifié",
+        "codeNAF": "82.91Z",
+        "secteurActivite": "82",
+        "secteurActiviteLibelle": "Activités des agences de recouvrement de factures et des sociétés d'information financière sur la clientèle",
+        "qualitesProfessionnelles": [
+          {
+            "libelle": "Faire preuve de persévérance",
+            "description": "Capacité à maintenir son effort jusqu'à l'achèvement complet d'une tâche quels que soient les imprévus, les obstacles de réalisation rencontrés."
+          },
+          {
+            "libelle": "Etre force de proposition",
+            "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+          },
+          {
+            "libelle": "Faire preuve de réactivité",
+            "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
+          }
+        ],
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "1",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/216FLFF"
+        },
+        "offresManqueCandidats": false,
+        "contexteTravail": {
+          "horaires": [
+            "37H30/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": true,
+        "_recherche": "Prospection commerciale",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8672314",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + indemnités repas + participation/intéressement + mutuelle, (NOMBRE) semaines de congés payés et (NOMBRE)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 1800-2000\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-11-09T07:03:46.757Z",
+        "dateActualisation": "2026-11-09T07:03:46.757Z",
+        "lieuTravail": {
+          "libelle": "69 - Rhône"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8672314",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2763026.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8672317",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste de notre supermarché urbain.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + 50% mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 27000 - 29000\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac +2 / +3\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-11-09T07:03:46.756Z",
+        "dateActualisation": "2026-11-09T07:03:46.756Z",
+        "lieuTravail": {
+          "libelle": "59 - Lille",
+          "codePostal": "59000",
+          "commune": "59350"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8672317",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2762974.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8667819",
+        "intitule": "Conseiller Assurance (H/F)",
+        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un Conseiller Assurances (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance\n\nC'est où - à Paris (75017)\n\nC'est quoi - un poste sédentaire de conseiller(ère) en assurance à dominante commerciale pour une clientèle de particuliers et de professionnels\n\nC'est combien - rémunération Fixe 32 500 € bruts par an + Variable individuel + Variable collectif\n\nQuels avantages - Tickets Restaurant + Mutuelle et Prévoyance\n\nQuel environnement - structure en développement - autonomie - formation - challenge - ambiance chaleureuse - quartier agréable, bien desservi en transports\n\n35 H par semaine du Lundi au Vendredi - 1 samedi par mois (récupéré)\n\nPoste\n\nEn Agence, vous veillez à la bonne tenue et au développement du portefeuille Particuliers/Professionnels. Vos missions sont riches et diversifiées :\n- Vous accueillez les clients et prospects. Vous réceptionnez les demandes des assurés en face à face, par téléphone ou en réponse à courriel.\n- Vous conseillez et apportez des solutions en matière d'assurances de biens et de personnes ainsi qu'en épargne après analyse des besoins.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des remplacements, complétude des dossiers, mise à jour des contrats).\n- Vous multi-équipez les clients par des ventes au rebond. Vous menez des actions commerciales, notamment par téléphone, sur la clientèle existante et en prospection (recommandation ou leads).\n- Vous participez à la gestion des sinistres : déclaration et orientation vers les services externes.\n\nProfil\n\nIdéalement vous êtes issu(e) d'une formation Assurance. Vous justifiez d'une expérience commerciale au sein d'une Agence Générale ou d'un Cabinet de Courtage d'Assurances.\n- Une bonne connaissance des produits d'assurance est nécessaire.\n- Vous êtes à l'aise à l'oral, au téléphone et en face à face. Vous maitrisez l'outil informatique.\n- Votre capacité à argumenter et votre force de conviction vous permettent de conduire un entretien commercial.\n- Vous êtes reconnu(e) pour votre aisance relationnelle, votre sens du service client et de l'organisation.\n- Doté(e) d'un tempérament commercial, capacités d'écoute, rigueur, autonomie et réactivité permettront de vous épanouir.",
+        "dateCreation": "2026-11-08T11:02:38.204Z",
+        "dateActualisation": "2026-11-08T11:02:38.204Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "C1102",
+        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
+        "appellationlibelle": "Conseiller / Conseillère clientèle en assurances",
+        "entreprise": {
+          "nom": "Relais Assur"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "7",
+        "qualificationLibelle": "Technicien",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8667819",
+          "partenaires": [
+            {
+              "nom": "SWEEFT",
+              "url": "https://www.sweeeft.app/offers/relais-assur/45147/apply?platformId=france-travail",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8652125",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 2000-2500 brut \nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Non diplômé\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-11-08T07:03:51.674Z",
+        "dateActualisation": "2026-11-08T07:03:51.674Z",
+        "lieuTravail": {
+          "libelle": "13 - Miramas",
+          "codePostal": "13140",
+          "commune": "13063"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8652125",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2762901.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Marseille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8651883",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive + mutuelle\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 2200-2600\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-11-08T07:03:44.377Z",
+        "dateActualisation": "2026-11-08T07:03:44.377Z",
+        "lieuTravail": {
+          "libelle": "59 - Marquette-lez-Lille",
+          "codePostal": "59520",
+          "commune": "59386"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651883",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2762399.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8651864",
+        "intitule": "INTERMARCHE - RESPONSABLE CAISSE (H/F)",
+        "description": "Nous rachèterons au 1er mai l'Intermarché Paris Saint-Charles et sommes convaincus que nous ferons la différence avec une expérience client et encaissement mémorable !\nC'est la raison pour laquelle nous recrutons notre futur(e) responsable caisses pour contribuer à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nStatut : Agent de maîtrise niveau 5 pour 39H par semaine\nSalaire selon profil\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac à Bac +2\nTemps de travail : Temps plein",
+        "dateCreation": "2026-11-08T07:03:43.157Z",
+        "dateActualisation": "2026-11-08T07:03:43.157Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651864",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2762594.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Paris",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8651645",
+        "intitule": "Coordinateur Technique  (H/F/D)",
+        "description": "Coordinateur Technique  (H/F/D) LSC est le fruit de l'union de sept sociétés expertes, réunissant des compétences complémentaires dans les domaines de l'ingénierie, de l'aménagement du territoire, de l'environnement et des infrastructures. Grâce à près de  ans d'expérience, LSC offre une approche intégrée et innovant/ante, répondant aux défis complexes d'aujourd'hui et de demain. Notre équipe pluridisciplinaire, forte d'un savoir-faire reconnu, se distingue par sa capacité à penser les projets dans leur globalité, pour des solutions durables et impactant/antes. Afin de renforcer notre Division Building, nous recherchons un Coordinateur Technique  pour notre Service Structure. Véritable référent technique, vous garantissez la qualité des études, accompagnez les équipes et contribuez au développement de l'expertise du département. Votre mission : Assurer le rôle de référent technique pour l'ensemble de l'équipe Structure et apporter un support dans l'analyse et la résolution des problématiques techniques complexes.Garantir la qualité technique des projets et veiller au respect des normes, réglementations et bonnes pratiques du secteur.Superviser et coordonner les études de stabilité et de structure en béton armé, charpente métallique et construction bois.Participer à la définition des concepts structurels et à l'optimisation des solutions techniques.Réaliser ou valider les calculs complexes ainsi que les notes de calcul.Assurer un contrôle qualité des livrables avant transmission aux clients et partenaires.Accompagner le développement des compétences techniques des ingénieurs et projeteurs du service.Participer aux réunions techniques avec les clients, architectes et autres intervenants du projet.Contribuer à l'amélioration continue des méthodes de travail et des procédures internes. Développement/amélioration continue des compétences du service, de la division : -       Contribuer au développement technique du service et de l'entreprise. Favoriser la montée en compétence et l'amélioration technique continue du service, -       Anticiper et préparer l'entreprise aux changements potentiels à venir - développement des prestations actuelles et nouvelles en lien avec de nouvelles pratiques chantier -       Assurer une veille technologique, veille réglementaire et accompagnement des agréments du service-       Représenter la composant/ante technique avec le Directeur de Service et le Coordinateur de Service-       Définir les ressources techniques (informatiques) et humaines (compétences et formations) -       Suivre et analyser l'efficacité des méthodes et règles de l'art mises en œuvre dans les projets-       Participer à la définition des besoins techniques du service-       Collecter les besoins de formation spécifiques, de recrutement et donner un avis sur le plan de formation du personnel Votre profil:Vous êtes diplômé dans le domaine de l'ingénieur civil des constructions et avez une expérience professionnelle de minimum  ansVous avez des connaissances approfondies dans le domaine du calcul des structures en béton armé, en acier, en structures mixtes. ainsi que de leur mise en œuvre techniqueUne expertise en construction bois constitue un atout.Vous avez une solide connaissance des normes et réglementations applicables au secteur de la construction.Vous avez une bonne connaissance des logiciels de calcul type MB, SCIA, SOFISTIK ou équivalent.Vous avez un esprit d'analyse et de synthèse ainsi qu'une capacité d'organisationExpérience confirmée en coordination technique ou en gestion d'équipe technique.Capacité à prendre des décisions techniques et à accompagner les collaborateurs dans leur montée en compétences.-       Une premier/ière expérience sur le marché luxembourgeois est un atoutLe français est obligatoire. L'allemand et le luxembourgeois constituent un avantage.  Notre offre :-       Un contrat cadre à durée indéterminée, des horaires flexibles et du télétravail -       Une équipe multidisciplinaire et multiculturelle, dynamique et portée vers le développement-       Une voiture de fonction-       Des opportunités de développement personnel (formation continue, séminaires, bien-être au travail.)-       Un cadre de travail agréable au sein d'une entreprise labellisée ESR (Entreprise Socialement Responsable) -       Un environnement de travail inclusif, fondé sur le respect, l'équité et la collaboration. Nos pratiques internes garantissent l'accès aux mêmes opportunités.  -       Des solutions de mobilité (covoiturage, parc vélo.)-       Le poste est à pourvoir à notre siège à Contern",
+        "dateCreation": "2026-11-08T07:00:50.188Z",
+        "dateActualisation": "2026-11-09T07:00:47.897Z",
+        "lieuTravail": {
+          "libelle": "Luxembourg"
+        },
+        "romeCode": "H1106",
+        "romeLibelle": "Responsable support technique clients",
+        "appellationlibelle": "Coordinateur / Coordinatrice support technique",
+        "entreprise": {},
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8651645",
+          "partenaires": [
+            {
+              "nom": "MOOVIJOB",
+              "url": "https://www.moovijob.com/offres-emploi/lsc360/coordinateur-technique-senior-hfd",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/moovijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "count": 0,
     "offres": []
@@ -8262,471 +9147,6 @@
         "_ville_recherchee": "Remote",
         "_score": 0,
         "_is_remote": true
-      }
-    ]
-  },
-  {
-    "date": "2026-10-26",
-    "count": 9,
-    "offres": [
-      {
-        "id": "8266369",
-        "intitule": "Commercial Terrain Assurances (H/F)",
-        "description": "Relais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un(e) Commercial(e) Terrain Assurances de Personnes et VIE auprès d'une clientèle de Particuliers et de Pros pour le compte de notre client.\n\nLes éléments clés :\n- Structure : Agent Général de référence et bien implanté dans les Hauts-de-France\n- Situation du poste : Agence située Dunkerque - déplacements quotidiens sur le secteur des Hauts-de-France\n- Rémunération : Rémunération Fixe 27000 € à 32000 € bruts par an selon votre profil et votre expérience + Variable non plafonné\n- Avantages : Mutuelle et Prévoyance + Véhicule de société\n- Environnement : Importance de la relation avec le client et du bon conseil - autonomie et développement personnel\n- Conditions : CDI - 35 H par semaine du Lundi au Vendredi\n\nPoste :\n\nVéritable acteur sur le terrain, vous contribuez au développement et à la fidélisation du portefeuille Particuliers et Pros sur le secteur des Hauts-de-France.\n\nAu quotidien, vous allez à la rencontre des clients et des prospects afin de les conseiller et de leur apporter des solutions adaptées en matière d'Assurances de Personnes et VIE.\n\nDe la prise de contact en passant par l'évaluation des besoins, la présentation des devis, jusqu'à la souscription, vous suivez vos clients de A à Z.\n\nVous veillez à la mise à jour des contrats.\n\nVos capacités à prospecter, cultiver votre réseau et vos succès commerciaux vous permettront de réussir.\n\nProfil recherché :\n\nIdéalement issu(e) d'une formation commerciale et/ou assurantielle, vous justifiez d'une expérience commerciale d'au moins 3 à 5 ans dans l'Assurance de personnes et l'assurance-vie.\n\nVous maîtrisez les techniques de vente et possédez d'excellentes bases en Assurances de personnes et VIE.\n\nVous savez gérer votre agenda de façon efficace et êtes à l'aise avec les outils informatiques.\n\nChallengeur(euse), vous êtes reconnu(e) pour votre tempérament commercial, votre aisance relationnelle et votre souci de la qualité du conseil que vous délivrez.\n\nAutonomie, rigueur, dynamisme, écoute sont des atouts indispensables pour mener à bien la mission.\n\nPostulez dès maintenant !",
-        "dateCreation": "2026-10-26T11:02:56.467Z",
-        "dateActualisation": "2026-10-26T11:02:56.467Z",
-        "lieuTravail": {
-          "libelle": "59 - Dunkerque",
-          "codePostal": "59140",
-          "commune": "59183"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Technico-commercial / Technico-commerciale en assurances",
-        "entreprise": {
-          "nom": "Relais Assur"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 27000.0 Euros à 32000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8266369",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32003/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "8265386",
-        "intitule": "Conseiller de vente H/F",
-        "description": "Rejoignez une entreprise artisanale reconnue pour la qualité de ses produits et l'excellence de son accueil client.Nous recherchons un(e) vendeur(se) passionné(e) par le commerce et la relation client, souhaitant évoluer dans un environnement chaleureux et dynamique.\nVos missionsVéritable ambassadeur(rice) de notre enseigne, vous contribuez au quotidien à offrir une expérience client unique.\n\nÀ ce titre, vous serez amené(e) à :\n \n- Accueillir, conseiller et accompagner les clients dans leurs achats. \n- Mettre en avant nos produits et partager avec enthousiasme leur savoir-faire. \n- Réaliser les ventes et les encaissements. \n- Assurer la mise en rayon, le réassort et la bonne présentation de la boutique. \n- Veiller à la propreté et à l'attractivité de l'espace de vente. \n- Réceptionner les livraisons et participer à la gestion des stocks. \n- Respecter les règles d'hygiène et de sécurité alimentaire. \n- Contribuer au développement du chiffre d'affaires du magasin. \n- Participer activement à la vie et à la bonne ambiance de l'équipe. Poste ouvert aux candidats en situation de handicapVous aimez le contact humain et avez le goût du service.\n\nVous êtes :\n \n- Dynamique, souriant(e) et doté(e) d'un excellent relationnel. \n- Organisé(e) et rigoureux(se). \n- À l'aise dans la vente et le conseil client. \n- Fiable, ponctuel(le) et impliqué(e). \n- Motivé(e) par le travail en équipe. \n\nUne expérience dans la vente, l'alimentaire, la boulangerie, la pâtisserie ou le commerce de proximité est appréciée. Les profils débutants, motivés et orientés satisfaction client sont également les bienvenus.\nCe que nous proposons\n\n \n- CDI à temps plein. \n- Rémunération : 1 867,02 € brut mensuel . \n- Formation complète aux produits et aux techniques de vente. \n- Environnement de travail convivial et bienveillant. \n- Produits de qualité et savoir-faire artisanal. \n- Réelles perspectives d'évolution pour les collaborateurs investis. \n\nPoste ouvert aux candidats en situation de handicapVous aimez le contact humain et avez le goût du service.\n\nVous êtes :\n \n- Dynamique, souriant(e) et doté(e) d'un excellent relationnel. \n- Organisé(e) et rigoureux(se). \n- À l'aise dans la vente et le conseil client. \n- Fiable, ponctuel(le) et impliqué(e). \n- Motivé(e) par le travail en équipe. \n\nUne expérience dans la vente, l'alimentaire, la boulangerie, la pâtisserie ou le commerce de proximité est appréciée. Les profils débutants, motivés et orientés satisfaction client sont également les bienvenus.\n\nContrat : CDI\nSalaire : 26000 à 28000 € par an",
-        "dateCreation": "2026-10-26T07:04:31.863Z",
-        "dateActualisation": "2026-10-26T07:04:31.863Z",
-        "lieuTravail": {
-          "libelle": "13 - Marseille",
-          "commune": "13055"
-        },
-        "romeCode": "D1415",
-        "romeLibelle": "Chargé / Chargée de relation client",
-        "appellationlibelle": "Chargé / Chargée de service après-vente",
-        "entreprise": {
-          "nom": "MICHAEL PAGE ADVERTISING"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "78.10Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8265386",
-          "partenaires": [
-            {
-              "nom": "DISTRIJOB",
-              "url": "https://www.distrijob.fr/offre-emploi/ido/2739530.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Marseille",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "8263161",
-        "intitule": "Business developer H/F",
-        "description": "RESPONSABILITÉS : \n\n Votre rôle\n\n\nAu sein de la Direction Commerciale dédiée aux PME (entreprises entre 30 à 99 collaborateurs)\n\n\nVous serez rattaché(e) au Chef des Ventes et intégrerez une équipe à taille humaine, dynamique et collaborative.\n\n\nVous interviendrez sur un panel de comptes existant et jouerez un rôle clé dans le réengagement et le développement commercial de vos comptes.\n\n\n Vos missions principales\n\n\n - Élaborer et mettre en œuvre une stratégie de developpement efficace et personnalisée.\n - Animer et développer via des actions d' upselling et de cross-selling pertinentes.\n - Accompagner la transition de vos clients vers nos solutions digitalisées (cartes, applications mobiles).\n - Maintenir un lien régulier avec vos interlocuteurs (gérants, DRH), renforcer la satisfaction client et assurer la pérennité des relations commerciales\n - Traitement de campagnes de leads avec objectifs de transformation\n - Suivre les indicateurs de performance commerciale et atteindre les objectifs fixés.\n\n\n Vous gérez un très large panel de comptes dans la dynamique de réengagement et d'acquisition par rebond de nouveaux clients.\n\n\nVous adorez la vente et l'optimisation de portefeuille clients.\n\nPROFIL RECHERCHÉ : \n\n  Votre profil\n\n\n - Vous avez l'ame de chasseur et justifiez d'une première expérience réussie en vente BtoB ou en gestion de portefeuille clients.\n - Vous êtes à l'aise au téléphone, doté(e) d'un excellent sens relationnel et de fortes capacités de négociation.\n - Vous savez adapter votre discours à vos interlocuteurs, et vous avez à cœur de comprendre et défendre les intérêts de vos clients.\n - Organisé(e), rigoureux(se), vous aimez évoluer dans un environnement structuré et orienté performance.\n - Votre état d'esprit de compétiteur vous permet de relever vos objectifs avec énergie et enthousiasme.\n\n\n Ce que nous vous offrons\n\n\n -  CDI basé à Montrouge (92).\n - Une rémunération attractive : fixe + variable mensuel déplafonné.\n - Un modèle simple : plus vous vendez, plus vous digitalisez et plus vous développez votre portefeuille, plus vous gagnez.\n - Des challenges commerciaux réguliers, avec voyages, séminaires et récompenses pour les meilleurs performeurs.\n -  2 jours de télétravail par semaine.\n - Un environnement dynamique, exigeant et bienveillant, avec un management orienté coaching et performance.\n - Un parcours d'intégration structuré et un programme d'accompagnement pour monter rapidement en compétences.\n - De réelles perspectives d'évolution dans un groupe en croissance à deux chiffres.",
-        "dateCreation": "2026-10-26T03:33:21.962Z",
-        "dateActualisation": "2026-10-26T03:33:21.962Z",
-        "lieuTravail": {
-          "libelle": "92 - Montrouge",
-          "codePostal": "92120",
-          "commune": "92049"
-        },
-        "romeCode": "D1410",
-        "romeLibelle": "Attaché commercial / Attachée commerciale",
-        "appellationlibelle": "Commercial / Commerciale sédentaire",
-        "entreprise": {
-          "nom": "Mercato de l'emploi"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 44000.0 Euros à 55000.0 Euros"
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 3,
-        "qualificationCode": "8",
-        "qualificationLibelle": "Agent de maîtrise",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8263161",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/4i8wrepail8/business-developer-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Business Developer",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "8259731",
-        "intitule": "Responsable Engagement Client F/H h/f",
-        "description": "Responsable Engagement Client F/H\n\nDescription de poste\n\nData, cloud, automatisation, modernisation des SI... Nos équipes accompagnent les énergéticiens dans la définition de nouveaux modèles d'affaires et la création de nouvelles offres pour répondre aux enjeux de la transition énergétique.\n\nNous recherchons actuellement un Consultant(e) expérimenté(e) pour renforcer notre présence auprès de nos clients du secteur de l'énergie. À l'interface entre nos clients, nos experts techniques, vous jouerez un rôle clé dans la création de valeur et le succès des transformations digitales en menant des opérations de conseil en intégration.\n\nCe rôle vous permettra d'approfondir votre expertise de pilotage d'un périmètre client, et vous offrira des perspectives d'évolution concrètes vers des postes à haute responsabilité chez CGI.\n\nFonctions et responsabilités\n\nLe rôle s'articulera autour des activités suivantes :\n\nGestion de périmètre commercial\n\n- Consolidation de l'offre commerciale sur votre périmètre\n\n- Développement de la relation client\n\n- Veille technologique et innovation : proposition de valeur sur de nouveaux axes de développement (tels que l'IA, la Data, le MLOps)\n\nPilotage de projet\n\n- Avant-vente, réponse aux appels d'offre\n\n- Gestion financière (budget, P&L, rentabilité, marges)\n\n- Gestion du delivery et garant du respect des coûts/délais sur votre périmètre client\n\nGestion d'équipe\n\n- Animation d'une équipe de consultants\n\n- Gestion de carrière\n\n- Gestion du recrutement\n\nEn nous rejoignant, vous bénéficiez notamment des avantages suivants :\n\n- Offre complète de formations : techniques, métiers, développement personnel\n\n- Qualité de vie au travail : jusqu'à 3 jours de télétravail par semaine, 27 jours de congés payés, RTT, congés ancienneté et enfant malade, programme santé & bien-être\n\n- Avantages sociaux : régime d'achats d'actions, participation, PEE, Compte Epargne Temps\n\nEt bien d'autres encore !\n\nQualités requises pour réussir dans ce rôle\n\nVous justifiez d'une expérience d'au moins 5 ans dans le secteur de l'informatique et possédez les qualités suivantes :\n\n- Excellente compréhension des enjeux liés à la transformation digitale, au cloud, à la data et à la modernisation des systèmes d'information\n\n- Appétence avérée pour le leadership et capacité à fédérer des équipes pluridisciplinaires\n\n- Autonomie, sens des responsabilités, rigueur\n\n- Connaissance du secteur de l'énergie et des enjeux de transformation digitale de ces clients\n\nChez CGI, nous cultivons un environnement de travail respectueux, où chacun peut trouver sa place et développer son potentiel.\n\nNous sommes engagés en faveur d'un recrutement inclusif, fondé sur l'égalité des chances et la non-discrimination. Cet engagement est reconnu par le Label Recrutement Inclusif, décerné par JobinLive.\n\nEnsemble, en tant que propriétaires, mettons notre savoir-faire à l'œuvre.\n\nLa vie chez CGI est ancrée dans l'actionnariat, le travail d'équipe, le respect et un sentiment d'appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que.\n\nNous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C'est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l'orientation et à la stratégie de notre entreprise.\n\nVotre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d'une expertise sectorielle et technologique de pointe.\n\nVous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.\n\nCe même engagement envers l'équité s'étend à notre utilisation des technologies. Afin de soutenir notre équipe de recrutement, des outils d'IA peuvent être utilisés pour aider à l'évaluation des candidatures, sans jamais remplacer le jugement humain. Toutes les décisions d'embauche demeurent entièrement entre les mains de nos professionnels du recrutement.\n\nJoignez-vous à nous, l'une des plus importantes entreprises de conseil en technologie de l'information (TI) et en management au monde.",
-        "dateCreation": "2026-10-25T22:16:21.750Z",
-        "dateActualisation": "2026-10-25T22:16:21.750Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris"
-        },
-        "romeCode": "M1704",
-        "romeLibelle": "Responsable service clients",
-        "appellationlibelle": "Responsable relation client (CRM)",
-        "entreprise": {},
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8259731",
-          "partenaires": [
-            {
-              "nom": "JOBINLIVE",
-              "url": "http://www.missionhandicap.com/emploi/J0926-0679#utm_source=PoleEmploi",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/jobinlive80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "8266383",
-        "intitule": "Conseiller Commercial Assurance (H/F)",
-        "description": "Entreprise\n\nRelais ASSUR est un cabinet de conseil en recrutement dédié au secteur de l'Assurance.\n\nNous recherchons un Conseiller Assurances à dominante commerciale H/F en CDI pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance\n\nC'est où - secteur Langon/Marmande (33/47)\n\nC'est quoi - un poste de conseiller(ère) clients en assurance sédentaire, à la fibre commerciale, pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 26 000 € à 29 000 € bruts par an selon votre qualification et votre expérience + Variable motivant\n\nQuel(s) avantage(s) - Mutuelle et Prévoyance + Intéressement\n\nQuel environnement - entreprise dynamique - management bienveillant - plusieurs points de vente - perspectives professionnelles - contacts avec les clients - stationnement facile\n\nTemps plein - 36 H par semaine du Lundi après-midi au Samedi matin (roulement 1 samedi matin et 1 lundi après-midi sur 2) - 6 Jours de RTT par an\n\nPoste\n\nEn Agence, vous rejoignez une structure d'une dizaine de personnes pour travailler en équipe. Interlocuteur(trice) des assurés, autonome, vous êtes chargé(e) d'une clientèle de Particuliers que vous fidélisez et développez. Vos missions sont variées et intellectuellement intéressantes :\n- Vous accueillez les clients et prospects (en face à face, par téléphone ou en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, Santé, Prévoyance ainsi qu'en Epargne.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés.\n- Vous menez des actions commerciales par téléphone (clientèle existante ou leads Internet).\n- Vous réalisez toutes les opérations liées à la gestion courante du portefeuille de l'Agence (tarification, souscription des affaires nouvelles, remplacements, suivi des pièces, suivi de production, encaissement).\n\nProfil\n\nIdéalement vous êtes issu(e) d'une formation BTS ou Licence dans les Assurances. Vous avez une expérience réussie de 2 ans minimum dans l'Assurance ou la Bancassurance. Appétence ou expérience sur les Pros sont bienvenues.\n- Vous maitrisez les produits grand public (Auto, Habitation, Protection Juridique, GAV, Santé), l'expression écrite et orale. Vous êtes à l'aise au téléphone et avec l'outil informatique.\n- Vous êtes reconnu(e) pour vos aptitudes commerciales, vos facilités à établir une relation de confiance avec les clients et votre esprit d'équipe.\n- Sens du service, organisation, réactivité, rigueur sont des qualités essentielles pour ce poste. Vous saurez faire preuve de dynamisme et de polyvalence.",
-        "dateCreation": "2026-10-26T11:02:56.879Z",
-        "dateActualisation": "2026-10-26T11:02:56.879Z",
-        "lieuTravail": {
-          "libelle": "33 - Réole",
-          "codePostal": "33190",
-          "commune": "33352"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(e) commercial(e) relation client en assurances",
-        "entreprise": {
-          "nom": "Relais Assur"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 26000.0 Euros à 29000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8266383",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32513/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "8266381",
-        "intitule": "Conseiller Commercial en Assurance (H/F)",
-        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Commercial Assurances (H/F), en CDI, pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance bien implantée sur la METROPOLE LILLOISE\n\nC'est où - secteur de RONCHIN (59)\n\nC'est quoi - un poste sédentaire de conseiller(ère) clients en assurance et banque, à la fibre commerciale, pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 30 000 € à 34 000 € bruts par an selon votre qualification et votre expérience + Variable individuel motivant\n\nQuels avantages - Mutuelle et Prévoyance + Tickets restaurant + Avantages salariés type CSE\n\nQuel environnement - structure locale tournée vers le conseil client - importance attachée à une ambiance de travail agréable et à l'humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\nTemps plein - 39 H par semaine du Lundi au Samedi midi (avec 1/2 journée de récupération dans la semaine)\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez les clients :\n- Vous accueillez les clients et prospects de l'Agence (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, SANTE, PREVOYANCE, BANQUE et PLACEMENT.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des avenants, suivi des pièces contractuelles.).\n\nProfil\n\nIdéalement issu(e) d'une formation BTS ou Licence dans les Assurances, vous avez 5 à 10 ans d'expérience minimum en Agence Générale ou Cabinet de Courtage d'Assurances.\n- Vous êtes reconnu(e) pour vos aptitudes administratives et commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n- Organise(é), vous saurez faire preuve de dynamisme et de polyvalence.\n- Vous souhaitez progresser en relevant des défis et en apprenant.",
-        "dateCreation": "2026-10-26T11:02:56.877Z",
-        "dateActualisation": "2026-10-26T11:02:56.877Z",
-        "lieuTravail": {
-          "libelle": "59 - Lille",
-          "codePostal": "59000",
-          "commune": "59350"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller(e) commercial(e) relation client en assurances",
-        "entreprise": {
-          "nom": "Relais Assur"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 30000.0 Euros à 34000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8266381",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/32397/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "8266373",
-        "intitule": "Conseiller en Assurance H/F",
-        "description": "Entreprise\n\nRelais-ASSUR est le cabinet de recrutement dédié aux professionnels de l'Assurance.\n\nNous recherchons un Conseiller Assurances H/F en CDI pour le compte de notre client.\n\nC'est qui - une Agence d'Assurance\n\nC'est où - secteur de Dunkerque (59)\n\nC'est quoi - un poste sédentaire de collaborateur(trice) en assurance à la fibre commerciale pour une clientèle de particuliers\n\nC'est combien - rémunération Fixe 27 000 € à 28 800 € bruts par an selon votre qualification et votre expérience + Variable individuel\n\nQuels avantages - Mutuelle et Prévoyance\n\nQuel environnement - structure locale tournée vers le conseil client - ambitions de développement - importance attachée à une ambiance de travail agréable et à l'humain - échanges enrichissants avec la clientèle - accompagnement au développement professionnel - valeurs partagées : respect, entraide, goût du travail bien fait, échanges constructifs, franchise, écoute et bonne humeur\n\n35 H par semaine du Mardi au Samedi midi\n\nPoste\n\nEn Agence, interlocuteur(trice) privilégié(e) des assurés, vous fidélisez et développez le portefeuille Clients :\n- Vous accueillez les clients et prospects (en face à face, par téléphone, en réponse à courriel).\n- Vous conseillez et apportez des solutions en matière d'assurances IARD, en Santé, Prévoyance et Retraite.\n- Vous multi-équipez les clients par des ventes au rebond correspondant aux besoins immédiats ou à venir des assurés et par des actions commerciales par téléphone.\n- Vous réalisez les opérations liées à la gestion courante du portefeuille (tarification, souscription des affaires nouvelles, enregistrement des remplacements, suivi des pièces.).\n- Vous participez à la gestion des sinistres : déclaration et orientation vers les services externes, déclenchement des expertises, instruction.\n\nProfil\n\nIdéalement issu(e) d'une formation BTS ou Licence Assurance avec une expérience de 3 à 5 ans en agence ou cabinet de courtage d'assurances, vous êtes reconnu(e) pour vos aptitudes commerciales, vos facilités à établir une relation de confiance avec les clients, vos qualités humaines, votre esprit d'équipe, votre rigueur.\n\nOrganise(é), vous saurez faire preuve de dynamisme et de polyvalence. Vous souhaitez progresser en relevant des défis et en apprenant.",
-        "dateCreation": "2026-10-26T11:02:56.455Z",
-        "dateActualisation": "2026-10-26T11:02:56.455Z",
-        "lieuTravail": {
-          "libelle": "59 - Dunkerque",
-          "codePostal": "59140",
-          "commune": "59183"
-        },
-        "romeCode": "C1102",
-        "romeLibelle": "Conseiller commercial / Conseillère commerciale et relation client en assurances",
-        "appellationlibelle": "Conseiller / Conseillère en assurances",
-        "entreprise": {
-          "nom": "Relais Assur"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 27000.0 Euros à 28800.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "7",
-        "qualificationLibelle": "Technicien",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8266373",
-          "partenaires": [
-            {
-              "nom": "SWEEFT",
-              "url": "https://www.sweeeft.app/offers/relais-assur/30875/apply?platformId=france-travail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/skilder80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lille",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "215QSYS",
-        "intitule": "Enquêteur client / Enquêtrice au téléphone (H/F)",
-        "description": "Qualimarket recrute un(e) télé-enquêteur(trice) !\nRejoignez notre plateforme téléphonique à taille humaine au sein d'une société d'études spécialisée dans les\nenquêtes notamment médicales.\n\n- Missions : administration de questionnaires auprès de professionnels et/ou particuliers.\n- Environnement bienveillant, encadrement de proximité, équipe dynamique.\n- Contrat de 35h semaine (10h00 -12h30 et 14h00-18h30)\n- Durée: du 02 au 20 novembre 2026\n\nPoste basé à Talence (33) - Proche Tram B arrêt Peixotto\nCandidature à envoyer à candidature@qualimarket.fr",
-        "dateCreation": "2026-10-26T10:33:41.525Z",
-        "dateActualisation": "2026-10-26T10:49:32.577Z",
-        "lieuTravail": {
-          "libelle": "33 - TALENCE",
-          "latitude": 44.808464,
-          "longitude": -0.588693,
-          "codePostal": "33400",
-          "commune": "33522"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléopérateur / Téléopératrice",
-        "entreprise": {
-          "nom": "QUALIMARKET",
-          "description": "Société d'études marketing, spécialisée dans la réalisation d'enquêtes client mystère depuis plus de 20 ans.",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 14 Jour(s)",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "1 Mois",
-        "competences": [
-          {
-            "code": "400557",
-            "libelle": "Gérer les appels téléphoniques entrants et sortants",
-            "exigence": "S"
-          },
-          {
-            "code": "503645",
-            "libelle": "Respecter les procédures et les normes de qualité",
-            "exigence": "S"
-          },
-          {
-            "libelle": "Aisance rédactionnelle",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Horaire de 12.31 Euros à 12.32 Euros"
-        },
-        "dureeTravailLibelle": "Temps partiel - 7H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps partiel",
-        "alternance": false,
-        "contact": {
-          "nom": "QUALIMARKET - Mme BAHIJA CHAIB",
-          "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215QSYS",
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215QSYS"
-        },
-        "agence": {},
-        "nombrePostes": 1,
-        "qualificationCode": "5",
-        "qualificationLibelle": "Employé non qualifié",
-        "codeNAF": "73.20Z",
-        "secteurActivite": "73",
-        "secteurActiviteLibelle": "Études de marché et sondages",
-        "trancheEffectifEtab": "10 à 19 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215QSYS"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "Temps partiel - 7H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "8266313",
-        "intitule": "Chef / Cheffe de projet client (H/F)",
-        "description": "Sous la responsabilité d'un Responsable Parcours et Expérience Client, et en étroite collaboration avec les équipes opérationnelles, tu auras pour missions principales : - Analyser qualitativement les échanges avec nos clients (écrits et oraux) afin d'identifier les points de friction, les attentes et les opportunités d'amélioration ; - Exploiter et analyser les données issues de nos outils de monitoring des interactions clients (conseillers, assistants IA) ; - Rédiger des analyses claires, structurées et opérationnelles, accompagnées de recommandations concrètes et réalistes en lien avec les écarts observés ; - Proposer et suivre des actions d'amélioration de l'expérience client, en lien avec les équipes internes et nos éditeurs partenaires ; - Contribuer à une meilleure compréhension des motifs de contact clients et à l'optimisation continue des parcours et des réponses apportées.",
-        "dateCreation": "2026-10-26T09:15:41.334Z",
-        "dateActualisation": "2026-10-26T09:15:41.334Z",
-        "lieuTravail": {
-          "libelle": "33 - Gironde"
-        },
-        "romeCode": "M1828",
-        "romeLibelle": "Chef de projet / Cheffe de projet (Project Management Officer)",
-        "appellationlibelle": "Chef / Cheffe de projet client",
-        "entreprise": {
-          "nom": "CDISCOUNT"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "1 Mois",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8266313",
-          "partenaires": [
-            {
-              "nom": "INZEJOB",
-              "url": "http://emploi.inzejob.com/offre-emploi/19543446?utm_source=poleEmploi&utm_medium=referral&utm_campaign=affiliate",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/inzejob80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
       }
     ]
   }
