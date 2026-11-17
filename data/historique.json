@@ -1,5 +1,615 @@
 [
   {
+    "date": "2026-11-17",
+    "count": 12,
+    "offres": [
+      {
+        "id": "8886394",
+        "intitule": "Customer Success Specialist (H/F)",
+        "description": "Finalité du poste\n\nLe.la Customer Success Specialist assure l'accompagnement opérationnel des clients dans l'utilisation des solutions de l'entreprise afin de garantir la qualité de service, la satisfaction client et le bon traitement des demandes utilisateurs.\n\nIl.Elle contribue à la fluidité des opérations clients dans le respect des procédures et des priorités définies par l'entreprise.\n\nSalaire 27 000 à 30 000 euros brut/an\n\nMissions principales\n\nSupport et relation client (Customer Success)\n\n* Répondre aux sollicitations clients (email, téléphone, outils digitaux)\n* Identifier les problématiques rencontrées par les utilisateurs\n* Assurer le suivi des demandes clients jusqu'à leur résolution complète\n* Traiter les demandes en fonction de leur criticité\n* Escalader les situations complexes aux interlocuteurs concernés afin de garantir un haut niveau de satisfaction client\n* Documenter les échanges et mettre à jour les informations dans les outils internes (CRM, outils de ticketing, base de connaissances)\n\nOnboarding et accompagnement utilisateurs\n\n* Participer aux sessions de démonstrations du logiciel ASKARA auprès des clients et partenaires\n* Accompagner les utilisateurs lors de leur prise en main (présentiel ou distanciel)\n* Réaliser des formations utilisateurs selon les supports définis\n* Adapter sa communication aux différents profils utilisateurs\n* Participer ponctuellement aux congrès afin de présenter la solution\n\nGestion administrative et logistique\n\n* Participer au suivi des équipements et expéditions (microphones et équipements associés)\n* Assurer le suivi administratif des opérations logistiques\n* Signaler les anomalies ou incidents identifiés\n* Mettre à jour les outils internes (HubSpot, .) de suivi logistique\n\nContribution documentaire\n\n* Participer à la mise à jour de la base de connaissances wiki interne d'Askara\n* Formaliser les retours utilisateurs utiles à l'amélioration des supports\n* Faire remonter les cas concrets afin de contribuer à l'amélioration continue des processus internes et à l'alimentation de la base de connaissances à partir des cas clients traités\n\n(Liste non exhaustive destinée à établir la teneur du poste qui peut être amené à évoluer et s'adapter en fonction de l'évolution des besoins)\n\nCompétences requises\n\nCompétences Techniques\n\n* Maîtrise des outils de gestion client (CRM, ticketing)\n* Compétences en organisation logistique\n* Connaissance des outils bureautiques et collaboratifs\n\nCompétences Comportementales\n\n* Sens du service client\n* Rigueur et organisation\n* Capacité d'adaptation et polyvalence\n* Esprit d'équipe\n\nNiveau d'autonomie et responsabilités\n\nLe.la Customer Success Specialist applique les procédures et priorités définies par la direction.\n\nSes missions contribuent à l'image de l'entreprise auprès de ses clients, elles ont un impact direct sur la satisfaction client.\n\nLe.La titulaire organise son activité quotidienne dans le cadre des consignes et objectifs fixés.\n\nLes situations complexes ou atypiques sont remontées aux équipes concernées afin de garantir une résolution rapide de la demande client et une expérience client fluide.\n\nÀ propos d'Askara\n\nAskara est une jeune entreprise qui veut changer le quotidien des dentistes. Notre conviction : un praticien devrait passer son temps avec ses patients, pas derrière son clavier. Notre assistant IA écoute la consultation et rédige pour lui comptes rendus, courriers et documents, directement dans le logiciel qu'il utilise déjà. Moins d'administratif, plus de soin.\n\nNous sommes une équipe à taille humaine, motivée, qui avance vite. Le produit évolue en permanence (une nouvelle version vient d'ailleurs de sortir), et les retours terrain remontés par le Care pèsent directement sur ce que nous construisons.\n\nVous rejoindrez le pôle Care, déjà composé de 3 personnes qui connaissent le produit et les praticiens par cœur. Vous ne serez donc pas seul-e. Vous aurez une équipe pour vous former, vous épauler et partager les bonnes pratiques, avec de vraies marges pour proposer des améliorations. Vous serez au contact direct des dentistes, au téléphone, en formation ou sur les congrès, et vous verrez concrètement l'impact de votre travail sur leur quotidien.",
+        "dateCreation": "2026-11-17T03:01:46.615Z",
+        "dateActualisation": "2026-11-17T03:01:46.615Z",
+        "lieuTravail": {
+          "libelle": "75 - Paris",
+          "commune": "75056"
+        },
+        "romeCode": "D1415",
+        "romeLibelle": "Chargé / Chargée de relation client",
+        "appellationlibelle": "Chargé / Chargée de relation client",
+        "entreprise": {
+          "nom": "Askara"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "35H/semaine",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8886394",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://join.com/companies/askaraai/16947772-customer-success-specialist?pid=d0c6f59b69df21dc4528",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Customer Success",
+        "_ville_recherchee": "Paris",
+        "_score": 2,
+        "_is_remote": false
+      },
+      {
+        "id": "8914472",
+        "intitule": "Customer service representative (csr) f/h (H/F)",
+        "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 110 000 collaborateurs pour un chiffre d'affaires de 31,3 milliards d'euros en 2025, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. \n\nSafran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2025 » du magazine TIME.\n\n\n\nSafran Cabin est n°1 mondial des intérieurs d'avions. Safran Cabin fournit des aménagements intérieurs innovants, intelligents et responsables, et des équipements avancés de gestion de l'eau et des déchets.\n\nIci, vous développez vos compétences et évoluez au sein d'une communauté d'experts qui vous enrichit chaque jour.\n\nIci, la collaboration connecte nos équipes à travers le monde.\n\nLe saviez-vous ? Nous avons déjà volé ensemble !\n\nEnvie de nous rejoindre ? En savoir plus sur Safran Cabin  (hyperlink pour la partie soulignee: https://www.safran-group.com/fr/societes/safran-cabin)\n\n\n\nParce que nous sommes persuadés que chaque talent compte, nous valorisons et encourageons les candidatures de personnes en situation de handicap pour nos opportunités d'emploi.\n\n\nDescriptif missionResponsable de la gestion opérationnelle d'un portefeuille clients, vous répondez aux demandes de prix, assurez le traitement des commandes, le suivi des engagements de livraison et la coordination des actions nécessaires avec les fonctions internes afin de garantir un niveau élevé de satisfaction client. Point focal du client, vous pilotez le carnet de commandes de vos clients ainsi que les situations critiques tout en contribuant à l'amélioration continue des processus et de la performance de service.\n\n\n\nMissions principales :\n\nGestion du portefeuille clients\n\no Assurer le traitement des demandes clients (commandes, devis, informations techniques et logistiques).\n\no Enregistrer, analyser et suivre les commandes dans l'ERP.\n\no Vérifier la conformité des commandes avec les conditions commerciales et contractuelles.\n\no Assurer le suivi des accusés de réception et des engagements de livraison.\n\nPilotage du carnet de commandes\n\no Suivre les dates de livraison et identifier les risques de retard.\n\no Coordonner les actions avec la Supply Chain, la Production, les Achats et la Logistique.\n\no Communiquer de manière proactive auprès des clients sur les évolutions de délais ou les aléas opérationnels.\n\no Mettre en oeuvre les plans de récupération lorsque les engagements sont menacés.\n\nGestion des situations critiques\n\no Piloter les escalades clients et les situations sensibles.\n\no Coordonner les actions des différents acteurs internes afin de sécuriser les livraisons.\n\nRelation client\n\no Développer une relation de confiance avec les compagnies aériennes, MRO et distributeurs.\n\no Animer des points réguliers avec les clients et nos CSM.\n\no Contribuer à l'amélioration de la satisfaction client.\n\nAnalyse et reporting\n\no Suivre et contribuer aux indicateurs de performance du secteur \n\no Produire les reportings et présentations demandés par le management.\n\no Identifier les tendances et proposer des actions d'amélioration.\n\nAmélioration continue\n\no Participer aux projets d'amélioration des processus Order-to-delivery.\n\no Contribuer à la fiabilisation des données clients et articles.\n\no Participer activement au déploiement des nouveaux outils, EDI etc...\n\nDans le cadre des activités de support client, le CSR participe au dispositif d'astreinte Customer Service.",
+        "dateCreation": "2026-11-17T08:15:54.094Z",
+        "dateActualisation": "2026-11-17T08:15:54.094Z",
+        "lieuTravail": {
+          "libelle": "31 - Colomiers",
+          "codePostal": "31770",
+          "commune": "31149"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Customer Relationship Manager (CRM)",
+        "entreprise": {},
+        "typeContrat": "CDD",
+        "typeContratLibelle": "CDD - 12 Mois",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8914472",
+          "partenaires": [
+            {
+              "nom": "AEROCONTACT",
+              "url": "https://www.aerocontact.com/emploi-aeronautique/customer-service-representative-csr-fh~1210079.html?fromref=poleemploi",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Toulouse",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "8894909",
+        "intitule": "Responsable Support N2 de Proximité (H/F)",
+        "description": "RESPONSABILITÉS : \n\nEn tant que Responsable support N2 sur la zone ouest du territoire (de Tours à Brest), rattaché(e) à la direction informatique, vous êtes responsable de la qualité et de la performance du support informatique de proximité. Véritable relais entre les équipes IT et les utilisateurs, vous garantissez un haut niveau de service tout en pilotant une équipe de référents informatiques.\nÀ ce titre, vos principales missions sont :\n - Garantir le respect des engagements de service en matière de délais, de qualité et de satisfaction utilisateurs\n - Encadrer, animer et fédérer une équipe de référents informatiques\n - Organiser l'activité de l'équipe : répartition des projets, priorisation des actions, suivi des échéances\n - Assurer le suivi des projets informatiques confiés à votre périmètre, en lien avec les équipes techniques et fonctionnelles\n - Mettre en place et suivre les indicateurs de performance (KPI) et assurer un reporting régulier auprès de votre hiérarchie\n - Contribuer activement à l'amélioration continue du support et à l'accompagnement du changement\n - Garantir le bon fonctionnement des équipements et logiciels mis à disposition des utilisateurs\n - Veiller au respect des engagements coûts/délais dans le cadre des projets IT\nVous intervenez à la fois sur des sujets opérationnels, managériaux et organisationnels, avec une forte proximité terrain.\nDes déplacements sont à prévoir sur la zone ouest, qui s'étend de Tours à Brest.\n\nPROFIL RECHERCHÉ : \n\nIssu(e) d'une formation Bac +2 minimum à dominante informatique ou technique, vous justifiez d'une expérience d'au moins 5 ans d'expérience similaire, à forte dominante managériale.\nCompétences métier (savoir et savoir-faire) :\n - Indispensable : connaissance fonctionnelle ERP et environnement AS400\n - Bonne compréhension des besoins et contraintes des utilisateurs\n - Maîtrise des bonnes pratiques et méthodes de gestion du support informatique\n - Maîtrise des organisations chaîne de support (ITIL)\n - Maîtrise des outils et méthodes de management\nSavoir être :\n - Leadership, capacité à fédérer\n - Adaptabilité, flexibilité, gestion des aléas\n - Rigueur, sens du détail et de l'organisation\n - Gestion des situations complexes\n - Excellentes qualités de communication, sens de l'écoute et diplomatie\n - Capacité à prendre des décisions\n - Déplacements régionaux à prévoir entre Tours et Brest",
+        "dateCreation": "2026-11-17T03:35:26.516Z",
+        "dateActualisation": "2026-11-17T03:35:26.516Z",
+        "lieuTravail": {
+          "libelle": "44 - Nantes",
+          "codePostal": "44000",
+          "commune": "44109"
+        },
+        "romeCode": "H1108",
+        "romeLibelle": "Technicien / Technicienne support client en industrie",
+        "appellationlibelle": "Technicien / Technicienne support technique",
+        "entreprise": {
+          "nom": "Signe+"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 50000.0 Euros à 58000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "62.02A",
+        "secteurActivite": "62",
+        "secteurActiviteLibelle": "Conseil en systèmes et logiciels informatiques",
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8894909",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/976j3rmici8/responsable-support-n2-de-proximite",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Nantes",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "8894807",
+        "intitule": "Responsable des Ventes Zone Export - Aéronautique/Spatial/Défense (H/F)",
+        "description": "RESPONSABILITÉS : \n\nDÉCOUVREZ VOS RESPONSABILITÉS\nDans un contexte de forte croissance, nous créons ce poste pour renforcer notre développement sur des zones géographiques stratégiques Europe et Moyen Orient. Vous rejoindrez une équipe commerciale expérimentée sur nos marchés clés : aéronautique, défense, spatial et instrumentation industrielle.\nL'Export Sales Manager a la responsabilité de développer et maintenir les ventes pour chaque pays de son portefeuille. Par marché et pays, vous déploierez et conduirez de la manière la plus efficace la stratégie ainsi que les canaux de vente.\nActivités principales :\nStratégie et développement commercial\n - Comprendre l'environnement de chaque pays : tendances, acteurs majeurs du marché et leurs projets prépondérants, concurrents, exigences produit.\n - Identifier les marchés ou niches avec les potentiels de croissance les plus importants pour chaque pays\n - Élaborer un plan d'action commercial annuel, atteindre le budget des ventes et garantir le plus haut niveau de satisfaction client\nAnimation du réseau de partenaires\n - Animer, piloter et évaluer les partenaires (distributeurs spécialisés ou agents commerciaux)\n - Identifier, sélectionner et intégrer de nouveaux partenaires si nécessaire\n - Mener la négociation des contrats et établir les accords commerciaux\nBusiness development et relation client\n - Développer la relation client avec les grands comptes de la zone et travailler avec les ventes internes en fournissant pricing, recommandations et objectifs de vente\n - Préparer l'avenir en développant le portefeuille : mettre en œuvre de nouveaux projets directement ou avec le soutien des partenaires\n - Promouvoir l'ensemble de nos familles de produits grâce à votre compréhension technique des besoins clients\n\nPROFIL RECHERCHÉ : \n\nMISONS SUR VOS ATOUTS\nFormation\nUne double formation technique et commerciale est privilégié. Une appétence technique forte est indispensable pour comprendre et promouvoir nos solutions de connectique.\nExpérience\nMinimum 6 à 7 ans d'expérience commerciale réussie, l'industrie de la connectique, composants électroniques ou mécanique de précision (vente complexe). Une expérience sur les marchés aéronautique, défense ou spatial serait un atout majeur.\n\n\nCompétences clés\n - Maîtrise des techniques de vente et négociation complexe\n - Expérience confirmée dans la gestion d'un réseau de distributeurs/agents\n - Capacité à élaborer et déployer une stratégie commerciale par pays\n -  Anglais niveau C1 minimum (utilisation quotidienne : réunions, négociations, présentations)\n\n\nVotre environnement de travail\nBureau à Aubervilliers proche de Paris 19, vous bénéficiez d'une éligibilité au télétravail. Le poste nécessite environ 1 ou 2 déplacements par mois de 3-4 jours sur votre zone géographique.\n\n\n\nCe poste est ouvert aux personnes en situation de handicap, qu'il soit visible ou invisible. Radiall s'engage pour l'égalité des chances avec une politique active en faveur de leur recrutement et de leur intégration. Rejoignez Radiall et contribuons ensemble à construire l'industrie du futur.",
+        "dateCreation": "2026-11-17T03:35:22.703Z",
+        "dateActualisation": "2026-11-17T03:35:22.703Z",
+        "lieuTravail": {
+          "libelle": "93 - Aubervilliers",
+          "codePostal": "93300",
+          "commune": "93001"
+        },
+        "romeCode": "M1704",
+        "romeLibelle": "Responsable service clients",
+        "appellationlibelle": "Responsable de la gestion clientèle",
+        "entreprise": {
+          "nom": "RADIALL S.A."
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "27.33Z",
+        "secteurActivite": "27",
+        "secteurActiviteLibelle": "Fabrication de matériel d'installation électrique",
+        "trancheEffectifEtab": "50 à 99 salariés",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8894807",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/kjmbv6h62b8/responsable-des-ventes-zone-export-aeronautique-spatial-defense-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "8894797",
+        "intitule": "Ingénieur commercial Cybersécurité H/F",
+        "description": "RESPONSABILITÉS : \n\nMission principale :\nDévelopper l'activité cybersécurité sur la région Normandie\nResponsabilités principales\n - Développement commercial - Marché public / privé\n - Identifier et développer les opportunités, piloter les réponses aux appels d'offres et positionner les offres Heliaq sur les enjeux cyber.\n - Animation et cross-selling\n - Pilotage du business\n - Suivre les opportunités via le CRM, structurer le pipe et piloter les projets en lien avec les équipes techniques\n - Réponse aux appels d'offres et consultations privées\n\nPROFIL RECHERCHÉ : \n\nProfil recherché :\nVous justifiez d'une première expérience commercial cyber au sein d'un distributeur/intégrateur.\nVous avez une capacité à développer un réseau et travailler en transverse.\n\nPackage et informations complémentaires :  \n - Salaire selon profil et expérience, package de 55k à 75k\n - Accord de télétravail\n - Tickets restaurant : valeur 8€ avec prise en charge en 60% par l'employeur\n - Mutuelle prise en charge à 80% de l'employeur sur la formule individuelle + enfants\n - Prime de participation\n - Accès au Plan épargne groupe\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-11-17T03:35:22.413Z",
+        "dateActualisation": "2026-11-17T03:35:22.413Z",
+        "lieuTravail": {
+          "libelle": "76 - Rouen",
+          "codePostal": "76000",
+          "commune": "76540"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 55000.0 Euros à 75000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "46.51Z",
+        "secteurActivite": "46",
+        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels",
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8894797",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/65wkc1ok4y8/ingenieur-commercial-cybersecurite-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 1,
+        "_is_remote": true
+      },
+      {
+        "id": "8883921",
+        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
+        "description": "LES MISSIONS :\n        \nDans un contexte de structuration de l'équipe commerciale, vous intervenez en binôme étroit avec le Head of Sales pour ouvrir le marché français et européen auprès d'un vivier de 70 à 100 grandes enseignes cibles identifiées:\n\nChasse et Ouverture de comptes : Prospecter et ouvrir des comptes from scratch auprès des acteurs majeurs du retail (prêt-à-porter, bricolage, électroménager).\n\nCartographie et Prise de rendez-vous COMEX : Identifier les circuits de décision internes et décrocher des rendez-vous auprès d'interlocuteurs de haut niveau (Directeurs Généraux, Directeurs de l'Innovation, Directeurs Seconde Main).\n\nQualification et Avant-vente : Qualifier les enjeux stratégiques des prospects, alimenter le pipeline commercial et préparer les propositions de projets pilotes.\n\nAccompagnement de cycles complexes : Participer au pilotage de cycles de vente longs (6 à 18 mois)visant la transformation profonde du modèle d'affaires des clients.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nExpérience : Vous justifiez de 3 à 5 ans d'expérience réussie dans la vente de solutions IT ou SaaS B2B complexes, idéalement sur des cycles longs (6 à 18 mois). Une connaissance du secteur du retail, du paiement ou de l'édition logicielle est un plus.\n\nTempérament : Véritable chasseur, vous savez partir d'une feuille blanche (from scratch) avec ténacité, dynamisme et une forte résilience face aux refus.\n\nPosture : Vous êtes à l'aise pour adresser des grands comptes, naviguer dans des organisations complexes et collaborer efficacement en binôme.\n\nLangues : Anglais professionnel indispensable pour échanger avec des clients européens.\n        \n        \nLES AVANTAGES :\n        \nRejoignez un projet à fort impact environnemental : participer concrètement à la transformation stratégique du retail vers l'économie circulaire avec des résultats mesurables. Vous évoluerez dans l'énergie d'une création d'activité tout en bénéficiant de la solidité d'un groupe établi, sur un marché en croissance avec peu de concurrence directe.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
+        "dateCreation": "2026-11-17T00:00:51.114Z",
+        "dateActualisation": "2026-11-17T00:00:51.114Z",
+        "lieuTravail": {
+          "libelle": "33 - Bordeaux",
+          "codePostal": "33000",
+          "commune": "33063"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "UPTOO\n        "
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 80000.0 Euros à 80000.0 Euros"
+        },
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8883921",
+          "partenaires": [
+            {
+              "nom": "UPTOO",
+              "url": "https://uptoo.fr/emploi/postuler/50790/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Bordeaux",
+        "_score": 1,
+        "_is_remote": false
+      },
+      {
+        "id": "8897414",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive + mutuelle\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 2200-2600\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : CAP / BEP\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-11-17T07:12:05.652Z",
+        "dateActualisation": "2026-11-17T07:12:05.652Z",
+        "lieuTravail": {
+          "libelle": "59 - Marquette-lez-Lille",
+          "codePostal": "59520",
+          "commune": "59386"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8897414",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2778384.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8897407",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + variable + indemnités repas + participation/intéressement + mutuelle, (NOMBRE) semaines de congés payés et (NOMBRE)% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\nSalaire : 1800-2000\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Niveau Bac\nTemps de travail : Temps plein\nStatut : Agent de maîtrise",
+        "dateCreation": "2026-11-17T07:12:05.637Z",
+        "dateActualisation": "2026-11-17T07:12:05.637Z",
+        "lieuTravail": {
+          "libelle": "69 - Rhône"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8897407",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2780294.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8897284",
+        "intitule": "RESPONSABLE CAISSE (H/F)",
+        "description": "Vous contribuez à nos ambitions en matière de qualité d'accueil, de satisfaction et de fidélisation de nos clients.\nVous avez pour principales missions :\n- Le management et l'engagement de votre équipe autour de nos ambitions ;\n- Le pilotage, l'organisation et la planification de la ligne de caisse ainsi que de l'accueil du point de vente ;\n- La gestion de la qualité de la relation client ;\n- La gestion des flux financiers (commandes monnaie, gestion des fonds de caisse, du coffre, des remises en banque etc.) ;\n- L'optimisation du passage en caisse de nos clients et le bon suivi des réclamations ;\n- Le pilotage des objectifs de performance et de productivité de votre service, avec les actions correctives associées.\n\n\nChez Intermarché, et pour le Groupement Mousquetaires, l'audace et l'envie d'entreprendre sont un véritable état d'esprit. Vous avez envie de vous investir et d'évoluer au sein d'une équipe de passionnés et qui saura reconnaître votre talent ?\nGrâce à vos qualités relationnelles, et commerçant dans l'âme, vous savez créer avec vos clients des liens de confiance et de proximité pour toujours leur apporter conseils et valeur ajoutée. En effet, votre capacité à manager des équipes, votre aptitude à la communication et votre orientation client seront des atouts indéniables pour ce poste. \nUne première expérience de management d'équipe en contact avec le client, en tant que responsable ou adjoint, est requise pour le poste.\nVous bénéficiez d'une rémunération attractive composée d'un salaire fixe + mutuelle, 5 semaines de congés payés et 5% de remise sur vos achats.\nNos parcours de développement des compétences vous aideront à évoluer rapidement.\nVivez votre passion et engagez-vous à nos côtés au sein d'une équipe humaine et conviviale !\n\n\nSeules les compétences font la différence. Le Groupement Mousquetaires s'engage activement en faveur de la diversité, en créant un environnement de travail inclusif qui garantit l'égalité des opportunités pour chacun(e).\nContrat : CDI\nNiveau d'expérience minimum requis : Confirmé\nNiveau d'études minimum requis : Bac +2 / +3\nTemps de travail : Temps plein\nStatut : Non cadre",
+        "dateCreation": "2026-11-17T07:11:49.865Z",
+        "dateActualisation": "2026-11-17T07:11:49.865Z",
+        "lieuTravail": {
+          "libelle": "59 - Lille",
+          "codePostal": "59000",
+          "commune": "59350"
+        },
+        "romeCode": "D1505",
+        "romeLibelle": "Hôte / Hôtesse de caisse",
+        "appellationlibelle": "Hôte / Hôtesse de caisse services clients",
+        "entreprise": {
+          "nom": "Intermarché"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8897284",
+          "partenaires": [
+            {
+              "nom": "DISTRIJOB",
+              "url": "https://www.distrijob.fr/offre-emploi/ido/2774377.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/distrijob80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lille",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8895374",
+        "intitule": "Responsable Commercial B2B - Literie & Équipement Hôtelier H/F",
+        "description": "RESPONSABILITÉS : \n\nVotre univers : l'hôtel, et plus particulièrement la chambre\n\nRattaché(e) à la Direction Commerciale, vous prenez en charge le développement de l'activité Dorelan Hotel sur l'ensemble de la région Auvergne-Rhône-Alpes.\n\n\nVotre objectif : conquérir de nouveaux clients hôteliers, développer un portefeuille professionnel et commercialiser les solutions de couchage des marques Dorelan Hotel, Sealy Hospitality et Stearns & Foster Hospitality.\n\n\nVéritable développeur commercial B2B, vous intervenez auprès des hôtels indépendants, des groupes et chaînes hôtelières, des exploitants et des prescripteurs.\nVos principales missions :\nDévelopper votre territoire commercial\n - Prospecter activement et ouvrir de nouveaux comptes auprès des établissements hôteliers.\n - Identifier les projets de création, de rénovation ou de renouvellement de chambres.\n - Développer et fidéliser un portefeuille de clients professionnels.\n - Approcher les propriétaires, exploitants, directions d'hôtels, centrales d'achats et responsables de projets.\n - Construire un réseau de décideurs et de prescripteurs sur votre secteur.\nConseiller, négocier et concrétiser les affaires\n - Identifier les besoins des établissements en matière de literie, de confort et de solutions de couchage.\n - Présenter les différentes gammes du groupe et leurs spécificités.\n - Élaborer des propositions commerciales adaptées aux attentes et au positionnement des établissements.\n - Piloter les négociations commerciales jusqu'à la conclusion des affaires.\n - Accompagner les clients tout au long de leurs projets d'équipement.\nPiloter votre développement commercial\n - Organiser vos actions de prospection et vos déplacements.\n - Assurer le suivi de vos opportunités commerciales et de votre portefeuille clients.\n - Développer durablement votre réseau professionnel.\n - Assurer un reporting régulier auprès de la Direction Commerciale.\nVous bénéficiez d'une réelle autonomie dans l'organisation de votre activité, avec une forte présence terrain.\nSecteur géographique Localisation de référence : Lyon (69).\nVotre territoire couvre l'ensemble de la région Auvergne-Rhône-Alpes, avec une extension éventuelle vers le Grand Est.\nLe poste implique des déplacements réguliers. Votre domicile peut être situé ailleurs qu'à Lyon, dès lors qu'il permet une couverture efficace du secteur.\n\n\nRémunération Selon votre profil et votre expérience :\n -  Rémunération fixe pouvant atteindre 50 000 € brut annuel.\n - Rémunération variable complémentaire.\n - Avantages définis selon le profil et l'expérience.\n\nPROFIL RECHERCHÉ : \n\nCommercial B2B, vous connaissez l'hôtellerie et l'univers de la chambre\n\nNous recherchons un commercial de terrain expérimenté dans la vente de produits ou d'équipements destinés aux chambres d'hôtel.\n\n\nVotre connaissance du marché hôtelier, de ses décideurs et de ses circuits d'achat constitue un critère essentiel.\n\n\nVotre expérience\nVous avez développé votre activité commerciale B2B auprès des professionnels de l'hôtellerie, idéalement dans l'un des univers suivants :\n -  Literie professionnelle : matelas, sommiers, surmatelas et solutions de couchage.\n -  Linge de lit et textile hôtelier : draps, couettes, oreillers, protections et accessoires.\n -  Équipements et accessoires de chambres d'hôtel.\n -  Mobilier et aménagement de chambres hôtelières.\nUne expérience directe dans la literie professionnelle est particulièrement appréciée, mais n'est pas indispensable.\nLes profils issus du linge hôtelier, du textile, du mobilier ou de l'équipement de la chambre sont également recherchés, dès lors qu'ils connaissent les clients et décideurs du secteur hôtelier.\n\n\nVotre savoir-faire commercial\nVous maîtrisez la prospection B2B, l'ouverture de nouveaux comptes, la détection de projets d'équipement ou de rénovation, la négociation et la fidélisation d'un portefeuille clients.\nVous savez identifier et rencontrer les propriétaires, exploitants, directeurs d'hôtels, responsables des achats et prescripteurs.\nVous comprenez les cycles de décision et les spécificités de la vente en mode projet auprès des établissements et groupes hôteliers.\n\n\nVotre tempérament\nDéveloppeur commercial dans l'âme, vous aimez conquérir de nouveaux clients, construire des relations durables et transformer les opportunités en affaires concrètes.\nAutonome, organisé et persévérant, vous appréciez le terrain et disposez d'une réelle capacité à développer votre secteur.\nUn réseau hôtelier existant en Auvergne-Rhône-Alpes est un atout, mais n'est pas obligatoire. Votre expérience peut avoir été acquise sur un autre territoire, régional ou national.\n\n\nVous connaissez l'univers de la chambre d'hôtel et souhaitez développer des marques reconnues ? Échangeons !",
+        "dateCreation": "2026-11-17T03:35:51.878Z",
+        "dateActualisation": "2026-11-17T03:35:51.878Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon 1er Arrondissement",
+          "codePostal": "69001",
+          "commune": "69381"
+        },
+        "romeCode": "M1707",
+        "romeLibelle": "Responsable du développement commercial",
+        "appellationlibelle": "Responsable du développement commercial",
+        "entreprise": {
+          "nom": "Mercato de l'emploi"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 40000.0 Euros à 50000.0 Euros"
+        },
+        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "46.47Z",
+        "secteurActivite": "46",
+        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) de meubles, de tapis et d'appareils d'éclairage",
+        "trancheEffectifEtab": "1 ou 2 salariés",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8895374",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/vgez2ye4mp8/responsable-commercial-b2b-literie-equipement-hotelier-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "35H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Commercial B2B",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      },
+      {
+        "id": "8894900",
+        "intitule": "Ingénieur Commercial IT - Infrastructures (H/F)",
+        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Directeur d'agence, vous avez en charge le développement et de la fidélisation d'un portefeuille de comptes \n - Commercialisation de solutions et de services innovants axés sur les enjeux infrastructures IT, stockage, réseau, réalisation d'environnements DataCentre on-premise, et d'hébergement de solutions Cloud. \n - Identification et analyse des enjeux IT et Sécurité des SI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions. \n - Prospection et suivi de comptes pour le développement de vos activités avec l'appui de véhicules de marché.\n - Réponse à des appels d'offres : rédaction et présentation en collaboration avec les équipes internes.\n\nPROFIL RECHERCHÉ : \n\nVotre profil\n - Vous possédez une expérience de 3 ans minimum dans la vente BtoB de solutions IT d'infrastructures et/ou de services.  \n - Vous disposez d'une bonne connaissance du tissu économique normand.  \n - Vous aimez les métiers répondant aux enjeux d'innovations.  \n - Vous êtes rigoureux et vous aimez les challenges\nAutres informations\n - Salaire selon profil et expérience : package de 55000€ à 75000€ brut annuel\n - Tickets restaurant : 8€ avec 60% de prise en charge par l'employeur\n - Durée du travail : 36H30 avec 9,5 jours de RTT\n - Télétravail\n - Mutuelle, prévoyance\n - Prime de Participation\n - Avantages CSE\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
+        "dateCreation": "2026-11-17T03:35:26.168Z",
+        "dateActualisation": "2026-11-17T03:35:26.168Z",
+        "lieuTravail": {
+          "libelle": "76 - Rouen",
+          "codePostal": "76000",
+          "commune": "76540"
+        },
+        "romeCode": "D1420",
+        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
+        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
+        "entreprise": {
+          "nom": "Heliaq"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {
+          "libelle": "Annuel de 55000.0 Euros à 75000.0 Euros"
+        },
+        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "qualificationCode": "9",
+        "qualificationLibelle": "Cadre",
+        "codeNAF": "46.51Z",
+        "secteurActivite": "46",
+        "secteurActiviteLibelle": "Commerce de gros (commerce interentreprises) d'ordinateurs, d'équipements informatiques périphériques et de logiciels",
+        "trancheEffectifEtab": "20 à 49 salariés",
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8894900",
+          "partenaires": [
+            {
+              "nom": "BEETWEEN",
+              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/wmgvlpdb2k8/ingenieur-commercial-it-infrastructures-h-f",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
+            }
+          ]
+        },
+        "contexteTravail": {
+          "horaires": [
+            "37H/semaine\nTravail en journée"
+          ]
+        },
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Account Manager",
+        "_ville_recherchee": "Remote",
+        "_score": 0,
+        "_is_remote": true
+      },
+      {
+        "id": "8886370",
+        "intitule": "Chargé d'affaires Région Lyonnaise (H/F)",
+        "description": "ATTENTION : SECTEUR À COUVRIR - REGION LYONNAISE\n\nProfil recherché:\n\nIngénieur(e), géologue, géotechnicien(ne), géophysicien(ne), expert en gestion des sinistres avec goût pour la vente et le challenge de développement commercial.\n\nCommissions sur le chiffre d'affaires intéressantes .\n\n* Assurer la prise en charge téléphonique des clients, la prise de rendez-vous ainsi que les visites sur site ;\n* Mesurer la superficie des locaux (lots privatifs, parties communes, etc.) et effectuer les calculs de surfaces correspondants ;\n* Constituer le dossier de contrôle technique en précisant notamment l'état des supports et des structures, les métrés, le montant estimatif des travaux, etc. ;\n* Lors de chaque visite chez le client, réaliser un reportage photographique de qualité présentant l'ensemble des désordres apparents affectant la construction, à l'intérieur comme à l'extérieur, notamment en vue de l'établissement du procès-verbal de réception des travaux;\n* Vérifier la faisabilité de l'intervention de GEOSEC au regard des préconisations issues des investigations géotechniques préliminaires (G5) et du cahier des charges des brevets détenus par GEOSEC ;\n* Collecter auprès du client l'ensemble des pièces relatives aux dossiers de sinistres antérieurs à l'intervention de GEOSEC : rapports d'expertise amiable, CATNAT, expertises judiciaires, études géotechniques, devis d'entreprises concurrentes, factures relatives aux travaux de reprise des désordres, etc. ;\n* Élaborer les devis et formuler, le cas échéant, des propositions de modification des clauses contractuelles ;\n* Définir le cahier des charges, établir les offres et assurer leur suivi jusqu'à la réception des travaux réalisés par GEOSEC France ;\n* Commander, si nécessaire, les investigations géotechniques préliminaires (G5) auprès des sous-traitants, puis vérifier la faisabilité de l'intervention de GEOSEC au regard de leurs préconisations et du cahier des charges des brevets détenus par GEOSEC ;\n* Développer la commercialisation des produits auprès de cabinets d'expertise en assurance, de maîtres d'œuvre, de géotechniciens, d'entreprises générales du bâtiment, de syndicats de copropriété, etc. ;\n* Assurer la prospection et le développement commercial auprès des clients, sur le terrain ou par téléphone ;\n* Réaliser les ventes auprès de clients particuliers et professionnels ;\n* Collaborer avec le bureau technique dans la gestion des dossiers de service après-vente (visites chez le client, suivi des travaux dits de seconde phase, mise en relation avec les entreprises partenaires de GEOSEC).\n\nListe non exhaustive.",
+        "dateCreation": "2026-11-17T03:01:44.735Z",
+        "dateActualisation": "2026-11-17T03:01:44.735Z",
+        "lieuTravail": {
+          "libelle": "69 - Lyon",
+          "commune": "69123"
+        },
+        "romeCode": "D1416",
+        "romeLibelle": "Commercial / Commerciale auprès d'une clientèle d'entreprises",
+        "appellationlibelle": "Commercial(e) auprès d'une clientèle d'entreprises",
+        "entreprise": {
+          "nom": "GEOSEC FR"
+        },
+        "typeContrat": "CDI",
+        "typeContratLibelle": "CDI",
+        "natureContrat": "Contrat travail",
+        "experienceExige": "E",
+        "experienceLibelle": "Expérience exigée",
+        "salaire": {},
+        "alternance": false,
+        "contact": {},
+        "nombrePostes": 1,
+        "origineOffre": {
+          "origine": "2",
+          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8886370",
+          "partenaires": [
+            {
+              "nom": "SKELLO",
+              "url": "https://geosec.factorial.fr/apply/charge-d-affaires-region-lyonnaise-332011?utm_source=francetravail.fr",
+              "logo": "https://www.francetravail.fr/logos/img/partenaires/skello80.png"
+            }
+          ]
+        },
+        "contexteTravail": {},
+        "entrepriseAdaptee": false,
+        "employeurHandiEngage": false,
+        "_recherche": "Chargé de clientèle",
+        "_ville_recherchee": "Lyon",
+        "_score": 0,
+        "_is_remote": false
+      }
+    ]
+  },
+  {
     "date": "2026-11-16",
     "count": 4,
     "offres": [
@@ -8533,651 +9143,6 @@
         "_ville_recherchee": "Lyon",
         "_score": 0,
         "_is_remote": false
-      }
-    ]
-  },
-  {
-    "date": "2026-11-03",
-    "count": 10,
-    "offres": [
-      {
-        "id": "8487615",
-        "intitule": "Hospitality Manager - Bilingue anglais (H/F)",
-        "description": "RESPONSABILITÉS : \n\nVous êtes passionné(e) par l'accueil, l'expérience client, et l'organisation ? Vous aimez faire preuve de créativité pour rendre chaque moment unique ? Rejoignez notre équipe en tant qu'Hospitality Manager !\n\nMissions\nIntégré(e) au siège Monde de notre client et en relation avec la Cheffe d'agence Phone Régie, vous interviendrez sur les missions suivantes :\n - Mise en place et gestion des activités de conciergerie d'entreprise\n - Expérience client personnalisée : garantir un accueil chaleureux et sur-mesure pour la direction et les visiteurs VIP du client\n - Gestion d'un club de direction : service boisson, accompagnement, évènements et restauration\n - Coordination des autres prestataires sur site à l'occasion de réunions hebdomadaires\n - Propositions d'animations : Être force de proposition pour développer des initiatives innovantes et dynamiques qui enrichissent l'expérience à l'accueil.\n - Management de 2 Hospitality officers\n - Amélioration continue des procédures\nListe non exhaustive susceptible d'être étoffée selon vos propositions et les besoins du client\n\nPROFIL RECHERCHÉ : \n\nDe formation hôtelière, commerciale ou équivalent, vous disposez d'une expérience significative dans un poste similaire (hospitality, événementiel, relation client).\nVous maîtrisez les notions de conciergerie et d'hospitality auprès d'une clientèle luxe.\nVous êtes créatif(ve), organisé(e), et force de proposition.\nVous disposez d'un excellent sens du relationnel, de dynamisme et d'une bonne mémoire pour personnaliser votre prestation.\nVous savez travailler de manière autonome tout en collaborant avec une équipe dynamique.\nLa maîtrise de l'anglais est nécessaire, l'espagnol ou l'italien sont un plus.\n\n\nCe que nous proposons\nPoste à pourvoir en CDI, dès que possible.\nLe poste est situé à Paris (75009)\nHoraires en 35h (8h-16h), du lundi au vendredi inclus\nRémunération : à partir de 35 000 euros bruts annuels",
-        "dateCreation": "2026-11-03T03:31:42.747Z",
-        "dateActualisation": "2026-11-03T03:31:42.747Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris 9e Arrondissement",
-          "codePostal": "75009",
-          "commune": "75109"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée de clientèle bancaire",
-        "entreprise": {
-          "nom": "PHONE REGIE"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "8",
-        "qualificationLibelle": "Agent de maîtrise",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8487615",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/53ezcoo6cb8/hospitality-manager-bilingue-anglais-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Paris",
-        "_score": 3,
-        "_is_remote": false
-      },
-      {
-        "id": "215YPSQ",
-        "intitule": "Chargé / Chargée de clientèle en assurances (H/F)",
-        "description": "SideCare révolutionne l'accès à la santé\n\nDans un contexte économique compliqué où les frais de santé explosent, 1 salarié sur 2 renonce à se soigner car il ne peut pas avancer les frais.\nChez SideCare nous œuvrons pour la solidarité, la collectivité et un accès à la santé simple et pour tous !\nNotre mission est d'accompagner les entreprises à construire, déployer et piloter la meilleure politique santé pour ses salariés.\nNotre promesse : la meilleure couverture au meilleur prix, à vie.\nDepuis notre création en 2018, nous avons levé 15 millions d'euros pour accompagner notre croissance. Aujourd'hui, 4000 entreprises de tous les secteurs d'activité nous font confiance pour couvrir plus de 70.000 salariés.\nNous sommes déjà plus de 60 à faire la révolution santé et nous n'attendons plus que toi !\n\nPourquoi ce poste est important pour nous ?\n\nChez SideCare, l'équipe Opérations s'occupe de toute la vie du contrat : nous créons les contrats en partenariat avec les assureurs et nous accompagnons nos clients pour les déployer auprès de leurs employés. Au quotidien, nous sommes en contact avec les équipes commerciales pour les aider à proposer les meilleures offres à nos clients. En tant qu'entreprise Tech, nous avons aussi une grande proximité avec les équipes de développement à qui nous apportons les retours clients. Si tu nous rejoins, tu intégreras l'équipe Operations, ou simplement \"Ops\" en interne, dont l'objectif est d'améliorer la performance globale de l'entreprise et d'offrir la meilleure expérience à nos clients.\n\nAu sein de l'équipe customer success, tu auras un impact direct sur nos clients, et tu seras notamment amené(e) à :\n\nProposer un service client premium : apporter un support de la plus haute qualité aux clients via des e-mails et d'autres canaux de communication !\nContribuer à l'amélioration des indicateurs clés : identifier les problématiques clients impactant notre activité et proposer des solutions visant à améliorer l'expérience proposés à nos assurés\nOnboarder nos clients : préparer et réaliser les onboarding des comptes clients pour les aider à tirer le meilleur parti de nos produits et services\nContribuer à l'amélioration continue de notre produit : identifier, documenter et remonter les axes d'améliorations phares liés à notre produit\nEn plus de développer tes compétences professionnelles, nous te proposons de contribuer à un projet entrepreneurial innovant et porteur de sens ! \n\nPourquoi nous rejoindre ?\n\nPour faire bouger les choses : chez SideCare, nous évoluons dans un environnement en forte croissance et chaque personne est au coeur de l'amélioration continue (culture lean)\nPour découvrir le monde de l'assurance : marché en pleine évolution avec des enjeux de santé mais aussi réglementaires, financiers, politiques, etc\nPour innover pour nos clients : nos solutions sur-mesure changent déjà la vie de milliers de français et française, exemple avec notre carte d'avance de frais santé\nPour évoluer dans une startup en plein Paris : nous faisons beaucoup de sport ensemble (football, escalade, salle,etc.) et tous les premiers jeudis du mois, la boîte paie sa tournée !\nPour pouvoir t'organiser : du télétravail hebdomadaire & 1 semaine/semestre où tu veux (sur le même fuseau horaire  +/-2h)\nEt bien sûr : une excellente mutuelle, la SideCard pour ne plus jamais avancer tes frais de santé, des avantages transports (remboursement 50% Navigo et carte Vélib'), des titres restaurants Swile (50%) ...\n\nIssu(e) d'une formation Bac +2, tu es empathique et patient(e). Tu disposes d'une orthographe et d'une grammaire parfaites. Voici quelques qualités que nos équipes partagent entre elles ! \n\nSi tu coches au minimum 3-4 cases, alors nous sommes faits pour nous entendre !  \nNous cherchons une personne : Curieus(e),Rigoureux(se),Résilient(e), Force de proposition Organisée Polyvalent Sympa",
-        "dateCreation": "2026-11-03T09:39:25.567Z",
-        "dateActualisation": "2026-11-03T10:37:13.998Z",
-        "lieuTravail": {
-          "libelle": "75 - PARIS 02",
-          "codePostal": "75002",
-          "commune": "75102"
-        },
-        "romeCode": "C1116",
-        "romeLibelle": "Chargé / Chargée de clientèle centre d'appels en assurances",
-        "appellationlibelle": "Chargé / Chargée de clientèle en assurances",
-        "entreprise": {
-          "nom": "LOUNNA",
-          "url": "https://www.sidecare.com/",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "langues": [
-          {
-            "libelle": "Français",
-            "exigence": "E"
-          }
-        ],
-        "competences": [
-          {
-            "code": "300374",
-            "libelle": "Présenter et valoriser un produit ou un service",
-            "exigence": "S"
-          },
-          {
-            "code": "300366",
-            "libelle": "Recueillir et analyser les besoins client",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Annuel de 33000.0 Euros à 36000.0 Euros",
-          "complement1": "Primes",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "LOUNNA - X Lisa Josien",
-          "coordonnees2": "54  rue de Seine ",
-          "coordonnees3": "75006 Paris"
-        },
-        "agence": {},
-        "nombrePostes": 1,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "62.01Z",
-        "secteurActivite": "62",
-        "secteurActiviteLibelle": "Programmation informatique",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Avoir l'esprit d'équipe",
-            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-          },
-          {
-            "libelle": "Etre à l'écoute, faire preuve d'empathie",
-            "description": "Capacité à écouter activement, réceptionner des informations et messages, faire preuve d'ouverture d'esprit et de diplomatie."
-          },
-          {
-            "libelle": "Faire preuve de rigueur et de précision",
-            "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-          }
-        ],
-        "trancheEffectifEtab": "50 à 99 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215YPSQ"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 2,
-        "_is_remote": true
-      },
-      {
-        "id": "8480301",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "\n        \n        \nLES MISSIONS :\n        \nVous aurez 3 casquettes : technique, marketing et commerciale.\n\n1. Une casquette technique : faire évoluer les produits\n\nEn collaboration avec le bureau d'études et la RetD, vous piloterez la roadmap produit sur cinq ans afin de maintenir un haut niveau d'innovation et de répondre aux exigences des clients. Vous assurerez également le suivi du cycle de vie des produits, de leur évolution jusqu'à leur retrait.\n\n2. Une casquette marketing : garantir la compétitivité de l'offre\n\nVous analyserez les marchés et la concurrence pour identifier de nouvelles opportunités. Vous définirez la politique tarifaire selon les marchés géographiques, construirez les argumentaires produits et veillerez au positionnement de la gamme et à sa rentabilité.\n\n3. Une casquette commerciale : accompagner les équipes internationales\n\nEn lien avec les commerciaux présents partout dans le monde, vous apporterez votre expertise sur les projets stratégiques et les demandes clients complexes (RFQ). Vous les accompagnerez dans le développement de nouvelles opportunités, le chiffrage des solutions et la valorisation des produits auprès des acteurs de l'aéronautique et de la défense.\n\nVous serez également l'interface entre la RetD, la production et les ventes afin de coordonner les équipes et de proposer des solutions adaptées aux besoins des clients.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nVous êtes issu(e) d'une formation supérieure, idéalement d'une école d'ingénieurs en électronique, et justifiez d'une expérience en gestion de produits, marketing produit ou développement commercial technique dans un environnement industriel B2B.\n\nVous êtes capable de comprendre des produits complexes, d'échanger avec des équipes techniques et de définir une stratégie produit cohérente.\n\nVotre esprit analytique, votre aisance relationnelle et votre capacité à fédérer seront essentiels pour réussir. Vous maîtrisez également l'anglais pour évoluer dans un environnement international.\n\nUne expérience dans l'aéronautique ou la défense constitue un atout.\n        \n        \nLES AVANTAGES :\n        \nSi vous souhaitez faire partie dune entreprise qui a su conserver son ADN familial, tout en bénéficiant de la solidité dun grand groupe et la flexibilité dune structure agile, vous êtes au bon endroit !\n\nRejoindre cette société c'est :\n\n * Évoluer dans un environnement de travail international stimulant.\n * Collaborer avec des équipes dynamiques, impliquées et unies autour de la force du collectif.\n * Bénéficier dun parcours dintégration complet pour une prise de poste dans les meilleures conditions\n * Avoir lopportunité de vous exprimer, vous réaliser, vous dépasser et vous épanouir en exercer un impact décisif et mesurable sur le développement de lactivité commerciale\n\nLe package de rémunération se divise en une partie fixe et une partie variable (+8% du salaire fixe).\n\nVous recevez également une participation annuelle.\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
-        "dateCreation": "2026-11-03T00:00:42.137Z",
-        "dateActualisation": "2026-11-03T00:00:42.137Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris 1er Arrondissement",
-          "codePostal": "75001",
-          "commune": "75101"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "UPTOO\n        "
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 60000.0 Euros à 75000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8480301",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/50700/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Paris",
-        "_score": 2,
-        "_is_remote": false
-      },
-      {
-        "id": "8488967",
-        "intitule": "Responsable Room Service H/F",
-        "description": "Qui sommes-nous ? \n\nNos Hôtels\n\nNous travaillons avec les personnes les plus talentueuses et les plus uniques de notre secteur, qui assurent toujours l'expérience extraordinaire des clients de Dorchester Collection et des hôtels qui s'y trouvent. Après tout, c'est notre peuple qui donne vie à notre vision. En tant que membre de la famille Dorchester Collection, nous soutiendrons votre développement en nourrissant votre personnalité, en créant une culture transparente de collaboration et d'appréciation de la confiance. Avec le soutien de notre planification annuelle du développement personnel, des possibilités d'apprentissage personnalisées et de nos programmes de l'Académie, vous participerez à la création d'une expérience personnalisée.\n\nTreasured by guests. Cherished by employees. Celebrated worldwide.\n\nChez Dorchester Collection, la diversité et l'inclusion sont au coeur de notre philosophie We Care. La base de We Care est de créer un environnement au sein de notre entreprise où tous nos employés se sentent valorisés et respectés. Nous nous efforçons sans cesse de créer et d'entretenir une culture où la diversité et l'inclusion font partie de notre ADN et se transmettent au travers de nos valeurs: passion, personnalité, respect, esprit d'équipe et créativité. Nous sommes fiers de chacun de nos employés et favorisons un sentiment d'appartenance dans tout ce que nous faisons. \n\nRéférence\n\n2026-6581 \n\nHotel\n\nLe Meurice\n\nMétier\n\nFood & Beverage - Room Service\n\nIntitulé du Poste\n\nResponsable Room Service H/F\n\nContrat\n\nCDI\n\nClassification d'emploi\n\nTemps Plein\n\nContexte \nChez Dorchester Collection, la diversité et l'inclusion sont au cœur de notre philosophie « We Care », à savoir un environnement dans lequel tous nos collaborateurs se sentent valorisés et respectés, favorisant ainsi leur engagement positif. Nous nous efforçons de construire et d'entretenir continuellement une culture où l'inclusion fait partie de notre ADN, reflétée par nos valeurs fondamentales de passion, de personnalité, de respect, esprit d'équipe et de créativité. Lorsque vous nous envoyez votre candidature, veuillez nous indiquer si vous avez des besoins spécifiques concernant le processus d'entretien\nVos avantages\nNous devons notre succès à nos collaborateurs.\nNous sommes convaincus que tous méritent d'être récompensés.\nVoici quelques-uns des avantages dont vous pourrez bénéficier en obtenant ce poste :\nUn 13ème mois\nUne prime variable mensuelle\nUne mutuelle que nous prenons en charge à hauteur de 75% ainsi qu'une prévoyance\nUne prise en charge de 95% du titre de transport sur présentation d'un justificatif\nDes tarifs préférentiels au restaurant d'entreprise\nDes formations et un accompagnent individuel tout au long de votre parcours professionnel grâce à la DC Academy. Un service formation dédié à tous les salariés.\nPossibilité de mobilité au sein des différents hôtels\nUn service Développement Durable\nVos tâches\nEn tant que Responsable Room Service vous aurez pour missions :\nSuperviser l'ensemble des opérations du Room Service sur le terrain\nOrganiser et animer les réunions journalières avec les équipes au sujet des clients du jour de l'hôtel, des actualités de l'hôtel.\nVérifier les mises en place déjeuners, petits déjeuners, dîners et des commandes clients VIP, longs séjours etc...\nSuperviser et mettre en place le suivi des prestations d'accueil, minibar, café et thé en chambre.\nGérer les plaintes et effectuer un suivi des actions.\nAssurer la gestion des stocks matériels, nourritures et boissons, nécessaires au bon fonctionnement du service et en préventif à toute rupture de stock.\nAssurer communication efficace avec sa hiérarchie, notamment en faisant remonter toute problématique ou plainte clients.\nOrganiser les plannings, répartir les tâches et assurer une gestion optimale des effectifs.\nElaborer les budgets, chiffre d'affaires, prix moyen et frais de personnel en collaboration avec le Directeur de la Restauration.\nCoordonner et organiser tout événement spécial.\nRespecter et faire respecter les règles d'hygiène et de sécurité, de prévention incendie, ainsi que le Règlement Intérieur.\nQui etes-vous?\nVous avez une très bonne présentation, et possédez un tact relationnel naturel avec vos équipes\nVous êtes motivé et souhaitez apporter le meilleur service aux clients\nVous fédérer les équipes\nVous possédez une expérience réussite sur un poste similaire dans un Palace ou en hôtellerie haut de gamme\nVotre avez un très bon niveau d'anglais (lu, écrit, parlé), une autre langue étrangère est un plus\n\nLocalisation du Poste\n\nFrance\n\nLieu228 Rue de Rivoli 75001 Paris\n\nLangues\n\nFrench (Fluent)\nEnglish (Fluent)",
-        "dateCreation": "2026-11-03T07:03:27.626Z",
-        "dateActualisation": "2026-11-03T07:03:27.626Z",
-        "lieuTravail": {
-          "libelle": "75 - Paris",
-          "commune": "75056"
-        },
-        "romeCode": "M1704",
-        "romeLibelle": "Responsable service clients",
-        "appellationlibelle": "Responsable service clients",
-        "entreprise": {
-          "nom": "Plaza Athénée"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "codeNAF": "55.10Z",
-        "secteurActivite": "55",
-        "secteurActiviteLibelle": "Hôtels et hébergement similaire",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8488967",
-          "partenaires": [
-            {
-              "nom": "CLIC_TOUR",
-              "url": "https://www.clicandtour.fr/offre-emploi/ido/1512844.aspx?utm_source=pole-emploi&utm_medium=referral&utm_campaign=flux",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/clic_tour80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Paris",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "8480570",
-        "intitule": " RESPONSABLE CLIENTELE EXPERTISE COMPTABLE BEYNOST-H/F ",
-        "description": " Mettez votre potentiel en scène :\nEn tant que Responsable Clientèle, au sein d'une équipe à taille humaine et en relation étroite avec votre manager ainsi que l'expert-comptable, vous assurerez :\nLa gestion complète de dossiers clients en Expertise comptable sur un portefeuille de dossiers variés, tant en termes de taille que de secteur d'activité (BIC/BNC, etc. ).\nLa supervison des travaux de collaborateurs qui ont pour mission le traitement des pièces comptables.\nLa révision des dossiers avec le montage des bilans et liasses de votre portefeuille ;\nLe soutien et/ou la supervision des déclarations fiscales (TVA notamment) et de la tenue de nos Assistants ;\nVous contribuez aussi dans le cadre d'une relation quotidienne client/cabinet à l'information et au conseil des clients.\nRejoindre Endrix c'est bénéficier d'un environnement de travail stimulant et de nombreux avantages !\nGardez un équilibre vie pro / vie perso :\n15 jours de RTT par an\n2 jours de télétravail par semaine possible\nComplétez votre salaire fixe avec d'autres avantages :\nPrime de participation aux résultats de l'entreprise\nPrimes diverses : Apport de nouveaux dossiers, cooptation, exceptionnelles\nRemboursement à 70% d'un abonnement de transport en commun OU forfait mobilité durable de 50 euros par mois pour l'utilisation d'un moyen de transport doux\nCarte restaurant\nDévelopper vos compétences et votre expertise :\n2 à 3 jours de formation par an\nDes mini-formation interne\nUn accès continu à nos webrit sur l'actualité sociale, juridique, comptable.\nUn parcours dédié pour accompagner les stagiaires DEC\nSoyons sur la même longueur d'onde.\nVous disposez d'une expérience de minimum 2 années en cabinet d'expertise comptable\nVous avez validé une formation supérieure en comptabilité.\nVous êtes une personne autonome, proactive, organisée et dotée d'un excellent relationnel\nVos compétences sont importantes, mais c'est aussi votre personnalité qui fera la différence (esprit d'équipe, sens du contact client).\nVos points forts pour réussir votre intégration chez Endrix ?\nVotre capacité à soigner la relation clients, votre gestion des deadlines et votre maitrise des outils informatiques\nProcessus de recrutement : quelle est la suite des événements, si vous postulez ?\nUn échange de 10 à 15 minutes avec le recruteur,\nEn fonction de votre profil, un test technique pourra vous être administré (promis rien de très sorcier ! ) afin de pouvoir baliser le futur contenu de votre formation en interne.\nUn entretien métier pour rencontrer votre futur Manager/Associé dans le but de mieux se connaitre et vous permettre de vous projeter en toute transparence\nRémunération: en fonction de votre niveau d'expérience, entre 40k€ et 45k€ en fixe.\n#OserEndrix ",
-        "dateCreation": "2026-11-03T02:01:48.111Z",
-        "dateActualisation": "2026-11-03T02:01:48.111Z",
-        "lieuTravail": {
-          "libelle": "01 - Beynost",
-          "codePostal": "01700",
-          "commune": "01043"
-        },
-        "romeCode": "M1211",
-        "romeLibelle": "Expert-comptable / Experte-comptable",
-        "appellationlibelle": "Collaborateur / Collaboratrice d'expertise comptable",
-        "entreprise": {
-          "nom": " ENDRIX "
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 40000.0 Euros à 45000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8480570",
-          "partenaires": [
-            {
-              "nom": "HAPPYCAB",
-              "url": "https://happycab.fr/entreprise/endrix/offre-emploi/responsable-clientele-expertise-comptable-beynost-h-f?source=franceTravail",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/happycab80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 1,
-        "_is_remote": true
-      },
-      {
-        "id": "8480303",
-        "intitule": "Ingénieur commercial / Ingénieure commerciale (H/F)",
-        "description": "\n        \n        \nLES MISSIONS :\n        \nNous recherchons un commercial terrain pour couvrir le secteur de la Gironde, basé à Bordeaux-Bruges. Votre mission principale consistera à développer, fidéliser et faire fructifier un portefeuille de clients variés, en promouvant lensemble de nos offres. Vous serez garant de notre politique commerciale et contribuerez directement à notre croissance, tout en renforçant la satisfaction de nos clients.\n\nVos missions concrètes :\n\n * Prospecter et acquérir de nouveaux clients, en détectant des opportunités et en répondant aux appels doffres.\n * Gérer lensemble du cycle de vente : analyse des besoins, élaboration de propositions adaptées, négociation et closing.\n * Assurer un suivi rigoureux de votre activité commerciale, avec un reporting précis et un suivi des indicateurs de performance.\n * Collaborer avec les équipes opérationnelles et le service relation client pour garantir une expérience client optimale.\n        \n        \nLE PROFIL RECHERCHÉ :\n        \nVous justifiez dune expérience minimale de 2 ans dans la vente en B2B, idéalement dans le secteur du transport et de la logistique. Votre connaissance du secteur et votre capacité à comprendre les enjeux de vos clients seront des atouts majeurs pour réussir dans ce rôle.\n\nLes compétences et qualités attendues :\n\n * Une écoute active et une curiosité naturelle pour identifier les besoins clients.\n * Un esprit entrepreneurial et un sens aigu du résultat.\n * Une grande autonomie et une rigueur à toute épreuve pour gérer votre secteur et respecter les processus.\n * Une capacité dadaptation pour interagir avec des interlocuteurs variés et vendre des solutions complexes.\n * Une aisance relationnelle pour vous intégrer rapidement dans une équipe pluridisciplinaire.\n        \n        \nLES AVANTAGES :\n        \nRejoindre notre entreprise, cest intégrer un groupe solide et reconnu, où vos ambitions auront lespace pour sexprimer. Nous vous offrons bien plus quun poste : une véritable opportunité de carrière.\n\nLes avantages à nous rejoindre :\n\n * Un package de rémunération attractif : package jusqu'à 56 K\n * Des avantages sociaux complets : prime de participation, prime dintéressement, 13e mois, chèques vacances, tickets restaurant, mutuelle et retraite complémentaires, plan dépargne groupe\n * Un véhicule de fonction et des équipements adaptés à vos besoins.\n * Des avantages CE : voyages, places de cinéma, et bien plus encore.\n * Un plan de carrière sur mesure, avec un accompagnement pour construire une trajectoire à la hauteur de vos ambitions.\n\nChez nous, vous ne serez pas un simple commercial : vous serez un acteur clé de notre succès, avec les moyens et le soutien nécessaires pour exceller. Alors, prêt à marquer un tournant dans votre carrière ?\n        \nPOURQUOI POSTULER AVEC UPTOO ?\n1. +700 postes de commerciaux en quelques clics,\n2. Réponse sous 48h,\n3. RDV sous 7 jours,\nLe reste, c'est vous !\n\n    ",
-        "dateCreation": "2026-11-03T00:00:43.899Z",
-        "dateActualisation": "2026-11-03T00:00:43.899Z",
-        "lieuTravail": {
-          "libelle": "33 - Bordeaux",
-          "codePostal": "33000",
-          "commune": "33063"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "UPTOO\n        "
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 50000.0 Euros à 56000.0 Euros"
-        },
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8480303",
-          "partenaires": [
-            {
-              "nom": "UPTOO",
-              "url": "https://uptoo.fr/emploi/postuler/50625/start?utm_source=poleemploi&utm_medium=affiliate&utm_campaign=plan-media",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/uptoo80.png"
-            }
-          ]
-        },
-        "contexteTravail": {},
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 1,
-        "_is_remote": false
-      },
-      {
-        "id": "215YWXN",
-        "intitule": "GESTIONNAIRE BACK OFFICE BANCAIRE (H/F)",
-        "description": "Cette offre proposée par Handishare Intérim est réservée aux personnes détentrices d'une RQTH.\n\nMISSIONS PRINCIPALES :\nAnalyser et traiter des opérations administratives et bancaires (gestion de chèques, contrôle de conformité, vérification de dossiers).\nAssurer le suivi et la finalisation des dossiers en lien avec les partenaires et interlocuteurs professionnels (téléphone, mail).\nGérer des demandes sensibles nécessitant le respect strict des procédures de confidentialité et de conformité.\nIdentifier les anomalies, prioriser les traitements et garantir la fiabilité des opérations.\nAppliquer les procédures internes avec précision afin d'assurer la qualité des traitements.\n\nPROFIL DU CANDIDAT :\nNous recherchons avant tout une personnalité fiable et rigoureuse. Une expérience dans le secteur bancaire ou administratif est un plus, mais le poste reste ouvert aux profils en reconversion ou débutants motivés et rigoureux.\n\nVous vous reconnaissez dans le profil suivant :\n\nVous êtes rigoureux(se), organisé(e) et attentif(ve) aux détails.\nVous respectez les procédures et les règles de confidentialité.\nVous possédez de bonnes capacités d'analyse et savez gérer les priorités.\nVous êtes à l'aise dans les échanges écrits et téléphoniques.\nDoté d'un bon relationnel, vous appréciez le travail en équipe et le suivi administratif de dossiers.\nVous êtes reconnu(e) pour votre sérieux, votre discrétion et votre fiabilité.\nRémunération & avantages :\n\nSalaire fixe : 1 967,80 € brut mensuel.\nPrime, intéressement et participation.\nTitres-restaurant (10 €), mutuelle d'entreprise et épargne salariale.\nParcours de formation interne complet à la prise de poste.",
-        "dateCreation": "2026-11-03T12:04:41.691Z",
-        "dateActualisation": "2026-11-03T12:15:57.632Z",
-        "lieuTravail": {
-          "libelle": "69 - LIMONEST",
-          "latitude": 45.835717,
-          "longitude": 4.770972,
-          "codePostal": "69760",
-          "commune": "69116"
-        },
-        "romeCode": "C1206",
-        "romeLibelle": "Conseiller / Conseillère de clientèle bancaire",
-        "appellationlibelle": "Chargé / Chargée de gestion bancaire",
-        "entreprise": {
-          "nom": "HANDISHARE INTERIM",
-          "entrepriseAdaptee": true
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "6 Mois",
-        "competences": [
-          {
-            "code": "121281",
-            "libelle": "Analyser la situation financière d'un client : vérification de ses revenus, de ses dettes, des dispositifs légaux et de sa capacité de remboursement",
-            "exigence": "S"
-          },
-          {
-            "code": "101563",
-            "libelle": "Arrêter les termes d'un contrat",
-            "exigence": "S"
-          },
-          {
-            "code": "122889",
-            "libelle": "Collecter l'ensemble des justificatifs clients",
-            "exigence": "S"
-          },
-          {
-            "code": "300377",
-            "libelle": "Elaborer, adapter une proposition commerciale",
-            "exigence": "S"
-          },
-          {
-            "code": "300374",
-            "libelle": "Présenter et valoriser un produit ou un service",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1967.0 Euros - +Prime, intéressement et participation.",
-          "commentaire": "+Prime, intéressement et participation.",
-          "complement1": "Primes",
-          "complement2": "Titres restaurant / Prime de panier",
-          "listeComplements": [
-            {
-              "code": "1",
-              "libelle": "Primes"
-            },
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {},
-        "agence": {},
-        "nombrePostes": 1,
-        "accessibleTH": true,
-        "deplacementCode": "1",
-        "deplacementLibelle": "Jamais",
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "78.20Z",
-        "secteurActivite": "78",
-        "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-        "qualitesProfessionnelles": [
-          {
-            "libelle": "Organiser son travail selon les priorités et les objectifs",
-            "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-          },
-          {
-            "libelle": "Avoir l'esprit d'équipe",
-            "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-          }
-        ],
-        "trancheEffectifEtab": "10 à 19 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215YWXN"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": true,
-        "employeurHandiEngage": true,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Lyon",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "215YRYF",
-        "intitule": "Conseiller offres de service plateforme téléphonique (H/F)",
-        "description": "Au sein d'une équipe soudée et dynamique de 27 collaborateurs répartis sur les sites de Douai, vous serez l'ambassadeur de nos offres de service auprès de nos publics.\nVous les accompagnerez dans leurs formalités et les informerez sur la législation, leurs droits et obligations. Vous mettrez à jour les données administratives de leur dossier en veillant à la qualité et l'exactitude des informations transmises. \nVous serez un acteur clé dans l'amélioration continue de notre service client, en proposant des idées innovantes pour répondre aux besoins de nos usagers.\nCes activités pourront s'exercer en télétravail jusqu'à 3 jours par semaine, avec un équipement fourni.\n\nVous maîtrisez les techniques de gestion de la relation client et savez identifier les besoins de vos interlocuteurs pour leur fournir des réponses adaptées.\nVous êtes à l'écoute, aimez l'échange et le contact avec des publics très variés.\nVous savez vous adapter à toutes les situations.\nVous êtes doté de qualités rédactionnelles et porteur d'un discours clair et accessible.\nVous êtes à l'aise avec les outils informatiques et bureautiques.\n\nUn programme de formation structuré vous permettra de développer vos compétences dès votre arrivée et de vous intégrer très rapidement dans un environnement de travail stimulant. Une expérience dans le domaine administratif et/ou comptable et dans la relation client est exigée (3 mois minimum).\n\nNous valorisons l'engagement de nos collaborateurs et proposons de nombreux avantages :\nOrganisation de travail flexible (horaires variables, télétravail) ; Tickets restaurant ; Participation mensuelle de l'employeur sur les abonnements transports à hauteur de 75 % ; Prime d'intéressement ; Mutuelle d'entreprise ; Œuvres sociales (chèques vacances, chèques cadeaux, etc.) ; Prime de crèche ; Forfait Mobilités durables (indemnités vélo, transport en commun et covoiturage), etc.\n\nUNE PREMIERE EXPERIENCE DANS LE DOMAINE ADMINISTRATIF ET/OU COMPTABLE ET DANS LA RELATION CLIENT est demandée\nCDD 3 mois renouvelable 2 mois et demi\nLES ENTRETIENS SE FERONT UNIQUEMENT EN VISIOCONFERENCE",
-        "dateCreation": "2026-11-03T10:32:28.653Z",
-        "dateActualisation": "2026-11-03T10:45:32.972Z",
-        "lieuTravail": {
-          "libelle": "59 - Douai",
-          "latitude": 50.394088,
-          "longitude": 3.083604,
-          "codePostal": "59500",
-          "commune": "59178"
-        },
-        "romeCode": "D1408",
-        "romeLibelle": "Conseiller / Conseillère clientèle à distance",
-        "appellationlibelle": "Téléconseiller / Téléconseillère",
-        "entreprise": {
-          "nom": "URSSAF DE NORD-PAS-DE-CALAIS",
-          "entrepriseAdaptee": false
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 3 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "3 Mois",
-        "competences": [
-          {
-            "code": "121862",
-            "libelle": "Techniques de vente par téléphone",
-            "exigence": "S"
-          }
-        ],
-        "salaire": {
-          "libelle": "Mensuel de 1917.0 Euros",
-          "complement1": "Titres restaurant / Prime de panier",
-          "complement2": "Complémentaire santé",
-          "listeComplements": [
-            {
-              "code": "6",
-              "libelle": "Titres restaurant / Prime de panier"
-            },
-            {
-              "code": "7",
-              "libelle": "Complémentaire santé"
-            }
-          ]
-        },
-        "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-        "dureeTravailLibelleConverti": "Temps plein",
-        "alternance": false,
-        "contact": {
-          "nom": "Agence France Travail LILLE PORT FLUVIAL",
-          "coordonnees1": "43 BOULEVARD DE LA MOSELLE",
-          "coordonnees2": "59000 Lille",
-          "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215YRYF"
-        },
-        "agence": {
-          "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/215YRYF"
-        },
-        "nombrePostes": 1,
-        "accessibleTH": true,
-        "qualificationCode": "6",
-        "qualificationLibelle": "Employé qualifié",
-        "codeNAF": "84.30A",
-        "secteurActivite": "84",
-        "secteurActiviteLibelle": "Activités générales de sécurité sociale",
-        "trancheEffectifEtab": "200 à 249 salariés",
-        "origineOffre": {
-          "origine": "1",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215YRYF"
-        },
-        "offresManqueCandidats": false,
-        "contexteTravail": {
-          "horaires": [
-            "35H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": true,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
-      },
-      {
-        "id": "8488086",
-        "intitule": "Conseiller clientèle (H/F)",
-        "description": "RESPONSABILITÉS : \n\nVous serez chargé de conseiller, d'accompagner des futurs créateurs / repreneurs d'entreprise dans leurs démarches :\n - Vous serez l'interlocuteur privilégié de nos clients en étant présent du premier renseignement à l'immatriculation de leur entreprise\n - Vous participerez activement à la promotion de l'offre de services\n - Vous participerez à des actions d'informations à destination des futurs chefs d'entreprises\n - Vous serez en charge d'un portefeuille clients\n - Vous vous rendrez sur des événements en lien avec la création / reprise d'entreprise pour valoriser notre offre de services\n\nPROFIL RECHERCHÉ : \n\n - Vous possédez de l'expérience significative dans le conseil à la création d'entreprise\n - Vous avez le goût du contact client et de fortes qualités relationnelles : négociation clients, animation d'un réseau...\n - Vous êtes optimiste, organisé avec une bonne capacité d'écoute\n - Vous avez la fibre commerciale \n - Vous avez un esprit d'équipe : vous travaillerez au sein d'une équipe soudée\nVos qualités personnelles :\n - Vous êtes doté d'un très bon relationnel\n - Vous aimez les challenges et la compétition en équipe\n - Vous êtes dynamique et communiquez votre bonne humeur\n - Vous êtes à l'aise à l'oral et avez une orthographe impeccable\n - Vous êtes rigoureux et avez le sens de l'organisation\nCe que nous pouvons vous apporter :\n - Le bien-être au travail avec un environnement bienveillant et une équipe à taille humaine\n - Le dynamisme et la bonne humeur\n - De beaux locaux au cœur de Bordeaux\n - un 13ème mois",
-        "dateCreation": "2026-11-03T03:32:03.437Z",
-        "dateActualisation": "2026-11-03T03:32:03.437Z",
-        "lieuTravail": {
-          "libelle": "33 - Bordeaux",
-          "codePostal": "33000",
-          "commune": "33063"
-        },
-        "romeCode": "K2101",
-        "romeLibelle": "Conseiller consultant / Conseillère consultante en formation",
-        "appellationlibelle": "Conseiller / Conseillère en formation auprès des entreprises",
-        "entreprise": {
-          "nom": "CMA Nouvelle Aquitaine"
-        },
-        "typeContrat": "CDD",
-        "typeContratLibelle": "CDD - 12 Mois",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {
-          "libelle": "Annuel de 29848.0 Euros à 29848.0 Euros"
-        },
-        "dureeTravailLibelle": "38H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8488086",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/6o2x4a35fb8/conseiller-clientele",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "38H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Chargé de clientèle",
-        "_ville_recherchee": "Bordeaux",
-        "_score": 0,
-        "_is_remote": false
-      },
-      {
-        "id": "8487858",
-        "intitule": "Ingénieur commercial - Infrastructure IT H/F",
-        "description": "RESPONSABILITÉS : \n\nVos missions\nRattaché au Directeur régional, vous avez en charge le développement et de la fidélisation d'un portefeuille de clients ETI.\n - Développer un territoire avec la prospection de nouveaux comptes\n - La fidélisation de notre clientèle via un portefeuille clients\n - Commercialisation de services innovants axés sur les enjeux de cyber résilience, sur les environnements d' infrastructures IT, et d'hébergement de solutions Cloud.\n - Identification et analyse des enjeux IT et SSI de vos clients, élaboration des solutions et des prestations associées présentes dans le portefeuille de nos solutions.\n - Gérer le processus de vente en utilisant toutes les ressources disponibles pour gérer vos comptes\n - Analyser les besoins et enjeux de nos clients et proposer les solutions adaptées Heliaq\n - Travailler en équipe avec les Consultants Avant-vente.\n\nPROFIL RECHERCHÉ : \n\nVotre profil :\nVous possédez une expérience de 2 ans minimum dans la vente BtoB de solutions Infrastructures IT et/ou service IT.\nVous disposez d'une bonne connaissance du tissu économique de la région.\n\nAutres informations :\nSalaire selon expérience\nVéhicule, carte carburant et péages\nTickets restaurant : 8€ avec 60% de prise en charge par l'employeur\nDurée du travail : 36H30 avec 9,5 jours de RTT\nTélétravail\nMutuelle et prévoyance\nPrime de Participation\nAvantages CSE\n\nDans le cadre de notre engagement dans la lutte contre toute forme de discrimination dans l'emploi, nous ne recrutons que des compétences et des aptitudes professionnelles. Le savoir être, la capacité à représenter notre entreprise et nos valeurs sont importants pour nous. Nous participons également chaque jour à promouvoir la diversité et agissons pour l'égalité professionnelle entre les hommes et les femmes, les jeunes, les seniors, les personnes en situation de handicap...",
-        "dateCreation": "2026-11-03T03:31:52.241Z",
-        "dateActualisation": "2026-11-03T03:31:52.241Z",
-        "lieuTravail": {
-          "libelle": "69 - Villeurbanne",
-          "codePostal": "69100",
-          "commune": "69266"
-        },
-        "romeCode": "D1420",
-        "romeLibelle": "Cadre Technico-commercial / Cadre Technico-commerciale",
-        "appellationlibelle": "Ingénieur commercial / Ingénieure commerciale",
-        "entreprise": {
-          "nom": "Heliaq"
-        },
-        "typeContrat": "CDI",
-        "typeContratLibelle": "CDI",
-        "natureContrat": "Contrat travail",
-        "experienceExige": "E",
-        "experienceLibelle": "Expérience exigée",
-        "salaire": {},
-        "dureeTravailLibelle": "37H/semaine\nTravail en journée",
-        "alternance": false,
-        "contact": {},
-        "nombrePostes": 1,
-        "qualificationCode": "9",
-        "qualificationLibelle": "Cadre",
-        "origineOffre": {
-          "origine": "2",
-          "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8487858",
-          "partenaires": [
-            {
-              "nom": "BEETWEEN",
-              "url": "https://app.beetween.com/WeaselWeb/p/#/apply/job/zk4pt92o2c8/ingenieur-commercial-infrastructure-it-h-f",
-              "logo": "https://www.francetravail.fr/logos/img/partenaires/beetween80.png"
-            }
-          ]
-        },
-        "contexteTravail": {
-          "horaires": [
-            "37H/semaine\nTravail en journée"
-          ]
-        },
-        "entrepriseAdaptee": false,
-        "employeurHandiEngage": false,
-        "_recherche": "Account Manager",
-        "_ville_recherchee": "Remote",
-        "_score": 0,
-        "_is_remote": true
       }
     ]
   }
